@@ -13,7 +13,7 @@
 龙杀手
 DragonKiller => Dragon Killer
 
-夏露 夏洛特
+夏露 => 夏洛特
 
 ???
 **
@@ -26,3 +26,7 @@ DragonKiller => Dragon Killer
 
 贪婪格尔 => 贪婪戈尔
 
+凯・艾斯特・加尔布雷斯
+萨菲・玛雅・海德拉
+
+君主之翼
