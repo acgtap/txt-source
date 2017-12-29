@@ -21,6 +21,10 @@
 
 - node-novel
 - webqxs
+- TS
+- 轉生
+- 異世界
+- 受付嬢
 
 # contribute
 
