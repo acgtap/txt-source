@@ -26,8 +26,16 @@
 
 # contribute
 
+- 保利亮太
+- ホー
 - vallon
 - Cabra鏑
 - 一个怪葛格
 - 冷肉
 - abnormaljohn
+- CEN
+- 真炳炳有神
+- 黑尋亦
+- 暗風月
+- lturtle22
+- 

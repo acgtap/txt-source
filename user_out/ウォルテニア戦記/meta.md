@@ -26,6 +26,8 @@
 
 # contribute
 
+- 保利亮太
+- ホー
 - vallon
 - Cabra鏑
 - 一个怪葛格
