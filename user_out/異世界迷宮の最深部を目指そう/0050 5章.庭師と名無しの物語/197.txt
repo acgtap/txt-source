@@ -108,9 +108,9 @@
 
 过程中，我注意到了Bonus Point这玩应儿。
 
-【Bonus Point】获得了一点Bonus Point。
+「Bonus Point」获得了一点Bonus Point。
 
-【Skill Point】获得了一点Skill Point。
+「Skill Point」获得了一点Skill Point。
 
 話说这东西、我是真的服了……
 在『世界奉还阵』中看到过去的记忆之後，我已经明白打造出这个系统的人就是我自己了。
@@ -142,16 +142,16 @@
 语毕，莱納拔出双剑。
 握在他右手上的是强化了风魔法效力的新生魔剑。
 
-【Sylph・Rokh・Bringer】
+「Sylph・Rokh・Bringer」
 
 左手则是可以操使水晶魔法的守护者的宝剑。
 
-【阿雷亚斯家的宝剑诺文】
+「阿雷亚斯家的宝剑诺文」
 
 以及通过神铁鍛冶的修復获得再生的千年前的轻盔和胸甲。
 
-【Call Outer】
-【All Confess】
+「Call Outer」
+「All Confess」
 
 还有莱納原本拥有的众多魔法道具。
 顺带加上我亲手缝制的衣服（自信大作）。
@@ -296,7 +296,7 @@
 
 先用『注视』确认一下名称好了。
 
-【Monster】Lizard Flyer：Rank６１
+「Monster」Lizard Flyer：Rank６１
 
 敌人是以肉眼无法看清的速度摆动苍蝇般的翅膀，自由自在地在空中徘徊的蜥蜴。
 体长约一米左右。跟艾尔芬里斯相比，小到不知哪裡去。
