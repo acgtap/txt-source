@@ -34,4 +34,6 @@
 # contribute
 
 - 亚尔奈亚
+- zabraaaas
+- 捣猪小能手
 - 
