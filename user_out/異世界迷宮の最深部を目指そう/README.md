@@ -20,6 +20,9 @@
 - 異世界
 - 迷宮
 - 病嬌
+- syosetu
+- 魔法
+- 後宮
 - 
 
 # contribute
@@ -36,3 +39,7 @@
 - Plague丶佩斯特
 - 相川阳滝
 - 
+
+# link
+
+- [译文整合下载word/txt版](https://tieba.baidu.com/p/5339797046)
