@@ -29,6 +29,8 @@
 - 賢者
 - 穿越
 - 奇幻
+- syosetu
+- 
 
 # contribute
 
@@ -45,4 +47,6 @@
 - chenyushang
 - 重子葉
 - michaelbb2DkN
+- BrianZSYJ
+- 贤狼赫萝
 - 
