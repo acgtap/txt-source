@@ -21,9 +21,13 @@
 - node-novel
 - 異世界
 - 招喚
+- 邪道
+- 戰爭
 - 
 
 # contribute
 
+- whc123456home
+- 人生就像除錯
 - 
 
