@@ -33,3 +33,6 @@
 - 超级YD1
 - 
 
+# link
+
+- [呼び出された殺戮者.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%95%E3%82%8C%E3%81%9F%E6%AE%BA%E6%88%AE%E8%80%85.ts)
