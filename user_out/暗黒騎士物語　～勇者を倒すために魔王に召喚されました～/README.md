@@ -36,4 +36,9 @@
 - 亚尔奈亚
 - zabraaaas
 - 捣猪小能手
+- 新手SHAWN
 - 
+
+# link
+
+* [暗黒騎士物語　～勇者を倒すために魔王に召喚されました～.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E6%9A%97%E9%BB%92%E9%A8%8E%E5%A3%AB%E7%89%A9%E8%AA%9E%E3%80%80%EF%BD%9E%E5%8B%87%E8%80%85%E3%82%92%E5%80%92%E3%81%99%E3%81%9F%E3%82%81%E3%81%AB%E9%AD%94%E7%8E%8B%E3%81%AB%E5%8F%AC%E5%96%9A%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%EF%BD%9E.ts)
