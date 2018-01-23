@@ -43,3 +43,4 @@
 # link
 
 - [译文整合下载word/txt版](https://tieba.baidu.com/p/5339797046)
+- [異世界迷宮の最深部を目指そう.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E7%95%B0%E4%B8%96%E7%95%8C%E8%BF%B7%E5%AE%AE%E3%81%AE%E6%9C%80%E6%B7%B1%E9%83%A8%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%9D%E3%81%86.ts)
