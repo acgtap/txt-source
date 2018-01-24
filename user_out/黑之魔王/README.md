@@ -39,3 +39,8 @@
 - 呕吐的蛋糕
 - 歌利亚
 - 
+
+# link
+
+- [黑之魔王.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B.ts)
+- 
