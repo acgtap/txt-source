@@ -35,6 +35,7 @@
 
 # link
 
+- [病娇女神の箱庭.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E7%97%85%E5%A8%87%E5%A5%B3%E7%A5%9E%E3%81%AE%E7%AE%B1%E5%BA%AD.ts)
 - [整合](https://tieba.baidu.com/p/5495131378)
 - [TXT整合](https://tieba.baidu.com/p/5514473131)
 - [ノクタ版](http://novel18.syosetu.com/n2794ec/)
