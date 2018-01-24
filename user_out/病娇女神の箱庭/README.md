@@ -21,6 +21,8 @@
 - node-novel
 - 異世界
 - 病嬌
+- 轉移
+- 轉生
 - 
 
 # contribute
@@ -28,10 +30,11 @@
 - ssyydd889900
 - 被抹黑的心_
 - 弒澪
+- 酩醉澪
 - 
 
 # link
 
 - [整合](https://tieba.baidu.com/p/5495131378)
 - [TXT整合](https://tieba.baidu.com/p/5514473131)
-- 
+- [ノクタ版](http://novel18.syosetu.com/n2794ec/)
