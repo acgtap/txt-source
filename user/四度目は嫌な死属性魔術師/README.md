@@ -46,3 +46,8 @@
 - aiboKirito
 - cvyvgabm
 - 
+
+# link
+
+- [四度目は嫌な死属性魔術師.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E5%9B%9B%E5%BA%A6%E7%9B%AE%E3%81%AF%E5%AB%8C%E3%81%AA%E6%AD%BB%E5%B1%9E%E6%80%A7%E9%AD%94%E8%A1%93%E5%B8%AB.ts)
+- [四度目 epub txt 格式整合 譯名統一](http://tieba.baidu.com/p/5531952815?pid=117529194602)
