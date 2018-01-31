@@ -37,6 +37,11 @@
 - zabraaaas
 - 捣猪小能手
 - 新手SHAWN
+- patch_weak
+- 蕾丝缔亞
+- 殇丶逸寒
+- 残念兔
+- 天禅子酱
 - 
 
 # link
