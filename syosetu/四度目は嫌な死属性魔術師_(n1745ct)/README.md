@@ -1,15 +1,15 @@
-
 # novel
 
 - title: 四度目は嫌な死属性魔術師
 - author: デンスケ
 - source: http://ncode.syosetu.com/n1745ct/
-- publisher: syosetu
 - cover: 
-- date: 2018-01-31T06:29:00+08:00
+- publisher: syosetu
+- date: 2018-02-05T01:10:00+08:00
 - status: 
 
 ## preface
+
 
 ```
 　中々発展しないどころか何時衰退と崩壊のコンボを決めるか分からない問題だらけの世界ラムダ。
@@ -30,8 +30,6 @@
 
 # contribute
 
-- 
-
 
 # options
 
@@ -42,4 +40,3 @@
 ## textlayout
 
 - allow_lf2: true
-

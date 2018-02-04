@@ -3,12 +3,13 @@
 	"url_data": {
 		"url": "http://ncode.syosetu.com/n1745ct/",
 		"novel_pid": null,
-		"novel_id": "n1745ct"
+		"novel_id": "n1745ct",
+		"novel_r18": null
 	},
 	"novel_title": "四度目は嫌な死属性魔術師",
 	"novel_author": "デンスケ",
 	"novel_desc": "　中々発展しないどころか何時衰退と崩壊のコンボを決めるか分からない問題だらけの世界ラムダ。\n　その世界も含めた複数の世界の輪廻転生を管理運行する神様は、問題を解決すべく『対象の世界に異世界の人間をチート能力つきで転生させて送り込むと、世界が発展する』と言う神仲間から聞いたジンクスを実行した。\n　ただし、念のためにオリジンと言うまた別の異世界に転生させて経験を積ませてから。\n\n　この物語は、そんな神様のうっかりミスで与えられるはずのチート能力を、名前が良く似た他人に与えられてしまい、莫大な魔力(ＭＰ)と独自に獲得した特殊な死霊魔術である死属性魔術しかない主人公が、不幸だった一度目、二度目の人生を終えながらも、四度目は嫌だと異世界で三度目の人生を生きるお話です。\n\n　ハーレム展開になったり、成りあがったりする予定ですが、それまでの話が長くなるかもしれません。残酷な表現があり、アンデッドが沢山出てきます。現在、大体四日毎に投稿しております。\n\nお陰さまで第四回ネット小説大賞で受賞し、書籍化致しました！　一二三書房様のサーガフォレストから１巻から２巻まで発売しており、３巻が１月２０日に発売されます。",
-	"novel_date": "2018-01-31T06:29:00+08:00",
+	"novel_date": "2018-02-05T01:10:00+08:00",
 	"novel_publisher": "syosetu",
 	"novel_syosetu_id": "711674",
 	"volume_list": [
@@ -26,7 +27,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "1"
 					},
-					"chapter_date": "2015-06-30T16:45:00+08:00"
+					"chapter_date": "2016-02-16T03:24:00+08:00"
 				}
 			]
 		},
@@ -44,7 +45,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "2"
 					},
-					"chapter_date": "2015-06-30T16:48:00+08:00"
+					"chapter_date": "2017-07-07T19:33:00+08:00"
 				},
 				{
 					"chapter_index": 2,
@@ -56,7 +57,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "3"
 					},
-					"chapter_date": "2015-07-01T17:00:00+08:00"
+					"chapter_date": "2016-01-26T02:30:00+08:00"
 				},
 				{
 					"chapter_index": 3,
@@ -68,7 +69,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "4"
 					},
-					"chapter_date": "2015-07-04T00:57:00+08:00"
+					"chapter_date": "2017-07-07T19:34:00+08:00"
 				},
 				{
 					"chapter_index": 4,
@@ -80,7 +81,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "5"
 					},
-					"chapter_date": "2015-07-06T01:00:00+08:00"
+					"chapter_date": "2016-01-28T02:46:00+08:00"
 				},
 				{
 					"chapter_index": 5,
@@ -92,7 +93,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "6"
 					},
-					"chapter_date": "2015-07-07T00:00:00+08:00"
+					"chapter_date": "2016-07-11T14:19:00+08:00"
 				},
 				{
 					"chapter_index": 6,
@@ -104,7 +105,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "7"
 					},
-					"chapter_date": "2015-07-10T00:08:00+08:00"
+					"chapter_date": "2016-01-30T04:57:00+08:00"
 				},
 				{
 					"chapter_index": 7,
@@ -116,7 +117,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "8"
 					},
-					"chapter_date": "2015-07-14T00:38:00+08:00"
+					"chapter_date": "2016-07-11T14:21:00+08:00"
 				},
 				{
 					"chapter_index": 8,
@@ -128,7 +129,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "9"
 					},
-					"chapter_date": "2015-07-17T17:00:00+08:00"
+					"chapter_date": "2017-01-22T06:37:00+08:00"
 				},
 				{
 					"chapter_index": 9,
@@ -140,7 +141,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "10"
 					},
-					"chapter_date": "2015-07-21T17:00:00+08:00"
+					"chapter_date": "2016-04-17T02:02:00+08:00"
 				},
 				{
 					"chapter_index": 10,
@@ -152,7 +153,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "11"
 					},
-					"chapter_date": "2015-07-25T00:37:00+08:00"
+					"chapter_date": "2016-11-30T14:24:00+08:00"
 				},
 				{
 					"chapter_index": 11,
@@ -164,7 +165,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "12"
 					},
-					"chapter_date": "2015-07-30T00:36:00+08:00"
+					"chapter_date": "2016-12-20T06:51:00+08:00"
 				},
 				{
 					"chapter_index": 12,
@@ -176,7 +177,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "13"
 					},
-					"chapter_date": "2015-08-03T00:03:00+08:00"
+					"chapter_date": "2016-12-20T07:14:00+08:00"
 				},
 				{
 					"chapter_index": 13,
@@ -188,7 +189,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "14"
 					},
-					"chapter_date": "2015-08-07T00:42:00+08:00"
+					"chapter_date": "2016-07-02T10:48:00+08:00"
 				},
 				{
 					"chapter_index": 14,
@@ -200,7 +201,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "15"
 					},
-					"chapter_date": "2015-08-11T00:17:00+08:00"
+					"chapter_date": "2017-04-04T15:26:00+08:00"
 				},
 				{
 					"chapter_index": 15,
@@ -212,7 +213,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "16"
 					},
-					"chapter_date": "2015-08-15T00:04:00+08:00"
+					"chapter_date": "2017-04-04T15:30:00+08:00"
 				},
 				{
 					"chapter_index": 16,
@@ -224,7 +225,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "17"
 					},
-					"chapter_date": "2015-08-19T00:32:00+08:00"
+					"chapter_date": "2017-04-04T15:35:00+08:00"
 				},
 				{
 					"chapter_index": 17,
@@ -236,7 +237,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "18"
 					},
-					"chapter_date": "2015-08-23T00:11:00+08:00"
+					"chapter_date": "2017-04-06T16:54:00+08:00"
 				},
 				{
 					"chapter_index": 18,
@@ -248,7 +249,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "19"
 					},
-					"chapter_date": "2015-08-27T00:11:00+08:00"
+					"chapter_date": "2017-09-04T15:36:00+08:00"
 				},
 				{
 					"chapter_index": 19,
@@ -260,7 +261,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "20"
 					},
-					"chapter_date": "2015-08-31T00:20:00+08:00"
+					"chapter_date": "2017-04-05T16:23:00+08:00"
 				},
 				{
 					"chapter_index": 20,
@@ -272,7 +273,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "21"
 					},
-					"chapter_date": "2015-09-04T00:53:00+08:00"
+					"chapter_date": "2017-04-05T16:26:00+08:00"
 				},
 				{
 					"chapter_index": 21,
@@ -284,7 +285,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "22"
 					},
-					"chapter_date": "2015-09-08T00:18:00+08:00"
+					"chapter_date": "2017-04-05T16:42:00+08:00"
 				},
 				{
 					"chapter_index": 22,
@@ -296,7 +297,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "23"
 					},
-					"chapter_date": "2015-09-12T01:03:00+08:00"
+					"chapter_date": "2017-04-05T16:43:00+08:00"
 				},
 				{
 					"chapter_index": 23,
@@ -308,7 +309,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "24"
 					},
-					"chapter_date": "2015-09-13T00:13:00+08:00"
+					"chapter_date": "2017-04-05T16:44:00+08:00"
 				},
 				{
 					"chapter_index": 24,
@@ -320,7 +321,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "25"
 					},
-					"chapter_date": "2015-09-16T00:15:00+08:00"
+					"chapter_date": "2017-04-05T16:52:00+08:00"
 				},
 				{
 					"chapter_index": 25,
@@ -332,7 +333,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "26"
 					},
-					"chapter_date": "2015-09-20T01:03:00+08:00"
+					"chapter_date": "2017-04-05T16:55:00+08:00"
 				},
 				{
 					"chapter_index": 26,
@@ -344,7 +345,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "27"
 					},
-					"chapter_date": "2015-09-21T00:44:00+08:00"
+					"chapter_date": "2017-01-10T05:59:00+08:00"
 				}
 			]
 		},
@@ -362,7 +363,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "28"
 					},
-					"chapter_date": "2015-09-24T00:35:00+08:00"
+					"chapter_date": "2017-12-10T08:24:00+08:00"
 				},
 				{
 					"chapter_index": 28,
@@ -374,7 +375,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "29"
 					},
-					"chapter_date": "2015-09-28T00:24:00+08:00"
+					"chapter_date": "2017-05-19T17:28:00+08:00"
 				},
 				{
 					"chapter_index": 29,
@@ -386,7 +387,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "30"
 					},
-					"chapter_date": "2015-09-29T00:26:00+08:00"
+					"chapter_date": "2017-02-15T17:35:00+08:00"
 				},
 				{
 					"chapter_index": 30,
@@ -398,7 +399,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "31"
 					},
-					"chapter_date": "2015-10-02T00:50:00+08:00"
+					"chapter_date": "2017-12-10T08:26:00+08:00"
 				},
 				{
 					"chapter_index": 31,
@@ -410,7 +411,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "32"
 					},
-					"chapter_date": "2015-10-06T00:33:00+08:00"
+					"chapter_date": "2017-07-14T21:00:00+08:00"
 				},
 				{
 					"chapter_index": 32,
@@ -422,7 +423,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "33"
 					},
-					"chapter_date": "2015-10-07T00:31:00+08:00"
+					"chapter_date": "2017-07-14T21:00:00+08:00"
 				},
 				{
 					"chapter_index": 33,
@@ -434,7 +435,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "34"
 					},
-					"chapter_date": "2015-10-10T00:43:00+08:00"
+					"chapter_date": "2017-12-10T08:27:00+08:00"
 				},
 				{
 					"chapter_index": 34,
@@ -446,7 +447,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "35"
 					},
-					"chapter_date": "2015-10-11T00:58:00+08:00"
+					"chapter_date": "2017-12-10T08:28:00+08:00"
 				},
 				{
 					"chapter_index": 35,
@@ -458,7 +459,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "36"
 					},
-					"chapter_date": "2015-10-14T00:46:00+08:00"
+					"chapter_date": "2016-03-15T15:31:00+08:00"
 				},
 				{
 					"chapter_index": 36,
@@ -470,7 +471,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "37"
 					},
-					"chapter_date": "2015-10-15T00:48:00+08:00"
+					"chapter_date": "2017-09-04T15:44:00+08:00"
 				},
 				{
 					"chapter_index": 37,
@@ -482,7 +483,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "38"
 					},
-					"chapter_date": "2015-10-18T00:19:00+08:00"
+					"chapter_date": "2017-01-03T06:01:00+08:00"
 				},
 				{
 					"chapter_index": 38,
@@ -494,7 +495,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "39"
 					},
-					"chapter_date": "2015-10-22T00:39:00+08:00"
+					"chapter_date": "2017-12-10T08:28:00+08:00"
 				},
 				{
 					"chapter_index": 39,
@@ -506,7 +507,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "40"
 					},
-					"chapter_date": "2015-10-23T00:39:00+08:00"
+					"chapter_date": "2016-12-29T05:56:00+08:00"
 				},
 				{
 					"chapter_index": 40,
@@ -518,7 +519,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "41"
 					},
-					"chapter_date": "2015-10-26T00:58:00+08:00"
+					"chapter_date": "2016-12-28T16:31:00+08:00"
 				},
 				{
 					"chapter_index": 41,
@@ -530,7 +531,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "42"
 					},
-					"chapter_date": "2015-10-27T00:52:00+08:00"
+					"chapter_date": "2017-12-10T08:41:00+08:00"
 				},
 				{
 					"chapter_index": 42,
@@ -542,7 +543,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "43"
 					},
-					"chapter_date": "2015-10-30T00:41:00+08:00"
+					"chapter_date": "2017-12-10T08:44:00+08:00"
 				},
 				{
 					"chapter_index": 43,
@@ -554,7 +555,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "44"
 					},
-					"chapter_date": "2015-11-03T01:12:00+08:00"
+					"chapter_date": "2017-02-19T07:12:00+08:00"
 				},
 				{
 					"chapter_index": 44,
@@ -566,7 +567,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "45"
 					},
-					"chapter_date": "2015-11-04T00:43:00+08:00"
+					"chapter_date": "2017-12-10T08:52:00+08:00"
 				},
 				{
 					"chapter_index": 45,
@@ -578,7 +579,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "46"
 					},
-					"chapter_date": "2015-11-07T00:45:00+08:00"
+					"chapter_date": "2017-12-10T08:53:00+08:00"
 				},
 				{
 					"chapter_index": 46,
@@ -590,7 +591,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "47"
 					},
-					"chapter_date": "2015-11-08T00:47:00+08:00"
+					"chapter_date": "2017-12-10T08:54:00+08:00"
 				},
 				{
 					"chapter_index": 47,
@@ -602,7 +603,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "48"
 					},
-					"chapter_date": "2015-11-11T00:37:00+08:00"
+					"chapter_date": "2017-12-10T08:56:00+08:00"
 				},
 				{
 					"chapter_index": 48,
@@ -614,7 +615,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "49"
 					},
-					"chapter_date": "2015-11-12T00:58:00+08:00"
+					"chapter_date": "2017-12-10T17:05:00+08:00"
 				},
 				{
 					"chapter_index": 49,
@@ -626,7 +627,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "50"
 					},
-					"chapter_date": "2015-11-15T00:48:00+08:00"
+					"chapter_date": "2018-01-30T17:45:00+08:00"
 				},
 				{
 					"chapter_index": 50,
@@ -638,7 +639,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "51"
 					},
-					"chapter_date": "2015-11-16T00:55:00+08:00"
+					"chapter_date": "2017-12-10T17:08:00+08:00"
 				},
 				{
 					"chapter_index": 51,
@@ -650,7 +651,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "52"
 					},
-					"chapter_date": "2015-11-17T00:46:00+08:00"
+					"chapter_date": "2017-12-10T17:09:00+08:00"
 				},
 				{
 					"chapter_index": 52,
@@ -662,7 +663,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "53"
 					},
-					"chapter_date": "2015-11-18T00:48:00+08:00"
+					"chapter_date": "2016-07-19T05:07:00+08:00"
 				},
 				{
 					"chapter_index": 53,
@@ -674,7 +675,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "54"
 					},
-					"chapter_date": "2015-11-19T00:40:00+08:00"
+					"chapter_date": "2017-12-10T17:22:00+08:00"
 				}
 			]
 		},
@@ -692,7 +693,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "55"
 					},
-					"chapter_date": "2015-11-23T00:45:00+08:00"
+					"chapter_date": "2017-12-10T17:22:00+08:00"
 				},
 				{
 					"chapter_index": 55,
@@ -704,7 +705,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "56"
 					},
-					"chapter_date": "2015-11-24T00:43:00+08:00"
+					"chapter_date": "2016-07-11T16:45:00+08:00"
 				},
 				{
 					"chapter_index": 56,
@@ -716,7 +717,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "57"
 					},
-					"chapter_date": "2015-11-27T00:32:00+08:00"
+					"chapter_date": "2017-12-10T17:24:00+08:00"
 				},
 				{
 					"chapter_index": 57,
@@ -728,7 +729,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "58"
 					},
-					"chapter_date": "2015-12-01T00:56:00+08:00"
+					"chapter_date": "2017-12-10T17:27:00+08:00"
 				},
 				{
 					"chapter_index": 58,
@@ -740,7 +741,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "59"
 					},
-					"chapter_date": "2015-12-02T00:42:00+08:00"
+					"chapter_date": "2017-12-10T17:45:00+08:00"
 				},
 				{
 					"chapter_index": 59,
@@ -752,7 +753,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "60"
 					},
-					"chapter_date": "2015-12-05T00:36:00+08:00"
+					"chapter_date": "2017-12-10T17:47:00+08:00"
 				},
 				{
 					"chapter_index": 60,
@@ -764,7 +765,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "61"
 					},
-					"chapter_date": "2015-12-09T00:26:00+08:00"
+					"chapter_date": "2017-12-10T17:48:00+08:00"
 				},
 				{
 					"chapter_index": 61,
@@ -776,7 +777,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "62"
 					},
-					"chapter_date": "2015-12-10T00:38:00+08:00"
+					"chapter_date": "2017-12-10T17:55:00+08:00"
 				},
 				{
 					"chapter_index": 62,
@@ -788,7 +789,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "63"
 					},
-					"chapter_date": "2015-12-13T00:32:00+08:00"
+					"chapter_date": "2017-01-04T07:26:00+08:00"
 				},
 				{
 					"chapter_index": 63,
@@ -800,7 +801,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "64"
 					},
-					"chapter_date": "2015-12-17T00:53:00+08:00"
+					"chapter_date": "2017-01-04T07:28:00+08:00"
 				},
 				{
 					"chapter_index": 64,
@@ -812,7 +813,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "65"
 					},
-					"chapter_date": "2015-12-18T00:22:00+08:00"
+					"chapter_date": "2017-12-10T17:58:00+08:00"
 				},
 				{
 					"chapter_index": 65,
@@ -824,7 +825,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "66"
 					},
-					"chapter_date": "2015-12-19T01:03:00+08:00"
+					"chapter_date": "2017-01-24T06:15:00+08:00"
 				},
 				{
 					"chapter_index": 66,
@@ -836,7 +837,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "67"
 					},
-					"chapter_date": "2015-12-20T00:28:00+08:00"
+					"chapter_date": "2017-12-10T17:59:00+08:00"
 				},
 				{
 					"chapter_index": 67,
@@ -848,7 +849,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "68"
 					},
-					"chapter_date": "2015-12-21T00:36:00+08:00"
+					"chapter_date": "2017-01-04T07:37:00+08:00"
 				},
 				{
 					"chapter_index": 68,
@@ -860,7 +861,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "69"
 					},
-					"chapter_date": "2015-12-25T00:39:00+08:00"
+					"chapter_date": "2017-07-22T22:42:00+08:00"
 				},
 				{
 					"chapter_index": 69,
@@ -872,7 +873,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "70"
 					},
-					"chapter_date": "2015-12-29T00:37:00+08:00"
+					"chapter_date": "2017-10-16T08:50:00+08:00"
 				},
 				{
 					"chapter_index": 70,
@@ -884,7 +885,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "71"
 					},
-					"chapter_date": "2015-12-30T01:16:00+08:00"
+					"chapter_date": "2017-08-20T23:53:00+08:00"
 				},
 				{
 					"chapter_index": 71,
@@ -896,7 +897,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "72"
 					},
-					"chapter_date": "2016-01-02T01:19:00+08:00"
+					"chapter_date": "2017-07-28T21:32:00+08:00"
 				},
 				{
 					"chapter_index": 72,
@@ -908,7 +909,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "73"
 					},
-					"chapter_date": "2016-01-06T01:36:00+08:00"
+					"chapter_date": "2016-01-07T03:20:00+08:00"
 				},
 				{
 					"chapter_index": 73,
@@ -920,7 +921,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "74"
 					},
-					"chapter_date": "2016-01-06T01:40:00+08:00"
+					"chapter_date": "2017-12-10T18:01:00+08:00"
 				}
 			]
 		},
@@ -938,7 +939,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "75"
 					},
-					"chapter_date": "2016-01-07T00:57:00+08:00"
+					"chapter_date": "2017-12-14T08:15:00+08:00"
 				},
 				{
 					"chapter_index": 75,
@@ -950,7 +951,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "76"
 					},
-					"chapter_date": "2016-01-10T00:50:00+08:00"
+					"chapter_date": "2017-12-14T08:17:00+08:00"
 				},
 				{
 					"chapter_index": 76,
@@ -962,7 +963,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "77"
 					},
-					"chapter_date": "2016-01-14T00:37:00+08:00"
+					"chapter_date": "2017-12-14T08:20:00+08:00"
 				}
 			]
 		},
@@ -980,7 +981,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "78"
 					},
-					"chapter_date": "2016-01-15T00:34:00+08:00"
+					"chapter_date": "2017-11-19T22:38:00+08:00"
 				},
 				{
 					"chapter_index": 78,
@@ -992,7 +993,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "79"
 					},
-					"chapter_date": "2016-01-18T00:45:00+08:00"
+					"chapter_date": "2017-01-11T05:29:00+08:00"
 				},
 				{
 					"chapter_index": 79,
@@ -1004,7 +1005,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "80"
 					},
-					"chapter_date": "2016-01-19T00:49:00+08:00"
+					"chapter_date": "2017-07-22T22:47:00+08:00"
 				},
 				{
 					"chapter_index": 80,
@@ -1016,7 +1017,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "81"
 					},
-					"chapter_date": "2016-01-22T01:19:00+08:00"
+					"chapter_date": "2017-11-19T22:39:00+08:00"
 				},
 				{
 					"chapter_index": 81,
@@ -1028,7 +1029,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "82"
 					},
-					"chapter_date": "2016-01-26T00:54:00+08:00"
+					"chapter_date": "2017-11-19T22:40:00+08:00"
 				},
 				{
 					"chapter_index": 82,
@@ -1040,7 +1041,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "83"
 					},
-					"chapter_date": "2016-01-27T00:44:00+08:00"
+					"chapter_date": "2017-11-19T22:42:00+08:00"
 				},
 				{
 					"chapter_index": 83,
@@ -1052,7 +1053,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "84"
 					},
-					"chapter_date": "2016-01-30T01:00:00+08:00"
+					"chapter_date": "2017-11-19T22:42:00+08:00"
 				},
 				{
 					"chapter_index": 84,
@@ -1064,7 +1065,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "85"
 					},
-					"chapter_date": "2016-02-03T00:55:00+08:00"
+					"chapter_date": "2018-01-22T19:13:00+08:00"
 				},
 				{
 					"chapter_index": 85,
@@ -1076,7 +1077,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "86"
 					},
-					"chapter_date": "2016-02-04T00:43:00+08:00"
+					"chapter_date": "2016-11-04T06:01:00+08:00"
 				},
 				{
 					"chapter_index": 86,
@@ -1088,7 +1089,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "87"
 					},
-					"chapter_date": "2016-02-07T00:48:00+08:00"
+					"chapter_date": "2017-11-19T22:43:00+08:00"
 				},
 				{
 					"chapter_index": 87,
@@ -1100,7 +1101,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "88"
 					},
-					"chapter_date": "2016-02-11T00:51:00+08:00"
+					"chapter_date": "2016-02-27T01:35:00+08:00"
 				},
 				{
 					"chapter_index": 88,
@@ -1112,7 +1113,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "89"
 					},
-					"chapter_date": "2016-02-12T00:51:00+08:00"
+					"chapter_date": "2016-02-27T01:33:00+08:00"
 				},
 				{
 					"chapter_index": 89,
@@ -1124,7 +1125,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "90"
 					},
-					"chapter_date": "2016-02-15T00:37:00+08:00"
+					"chapter_date": "2017-08-02T07:28:00+08:00"
 				},
 				{
 					"chapter_index": 90,
@@ -1136,7 +1137,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "91"
 					},
-					"chapter_date": "2016-02-19T00:32:00+08:00"
+					"chapter_date": "2017-11-20T08:27:00+08:00"
 				},
 				{
 					"chapter_index": 91,
@@ -1148,7 +1149,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "92"
 					},
-					"chapter_date": "2016-02-20T00:54:00+08:00"
+					"chapter_date": "2017-11-19T22:45:00+08:00"
 				},
 				{
 					"chapter_index": 92,
@@ -1160,7 +1161,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "93"
 					},
-					"chapter_date": "2016-02-23T00:43:00+08:00"
+					"chapter_date": "2017-01-12T16:50:00+08:00"
 				},
 				{
 					"chapter_index": 93,
@@ -1172,7 +1173,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "94"
 					},
-					"chapter_date": "2016-02-27T00:52:00+08:00"
+					"chapter_date": "2017-01-12T16:53:00+08:00"
 				},
 				{
 					"chapter_index": 94,
@@ -1184,7 +1185,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "95"
 					},
-					"chapter_date": "2016-02-28T00:59:00+08:00"
+					"chapter_date": "2016-08-05T16:28:00+08:00"
 				},
 				{
 					"chapter_index": 95,
@@ -1196,7 +1197,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "96"
 					},
-					"chapter_date": "2016-03-02T00:33:00+08:00"
+					"chapter_date": "2017-01-11T13:06:00+08:00"
 				},
 				{
 					"chapter_index": 96,
@@ -1208,7 +1209,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "97"
 					},
-					"chapter_date": "2016-03-06T00:56:00+08:00"
+					"chapter_date": "2017-11-19T22:46:00+08:00"
 				},
 				{
 					"chapter_index": 97,
@@ -1220,7 +1221,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "98"
 					},
-					"chapter_date": "2016-03-07T00:57:00+08:00"
+					"chapter_date": "2017-11-19T22:47:00+08:00"
 				},
 				{
 					"chapter_index": 98,
@@ -1232,7 +1233,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "99"
 					},
-					"chapter_date": "2016-03-10T01:14:00+08:00"
+					"chapter_date": "2017-11-19T22:48:00+08:00"
 				},
 				{
 					"chapter_index": 99,
@@ -1244,7 +1245,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "100"
 					},
-					"chapter_date": "2016-03-14T01:44:00+08:00"
+					"chapter_date": "2017-11-14T08:52:00+08:00"
 				},
 				{
 					"chapter_index": 100,
@@ -1256,7 +1257,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "101"
 					},
-					"chapter_date": "2016-03-15T01:22:00+08:00"
+					"chapter_date": "2018-01-30T17:47:00+08:00"
 				},
 				{
 					"chapter_index": 101,
@@ -1268,7 +1269,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "102"
 					},
-					"chapter_date": "2016-03-18T00:53:00+08:00"
+					"chapter_date": "2017-11-19T22:53:00+08:00"
 				},
 				{
 					"chapter_index": 102,
@@ -1280,7 +1281,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "103"
 					},
-					"chapter_date": "2016-03-22T00:46:00+08:00"
+					"chapter_date": "2017-11-19T22:54:00+08:00"
 				},
 				{
 					"chapter_index": 103,
@@ -1292,7 +1293,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "104"
 					},
-					"chapter_date": "2016-03-23T00:52:00+08:00"
+					"chapter_date": "2017-11-19T22:56:00+08:00"
 				},
 				{
 					"chapter_index": 104,
@@ -1304,7 +1305,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "105"
 					},
-					"chapter_date": "2016-03-26T00:45:00+08:00"
+					"chapter_date": "2017-11-19T22:58:00+08:00"
 				},
 				{
 					"chapter_index": 105,
@@ -1316,7 +1317,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "106"
 					},
-					"chapter_date": "2016-03-30T00:42:00+08:00"
+					"chapter_date": "2017-11-20T08:28:00+08:00"
 				},
 				{
 					"chapter_index": 106,
@@ -1328,7 +1329,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "107"
 					},
-					"chapter_date": "2016-03-31T00:51:00+08:00"
+					"chapter_date": "2017-02-15T18:48:00+08:00"
 				},
 				{
 					"chapter_index": 107,
@@ -1340,7 +1341,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "108"
 					},
-					"chapter_date": "2016-04-03T00:50:00+08:00"
+					"chapter_date": "2017-02-15T18:49:00+08:00"
 				},
 				{
 					"chapter_index": 108,
@@ -1352,7 +1353,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "109"
 					},
-					"chapter_date": "2016-04-07T01:18:00+08:00"
+					"chapter_date": "2016-07-15T16:26:00+08:00"
 				},
 				{
 					"chapter_index": 109,
@@ -1364,7 +1365,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "110"
 					},
-					"chapter_date": "2016-04-08T01:12:00+08:00"
+					"chapter_date": "2017-11-19T23:00:00+08:00"
 				}
 			]
 		},
@@ -1382,7 +1383,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "111"
 					},
-					"chapter_date": "2016-04-11T01:19:00+08:00"
+					"chapter_date": "2017-11-20T08:30:00+08:00"
 				},
 				{
 					"chapter_index": 111,
@@ -1394,7 +1395,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "112"
 					},
-					"chapter_date": "2016-04-15T01:26:00+08:00"
+					"chapter_date": "2017-08-24T19:07:00+08:00"
 				},
 				{
 					"chapter_index": 112,
@@ -1406,7 +1407,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "113"
 					},
-					"chapter_date": "2016-04-16T01:14:00+08:00"
+					"chapter_date": "2017-02-15T19:05:00+08:00"
 				}
 			]
 		},
@@ -1424,7 +1425,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "114"
 					},
-					"chapter_date": "2016-04-19T01:23:00+08:00"
+					"chapter_date": "2017-08-05T17:51:00+08:00"
 				},
 				{
 					"chapter_index": 114,
@@ -1436,7 +1437,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "115"
 					},
-					"chapter_date": "2016-04-23T01:43:00+08:00"
+					"chapter_date": "2017-02-19T17:21:00+08:00"
 				},
 				{
 					"chapter_index": 115,
@@ -1448,7 +1449,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "116"
 					},
-					"chapter_date": "2016-04-24T01:21:00+08:00"
+					"chapter_date": "2017-02-19T17:24:00+08:00"
 				},
 				{
 					"chapter_index": 116,
@@ -1460,7 +1461,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "117"
 					},
-					"chapter_date": "2016-04-27T01:19:00+08:00"
+					"chapter_date": "2017-11-20T08:33:00+08:00"
 				},
 				{
 					"chapter_index": 117,
@@ -1472,7 +1473,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "118"
 					},
-					"chapter_date": "2016-05-01T01:58:00+08:00"
+					"chapter_date": "2017-02-19T17:46:00+08:00"
 				},
 				{
 					"chapter_index": 118,
@@ -1484,7 +1485,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "119"
 					},
-					"chapter_date": "2016-05-02T02:08:00+08:00"
+					"chapter_date": "2017-11-20T08:41:00+08:00"
 				},
 				{
 					"chapter_index": 119,
@@ -1496,7 +1497,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "120"
 					},
-					"chapter_date": "2016-05-05T01:45:00+08:00"
+					"chapter_date": "2017-08-05T17:56:00+08:00"
 				},
 				{
 					"chapter_index": 120,
@@ -1508,7 +1509,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "121"
 					},
-					"chapter_date": "2016-05-09T01:44:00+08:00"
+					"chapter_date": "2018-01-30T17:48:00+08:00"
 				},
 				{
 					"chapter_index": 121,
@@ -1520,7 +1521,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "122"
 					},
-					"chapter_date": "2016-05-10T02:04:00+08:00"
+					"chapter_date": "2017-09-04T16:44:00+08:00"
 				},
 				{
 					"chapter_index": 122,
@@ -1532,7 +1533,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "123"
 					},
-					"chapter_date": "2016-05-13T01:14:00+08:00"
+					"chapter_date": "2017-11-20T08:43:00+08:00"
 				},
 				{
 					"chapter_index": 123,
@@ -1544,7 +1545,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "124"
 					},
-					"chapter_date": "2016-05-17T02:08:00+08:00"
+					"chapter_date": "2017-08-05T17:59:00+08:00"
 				},
 				{
 					"chapter_index": 124,
@@ -1556,7 +1557,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "125"
 					},
-					"chapter_date": "2016-05-18T01:08:00+08:00"
+					"chapter_date": "2017-11-20T08:45:00+08:00"
 				},
 				{
 					"chapter_index": 125,
@@ -1568,7 +1569,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "126"
 					},
-					"chapter_date": "2016-05-21T01:42:00+08:00"
+					"chapter_date": "2017-11-20T08:49:00+08:00"
 				},
 				{
 					"chapter_index": 126,
@@ -1580,7 +1581,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "127"
 					},
-					"chapter_date": "2016-05-25T02:07:00+08:00"
+					"chapter_date": "2017-11-20T08:51:00+08:00"
 				},
 				{
 					"chapter_index": 127,
@@ -1592,7 +1593,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "128"
 					},
-					"chapter_date": "2016-05-26T02:11:00+08:00"
+					"chapter_date": "2017-11-20T08:52:00+08:00"
 				},
 				{
 					"chapter_index": 128,
@@ -1604,7 +1605,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "129"
 					},
-					"chapter_date": "2016-05-29T01:51:00+08:00"
+					"chapter_date": "2017-01-13T16:26:00+08:00"
 				},
 				{
 					"chapter_index": 129,
@@ -1616,7 +1617,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "130"
 					},
-					"chapter_date": "2016-06-02T01:36:00+08:00"
+					"chapter_date": "2017-11-20T08:58:00+08:00"
 				},
 				{
 					"chapter_index": 130,
@@ -1628,7 +1629,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "131"
 					},
-					"chapter_date": "2016-06-03T01:09:00+08:00"
+					"chapter_date": "2017-11-20T08:59:00+08:00"
 				},
 				{
 					"chapter_index": 131,
@@ -1640,7 +1641,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "132"
 					},
-					"chapter_date": "2016-06-04T02:17:00+08:00"
+					"chapter_date": "2017-11-20T09:03:00+08:00"
 				},
 				{
 					"chapter_index": 132,
@@ -1652,7 +1653,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "133"
 					},
-					"chapter_date": "2016-06-06T02:00:00+08:00"
+					"chapter_date": "2017-11-20T09:04:00+08:00"
 				},
 				{
 					"chapter_index": 133,
@@ -1664,7 +1665,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "134"
 					},
-					"chapter_date": "2016-06-07T01:41:00+08:00"
+					"chapter_date": "2017-11-20T09:06:00+08:00"
 				},
 				{
 					"chapter_index": 134,
@@ -1676,7 +1677,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "135"
 					},
-					"chapter_date": "2016-06-10T02:30:00+08:00"
+					"chapter_date": "2017-11-20T19:26:00+08:00"
 				},
 				{
 					"chapter_index": 135,
@@ -1688,7 +1689,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "136"
 					},
-					"chapter_date": "2016-06-11T02:37:00+08:00"
+					"chapter_date": "2018-01-30T17:48:00+08:00"
 				},
 				{
 					"chapter_index": 136,
@@ -1700,7 +1701,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "137"
 					},
-					"chapter_date": "2016-06-14T02:56:00+08:00"
+					"chapter_date": "2017-11-20T21:59:00+08:00"
 				},
 				{
 					"chapter_index": 137,
@@ -1712,7 +1713,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "138"
 					},
-					"chapter_date": "2016-06-15T02:59:00+08:00"
+					"chapter_date": "2017-11-20T22:00:00+08:00"
 				},
 				{
 					"chapter_index": 138,
@@ -1724,7 +1725,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "139"
 					},
-					"chapter_date": "2016-06-18T02:41:00+08:00"
+					"chapter_date": "2017-11-20T22:01:00+08:00"
 				},
 				{
 					"chapter_index": 139,
@@ -1736,7 +1737,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "140"
 					},
-					"chapter_date": "2016-06-19T02:46:00+08:00"
+					"chapter_date": "2017-11-20T22:02:00+08:00"
 				},
 				{
 					"chapter_index": 140,
@@ -1748,7 +1749,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "141"
 					},
-					"chapter_date": "2016-06-22T03:02:00+08:00"
+					"chapter_date": "2017-11-20T22:14:00+08:00"
 				}
 			]
 		},
@@ -1766,7 +1767,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "142"
 					},
-					"chapter_date": "2016-06-26T02:53:00+08:00"
+					"chapter_date": "2017-01-13T18:09:00+08:00"
 				}
 			]
 		},
@@ -1784,7 +1785,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "143"
 					},
-					"chapter_date": "2016-06-27T02:40:00+08:00"
+					"chapter_date": "2017-11-24T08:24:00+08:00"
 				},
 				{
 					"chapter_index": 143,
@@ -1796,7 +1797,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "144"
 					},
-					"chapter_date": "2016-06-30T02:40:00+08:00"
+					"chapter_date": "2017-11-24T08:28:00+08:00"
 				},
 				{
 					"chapter_index": 144,
@@ -1808,7 +1809,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "145"
 					},
-					"chapter_date": "2016-07-04T02:44:00+08:00"
+					"chapter_date": "2017-08-08T17:49:00+08:00"
 				},
 				{
 					"chapter_index": 145,
@@ -1820,7 +1821,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "146"
 					},
-					"chapter_date": "2016-07-05T02:54:00+08:00"
+					"chapter_date": "2017-11-24T08:29:00+08:00"
 				},
 				{
 					"chapter_index": 146,
@@ -1832,7 +1833,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "147"
 					},
-					"chapter_date": "2016-07-08T02:54:00+08:00"
+					"chapter_date": "2017-11-24T08:33:00+08:00"
 				},
 				{
 					"chapter_index": 147,
@@ -1844,7 +1845,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "148"
 					},
-					"chapter_date": "2016-07-12T02:54:00+08:00"
+					"chapter_date": "2017-11-24T08:37:00+08:00"
 				},
 				{
 					"chapter_index": 148,
@@ -1856,7 +1857,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "149"
 					},
-					"chapter_date": "2016-07-13T02:49:00+08:00"
+					"chapter_date": "2017-11-24T08:45:00+08:00"
 				},
 				{
 					"chapter_index": 149,
@@ -1868,7 +1869,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "150"
 					},
-					"chapter_date": "2016-07-16T02:35:00+08:00"
+					"chapter_date": "2018-01-30T17:50:00+08:00"
 				},
 				{
 					"chapter_index": 150,
@@ -1880,7 +1881,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "151"
 					},
-					"chapter_date": "2016-07-20T02:42:00+08:00"
+					"chapter_date": "2017-11-24T08:46:00+08:00"
 				},
 				{
 					"chapter_index": 151,
@@ -1892,7 +1893,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "152"
 					},
-					"chapter_date": "2016-07-21T03:06:00+08:00"
+					"chapter_date": "2018-01-30T17:51:00+08:00"
 				},
 				{
 					"chapter_index": 152,
@@ -1904,7 +1905,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "153"
 					},
-					"chapter_date": "2016-07-24T03:06:00+08:00"
+					"chapter_date": "2017-11-24T08:46:00+08:00"
 				},
 				{
 					"chapter_index": 153,
@@ -1916,7 +1917,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "154"
 					},
-					"chapter_date": "2016-07-28T03:16:00+08:00"
+					"chapter_date": "2017-11-24T08:48:00+08:00"
 				},
 				{
 					"chapter_index": 154,
@@ -1928,7 +1929,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "155"
 					},
-					"chapter_date": "2016-07-29T03:10:00+08:00"
+					"chapter_date": "2017-11-24T08:51:00+08:00"
 				},
 				{
 					"chapter_index": 155,
@@ -1940,7 +1941,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "156"
 					},
-					"chapter_date": "2016-08-01T03:36:00+08:00"
+					"chapter_date": "2017-11-24T08:59:00+08:00"
 				},
 				{
 					"chapter_index": 156,
@@ -1952,7 +1953,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "157"
 					},
-					"chapter_date": "2016-08-05T03:31:00+08:00"
+					"chapter_date": "2017-11-24T09:02:00+08:00"
 				},
 				{
 					"chapter_index": 157,
@@ -1964,7 +1965,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "158"
 					},
-					"chapter_date": "2016-08-06T03:37:00+08:00"
+					"chapter_date": "2017-11-24T09:03:00+08:00"
 				},
 				{
 					"chapter_index": 158,
@@ -1976,7 +1977,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "159"
 					},
-					"chapter_date": "2016-08-09T03:39:00+08:00"
+					"chapter_date": "2017-11-24T09:03:00+08:00"
 				},
 				{
 					"chapter_index": 159,
@@ -1988,7 +1989,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "160"
 					},
-					"chapter_date": "2016-08-13T03:46:00+08:00"
+					"chapter_date": "2017-11-24T09:05:00+08:00"
 				}
 			]
 		},
@@ -2006,7 +2007,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "161"
 					},
-					"chapter_date": "2016-08-14T03:42:00+08:00"
+					"chapter_date": "2017-12-17T22:12:00+08:00"
 				},
 				{
 					"chapter_index": 161,
@@ -2018,7 +2019,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "162"
 					},
-					"chapter_date": "2016-08-17T03:39:00+08:00"
+					"chapter_date": "2017-12-17T22:17:00+08:00"
 				},
 				{
 					"chapter_index": 162,
@@ -2030,7 +2031,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "163"
 					},
-					"chapter_date": "2016-08-21T03:41:00+08:00"
+					"chapter_date": "2017-12-17T22:20:00+08:00"
 				},
 				{
 					"chapter_index": 163,
@@ -2042,7 +2043,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "164"
 					},
-					"chapter_date": "2016-08-22T03:45:00+08:00"
+					"chapter_date": "2017-12-17T22:22:00+08:00"
 				},
 				{
 					"chapter_index": 164,
@@ -2054,7 +2055,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "165"
 					},
-					"chapter_date": "2016-08-25T03:29:00+08:00"
+					"chapter_date": "2017-12-17T22:24:00+08:00"
 				},
 				{
 					"chapter_index": 165,
@@ -2066,7 +2067,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "166"
 					},
-					"chapter_date": "2016-08-29T03:37:00+08:00"
+					"chapter_date": "2017-12-17T22:25:00+08:00"
 				},
 				{
 					"chapter_index": 166,
@@ -2078,7 +2079,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "167"
 					},
-					"chapter_date": "2016-08-30T03:30:00+08:00"
+					"chapter_date": "2017-12-17T22:28:00+08:00"
 				},
 				{
 					"chapter_index": 167,
@@ -2090,7 +2091,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "168"
 					},
-					"chapter_date": "2016-09-02T04:28:00+08:00"
+					"chapter_date": "2017-12-17T22:30:00+08:00"
 				},
 				{
 					"chapter_index": 168,
@@ -2102,7 +2103,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "169"
 					},
-					"chapter_date": "2016-09-06T04:10:00+08:00"
+					"chapter_date": "2017-12-17T22:31:00+08:00"
 				},
 				{
 					"chapter_index": 169,
@@ -2114,7 +2115,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "170"
 					},
-					"chapter_date": "2016-09-07T03:32:00+08:00"
+					"chapter_date": "2017-12-17T22:33:00+08:00"
 				},
 				{
 					"chapter_index": 170,
@@ -2126,7 +2127,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "171"
 					},
-					"chapter_date": "2016-09-10T03:46:00+08:00"
+					"chapter_date": "2017-12-22T08:14:00+08:00"
 				},
 				{
 					"chapter_index": 171,
@@ -2138,7 +2139,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "172"
 					},
-					"chapter_date": "2016-09-14T03:11:00+08:00"
+					"chapter_date": "2017-09-04T17:00:00+08:00"
 				},
 				{
 					"chapter_index": 172,
@@ -2150,7 +2151,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "173"
 					},
-					"chapter_date": "2016-09-18T03:36:00+08:00"
+					"chapter_date": "2017-12-22T08:16:00+08:00"
 				},
 				{
 					"chapter_index": 173,
@@ -2162,7 +2163,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "174"
 					},
-					"chapter_date": "2016-09-22T03:42:00+08:00"
+					"chapter_date": "2017-12-22T08:18:00+08:00"
 				},
 				{
 					"chapter_index": 174,
@@ -2174,7 +2175,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "175"
 					},
-					"chapter_date": "2016-09-26T02:53:00+08:00"
+					"chapter_date": "2017-12-22T08:23:00+08:00"
 				},
 				{
 					"chapter_index": 175,
@@ -2186,7 +2187,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "176"
 					},
-					"chapter_date": "2016-09-30T03:52:00+08:00"
+					"chapter_date": "2018-01-11T23:36:00+08:00"
 				},
 				{
 					"chapter_index": 176,
@@ -2198,7 +2199,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "177"
 					},
-					"chapter_date": "2016-10-04T02:48:00+08:00"
+					"chapter_date": "2018-01-11T23:39:00+08:00"
 				},
 				{
 					"chapter_index": 177,
@@ -2210,7 +2211,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "178"
 					},
-					"chapter_date": "2016-10-08T03:26:00+08:00"
+					"chapter_date": "2018-01-11T23:40:00+08:00"
 				},
 				{
 					"chapter_index": 178,
@@ -2222,7 +2223,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "179"
 					},
-					"chapter_date": "2016-10-12T03:33:00+08:00"
+					"chapter_date": "2018-01-11T23:41:00+08:00"
 				},
 				{
 					"chapter_index": 179,
@@ -2234,7 +2235,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "180"
 					},
-					"chapter_date": "2016-10-16T03:11:00+08:00"
+					"chapter_date": "2018-01-11T23:42:00+08:00"
 				},
 				{
 					"chapter_index": 180,
@@ -2246,7 +2247,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "181"
 					},
-					"chapter_date": "2016-10-20T03:41:00+08:00"
+					"chapter_date": "2017-08-15T13:55:00+08:00"
 				},
 				{
 					"chapter_index": 181,
@@ -2258,7 +2259,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "182"
 					},
-					"chapter_date": "2016-10-24T03:32:00+08:00"
+					"chapter_date": "2018-01-11T23:47:00+08:00"
 				},
 				{
 					"chapter_index": 182,
@@ -2270,7 +2271,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "183"
 					},
-					"chapter_date": "2016-10-28T03:50:00+08:00"
+					"chapter_date": "2017-10-09T07:57:00+08:00"
 				},
 				{
 					"chapter_index": 183,
@@ -2282,7 +2283,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "184"
 					},
-					"chapter_date": "2016-11-01T03:49:00+08:00"
+					"chapter_date": "2017-09-02T21:34:00+08:00"
 				},
 				{
 					"chapter_index": 184,
@@ -2294,7 +2295,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "185"
 					},
-					"chapter_date": "2016-11-05T04:04:00+08:00"
+					"chapter_date": "2017-03-05T08:01:00+08:00"
 				},
 				{
 					"chapter_index": 185,
@@ -2306,7 +2307,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "186"
 					},
-					"chapter_date": "2016-11-09T03:43:00+08:00"
+					"chapter_date": "2017-03-06T06:16:00+08:00"
 				},
 				{
 					"chapter_index": 186,
@@ -2318,7 +2319,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "187"
 					},
-					"chapter_date": "2016-11-13T03:38:00+08:00"
+					"chapter_date": "2018-01-28T02:19:00+08:00"
 				},
 				{
 					"chapter_index": 187,
@@ -2330,7 +2331,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "188"
 					},
-					"chapter_date": "2016-11-17T03:43:00+08:00"
+					"chapter_date": "2017-12-17T22:05:00+08:00"
 				}
 			]
 		},
@@ -2348,7 +2349,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "189"
 					},
-					"chapter_date": "2016-11-21T03:19:00+08:00"
+					"chapter_date": "2017-01-15T19:03:00+08:00"
 				},
 				{
 					"chapter_index": 189,
@@ -2360,7 +2361,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "190"
 					},
-					"chapter_date": "2016-11-25T03:34:00+08:00"
+					"chapter_date": "2016-11-29T06:50:00+08:00"
 				}
 			]
 		},
@@ -2378,7 +2379,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "191"
 					},
-					"chapter_date": "2016-11-29T01:13:00+08:00"
+					"chapter_date": "2017-03-03T18:02:00+08:00"
 				},
 				{
 					"chapter_index": 191,
@@ -2390,7 +2391,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "192"
 					},
-					"chapter_date": "2016-12-03T03:24:00+08:00"
+					"chapter_date": "2017-08-15T14:01:00+08:00"
 				},
 				{
 					"chapter_index": 192,
@@ -2402,7 +2403,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "193"
 					},
-					"chapter_date": "2016-12-07T03:33:00+08:00"
+					"chapter_date": "2017-03-06T06:56:00+08:00"
 				},
 				{
 					"chapter_index": 193,
@@ -2414,7 +2415,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "194"
 					},
-					"chapter_date": "2016-12-11T04:03:00+08:00"
+					"chapter_date": "2017-08-15T14:02:00+08:00"
 				},
 				{
 					"chapter_index": 194,
@@ -2426,7 +2427,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "195"
 					},
-					"chapter_date": "2016-12-15T03:41:00+08:00"
+					"chapter_date": "2017-01-16T06:29:00+08:00"
 				},
 				{
 					"chapter_index": 195,
@@ -2438,7 +2439,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "196"
 					},
-					"chapter_date": "2016-12-19T03:57:00+08:00"
+					"chapter_date": "2017-12-20T21:04:00+08:00"
 				},
 				{
 					"chapter_index": 196,
@@ -2450,7 +2451,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "197"
 					},
-					"chapter_date": "2016-12-23T03:50:00+08:00"
+					"chapter_date": "2017-11-11T17:33:00+08:00"
 				},
 				{
 					"chapter_index": 197,
@@ -2462,7 +2463,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "198"
 					},
-					"chapter_date": "2016-12-27T03:50:00+08:00"
+					"chapter_date": "2017-01-29T15:26:00+08:00"
 				},
 				{
 					"chapter_index": 198,
@@ -2474,7 +2475,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "199"
 					},
-					"chapter_date": "2016-12-31T04:35:00+08:00"
+					"chapter_date": "2017-09-04T17:14:00+08:00"
 				},
 				{
 					"chapter_index": 199,
@@ -2486,7 +2487,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "200"
 					},
-					"chapter_date": "2017-01-04T05:07:00+08:00"
+					"chapter_date": "2017-01-10T06:31:00+08:00"
 				},
 				{
 					"chapter_index": 200,
@@ -2498,7 +2499,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "201"
 					},
-					"chapter_date": "2017-01-12T03:48:00+08:00"
+					"chapter_date": "2017-11-11T17:33:00+08:00"
 				},
 				{
 					"chapter_index": 201,
@@ -2510,7 +2511,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "202"
 					},
-					"chapter_date": "2017-01-16T04:20:00+08:00"
+					"chapter_date": "2017-06-25T08:03:00+08:00"
 				},
 				{
 					"chapter_index": 202,
@@ -2522,7 +2523,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "203"
 					},
-					"chapter_date": "2017-01-20T04:38:00+08:00"
+					"chapter_date": "2017-09-04T17:17:00+08:00"
 				},
 				{
 					"chapter_index": 203,
@@ -2534,7 +2535,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "204"
 					},
-					"chapter_date": "2017-01-24T04:26:00+08:00"
+					"chapter_date": "2017-05-24T13:48:00+08:00"
 				},
 				{
 					"chapter_index": 204,
@@ -2546,7 +2547,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "205"
 					},
-					"chapter_date": "2017-01-28T04:17:00+08:00"
+					"chapter_date": "2017-08-04T16:29:00+08:00"
 				},
 				{
 					"chapter_index": 205,
@@ -2558,7 +2559,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "206"
 					},
-					"chapter_date": "2017-02-01T04:23:00+08:00"
+					"chapter_date": "2017-08-11T21:35:00+08:00"
 				},
 				{
 					"chapter_index": 206,
@@ -2570,7 +2571,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "207"
 					},
-					"chapter_date": "2017-02-05T04:41:00+08:00"
+					"chapter_date": "2017-09-11T19:24:00+08:00"
 				},
 				{
 					"chapter_index": 207,
@@ -2582,7 +2583,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "208"
 					},
-					"chapter_date": "2017-02-09T04:28:00+08:00"
+					"chapter_date": "2017-08-11T21:36:00+08:00"
 				},
 				{
 					"chapter_index": 208,
@@ -2594,7 +2595,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "209"
 					},
-					"chapter_date": "2017-02-13T04:23:00+08:00"
+					"chapter_date": "2017-02-16T16:40:00+08:00"
 				},
 				{
 					"chapter_index": 209,
@@ -2606,7 +2607,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "210"
 					},
-					"chapter_date": "2017-02-17T04:24:00+08:00"
+					"chapter_date": "2017-04-29T16:38:00+08:00"
 				},
 				{
 					"chapter_index": 210,
@@ -2618,7 +2619,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "211"
 					},
-					"chapter_date": "2017-02-21T04:24:00+08:00"
+					"chapter_date": "2017-12-24T22:28:00+08:00"
 				},
 				{
 					"chapter_index": 211,
@@ -2630,7 +2631,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "212"
 					},
-					"chapter_date": "2017-02-25T04:30:00+08:00"
+					"chapter_date": "2017-08-11T21:40:00+08:00"
 				},
 				{
 					"chapter_index": 212,
@@ -2642,7 +2643,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "213"
 					},
-					"chapter_date": "2017-03-01T04:41:00+08:00"
+					"chapter_date": "2017-06-08T20:38:00+08:00"
 				},
 				{
 					"chapter_index": 213,
@@ -2654,7 +2655,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "214"
 					},
-					"chapter_date": "2017-03-05T04:59:00+08:00"
+					"chapter_date": "2017-11-18T21:01:00+08:00"
 				},
 				{
 					"chapter_index": 214,
@@ -2666,7 +2667,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "215"
 					},
-					"chapter_date": "2017-03-09T04:47:00+08:00"
+					"chapter_date": "2017-09-04T17:24:00+08:00"
 				},
 				{
 					"chapter_index": 215,
@@ -2678,7 +2679,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "216"
 					},
-					"chapter_date": "2017-03-13T04:43:00+08:00"
+					"chapter_date": "2017-08-22T20:49:00+08:00"
 				},
 				{
 					"chapter_index": 216,
@@ -2690,7 +2691,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "217"
 					},
-					"chapter_date": "2017-03-17T04:27:00+08:00"
+					"chapter_date": "2017-05-24T14:28:00+08:00"
 				},
 				{
 					"chapter_index": 217,
@@ -2702,7 +2703,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "218"
 					},
-					"chapter_date": "2017-03-21T05:07:00+08:00"
+					"chapter_date": "2017-08-22T20:51:00+08:00"
 				},
 				{
 					"chapter_index": 218,
@@ -2714,7 +2715,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "219"
 					},
-					"chapter_date": "2017-03-25T04:54:00+08:00"
+					"chapter_date": "2017-05-24T14:29:00+08:00"
 				},
 				{
 					"chapter_index": 219,
@@ -2726,7 +2727,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "220"
 					},
-					"chapter_date": "2017-03-29T04:19:00+08:00"
+					"chapter_date": "2017-08-22T20:52:00+08:00"
 				}
 			]
 		},
@@ -2744,7 +2745,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "221"
 					},
-					"chapter_date": "2017-04-06T04:21:00+08:00"
+					"chapter_date": "2017-04-13T19:07:00+08:00"
 				},
 				{
 					"chapter_index": 221,
@@ -2756,7 +2757,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "222"
 					},
-					"chapter_date": "2017-04-10T04:30:00+08:00"
+					"chapter_date": "2017-05-24T14:30:00+08:00"
 				},
 				{
 					"chapter_index": 222,
@@ -2768,7 +2769,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "223"
 					},
-					"chapter_date": "2017-04-18T04:53:00+08:00"
+					"chapter_date": "2017-07-30T18:27:00+08:00"
 				},
 				{
 					"chapter_index": 223,
@@ -2780,7 +2781,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "224"
 					},
-					"chapter_date": "2017-04-22T04:33:00+08:00"
+					"chapter_date": "2017-07-30T18:30:00+08:00"
 				},
 				{
 					"chapter_index": 224,
@@ -2792,7 +2793,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "225"
 					},
-					"chapter_date": "2017-04-26T04:39:00+08:00"
+					"chapter_date": "2017-07-15T23:39:00+08:00"
 				},
 				{
 					"chapter_index": 225,
@@ -2804,7 +2805,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "226"
 					},
-					"chapter_date": "2017-04-30T04:52:00+08:00"
+					"chapter_date": "2017-07-30T18:34:00+08:00"
 				},
 				{
 					"chapter_index": 226,
@@ -2816,7 +2817,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "227"
 					},
-					"chapter_date": "2017-05-04T04:45:00+08:00"
+					"chapter_date": "2017-12-24T22:29:00+08:00"
 				},
 				{
 					"chapter_index": 227,
@@ -2828,7 +2829,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "228"
 					},
-					"chapter_date": "2017-05-08T04:34:00+08:00"
+					"chapter_date": "2017-11-24T00:12:00+08:00"
 				},
 				{
 					"chapter_index": 228,
@@ -2840,7 +2841,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "229"
 					},
-					"chapter_date": "2017-05-12T04:09:00+08:00"
+					"chapter_date": "2017-08-15T08:33:00+08:00"
 				},
 				{
 					"chapter_index": 229,
@@ -2852,7 +2853,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "230"
 					},
-					"chapter_date": "2017-05-16T05:09:00+08:00"
+					"chapter_date": "2017-07-30T18:43:00+08:00"
 				},
 				{
 					"chapter_index": 230,
@@ -2864,7 +2865,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "231"
 					},
-					"chapter_date": "2017-05-20T04:57:00+08:00"
+					"chapter_date": "2017-11-24T00:13:00+08:00"
 				},
 				{
 					"chapter_index": 231,
@@ -2876,7 +2877,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "232"
 					},
-					"chapter_date": "2017-05-24T04:41:00+08:00"
+					"chapter_date": "2017-08-22T20:56:00+08:00"
 				},
 				{
 					"chapter_index": 232,
@@ -2888,7 +2889,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "233"
 					},
-					"chapter_date": "2017-05-28T05:00:00+08:00"
+					"chapter_date": "2017-10-18T23:19:00+08:00"
 				},
 				{
 					"chapter_index": 233,
@@ -2900,7 +2901,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "234"
 					},
-					"chapter_date": "2017-06-01T04:50:00+08:00"
+					"chapter_date": "2017-08-22T21:00:00+08:00"
 				},
 				{
 					"chapter_index": 234,
@@ -2912,7 +2913,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "235"
 					},
-					"chapter_date": "2017-06-05T04:43:00+08:00"
+					"chapter_date": "2017-08-29T09:10:00+08:00"
 				},
 				{
 					"chapter_index": 235,
@@ -2924,7 +2925,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "236"
 					},
-					"chapter_date": "2017-06-09T04:22:00+08:00"
+					"chapter_date": "2017-07-29T22:07:00+08:00"
 				},
 				{
 					"chapter_index": 236,
@@ -2936,7 +2937,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "237"
 					},
-					"chapter_date": "2017-06-13T04:39:00+08:00"
+					"chapter_date": "2017-06-20T17:21:00+08:00"
 				},
 				{
 					"chapter_index": 237,
@@ -2948,7 +2949,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "238"
 					},
-					"chapter_date": "2017-06-17T04:51:00+08:00"
+					"chapter_date": "2017-06-20T17:12:00+08:00"
 				},
 				{
 					"chapter_index": 238,
@@ -2960,7 +2961,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "239"
 					},
-					"chapter_date": "2017-06-21T05:56:00+08:00"
+					"chapter_date": "2017-07-30T19:15:00+08:00"
 				},
 				{
 					"chapter_index": 239,
@@ -2972,7 +2973,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "240"
 					},
-					"chapter_date": "2017-06-25T06:43:00+08:00"
+					"chapter_date": "2017-07-30T19:21:00+08:00"
 				},
 				{
 					"chapter_index": 240,
@@ -2984,7 +2985,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "241"
 					},
-					"chapter_date": "2017-06-29T05:01:00+08:00"
+					"chapter_date": "2017-07-30T19:23:00+08:00"
 				},
 				{
 					"chapter_index": 241,
@@ -2996,7 +2997,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "242"
 					},
-					"chapter_date": "2017-07-03T05:07:00+08:00"
+					"chapter_date": "2017-07-07T07:09:00+08:00"
 				},
 				{
 					"chapter_index": 242,
@@ -3008,7 +3009,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "243"
 					},
-					"chapter_date": "2017-07-07T05:13:00+08:00"
+					"chapter_date": "2017-07-30T19:26:00+08:00"
 				},
 				{
 					"chapter_index": 243,
@@ -3020,7 +3021,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "244"
 					},
-					"chapter_date": "2017-07-11T04:45:00+08:00"
+					"chapter_date": "2017-08-03T20:38:00+08:00"
 				},
 				{
 					"chapter_index": 244,
@@ -3032,7 +3033,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "245"
 					},
-					"chapter_date": "2017-07-15T05:52:00+08:00"
+					"chapter_date": "2017-10-31T07:18:00+08:00"
 				},
 				{
 					"chapter_index": 245,
@@ -3044,7 +3045,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "246"
 					},
-					"chapter_date": "2017-07-19T05:18:00+08:00"
+					"chapter_date": "2017-08-11T21:42:00+08:00"
 				},
 				{
 					"chapter_index": 246,
@@ -3056,7 +3057,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "247"
 					},
-					"chapter_date": "2017-07-23T06:04:00+08:00"
+					"chapter_date": "2017-08-22T21:04:00+08:00"
 				},
 				{
 					"chapter_index": 247,
@@ -3068,7 +3069,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "248"
 					},
-					"chapter_date": "2017-07-27T06:18:00+08:00"
+					"chapter_date": "2017-08-11T21:47:00+08:00"
 				},
 				{
 					"chapter_index": 248,
@@ -3080,7 +3081,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "249"
 					},
-					"chapter_date": "2017-07-31T05:40:00+08:00"
+					"chapter_date": "2017-08-01T20:46:00+08:00"
 				},
 				{
 					"chapter_index": 249,
@@ -3092,7 +3093,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "250"
 					},
-					"chapter_date": "2017-08-04T06:07:00+08:00"
+					"chapter_date": "2017-08-11T21:48:00+08:00"
 				},
 				{
 					"chapter_index": 250,
@@ -3104,7 +3105,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "251"
 					},
-					"chapter_date": "2017-08-08T05:51:00+08:00"
+					"chapter_date": "2017-09-04T17:25:00+08:00"
 				},
 				{
 					"chapter_index": 251,
@@ -3116,7 +3117,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "252"
 					},
-					"chapter_date": "2017-08-12T06:32:00+08:00"
+					"chapter_date": "2017-09-01T13:13:00+08:00"
 				}
 			]
 		},
@@ -3134,7 +3135,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "253"
 					},
-					"chapter_date": "2017-08-20T05:42:00+08:00"
+					"chapter_date": "2017-08-23T13:07:00+08:00"
 				},
 				{
 					"chapter_index": 253,
@@ -3146,7 +3147,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "254"
 					},
-					"chapter_date": "2017-08-24T05:46:00+08:00"
+					"chapter_date": "2017-08-29T09:10:00+08:00"
 				},
 				{
 					"chapter_index": 254,
@@ -3158,7 +3159,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "255"
 					},
-					"chapter_date": "2017-08-28T05:15:00+08:00"
+					"chapter_date": "2017-12-17T22:07:00+08:00"
 				},
 				{
 					"chapter_index": 255,
@@ -3170,7 +3171,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "256"
 					},
-					"chapter_date": "2017-09-01T06:04:00+08:00"
+					"chapter_date": "2017-09-05T07:53:00+08:00"
 				},
 				{
 					"chapter_index": 256,
@@ -3182,7 +3183,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "257"
 					},
-					"chapter_date": "2017-09-05T05:23:00+08:00"
+					"chapter_date": "2017-11-23T23:40:00+08:00"
 				},
 				{
 					"chapter_index": 257,
@@ -3194,7 +3195,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "258"
 					},
-					"chapter_date": "2017-09-09T06:19:00+08:00"
+					"chapter_date": "2017-11-23T23:41:00+08:00"
 				},
 				{
 					"chapter_index": 258,
@@ -3206,7 +3207,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "259"
 					},
-					"chapter_date": "2017-09-13T05:36:00+08:00"
+					"chapter_date": "2017-09-14T17:56:00+08:00"
 				},
 				{
 					"chapter_index": 259,
@@ -3218,7 +3219,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "260"
 					},
-					"chapter_date": "2017-09-17T06:05:00+08:00"
+					"chapter_date": "2017-10-10T20:04:00+08:00"
 				},
 				{
 					"chapter_index": 260,
@@ -3230,7 +3231,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "261"
 					},
-					"chapter_date": "2017-09-21T06:32:00+08:00"
+					"chapter_date": "2017-10-30T15:38:00+08:00"
 				},
 				{
 					"chapter_index": 261,
@@ -3242,7 +3243,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "262"
 					},
-					"chapter_date": "2017-09-25T06:00:00+08:00"
+					"chapter_date": "2017-10-30T15:39:00+08:00"
 				},
 				{
 					"chapter_index": 262,
@@ -3254,7 +3255,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "263"
 					},
-					"chapter_date": "2017-09-29T16:39:00+08:00"
+					"chapter_date": "2017-10-10T20:18:00+08:00"
 				},
 				{
 					"chapter_index": 263,
@@ -3266,7 +3267,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "264"
 					},
-					"chapter_date": "2017-10-03T05:28:00+08:00"
+					"chapter_date": "2017-10-10T21:15:00+08:00"
 				},
 				{
 					"chapter_index": 264,
@@ -3278,7 +3279,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "265"
 					},
-					"chapter_date": "2017-10-07T06:14:00+08:00"
+					"chapter_date": "2017-10-10T21:45:00+08:00"
 				},
 				{
 					"chapter_index": 265,
@@ -3290,7 +3291,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "266"
 					},
-					"chapter_date": "2017-10-11T06:05:00+08:00"
+					"chapter_date": "2017-10-23T09:26:00+08:00"
 				},
 				{
 					"chapter_index": 266,
@@ -3302,7 +3303,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "267"
 					},
-					"chapter_date": "2017-10-15T06:16:00+08:00"
+					"chapter_date": "2017-10-30T15:53:00+08:00"
 				},
 				{
 					"chapter_index": 267,
@@ -3314,7 +3315,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "268"
 					},
-					"chapter_date": "2017-10-19T06:27:00+08:00"
+					"chapter_date": "2017-10-30T15:53:00+08:00"
 				},
 				{
 					"chapter_index": 268,
@@ -3326,7 +3327,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "269"
 					},
-					"chapter_date": "2017-10-23T06:18:00+08:00"
+					"chapter_date": "2017-10-30T15:55:00+08:00"
 				},
 				{
 					"chapter_index": 269,
@@ -3338,7 +3339,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "270"
 					},
-					"chapter_date": "2017-10-27T06:13:00+08:00"
+					"chapter_date": "2017-10-30T21:01:00+08:00"
 				},
 				{
 					"chapter_index": 270,
@@ -3350,7 +3351,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "271"
 					},
-					"chapter_date": "2017-10-31T06:38:00+08:00"
+					"chapter_date": "2017-11-26T07:58:00+08:00"
 				},
 				{
 					"chapter_index": 271,
@@ -3362,7 +3363,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "272"
 					},
-					"chapter_date": "2017-11-04T06:45:00+08:00"
+					"chapter_date": "2017-12-20T21:04:00+08:00"
 				},
 				{
 					"chapter_index": 272,
@@ -3374,7 +3375,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "273"
 					},
-					"chapter_date": "2017-11-08T06:34:00+08:00"
+					"chapter_date": "2017-11-11T18:57:00+08:00"
 				},
 				{
 					"chapter_index": 273,
@@ -3386,7 +3387,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "274"
 					},
-					"chapter_date": "2017-11-12T07:06:00+08:00"
+					"chapter_date": "2017-11-24T00:12:00+08:00"
 				},
 				{
 					"chapter_index": 274,
@@ -3398,7 +3399,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "275"
 					},
-					"chapter_date": "2017-11-16T06:48:00+08:00"
+					"chapter_date": "2017-12-02T09:09:00+08:00"
 				},
 				{
 					"chapter_index": 275,
@@ -3410,7 +3411,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "276"
 					},
-					"chapter_date": "2017-11-20T06:39:00+08:00"
+					"chapter_date": "2018-01-26T00:26:00+08:00"
 				},
 				{
 					"chapter_index": 276,
@@ -3422,7 +3423,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "277"
 					},
-					"chapter_date": "2017-11-24T07:18:00+08:00"
+					"chapter_date": "2017-12-16T20:48:00+08:00"
 				},
 				{
 					"chapter_index": 277,
@@ -3434,7 +3435,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "278"
 					},
-					"chapter_date": "2017-11-28T05:57:00+08:00"
+					"chapter_date": "2017-12-16T20:49:00+08:00"
 				},
 				{
 					"chapter_index": 278,
@@ -3446,7 +3447,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "279"
 					},
-					"chapter_date": "2017-12-02T08:05:00+08:00"
+					"chapter_date": "2017-12-16T20:50:00+08:00"
 				},
 				{
 					"chapter_index": 279,
@@ -3458,7 +3459,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "280"
 					},
-					"chapter_date": "2017-12-10T06:30:00+08:00"
+					"chapter_date": "2017-12-16T20:52:00+08:00"
 				},
 				{
 					"chapter_index": 280,
@@ -3470,7 +3471,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "281"
 					},
-					"chapter_date": "2017-12-14T06:25:00+08:00"
+					"chapter_date": "2017-12-16T22:05:00+08:00"
 				},
 				{
 					"chapter_index": 281,
@@ -3482,7 +3483,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "282"
 					},
-					"chapter_date": "2017-12-18T07:09:00+08:00"
+					"chapter_date": "2017-12-21T18:30:00+08:00"
 				},
 				{
 					"chapter_index": 282,
@@ -3494,7 +3495,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "283"
 					},
-					"chapter_date": "2017-12-22T06:30:00+08:00"
+					"chapter_date": "2017-12-24T21:59:00+08:00"
 				},
 				{
 					"chapter_index": 283,
@@ -3506,7 +3507,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "284"
 					},
-					"chapter_date": "2017-12-26T07:16:00+08:00"
+					"chapter_date": "2017-12-29T20:55:00+08:00"
 				},
 				{
 					"chapter_index": 284,
@@ -3518,7 +3519,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "285"
 					},
-					"chapter_date": "2017-12-30T05:16:00+08:00"
+					"chapter_date": "2018-01-03T11:10:00+08:00"
 				},
 				{
 					"chapter_index": 285,
@@ -3530,7 +3531,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "286"
 					},
-					"chapter_date": "2018-01-03T08:04:00+08:00"
+					"chapter_date": "2018-01-06T17:00:00+08:00"
 				},
 				{
 					"chapter_index": 286,
@@ -3542,7 +3543,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "287"
 					},
-					"chapter_date": "2018-01-07T06:19:00+08:00"
+					"chapter_date": "2018-01-11T19:38:00+08:00"
 				},
 				{
 					"chapter_index": 287,
@@ -3554,7 +3555,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "288"
 					},
-					"chapter_date": "2018-01-11T06:42:00+08:00"
+					"chapter_date": "2018-02-04T02:06:00+08:00"
 				},
 				{
 					"chapter_index": 288,
@@ -3566,7 +3567,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "289"
 					},
-					"chapter_date": "2018-01-19T03:28:00+08:00"
+					"chapter_date": "2018-01-26T23:34:00+08:00"
 				},
 				{
 					"chapter_index": 289,
@@ -3578,7 +3579,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "290"
 					},
-					"chapter_date": "2018-01-23T06:10:00+08:00"
+					"chapter_date": "2018-01-27T00:54:00+08:00"
 				},
 				{
 					"chapter_index": 290,
@@ -3590,7 +3591,7 @@
 						"novel_pid": "711674",
 						"chapter_id": "291"
 					},
-					"chapter_date": "2018-01-27T08:02:00+08:00"
+					"chapter_date": "2018-01-30T22:46:00+08:00"
 				},
 				{
 					"chapter_index": 291,
@@ -3602,11 +3603,23 @@
 						"novel_pid": "711674",
 						"chapter_id": "292"
 					},
-					"chapter_date": "2018-01-31T06:29:00+08:00"
+					"chapter_date": "2018-02-04T01:46:00+08:00"
+				},
+				{
+					"chapter_index": 292,
+					"chapter_title": "三百四十話　戦神の死に様",
+					"chapter_id": "293",
+					"chapter_url": "https://ncode.syosetu.com/txtdownload/dlstart/ncode/711674/?no=293&hankaku=0&code=utf-8&kaigyo=crlf",
+					"chapter_url_data": {
+						"url": "https://ncode.syosetu.com/txtdownload/dlstart/ncode/711674/?no=293&hankaku=0&code=utf-8&kaigyo=crlf",
+						"novel_pid": "711674",
+						"chapter_id": "293"
+					},
+					"chapter_date": "2018-02-05T01:10:00+08:00"
 				}
 			]
 		}
 	],
-	"checkdate": "2018-02-02T07:00:20+08:00",
+	"checkdate": "2018-02-05T06:16:08+08:00",
 	"imgs": []
 }
