@@ -25,6 +25,20 @@
 - 属性
 - 種族
 - 迷宮
+- R15
+- syosetu
+- いずれ主人公最強
+- いずれ復讐
+- アンデッド
+- ステータス
+- ネット小説大賞
+- ネット小説賞感想希望
+- ハーレム
+- ファンタジー
+- 成り上がり
+- 書籍化
+- 残酷な描写あり
+- 異世界転生
 - 
 
 # contribute
@@ -51,3 +65,4 @@
 
 - [四度目は嫌な死属性魔術師.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E5%9B%9B%E5%BA%A6%E7%9B%AE%E3%81%AF%E5%AB%8C%E3%81%AA%E6%AD%BB%E5%B1%9E%E6%80%A7%E9%AD%94%E8%A1%93%E5%B8%AB.ts)
 - [四度目 epub txt 格式整合 譯名統一](http://tieba.baidu.com/p/5531952815?pid=117529194602)
+- [dip.jp](https://narou.dip.jp/search.php?text=n1745ct&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索

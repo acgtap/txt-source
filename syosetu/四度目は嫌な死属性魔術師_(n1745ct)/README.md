@@ -5,8 +5,8 @@
 - source: http://ncode.syosetu.com/n1745ct/
 - cover: 
 - publisher: syosetu
-- date: 2018-02-05T01:10:00+08:00
-- status: 
+- date: 2018-02-05T21:13:00+08:00
+- status: 連載
 
 ## preface
 
@@ -26,7 +26,20 @@
 ## tags
 
 - node-novel
+- R15
 - syosetu
+- いずれ主人公最強
+- いずれ復讐
+- アンデッド
+- ステータス
+- ネット小説大賞
+- ネット小説賞感想希望
+- ハーレム
+- ファンタジー
+- 成り上がり
+- 書籍化
+- 残酷な描写あり
+- 異世界転生
 
 # contribute
 
@@ -40,3 +53,7 @@
 ## textlayout
 
 - allow_lf2: true
+
+# link
+
+- [dip.jp](https://narou.dip.jp/search.php?text=n1745ct&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
