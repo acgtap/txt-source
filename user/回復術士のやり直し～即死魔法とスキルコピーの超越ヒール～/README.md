@@ -3,7 +3,7 @@
 - title: 回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～
 - author: 月夜　涙（るい）
 - source: https://ncode.syosetu.com/n3512ds/
-- cover:
+- cover: http://img1.reactor.cc/pics/post/full/shiokonbu-Anime-Art-Anime-Anime-Ero-4194795.jpeg
 - publisher: syosetu
 - date: 2018-02-04T20:43:00+08:00
 - status: 連載
