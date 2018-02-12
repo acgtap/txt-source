@@ -3,6 +3,7 @@
 
 - title: 暗黒騎士物語　～勇者を倒すために魔王に召喚されました～
 - author: 根崎タケル
+- source: https://ncode.syosetu.com/n8961ch/
 - cover: http://souku.jp/information/campaign/nanana/img/bu99992572.jpg
 
 ## preface
