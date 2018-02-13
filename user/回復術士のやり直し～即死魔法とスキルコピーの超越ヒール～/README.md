@@ -44,6 +44,9 @@
 
 # contribute
 
+- 为了酱油瓶
+- laocun
+- 漆黑黑骑士
 
 # options
 
