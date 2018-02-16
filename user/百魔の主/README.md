@@ -65,6 +65,8 @@
 
 # contribute
 
+- 爱hihi520
+- 
 
 # options
 
