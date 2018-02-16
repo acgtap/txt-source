@@ -3,7 +3,7 @@
 - title: 百魔の主
 - author: 葵 大和
 - source: http://ncode.syosetu.com/n8125cd/
-- cover:
+- cover: https://images-na.ssl-images-amazon.com/images/I/81GV7RxvvLL.jpg
 - publisher: syosetu
 - date: 2017-11-02T22:51:00+08:00
 - status: 連載
@@ -67,6 +67,8 @@
 
 - 爱hihi520
 - zuohaiquan13
+- yao07181010
+- 不吃竹子的熊貓
 - 
 
 # options
