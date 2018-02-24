@@ -8,3 +8,6 @@
 !/dmzj_out/黑之魔王_(2367)/
 *.raw.txt
 *.raw.*
+*.json
+!/dmzj_out/**/*.json
+!/dmzj/**/*.json
