@@ -183,13 +183,9 @@
 　　　　　实体弓：甘狄拔
 　　　　　胸部大型魔法枪：金刚杵
 　技能　　亲愛的朋友【Swindler】
-
 　　　　　卑劣的俯瞰者【LifeTorture】
-
 　　　　　正義的伙伴【Braver】
-
 　　　　　消失于雾的恶意【SorceryChaff】
-
 　能力　　Lv.36
 　　　　　HP　　 32200／36800
 　　　　　MP　　 15800／29700
