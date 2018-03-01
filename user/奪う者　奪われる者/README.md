@@ -56,6 +56,7 @@
 - 黑谷稻草
 - 贼丶少
 - ZoidsTREE
+- gluesy
 - 
 
 # options
