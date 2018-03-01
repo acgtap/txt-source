@@ -57,6 +57,8 @@
 - 贼丶少
 - ZoidsTREE
 - gluesy
+- on哥
+- iam0245
 - 
 
 # options
