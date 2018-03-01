@@ -56,6 +56,11 @@
 - 黑谷稻草
 - 贼丶少
 - ZoidsTREE
+- gluesy
+- on哥
+- iam0245
+- qaz20411
+- 唔好死呀
 - 
 
 # options

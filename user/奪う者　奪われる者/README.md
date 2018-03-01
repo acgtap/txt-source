@@ -59,6 +59,8 @@
 - gluesy
 - on哥
 - iam0245
+- qaz20411
+- 唔好死呀
 - 
 
 # options
