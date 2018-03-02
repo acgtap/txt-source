@@ -3,7 +3,7 @@
 - title: 魔王様、リトライ！
 - author: 神埼　黒音
 - source: http://ncode.syosetu.com/n6789do/
-- cover:
+- cover: http://1.bp.blogspot.com/-8T7bmTGvhi8/Wfig3_jSYrI/AAAAAAADUxE/fPMNhAwtTUYxuPHv-LVSG-edussPsxMQACHMYCw/s0/Maou-sama,_Retry!.jpg
 - publisher: syosetu
 - date: 2018-02-10T15:23:00+08:00
 - status: 連載
