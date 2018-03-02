@@ -57,6 +57,13 @@
 # contribute
 
 - 我的专用收藏
+- 过气渣机翻
+- 穿礼服的企鹅
+- 透明的忆念
+- 扁意粉豬仔包
+- 獨翼天使
+- 迪斯托爾夏夫特
+- 
 
 # options
 
@@ -71,5 +78,6 @@
 # link
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n6789do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
+- [重来吧魔王大人](https://tieba.baidu.com/f?kw=%E9%87%8D%E6%9D%A5%E5%90%A7%E9%AD%94%E7%8E%8B%E5%A4%A7%E4%BA%BA)
 
 
