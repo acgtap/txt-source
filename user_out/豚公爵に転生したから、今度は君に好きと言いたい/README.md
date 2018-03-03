@@ -3,7 +3,7 @@
 - title: 豚公爵に転生したから、今度は君に好きと言いたい
 - author: 合田拍子（グルグル魔）
 - source: https://kakuyomu.jp/works/4852201425154898215#table-of-contents
-- cover:
+- cover: https://images-na.ssl-images-amazon.com/images/I/81fy9B30leL.jpg
 - publisher: kakuyomu
 - date:
 - status: 連載
@@ -47,6 +47,7 @@
 
 - 庫喵
 - 不买不约不要
+- 弒澪
 - 
 
 # options
