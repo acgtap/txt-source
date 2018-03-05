@@ -55,6 +55,7 @@
 # contribute
 
 - whoisit080
+- 等死的小丑
 
 # options
 
