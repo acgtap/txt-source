@@ -71,5 +71,6 @@
 # link
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n9055cl&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
-
+- [悠久的愚者阿兹利的贤者的推荐吧](https://tieba.baidu.com/f?kw=%E6%82%A0%E4%B9%85%E7%9A%84%E6%84%9A%E8%80%85%E9%98%BF%E5%85%B9%E5%88%A9%E7%9A%84%E8%B4%A4%E8%80%85%E7%9A%84%E6%8E%A8%E8%8D%90&ie=utf-8 "悠久的愚者阿兹利的贤者的推荐")
+- 
 
