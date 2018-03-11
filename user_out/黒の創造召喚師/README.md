@@ -48,3 +48,8 @@
 
 # link
 
+- https://www.alphapolis.co.jp/novel/65142395/53069496
+- https://www.alphapolis.co.jp/manga/official/416000120
+- [黑之创造召唤师吧](https://tieba.baidu.com/f?kw=%E9%BB%91%E4%B9%8B%E5%88%9B%E9%80%A0%E5%8F%AC%E5%94%A4%E5%B8%88&ie=utf-8 "黑之创造召唤师")
+
+
