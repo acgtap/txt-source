@@ -3,14 +3,14 @@
 - title: 物語の中の銀の髪
 - author: 憑依
 - source: http://ncode.syosetu.com/n6778x/
-- cover: 
+- cover:
 - publisher: syosetu
 - date: 2014-04-09T22:33:00+08:00
 - status: 完結済
 
 ## series
 
-- name: 
+- name:
 
 ## preface
 
@@ -32,6 +32,7 @@
 
 # contribute
 
+- sam135tw
 
 # options
 
