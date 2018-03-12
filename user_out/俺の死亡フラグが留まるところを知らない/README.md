@@ -1,9 +1,9 @@
 # novel
 
 - title: 俺の死亡フラグが留まるところを知らない
-- author: https://images-na.ssl-images-amazon.com/images/I/81vLZRct-ZL.jpg
+- author: 泉
 - source: http://ncode.syosetu.com/n4449cj/
-- cover:
+- cover: https://images-na.ssl-images-amazon.com/images/I/81vLZRct-ZL.jpg
 - publisher: syosetu
 - date: 2018-03-12T01:47:00+08:00
 - status: 連載
