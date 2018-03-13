@@ -3,7 +3,7 @@
 - title: 乙女ゲームの悪（中略）ヒロインが鬼畜女装野郎だったので、助けて下さい
 - author: 空飛ぶひよこ
 - source: http://ncode.syosetu.com/n1721cj/
-- cover:
+- cover: https://i.pinimg.com/originals/df/bc/ba/dfbcbaada54ea2000453adf0a7cf0d45.png
 - publisher: syosetu
 - date: 2017-10-15T22:01:00+08:00
 - status: 完結済
