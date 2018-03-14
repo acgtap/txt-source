@@ -3,7 +3,7 @@
 - title: 蘇りの魔王
 - author: 丘/丘野　優
 - source: http://ncode.syosetu.com/n8162cb/
-- cover:
+- cover: https://images-na.ssl-images-amazon.com/images/I/51hsnSLw1hL._SX352_BO1,204,203,200_.jpg
 - publisher: syosetu
 - date: 2017-04-30T00:23:00+08:00
 - status: 連載
@@ -61,5 +61,7 @@
 # link
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n8162cb&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
+- [苏生的魔王吧](https://tieba.baidu.com/f?kw=%E8%8B%8F%E7%94%9F%E7%9A%84%E9%AD%94%E7%8E%8B&ie=utf-8&tp=0 "")
+- 
 
 
