@@ -3,7 +3,7 @@
 - title: 俺の異世界姉妹が自重しない！
 - author: 緋色の雨
 - source: http://ncode.syosetu.com/n4696dd/
-- cover:
+- cover: https://images-na.ssl-images-amazon.com/images/I/91B09g6yMAL.jpg
 - publisher: syosetu
 - date: 2018-03-08T00:09:00+08:00
 - status: 完結済
