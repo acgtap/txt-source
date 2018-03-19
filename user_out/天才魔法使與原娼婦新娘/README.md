@@ -3,7 +3,7 @@
 - title: 天才魔法使與原娼婦新娘
 - author: 神代家家長
 - source: http://ncode.syosetu.com/n2027de/
-- cover:
+- cover: https://d1hc4zdhstp3wq.cloudfront.net/img/goods/L/321709000621.jpg
 - publisher: syosetu
 - date: 2017-01-12T20:43:00+08:00
 - status: 完結済
