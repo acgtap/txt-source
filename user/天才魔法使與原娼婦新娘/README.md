@@ -1,6 +1,7 @@
 # novel
 
-- title: 天才魔法使與原娼婦新娘
+- title: リアルでガチな天才が異世界に転生しても天才魔法使いになって元娼婦嫁とイチャイチャする話。
+- title_zh: 天才魔法使與原娼婦新娘
 - author: 神代家家長
 - source: http://ncode.syosetu.com/n2027de/
 - cover: https://d1hc4zdhstp3wq.cloudfront.net/img/goods/L/321709000621.jpg
