@@ -53,6 +53,7 @@
 - Yじゅん
 - 阿難
 - 無氣力型亞瑟
+- ChrisLiu
 - 
 
 # options
