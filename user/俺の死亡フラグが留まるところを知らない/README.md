@@ -1,6 +1,7 @@
 # novel
 
 - title: 俺の死亡フラグが留まるところを知らない
+- title_zh: 不知我的死亡flag将于何处停止
 - author: 泉
 - source: http://ncode.syosetu.com/n4449cj/
 - cover: https://images-na.ssl-images-amazon.com/images/I/81vLZRct-ZL.jpg
@@ -50,6 +51,9 @@
 - 灰色霉菌
 - 金屬記憶
 - Yじゅん
+- 阿難
+- 無氣力型亞瑟
+- ChrisLiu
 - 
 
 # options
