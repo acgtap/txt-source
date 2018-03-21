@@ -3,7 +3,7 @@
 - title: その者。のちに・・・
 - author: ナハァト
 - source: http://ncode.syosetu.com/n9442cw/
-- cover:
+- cover: https://images-na.ssl-images-amazon.com/images/I/91z4OxPuKCL.jpg
 - publisher: syosetu
 - date: 2016-08-15T09:52:00+08:00
 - status: 完結済
