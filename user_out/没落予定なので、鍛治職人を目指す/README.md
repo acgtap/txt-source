@@ -44,7 +44,23 @@
 
 - 米丶罐头
 - 不幸之地
+- 海市蜃楼谁不识
+- wxa990625
+- fdgf253
+- FleavesG
+- 白色竹輪村長
+- 邺灭天择
+- jtam2204
+- 人生不吃醒
+- 天灾级尻耳尾控
+- Imouto神
+- 杯具伪lolicon
+- wxa990625
+- dayFQsa
+- 不幸之地
+- 0066ch
 - 
+
 
 # options
 
@@ -59,5 +75,7 @@
 # link
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n7940cn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
+- [没落预订吧](https://tieba.baidu.com/f?kw=%E6%B2%A1%E8%90%BD%E9%A2%84%E8%AE%A2&ie=utf-8 "")
+- 
 
 
