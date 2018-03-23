@@ -20,5 +20,7 @@
 
 ## 其他說明
 
+請無視標題
+
 1. [Pull Request #3](https://gitee.com/bluelovers/novel/pulls/3)
-2. 
+2. [Issues 閒聊用 ](https://gitee.com/bluelovers/novel/issues/IIIU4)
