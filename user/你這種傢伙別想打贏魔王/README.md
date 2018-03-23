@@ -2,6 +2,7 @@
 
 - title: 「お前ごときが魔王に勝てると思うな」とガチ勢に勇者パーティを追放されたので、王都で気ままに暮らしたい
 - title_short: お前ごときが魔王に勝てると思うな
+- title_zh: 你這種傢伙別想打贏魔王
 - author: kiki
 - source: http://ncode.syosetu.com/n5361em/
 - cover:
