@@ -70,3 +70,5 @@
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n7933eb&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [人喰い転移者の異世界復讐譚～無能はスキル『捕食』で成り上が～](https://tieba.baidu.com/p/5322052155 "人喰い転移者の異世界復讐譚～無能はスキル『捕食』で成り上が～")
+- [千爱的陨石坑吧](https://tieba.baidu.com/f?kw=%E5%8D%83%E7%88%B1%E7%9A%84%E9%99%A8%E7%9F%B3%E5%9D%91&ie=utf-8&tp=0 "千爱的陨石坑")
+
