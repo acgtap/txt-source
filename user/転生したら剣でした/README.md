@@ -71,3 +71,5 @@
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n6006cw&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [epub 个人化的版本](https://tieba.baidu.com/p/5513371170 "epub 个人化的版本")
+- [转生成为魔剑吧](https://tieba.baidu.com/f?kw=%E8%BD%AC%E7%94%9F%E6%88%90%E4%B8%BA%E9%AD%94%E5%89%91&ie=utf-8 "转生成为魔剑")
+- 
