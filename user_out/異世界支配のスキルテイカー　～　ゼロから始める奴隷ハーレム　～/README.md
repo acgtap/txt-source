@@ -4,7 +4,7 @@
 - title_zh: 支配异世界的技能掠夺者
 - author: 柑橘ゆすら
 - source: http://ncode.syosetu.com/n0822cl/
-- cover:
+- cover: https://images-na.ssl-images-amazon.com/images/I/61b1C0hZdQL._SX349_BO1,204,203,200_.jpg
 - publisher: syosetu
 - date: 2018-03-25T12:52:00+08:00
 - status: 連載
