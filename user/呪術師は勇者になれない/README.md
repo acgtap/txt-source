@@ -3,7 +3,7 @@
 - title: 呪術師は勇者になれない
 - author: 菱影代理
 - source: http://ncode.syosetu.com/n1132dk/
-- cover:
+- cover: https://images-na.ssl-images-amazon.com/images/I/91yzBCP%2BeUL.jpg
 - publisher: syosetu
 - date: 2018-03-30T17:00:00+08:00
 - status: 連載
