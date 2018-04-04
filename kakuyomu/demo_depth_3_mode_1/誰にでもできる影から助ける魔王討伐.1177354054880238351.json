@@ -1,0 +1,4700 @@
+{
+	"novel": {
+		"tags": [
+			"異世界ファンタジー",
+			"勇者",
+			"魔王",
+			"ヒーラー",
+			"プリースト",
+			"ライトノベル",
+			"カクヨムオンリー",
+			"ファンタジー"
+		],
+		"status": "連載中"
+	},
+	"url": "https://kakuyomu.jp/works/1177354054880238351",
+	"url_data": {
+		"url": "https://kakuyomu.jp/works/1177354054880238351",
+		"novel_pid": null,
+		"novel_id": "1177354054880238351"
+	},
+	"novel_title": "誰にでもできる影から助ける魔王討伐",
+	"novel_author": "槻影",
+	"novel_desc": "これは……ビジネスだ\n槻影\n\n魔王クラノスが人類に宣戦布告して十年。\n強大極まりないクラノスの軍に劣勢に立たされ、退っ引きならない状態に陥った王国は教会の持つ禁断の秘奥、英雄召喚の実施を決定した。\n\n召喚された聖勇者、藤堂直継の栄えあるパーティメンバーにプリースト（ヒーラー）として選ばれた俺は、残りのパーティメンバーとして選ばれた二人、魔導師と剣士が原石であり、まだ第一線で戦える実力にない事に気づく。\n果たして俺は魔王からの尖兵をしのぎ切り、勇者とその仲間達をレベルアップさせることはできるのか！？\n\n\n＊＊＊＊\nエンターブレインさんより書籍、三巻まで発売中。\nそれぞれ書き下ろし他ステータスなどが収録されていますのでよろしくお願いします。\n\nまた、ComicWalkerにて漫画版が連載中です。詳しくは近況ノートをご確認ください。\n\n引き続き、Web版書籍版共々よろしくお願いします。",
+	"novel_date": "2018-01-17T23:00:45+08:00",
+	"novel_publisher": "kakuyomu",
+	"novelTree": {
+		"id": "rkgaG8IMjG",
+		"parent": null,
+		"content": {
+			"type": "root",
+			"level": 0,
+			"dirname": ""
+		},
+		"children": [
+			{
+				"id": "r1CzIIzjz",
+				"parent": "rkgaG8IMjG",
+				"content": {
+					"volume_title": "第一部　ヴェール大森林",
+					"volume_level": 1,
+					"volume_index": 0,
+					"total_idx": 0,
+					"type": "volume",
+					"level": 1,
+					"name": "第一部　ヴェール大森林",
+					"idx": 0,
+					"dirname": "00000_第一部　ヴェール大森林"
+				},
+				"children": [
+					{
+						"id": "SylRGULfsf",
+						"parent": "r1CzIIzjz",
+						"content": {
+							"chapter_title": "Prologue：集まる英雄たち",
+							"chapter_id": "1177354054880238419",
+							"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880238419",
+							"chapter_url_data": {
+								"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880238419",
+								"novel_pid": null,
+								"novel_id": "1177354054880238351",
+								"chapter_id": "1177354054880238419"
+							},
+							"chapter_date": "2016-02-28T19:48:55+08:00",
+							"chapter_index": 0,
+							"total_idx": 1,
+							"type": "chapter",
+							"level": 2,
+							"name": "Prologue：集まる英雄たち",
+							"idx": 0,
+							"path": "00000_第一部　ヴェール大森林/00000_Prologue：集まる英雄たち.txt"
+						}
+					},
+					{
+						"id": "Hk-RzUIMsf",
+						"parent": "r1CzIIzjz",
+						"content": {
+							"volume_title": "第一報告　勇者の性能と動向について",
+							"volume_level": 2,
+							"volume_index": 1,
+							"total_idx": 2,
+							"type": "volume",
+							"level": 2,
+							"name": "第一報告　勇者の性能と動向について",
+							"idx": 1,
+							"dirname": "00000_第一部　ヴェール大森林/00010_第一報告　勇者の性能と動向について"
+						},
+						"children": [
+							{
+								"id": "HJzAM88MjG",
+								"parent": "Hk-RzUIMsf",
+								"content": {
+									"chapter_title": "第一レポート：現状と今後の対応について",
+									"chapter_id": "1177354054880289448",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880289448",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880289448",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880289448"
+									},
+									"chapter_date": "2016-03-01T02:37:53+08:00",
+									"chapter_index": 0,
+									"total_idx": 3,
+									"type": "chapter",
+									"level": 3,
+									"name": "第一レポート：現状と今後の対応について",
+									"idx": 0,
+									"path": "00000_第一部　ヴェール大森林/00010_第一報告　勇者の性能と動向について/00000_第一レポート：現状と今後の対応について.txt"
+								}
+							},
+							{
+								"id": "Sy7RM8IGoM",
+								"parent": "Hk-RzUIMsf",
+								"content": {
+									"chapter_title": "第二レポート：この勇者、不安定につき",
+									"chapter_id": "1177354054880322425",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880322425",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880322425",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880322425"
+									},
+									"chapter_date": "2016-03-02T01:48:47+08:00",
+									"chapter_index": 1,
+									"total_idx": 4,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二レポート：この勇者、不安定につき",
+									"idx": 1,
+									"path": "00000_第一部　ヴェール大森林/00010_第一報告　勇者の性能と動向について/00010_第二レポート：この勇者、不安定につき.txt"
+								}
+							},
+							{
+								"id": "B14CMLUzjf",
+								"parent": "Hk-RzUIMsf",
+								"content": {
+									"chapter_title": "第三レポート：非常に繊細なる配慮を要し",
+									"chapter_id": "1177354054880351064",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880351064",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880351064",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880351064"
+									},
+									"chapter_date": "2016-03-03T04:23:49+08:00",
+									"chapter_index": 2,
+									"total_idx": 5,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三レポート：非常に繊細なる配慮を要し",
+									"idx": 2,
+									"path": "00000_第一部　ヴェール大森林/00010_第一報告　勇者の性能と動向について/00020_第三レポート：非常に繊細なる配慮を要し.txt"
+								}
+							},
+							{
+								"id": "rJSAz8IfiG",
+								"parent": "Hk-RzUIMsf",
+								"content": {
+									"chapter_title": "第四レポート：その所作は未だ未熟にして",
+									"chapter_id": "1177354054880371130",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880371130",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880371130",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880371130"
+									},
+									"chapter_date": "2016-03-03T23:15:59+08:00",
+									"chapter_index": 3,
+									"total_idx": 6,
+									"type": "chapter",
+									"level": 3,
+									"name": "第四レポート：その所作は未だ未熟にして",
+									"idx": 3,
+									"path": "00000_第一部　ヴェール大森林/00010_第一報告　勇者の性能と動向について/00030_第四レポート：その所作は未だ未熟にして.txt"
+								}
+							},
+							{
+								"id": "SyI0MUIfoM",
+								"parent": "Hk-RzUIMsf",
+								"content": {
+									"chapter_title": "第五レポート：自らの身の上への思慮も足らず",
+									"chapter_id": "1177354054880393117",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880393117",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880393117",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880393117"
+									},
+									"chapter_date": "2016-03-04T23:00:21+08:00",
+									"chapter_index": 4,
+									"total_idx": 7,
+									"type": "chapter",
+									"level": 3,
+									"name": "第五レポート：自らの身の上への思慮も足らず",
+									"idx": 4,
+									"path": "00000_第一部　ヴェール大森林/00010_第一報告　勇者の性能と動向について/00040_第五レポート：自らの身の上への思慮も足らず.txt"
+								}
+							},
+							{
+								"id": "HkvRzU8Gsz",
+								"parent": "Hk-RzUIMsf",
+								"content": {
+									"chapter_title": "第六レポート：その正義は敗北に通ず",
+									"chapter_id": "1177354054880427383",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880427383",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880427383",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880427383"
+									},
+									"chapter_date": "2016-03-06T16:41:34+08:00",
+									"chapter_index": 5,
+									"total_idx": 8,
+									"type": "chapter",
+									"level": 3,
+									"name": "第六レポート：その正義は敗北に通ず",
+									"idx": 5,
+									"path": "00000_第一部　ヴェール大森林/00010_第一報告　勇者の性能と動向について/00050_第六レポート：その正義は敗北に通ず.txt"
+								}
+							},
+							{
+								"id": "H1_0zIUziz",
+								"parent": "Hk-RzUIMsf",
+								"content": {
+									"chapter_title": "第七レポート：あらゆる手法を講じ",
+									"chapter_id": "1177354054880438679",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880438679",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880438679",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880438679"
+									},
+									"chapter_date": "2016-03-07T02:18:57+08:00",
+									"chapter_index": 6,
+									"total_idx": 9,
+									"type": "chapter",
+									"level": 3,
+									"name": "第七レポート：あらゆる手法を講じ",
+									"idx": 6,
+									"path": "00000_第一部　ヴェール大森林/00010_第一報告　勇者の性能と動向について/00060_第七レポート：あらゆる手法を講じ.txt"
+								}
+							},
+							{
+								"id": "ByKCMLUziz",
+								"parent": "Hk-RzUIMsf",
+								"content": {
+									"chapter_title": "第八レポート：旅路は苦難に満ち",
+									"chapter_id": "1177354054880448102",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880448102",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880448102",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880448102"
+									},
+									"chapter_date": "2016-03-07T23:00:42+08:00",
+									"chapter_index": 7,
+									"total_idx": 10,
+									"type": "chapter",
+									"level": 3,
+									"name": "第八レポート：旅路は苦難に満ち",
+									"idx": 7,
+									"path": "00000_第一部　ヴェール大森林/00010_第一報告　勇者の性能と動向について/00070_第八レポート：旅路は苦難に満ち.txt"
+								}
+							},
+							{
+								"id": "HJ50fI8Gif",
+								"parent": "Hk-RzUIMsf",
+								"content": {
+									"chapter_title": "第九レポート：しかして勇者は戦神に似て",
+									"chapter_id": "1177354054880471824",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880471824",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880471824",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880471824"
+									},
+									"chapter_date": "2016-03-08T23:00:17+08:00",
+									"chapter_index": 8,
+									"total_idx": 11,
+									"type": "chapter",
+									"level": 3,
+									"name": "第九レポート：しかして勇者は戦神に似て",
+									"idx": 8,
+									"path": "00000_第一部　ヴェール大森林/00010_第一報告　勇者の性能と動向について/00080_第九レポート：しかして勇者は戦神に似て.txt"
+								}
+							},
+							{
+								"id": "ryoRM88GoG",
+								"parent": "Hk-RzUIMsf",
+								"content": {
+									"chapter_title": "第十レポート：その道筋に光明が差し",
+									"chapter_id": "1177354054880482787",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880482787",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880482787",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880482787"
+									},
+									"chapter_date": "2016-03-09T23:00:22+08:00",
+									"chapter_index": 9,
+									"total_idx": 12,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十レポート：その道筋に光明が差し",
+									"idx": 9,
+									"path": "00000_第一部　ヴェール大森林/00010_第一報告　勇者の性能と動向について/00090_第十レポート：その道筋に光明が差し.txt"
+								}
+							},
+							{
+								"id": "ry20GLIfjf",
+								"parent": "Hk-RzUIMsf",
+								"content": {
+									"chapter_title": "第十一レポート：",
+									"chapter_id": "1177354054880496789",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880496789",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880496789",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880496789"
+									},
+									"chapter_date": "2016-03-10T23:00:32+08:00",
+									"chapter_index": 10,
+									"total_idx": 13,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十一レポート：",
+									"idx": 10,
+									"path": "00000_第一部　ヴェール大森林/00010_第一報告　勇者の性能と動向について/00100_第十一レポート：.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "SJp0z8IfiG",
+						"parent": "r1CzIIzjz",
+						"content": {
+							"volume_title": "第二報告　勇者の足跡とこちらの体制について",
+							"volume_level": 2,
+							"volume_index": 2,
+							"total_idx": 14,
+							"type": "volume",
+							"level": 2,
+							"name": "第二報告　勇者の足跡とこちらの体制について",
+							"idx": 2,
+							"dirname": "00000_第一部　ヴェール大森林/00020_第二報告　勇者の足跡とこちらの体制について"
+						},
+						"children": [
+							{
+								"id": "HkAAfIIfjz",
+								"parent": "SJp0z8IfiG",
+								"content": {
+									"chapter_title": "第十二レポート：信仰は微塵の役にも立たず",
+									"chapter_id": "1177354054880511703",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880511703",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880511703",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880511703"
+									},
+									"chapter_date": "2016-03-11T23:00:03+08:00",
+									"chapter_index": 0,
+									"total_idx": 15,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十二レポート：信仰は微塵の役にも立たず",
+									"idx": 0,
+									"path": "00000_第一部　ヴェール大森林/00020_第二報告　勇者の足跡とこちらの体制について/00000_第十二レポート：信仰は微塵の役にも立たず.txt"
+								}
+							},
+							{
+								"id": "HyJeAfILGjG",
+								"parent": "SJp0z8IfiG",
+								"content": {
+									"chapter_title": "第十三レポート：さりとて宿命はその手にあり",
+									"chapter_id": "1177354054880533228",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880533228",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880533228",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880533228"
+									},
+									"chapter_date": "2016-03-12T23:18:13+08:00",
+									"chapter_index": 1,
+									"total_idx": 16,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十三レポート：さりとて宿命はその手にあり",
+									"idx": 1,
+									"path": "00000_第一部　ヴェール大森林/00020_第二報告　勇者の足跡とこちらの体制について/00010_第十三レポート：さりとて宿命はその手にあり.txt"
+								}
+							},
+							{
+								"id": "S1xg0zUIGjz",
+								"parent": "SJp0z8IfiG",
+								"content": {
+									"chapter_title": "第十四レポート：その敵は魔だけにあらず",
+									"chapter_id": "1177354054880544694",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880544694",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880544694",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880544694"
+									},
+									"chapter_date": "2016-03-13T23:00:44+08:00",
+									"chapter_index": 2,
+									"total_idx": 17,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十四レポート：その敵は魔だけにあらず",
+									"idx": 2,
+									"path": "00000_第一部　ヴェール大森林/00020_第二報告　勇者の足跡とこちらの体制について/00020_第十四レポート：その敵は魔だけにあらず.txt"
+								}
+							},
+							{
+								"id": "Hkbg0fI8fiM",
+								"parent": "SJp0z8IfiG",
+								"content": {
+									"chapter_title": "第十五レポート：その勇者の足跡をたどり",
+									"chapter_id": "1177354054880555763",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880555763",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880555763",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880555763"
+									},
+									"chapter_date": "2016-03-14T23:00:16+08:00",
+									"chapter_index": 3,
+									"total_idx": 18,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十五レポート：その勇者の足跡をたどり",
+									"idx": 3,
+									"path": "00000_第一部　ヴェール大森林/00020_第二報告　勇者の足跡とこちらの体制について/00030_第十五レポート：その勇者の足跡をたどり.txt"
+								}
+							},
+							{
+								"id": "B1Mx0zI8zif",
+								"parent": "SJp0z8IfiG",
+								"content": {
+									"chapter_title": "第十六レポート：万事が上手く転がる事なく",
+									"chapter_id": "1177354054880566086",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880566086",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880566086",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880566086"
+									},
+									"chapter_date": "2016-03-15T23:00:27+08:00",
+									"chapter_index": 4,
+									"total_idx": 19,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十六レポート：万事が上手く転がる事なく",
+									"idx": 4,
+									"path": "00000_第一部　ヴェール大森林/00020_第二報告　勇者の足跡とこちらの体制について/00040_第十六レポート：万事が上手く転がる事なく.txt"
+								}
+							},
+							{
+								"id": "BkXgRz8Lfoz",
+								"parent": "SJp0z8IfiG",
+								"content": {
+									"chapter_title": "第十七レポート：",
+									"chapter_id": "1177354054880581070",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880581070",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880581070",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880581070"
+									},
+									"chapter_date": "2016-03-16T23:00:27+08:00",
+									"chapter_index": 5,
+									"total_idx": 20,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十七レポート：",
+									"idx": 5,
+									"path": "00000_第一部　ヴェール大森林/00020_第二報告　勇者の足跡とこちらの体制について/00050_第十七レポート：.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "ryNlAGILGoM",
+						"parent": "r1CzIIzjz",
+						"content": {
+							"volume_title": "幕間その１",
+							"volume_level": 2,
+							"volume_index": 3,
+							"total_idx": 21,
+							"type": "volume",
+							"level": 2,
+							"name": "幕間その１",
+							"idx": 3,
+							"dirname": "00000_第一部　ヴェール大森林/00030_幕間その１"
+						},
+						"children": [
+							{
+								"id": "rJBeAGI8Msz",
+								"parent": "ryNlAGILGoM",
+								"content": {
+									"chapter_title": "英雄の唄",
+									"chapter_id": "1177354054880595209",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880595209",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880595209",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880595209"
+									},
+									"chapter_date": "2016-03-17T23:27:02+08:00",
+									"chapter_index": 0,
+									"total_idx": 22,
+									"type": "chapter",
+									"level": 3,
+									"name": "英雄の唄",
+									"idx": 0,
+									"path": "00000_第一部　ヴェール大森林/00030_幕間その１/00000_英雄の唄.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "BJUxRzI8GsG",
+						"parent": "r1CzIIzjz",
+						"content": {
+							"volume_title": "第三報告　聖勇者の起こすトラブルとその対応について",
+							"volume_level": 2,
+							"volume_index": 4,
+							"total_idx": 23,
+							"type": "volume",
+							"level": 2,
+							"name": "第三報告　聖勇者の起こすトラブルとその対応について",
+							"idx": 4,
+							"dirname": "00000_第一部　ヴェール大森林/00040_第三報告　聖勇者の起こすトラブルとその対応について"
+						},
+						"children": [
+							{
+								"id": "ryPeCzLLfjf",
+								"parent": "BJUxRzI8GsG",
+								"content": {
+									"chapter_title": "第十八レポート：アレスさんのレポートは冗長なので今度からは私が書きます",
+									"chapter_id": "1177354054880605317",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880605317",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880605317",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880605317"
+									},
+									"chapter_date": "2016-03-18T23:00:24+08:00",
+									"chapter_index": 0,
+									"total_idx": 24,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十八レポート：アレスさんのレポートは冗長なので今度からは私が書きます",
+									"idx": 0,
+									"path": "00000_第一部　ヴェール大森林/00040_第三報告　聖勇者の起こすトラブルとその対応について/00000_第十八レポート：アレスさんのレポートは冗長なので今度からは私が書きます.txt"
+								}
+							},
+							{
+								"id": "By_lRMU8foz",
+								"parent": "BJUxRzI8GsG",
+								"content": {
+									"chapter_title": "第十九レポート：行動開始・短所・欠乏",
+									"chapter_id": "1177354054880643078",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880643078",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880643078",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880643078"
+									},
+									"chapter_date": "2016-03-21T23:00:20+08:00",
+									"chapter_index": 1,
+									"total_idx": 25,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十九レポート：行動開始・短所・欠乏",
+									"idx": 1,
+									"path": "00000_第一部　ヴェール大森林/00040_第三報告　聖勇者の起こすトラブルとその対応について/00010_第十九レポート：行動開始・短所・欠乏.txt"
+								}
+							},
+							{
+								"id": "BktgRzILGjM",
+								"parent": "BJUxRzI8GsG",
+								"content": {
+									"chapter_title": "第二十レポート：正義・憤慨・攻勢",
+									"chapter_id": "1177354054880650583",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880650583",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880650583",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880650583"
+									},
+									"chapter_date": "2016-03-22T23:00:19+08:00",
+									"chapter_index": 2,
+									"total_idx": 26,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十レポート：正義・憤慨・攻勢",
+									"idx": 2,
+									"path": "00000_第一部　ヴェール大森林/00040_第三報告　聖勇者の起こすトラブルとその対応について/00020_第二十レポート：正義・憤慨・攻勢.txt"
+								}
+							},
+							{
+								"id": "SkclAM8Uzoz",
+								"parent": "BJUxRzI8GsG",
+								"content": {
+									"chapter_title": "第二十一レポート：証拠隠滅・保護",
+									"chapter_id": "1177354054880678038",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880678038",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880678038",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880678038"
+									},
+									"chapter_date": "2016-03-24T23:35:46+08:00",
+									"chapter_index": 3,
+									"total_idx": 27,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十一レポート：証拠隠滅・保護",
+									"idx": 3,
+									"path": "00000_第一部　ヴェール大森林/00040_第三報告　聖勇者の起こすトラブルとその対応について/00030_第二十一レポート：証拠隠滅・保護.txt"
+								}
+							},
+							{
+								"id": "HJy7LIfjG",
+								"parent": "BJUxRzI8GsG",
+								"content": {
+									"chapter_title": "第二十二レポート：交渉・妥協・デジャヴ",
+									"chapter_id": "1177354054880701354",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880701354",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880701354",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880701354"
+									},
+									"chapter_date": "2016-03-27T00:30:57+08:00",
+									"chapter_index": 4,
+									"total_idx": 28,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十二レポート：交渉・妥協・デジャヴ",
+									"idx": 4,
+									"path": "00000_第一部　ヴェール大森林/00040_第三報告　聖勇者の起こすトラブルとその対応について/00040_第二十二レポート：交渉・妥協・デジャヴ.txt"
+								}
+							},
+							{
+								"id": "B1xJmLIzoM",
+								"parent": "BJUxRzI8GsG",
+								"content": {
+									"chapter_title": "第二十三レポート：是正・挑戦",
+									"chapter_id": "1177354054880730807",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880730807",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880730807",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880730807"
+									},
+									"chapter_date": "2016-03-29T19:28:13+08:00",
+									"chapter_index": 5,
+									"total_idx": 29,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十三レポート：是正・挑戦",
+									"idx": 5,
+									"path": "00000_第一部　ヴェール大森林/00040_第三報告　聖勇者の起こすトラブルとその対応について/00050_第二十三レポート：是正・挑戦.txt"
+								}
+							},
+							{
+								"id": "Sk-km8UMjz",
+								"parent": "BJUxRzI8GsG",
+								"content": {
+									"chapter_title": "第二十四レポート：追跡・接敵",
+									"chapter_id": "1177354054880751983",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880751983",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880751983",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880751983"
+									},
+									"chapter_date": "2016-03-31T22:26:08+08:00",
+									"chapter_index": 6,
+									"total_idx": 30,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十四レポート：追跡・接敵",
+									"idx": 6,
+									"path": "00000_第一部　ヴェール大森林/00040_第三報告　聖勇者の起こすトラブルとその対応について/00060_第二十四レポート：追跡・接敵.txt"
+								}
+							},
+							{
+								"id": "Byfk78LzsG",
+								"parent": "BJUxRzI8GsG",
+								"content": {
+									"chapter_title": "第二十五レポート：交戦",
+									"chapter_id": "1177354054880782009",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880782009",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880782009",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880782009"
+									},
+									"chapter_date": "2016-04-03T22:04:21+08:00",
+									"chapter_index": 7,
+									"total_idx": 31,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十五レポート：交戦",
+									"idx": 7,
+									"path": "00000_第一部　ヴェール大森林/00040_第三報告　聖勇者の起こすトラブルとその対応について/00070_第二十五レポート：交戦.txt"
+								}
+							},
+							{
+								"id": "B1QyX8UfjM",
+								"parent": "BJUxRzI8GsG",
+								"content": {
+									"chapter_title": "第二十六レポート：あ……え？　あ、取り敢えず今回の報告は終わりです。",
+									"chapter_id": "1177354054880805038",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880805038",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880805038",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880805038"
+									},
+									"chapter_date": "2016-04-06T11:38:32+08:00",
+									"chapter_index": 8,
+									"total_idx": 32,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十六レポート：あ……え？　あ、取り敢えず今回の報告は終わりです。",
+									"idx": 8,
+									"path": "00000_第一部　ヴェール大森林/00040_第三報告　聖勇者の起こすトラブルとその対応について/00080_第二十六レポート：あ……え？　あ、取り敢えず今回の報告は終わりです。.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "Bk4kmL8fif",
+						"parent": "r1CzIIzjz",
+						"content": {
+							"volume_title": "第四報告　勇者サポートの現状",
+							"volume_level": 2,
+							"volume_index": 5,
+							"total_idx": 33,
+							"type": "volume",
+							"level": 2,
+							"name": "第四報告　勇者サポートの現状",
+							"idx": 5,
+							"dirname": "00000_第一部　ヴェール大森林/00050_第四報告　勇者サポートの現状"
+						},
+						"children": [
+							{
+								"id": "SkSk7IIfjM",
+								"parent": "Bk4kmL8fif",
+								"content": {
+									"chapter_title": "第二十七レポート：今回の報告は愚痴書くわ",
+									"chapter_id": "1177354054880830307",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880830307",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880830307",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880830307"
+									},
+									"chapter_date": "2016-04-08T22:07:38+08:00",
+									"chapter_index": 0,
+									"total_idx": 34,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十七レポート：今回の報告は愚痴書くわ",
+									"idx": 0,
+									"path": "00000_第一部　ヴェール大森林/00050_第四報告　勇者サポートの現状/00000_第二十七レポート：今回の報告は愚痴書くわ.txt"
+								}
+							},
+							{
+								"id": "Bk8k7ILGoz",
+								"parent": "Bk4kmL8fif",
+								"content": {
+									"chapter_title": "第二十八レポート：変な加護は持っているし",
+									"chapter_id": "1177354054880855763",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880855763",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880855763",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880855763"
+									},
+									"chapter_date": "2016-04-12T15:59:30+08:00",
+									"chapter_index": 1,
+									"total_idx": 35,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十八レポート：変な加護は持っているし",
+									"idx": 1,
+									"path": "00000_第一部　ヴェール大森林/00050_第四報告　勇者サポートの現状/00010_第二十八レポート：変な加護は持っているし.txt"
+								}
+							},
+							{
+								"id": "BkwJ7ILGiz",
+								"parent": "Bk4kmL8fif",
+								"content": {
+									"chapter_title": "第二十九レポート：部下は気が強いし",
+									"chapter_id": "1177354054880882806",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880882806",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880882806",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880882806"
+									},
+									"chapter_date": "2016-04-16T16:15:12+08:00",
+									"chapter_index": 2,
+									"total_idx": 36,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十九レポート：部下は気が強いし",
+									"idx": 2,
+									"path": "00000_第一部　ヴェール大森林/00050_第四報告　勇者サポートの現状/00020_第二十九レポート：部下は気が強いし.txt"
+								}
+							},
+							{
+								"id": "BkukmLUGof",
+								"parent": "Bk4kmL8fif",
+								"content": {
+									"chapter_title": "第三十レポート：厄介事は次から次へと降って来るし",
+									"chapter_id": "1177354054880906980",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880906980",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880906980",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880906980"
+									},
+									"chapter_date": "2016-04-20T00:51:34+08:00",
+									"chapter_index": 3,
+									"total_idx": 37,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十レポート：厄介事は次から次へと降って来るし",
+									"idx": 3,
+									"path": "00000_第一部　ヴェール大森林/00050_第四報告　勇者サポートの現状/00030_第三十レポート：厄介事は次から次へと降って来るし.txt"
+								}
+							},
+							{
+								"id": "ByKJ7U8Msf",
+								"parent": "Bk4kmL8fif",
+								"content": {
+									"chapter_title": "第三十一レポート：どんな聖職者だよ",
+									"chapter_id": "1177354054880921160",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880921160",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880921160",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880921160"
+									},
+									"chapter_date": "2016-04-22T17:15:57+08:00",
+									"chapter_index": 4,
+									"total_idx": 38,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十一レポート：どんな聖職者だよ",
+									"idx": 4,
+									"path": "00000_第一部　ヴェール大森林/00050_第四報告　勇者サポートの現状/00040_第三十一レポート：どんな聖職者だよ.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "HJ5kXU8zjM",
+						"parent": "r1CzIIzjz",
+						"content": {
+							"volume_title": "幕間その２",
+							"volume_level": 2,
+							"volume_index": 6,
+							"total_idx": 39,
+							"type": "volume",
+							"level": 2,
+							"name": "幕間その２",
+							"idx": 6,
+							"dirname": "00000_第一部　ヴェール大森林/00060_幕間その２"
+						},
+						"children": [
+							{
+								"id": "HkskmIIfjM",
+								"parent": "HJ5kXU8zjM",
+								"content": {
+									"chapter_title": "強制イベント",
+									"chapter_id": "1177354054880946312",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880946312",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880946312",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880946312"
+									},
+									"chapter_date": "2016-04-26T17:44:29+08:00",
+									"chapter_index": 0,
+									"total_idx": 40,
+									"type": "chapter",
+									"level": 3,
+									"name": "強制イベント",
+									"idx": 0,
+									"path": "00000_第一部　ヴェール大森林/00060_幕間その２/00000_強制イベント.txt"
+								}
+							},
+							{
+								"id": "B13kXULfjM",
+								"parent": "HJ5kXU8zjM",
+								"content": {
+									"chapter_title": "シスターのお仕事",
+									"chapter_id": "1177354054880965995",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880965995",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054880965995",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054880965995"
+									},
+									"chapter_date": "2016-04-29T20:55:39+08:00",
+									"chapter_index": 1,
+									"total_idx": 41,
+									"type": "chapter",
+									"level": 3,
+									"name": "シスターのお仕事",
+									"idx": 1,
+									"path": "00000_第一部　ヴェール大森林/00060_幕間その２/00010_シスターのお仕事.txt"
+								}
+							},
+							{
+								"id": "Syp1m8Ufsz",
+								"parent": "HJ5kXU8zjM",
+								"content": {
+									"chapter_title": "勇者の理由",
+									"chapter_id": "1177354054881021649",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881021649",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881021649",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881021649"
+									},
+									"chapter_date": "2016-05-08T17:34:14+08:00",
+									"chapter_index": 2,
+									"total_idx": 42,
+									"type": "chapter",
+									"level": 3,
+									"name": "勇者の理由",
+									"idx": 2,
+									"path": "00000_第一部　ヴェール大森林/00060_幕間その２/00020_勇者の理由.txt"
+								}
+							},
+							{
+								"id": "SyRJQ8LfsG",
+								"parent": "HJ5kXU8zjM",
+								"content": {
+									"chapter_title": "酒乱",
+									"chapter_id": "1177354054881038079",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881038079",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881038079",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881038079"
+									},
+									"chapter_date": "2016-05-11T16:02:08+08:00",
+									"chapter_index": 3,
+									"total_idx": 43,
+									"type": "chapter",
+									"level": 3,
+									"name": "酒乱",
+									"idx": 3,
+									"path": "00000_第一部　ヴェール大森林/00060_幕間その２/00030_酒乱.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "S1JlkmU8fjz",
+						"parent": "r1CzIIzjz",
+						"content": {
+							"volume_title": "第五報告　ヴェールの森の異変とその顛末について",
+							"volume_level": 2,
+							"volume_index": 7,
+							"total_idx": 44,
+							"type": "volume",
+							"level": 2,
+							"name": "第五報告　ヴェールの森の異変とその顛末について",
+							"idx": 7,
+							"dirname": "00000_第一部　ヴェール大森林/00070_第五報告　ヴェールの森の異変とその顛末について"
+						},
+						"children": [
+							{
+								"id": "Sylx1mL8Gsf",
+								"parent": "S1JlkmU8fjz",
+								"content": {
+									"chapter_title": "第三十二レポート：レベルを上げろ",
+									"chapter_id": "1177354054881069282",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881069282",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881069282",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881069282"
+									},
+									"chapter_date": "2016-05-16T23:00:07+08:00",
+									"chapter_index": 0,
+									"total_idx": 45,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十二レポート：レベルを上げろ",
+									"idx": 0,
+									"path": "00000_第一部　ヴェール大森林/00070_第五報告　ヴェールの森の異変とその顛末について/00000_第三十二レポート：レベルを上げろ.txt"
+								}
+							},
+							{
+								"id": "S1-lyQ88Goz",
+								"parent": "S1JlkmU8fjz",
+								"content": {
+									"chapter_title": "第三十三レポート：勇者一行を追跡せよ",
+									"chapter_id": "1177354054881082278",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881082278",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881082278",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881082278"
+									},
+									"chapter_date": "2016-05-19T17:31:45+08:00",
+									"chapter_index": 1,
+									"total_idx": 46,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十三レポート：勇者一行を追跡せよ",
+									"idx": 1,
+									"path": "00000_第一部　ヴェール大森林/00070_第五報告　ヴェールの森の異変とその顛末について/00010_第三十三レポート：勇者一行を追跡せよ.txt"
+								}
+							},
+							{
+								"id": "HkMl1QU8fsz",
+								"parent": "S1JlkmU8fjz",
+								"content": {
+									"chapter_title": "第三十四レポート：目標を補足せよ",
+									"chapter_id": "1177354054881124044",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881124044",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881124044",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881124044"
+									},
+									"chapter_date": "2016-05-27T16:50:52+08:00",
+									"chapter_index": 2,
+									"total_idx": 47,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十四レポート：目標を補足せよ",
+									"idx": 2,
+									"path": "00000_第一部　ヴェール大森林/00070_第五報告　ヴェールの森の異変とその顛末について/00020_第三十四レポート：目標を補足せよ.txt"
+								}
+							},
+							{
+								"id": "S1Xxk7IUGiM",
+								"parent": "S1JlkmU8fjz",
+								"content": {
+									"chapter_title": "第三十五レポート：赤き獣を討伐せよ",
+									"chapter_id": "1177354054881128684",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881128684",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881128684",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881128684"
+									},
+									"chapter_date": "2016-05-28T15:37:52+08:00",
+									"chapter_index": 3,
+									"total_idx": 48,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十五レポート：赤き獣を討伐せよ",
+									"idx": 3,
+									"path": "00000_第一部　ヴェール大森林/00070_第五報告　ヴェールの森の異変とその顛末について/00030_第三十五レポート：赤き獣を討伐せよ.txt"
+								}
+							},
+							{
+								"id": "HJ4gkm8IzjG",
+								"parent": "S1JlkmU8fjz",
+								"content": {
+									"chapter_title": "第三十六レポート：黒き血の民を討伐せよ",
+									"chapter_id": "1177354054881146690",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881146690",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881146690",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881146690"
+									},
+									"chapter_date": "2016-05-31T22:45:54+08:00",
+									"chapter_index": 4,
+									"total_idx": 49,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十六レポート：黒き血の民を討伐せよ",
+									"idx": 4,
+									"path": "00000_第一部　ヴェール大森林/00070_第五報告　ヴェールの森の異変とその顛末について/00040_第三十六レポート：黒き血の民を討伐せよ.txt"
+								}
+							},
+							{
+								"id": "SkSx1XLUMjf",
+								"parent": "S1JlkmU8fjz",
+								"content": {
+									"chapter_title": "第三十七レポート：黒き血の民を討伐せよ②",
+									"chapter_id": "1177354054881164290",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881164290",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881164290",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881164290"
+									},
+									"chapter_date": "2016-06-04T01:21:14+08:00",
+									"chapter_index": 5,
+									"total_idx": 50,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十七レポート：黒き血の民を討伐せよ②",
+									"idx": 5,
+									"path": "00000_第一部　ヴェール大森林/00070_第五報告　ヴェールの森の異変とその顛末について/00050_第三十七レポート：黒き血の民を討伐せよ②.txt"
+								}
+							},
+							{
+								"id": "Sy8gJQUIfsf",
+								"parent": "S1JlkmU8fjz",
+								"content": {
+									"chapter_title": "第三十八レポート：黒き血の民を討伐せよ③",
+									"chapter_id": "1177354054881164410",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881164410",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881164410",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881164410"
+									},
+									"chapter_date": "2016-06-04T23:00:06+08:00",
+									"chapter_index": 6,
+									"total_idx": 51,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十八レポート：黒き血の民を討伐せよ③",
+									"idx": 6,
+									"path": "00000_第一部　ヴェール大森林/00070_第五報告　ヴェールの森の異変とその顛末について/00060_第三十八レポート：黒き血の民を討伐せよ③.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "HyDgyQI8Gsf",
+						"parent": "r1CzIIzjz",
+						"content": {
+							"chapter_title": "Epilogue：集まる英雄たち",
+							"chapter_id": "1177354054881168646",
+							"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881168646",
+							"chapter_url_data": {
+								"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881168646",
+								"novel_pid": null,
+								"novel_id": "1177354054880238351",
+								"chapter_id": "1177354054881168646"
+							},
+							"chapter_date": "2016-06-05T23:00:27+08:00",
+							"chapter_index": 8,
+							"total_idx": 52,
+							"type": "chapter",
+							"level": 2,
+							"name": "Epilogue：集まる英雄たち",
+							"idx": 8,
+							"path": "00000_第一部　ヴェール大森林/00080_Epilogue：集まる英雄たち.txt"
+						}
+					},
+					{
+						"id": "B1OxJmILMoz",
+						"parent": "r1CzIIzjz",
+						"content": {
+							"chapter_title": "英雄の唄②",
+							"chapter_id": "1177354054881180522",
+							"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881180522",
+							"chapter_url_data": {
+								"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881180522",
+								"novel_pid": null,
+								"novel_id": "1177354054880238351",
+								"chapter_id": "1177354054881180522"
+							},
+							"chapter_date": "2016-06-06T23:00:36+08:00",
+							"chapter_index": 9,
+							"total_idx": 53,
+							"type": "chapter",
+							"level": 2,
+							"name": "英雄の唄②",
+							"idx": 9,
+							"path": "00000_第一部　ヴェール大森林/00090_英雄の唄②.txt"
+						}
+					}
+				]
+			},
+			{
+				"id": "HyKeym8UGoG",
+				"parent": "rkgaG8IMjG",
+				"content": {
+					"volume_title": "第二部　ユーティス大墳墓",
+					"volume_level": 1,
+					"volume_index": 1,
+					"total_idx": 54,
+					"type": "volume",
+					"level": 1,
+					"name": "第二部　ユーティス大墳墓",
+					"idx": 1,
+					"dirname": "00010_第二部　ユーティス大墳墓"
+				},
+				"children": [
+					{
+						"id": "Hy5xJmULfsG",
+						"parent": "HyKeym8UGoG",
+						"content": {
+							"chapter_title": "Prologue:こうして勇者は全滅した",
+							"chapter_id": "1177354054881238186",
+							"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881238186",
+							"chapter_url_data": {
+								"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881238186",
+								"novel_pid": null,
+								"novel_id": "1177354054880238351",
+								"chapter_id": "1177354054881238186"
+							},
+							"chapter_date": "2016-06-17T17:56:02+08:00",
+							"chapter_index": 0,
+							"total_idx": 55,
+							"type": "chapter",
+							"level": 2,
+							"name": "Prologueこうして勇者は全滅した",
+							"idx": 0,
+							"path": "00010_第二部　ユーティス大墳墓/00000_Prologueこうして勇者は全滅した.txt"
+						}
+					},
+					{
+						"id": "ByjgkmU8zsM",
+						"parent": "HyKeym8UGoG",
+						"content": {
+							"volume_title": "第一報告　聖勇者の弱点克服について",
+							"volume_level": 2,
+							"volume_index": 1,
+							"total_idx": 56,
+							"type": "volume",
+							"level": 2,
+							"name": "第一報告　聖勇者の弱点克服について",
+							"idx": 1,
+							"dirname": "00010_第二部　ユーティス大墳墓/00010_第一報告　聖勇者の弱点克服について"
+						},
+						"children": [
+							{
+								"id": "Bkhl1m8Ifiz",
+								"parent": "ByjgkmU8zsM",
+								"content": {
+									"chapter_title": "第一レポート：聖勇者の弱点について",
+									"chapter_id": "1177354054881264259",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881264259",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881264259",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881264259"
+									},
+									"chapter_date": "2016-06-22T01:00:10+08:00",
+									"chapter_index": 0,
+									"total_idx": 57,
+									"type": "chapter",
+									"level": 3,
+									"name": "第一レポート：聖勇者の弱点について",
+									"idx": 0,
+									"path": "00010_第二部　ユーティス大墳墓/00010_第一報告　聖勇者の弱点克服について/00000_第一レポート：聖勇者の弱点について.txt"
+								}
+							},
+							{
+								"id": "rkTlyXL8MoG",
+								"parent": "ByjgkmU8zsM",
+								"content": {
+									"chapter_title": "第二レポート：神敵と対策について",
+									"chapter_id": "1177354054881299527",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881299527",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881299527",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881299527"
+									},
+									"chapter_date": "2016-06-28T01:34:36+08:00",
+									"chapter_index": 1,
+									"total_idx": 58,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二レポート：神敵と対策について",
+									"idx": 1,
+									"path": "00010_第二部　ユーティス大墳墓/00010_第一報告　聖勇者の弱点克服について/00010_第二レポート：神敵と対策について.txt"
+								}
+							},
+							{
+								"id": "HJCgyX8IGjz",
+								"parent": "ByjgkmU8zsM",
+								"content": {
+									"chapter_title": "第三レポート：克服のための布石について",
+									"chapter_id": "1177354054881323759",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881323759",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881323759",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881323759"
+									},
+									"chapter_date": "2016-07-02T15:42:01+08:00",
+									"chapter_index": 2,
+									"total_idx": 59,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三レポート：克服のための布石について",
+									"idx": 2,
+									"path": "00010_第二部　ユーティス大墳墓/00010_第一報告　聖勇者の弱点克服について/00020_第三レポート：克服のための布石について.txt"
+								}
+							},
+							{
+								"id": "HJJZ1mL8zjM",
+								"parent": "ByjgkmU8zsM",
+								"content": {
+									"chapter_title": "第四レポート：克服のための布石について②",
+									"chapter_id": "1177354054881340310",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881340310",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881340310",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881340310"
+									},
+									"chapter_date": "2016-07-05T23:00:01+08:00",
+									"chapter_index": 3,
+									"total_idx": 60,
+									"type": "chapter",
+									"level": 3,
+									"name": "第四レポート：克服のための布石について②",
+									"idx": 3,
+									"path": "00010_第二部　ユーティス大墳墓/00010_第一報告　聖勇者の弱点克服について/00030_第四レポート：克服のための布石について②.txt"
+								}
+							},
+							{
+								"id": "rJx-kQL8GiM",
+								"parent": "ByjgkmU8zsM",
+								"content": {
+									"chapter_title": "第五レポート：",
+									"chapter_id": "1177354054881370170",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881370170",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881370170",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881370170"
+									},
+									"chapter_date": "2016-07-10T17:09:25+08:00",
+									"chapter_index": 4,
+									"total_idx": 61,
+									"type": "chapter",
+									"level": 3,
+									"name": "第五レポート：",
+									"idx": 4,
+									"path": "00010_第二部　ユーティス大墳墓/00010_第一報告　聖勇者の弱点克服について/00040_第五レポート：.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "HkWbk7I8GiM",
+						"parent": "HyKeym8UGoG",
+						"content": {
+							"volume_title": "第二報告　地下墳墓の怪物について",
+							"volume_level": 2,
+							"volume_index": 2,
+							"total_idx": 62,
+							"type": "volume",
+							"level": 2,
+							"name": "第二報告　地下墳墓の怪物について",
+							"idx": 2,
+							"dirname": "00010_第二部　ユーティス大墳墓/00020_第二報告　地下墳墓の怪物について"
+						},
+						"children": [
+							{
+								"id": "BJzWy7LLGiz",
+								"parent": "HkWbk7I8GiM",
+								"content": {
+									"chapter_title": "第六レポート：慣れてはいるな",
+									"chapter_id": "1177354054881398241",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881398241",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881398241",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881398241"
+									},
+									"chapter_date": "2016-07-15T16:22:19+08:00",
+									"chapter_index": 0,
+									"total_idx": 63,
+									"type": "chapter",
+									"level": 3,
+									"name": "第六レポート：慣れてはいるな",
+									"idx": 0,
+									"path": "00010_第二部　ユーティス大墳墓/00020_第二報告　地下墳墓の怪物について/00000_第六レポート：慣れてはいるな.txt"
+								}
+							},
+							{
+								"id": "r17-yX8IMof",
+								"parent": "HkWbk7I8GiM",
+								"content": {
+									"chapter_title": "第七レポート：引き取ってくれ",
+									"chapter_id": "1177354054881429587",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881429587",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881429587",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881429587"
+									},
+									"chapter_date": "2016-07-20T15:11:29+08:00",
+									"chapter_index": 1,
+									"total_idx": 64,
+									"type": "chapter",
+									"level": 3,
+									"name": "第七レポート：引き取ってくれ",
+									"idx": 1,
+									"path": "00010_第二部　ユーティス大墳墓/00020_第二報告　地下墳墓の怪物について/00010_第七レポート：引き取ってくれ.txt"
+								}
+							},
+							{
+								"id": "HJVWJXLLGsf",
+								"parent": "HkWbk7I8GiM",
+								"content": {
+									"chapter_title": "第八レポート：奴は危険だ。",
+									"chapter_id": "1177354054881466366",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881466366",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881466366",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881466366"
+									},
+									"chapter_date": "2016-07-26T17:20:32+08:00",
+									"chapter_index": 2,
+									"total_idx": 65,
+									"type": "chapter",
+									"level": 3,
+									"name": "第八レポート：奴は危険だ。",
+									"idx": 2,
+									"path": "00010_第二部　ユーティス大墳墓/00020_第二報告　地下墳墓の怪物について/00020_第八レポート：奴は危険だ。.txt"
+								}
+							},
+							{
+								"id": "rkBWJX8UziM",
+								"parent": "HkWbk7I8GiM",
+								"content": {
+									"chapter_title": "第九レポート：",
+									"chapter_id": "1177354054881677136",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881677136",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881677136",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881677136"
+									},
+									"chapter_date": "2016-09-01T17:22:16+08:00",
+									"chapter_index": 3,
+									"total_idx": 66,
+									"type": "chapter",
+									"level": 3,
+									"name": "第九レポート：",
+									"idx": 3,
+									"path": "00010_第二部　ユーティス大墳墓/00020_第二報告　地下墳墓の怪物について/00030_第九レポート：.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "ry8bkXIIMjM",
+						"parent": "HyKeym8UGoG",
+						"content": {
+							"volume_title": "幕間その１",
+							"volume_level": 2,
+							"volume_index": 3,
+							"total_idx": 67,
+							"type": "volume",
+							"level": 2,
+							"name": "幕間その１",
+							"idx": 3,
+							"dirname": "00010_第二部　ユーティス大墳墓/00030_幕間その１"
+						},
+						"children": [
+							{
+								"id": "HJPW1XIIMsM",
+								"parent": "ry8bkXIIMjM",
+								"content": {
+									"chapter_title": "殲滅鬼",
+									"chapter_id": "1177354054881699895",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881699895",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881699895",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881699895"
+									},
+									"chapter_date": "2016-09-05T15:39:14+08:00",
+									"chapter_index": 0,
+									"total_idx": 68,
+									"type": "chapter",
+									"level": 3,
+									"name": "殲滅鬼",
+									"idx": 0,
+									"path": "00010_第二部　ユーティス大墳墓/00030_幕間その１/00000_殲滅鬼.txt"
+								}
+							},
+							{
+								"id": "B1O-km8IzjG",
+								"parent": "ry8bkXIIMjM",
+								"content": {
+									"chapter_title": "幸運の星",
+									"chapter_id": "1177354054881745952",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881745952",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881745952",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881745952"
+									},
+									"chapter_date": "2016-09-14T23:43:42+08:00",
+									"chapter_index": 1,
+									"total_idx": 69,
+									"type": "chapter",
+									"level": 3,
+									"name": "幸運の星",
+									"idx": 1,
+									"path": "00010_第二部　ユーティス大墳墓/00030_幕間その１/00010_幸運の星.txt"
+								}
+							},
+							{
+								"id": "S1FbymLUfsG",
+								"parent": "ry8bkXIIMjM",
+								"content": {
+									"chapter_title": "プリーストのお仕事",
+									"chapter_id": "1177354054881776901",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881776901",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881776901",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881776901"
+									},
+									"chapter_date": "2016-09-21T17:01:45+08:00",
+									"chapter_index": 2,
+									"total_idx": 70,
+									"type": "chapter",
+									"level": 3,
+									"name": "プリーストのお仕事",
+									"idx": 2,
+									"path": "00010_第二部　ユーティス大墳墓/00030_幕間その１/00020_プリーストのお仕事.txt"
+								}
+							},
+							{
+								"id": "Hy9Zy7LUGoz",
+								"parent": "ry8bkXIIMjM",
+								"content": {
+									"chapter_title": "勇者と剣士",
+									"chapter_id": "1177354054881800503",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881800503",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881800503",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881800503"
+									},
+									"chapter_date": "2016-09-26T16:31:00+08:00",
+									"chapter_index": 3,
+									"total_idx": 71,
+									"type": "chapter",
+									"level": 3,
+									"name": "勇者と剣士",
+									"idx": 3,
+									"path": "00010_第二部　ユーティス大墳墓/00030_幕間その１/00030_勇者と剣士.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "B1o-kQIIfoM",
+						"parent": "HyKeym8UGoG",
+						"content": {
+							"volume_title": "第三報告　グレゴリオとその対策について",
+							"volume_level": 2,
+							"volume_index": 4,
+							"total_idx": 72,
+							"type": "volume",
+							"level": 2,
+							"name": "第三報告　グレゴリオとその対策について",
+							"idx": 4,
+							"dirname": "00010_第二部　ユーティス大墳墓/00040_第三報告　グレゴリオとその対策について"
+						},
+						"children": [
+							{
+								"id": "SJnWkQIUMiG",
+								"parent": "B1o-kQIIfoM",
+								"content": {
+									"chapter_title": "第十レポート：襲いくる脅威",
+									"chapter_id": "1177354054881809434",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881809434",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881809434",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881809434"
+									},
+									"chapter_date": "2016-09-28T23:00:40+08:00",
+									"chapter_index": 0,
+									"total_idx": 73,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十レポート：襲いくる脅威",
+									"idx": 0,
+									"path": "00010_第二部　ユーティス大墳墓/00040_第三報告　グレゴリオとその対策について/00000_第十レポート：襲いくる脅威.txt"
+								}
+							},
+							{
+								"id": "S1T-k7IIGoM",
+								"parent": "B1o-kQIIfoM",
+								"content": {
+									"chapter_title": "第十一レポート：神の敵を討つ者",
+									"chapter_id": "1177354054881836299",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881836299",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881836299",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881836299"
+									},
+									"chapter_date": "2016-10-04T04:10:59+08:00",
+									"chapter_index": 1,
+									"total_idx": 74,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十一レポート：神の敵を討つ者",
+									"idx": 1,
+									"path": "00010_第二部　ユーティス大墳墓/00040_第三報告　グレゴリオとその対策について/00010_第十一レポート：神の敵を討つ者.txt"
+								}
+							},
+							{
+								"id": "BJRZyQ88Gsz",
+								"parent": "B1o-kQIIfoM",
+								"content": {
+									"chapter_title": "第十二レポート：神の導きに従う者",
+									"chapter_id": "1177354054881842631",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881842631",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881842631",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881842631"
+									},
+									"chapter_date": "2016-10-07T22:45:30+08:00",
+									"chapter_index": 2,
+									"total_idx": 75,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十二レポート：神の導きに従う者",
+									"idx": 2,
+									"path": "00010_第二部　ユーティス大墳墓/00040_第三報告　グレゴリオとその対策について/00020_第十二レポート：神の導きに従う者.txt"
+								}
+							},
+							{
+								"id": "Sy1Mk7LUzif",
+								"parent": "B1o-kQIIfoM",
+								"content": {
+									"chapter_title": "第十三レポート：希望の光",
+									"chapter_id": "1177354054881861607",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881861607",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881861607",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881861607"
+									},
+									"chapter_date": "2016-10-11T22:37:09+08:00",
+									"chapter_index": 3,
+									"total_idx": 76,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十三レポート：希望の光",
+									"idx": 3,
+									"path": "00010_第二部　ユーティス大墳墓/00040_第三報告　グレゴリオとその対策について/00030_第十三レポート：希望の光.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "HyeGym8IGjG",
+						"parent": "HyKeym8UGoG",
+						"content": {
+							"volume_title": "第四報告　アンデッドの克服状況について",
+							"volume_level": 2,
+							"volume_index": 5,
+							"total_idx": 77,
+							"type": "volume",
+							"level": 2,
+							"name": "第四報告　アンデッドの克服状況について",
+							"idx": 5,
+							"dirname": "00010_第二部　ユーティス大墳墓/00050_第四報告　アンデッドの克服状況について"
+						},
+						"children": [
+							{
+								"id": "ry-fkmL8fsM",
+								"parent": "HyeGym8IGjG",
+								"content": {
+									"chapter_title": "第十四レポート：サポートするのに必要なもの",
+									"chapter_id": "1177354054881878740",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881878740",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881878740",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881878740"
+									},
+									"chapter_date": "2016-10-14T15:18:22+08:00",
+									"chapter_index": 0,
+									"total_idx": 78,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十四レポート：サポートするのに必要なもの",
+									"idx": 0,
+									"path": "00010_第二部　ユーティス大墳墓/00050_第四報告　アンデッドの克服状況について/00000_第十四レポート：サポートするのに必要なもの.txt"
+								}
+							},
+							{
+								"id": "rkGf1X88GjM",
+								"parent": "HyeGym8IGjG",
+								"content": {
+									"chapter_title": "第十五レポート：神聖術に必要なもの",
+									"chapter_id": "1177354054881910082",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881910082",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881910082",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881910082"
+									},
+									"chapter_date": "2016-10-18T13:57:11+08:00",
+									"chapter_index": 1,
+									"total_idx": 79,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十五レポート：神聖術に必要なもの",
+									"idx": 1,
+									"path": "00010_第二部　ユーティス大墳墓/00050_第四報告　アンデッドの克服状況について/00010_第十五レポート：神聖術に必要なもの.txt"
+								}
+							},
+							{
+								"id": "BkQGkmLIMjG",
+								"parent": "HyeGym8IGjG",
+								"content": {
+									"chapter_title": "第十六レポート：退魔術に必要なもの",
+									"chapter_id": "1177354054881915417",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881915417",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881915417",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881915417"
+									},
+									"chapter_date": "2016-10-19T15:22:37+08:00",
+									"chapter_index": 2,
+									"total_idx": 80,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十六レポート：退魔術に必要なもの",
+									"idx": 2,
+									"path": "00010_第二部　ユーティス大墳墓/00050_第四報告　アンデッドの克服状況について/00020_第十六レポート：退魔術に必要なもの.txt"
+								}
+							},
+							{
+								"id": "HJNM1QI8fjG",
+								"parent": "HyeGym8IGjG",
+								"content": {
+									"chapter_title": "第十七レポート：地下墳墓の歩き方",
+									"chapter_id": "1177354054881920328",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881920328",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881920328",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881920328"
+									},
+									"chapter_date": "2016-10-20T18:00:08+08:00",
+									"chapter_index": 3,
+									"total_idx": 81,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十七レポート：地下墳墓の歩き方",
+									"idx": 3,
+									"path": "00010_第二部　ユーティス大墳墓/00050_第四報告　アンデッドの克服状況について/00030_第十七レポート：地下墳墓の歩き方.txt"
+								}
+							},
+							{
+								"id": "r1BzJX8IMjf",
+								"parent": "HyeGym8IGjG",
+								"content": {
+									"chapter_title": "第十八レポート：アンデッドの倒し方",
+									"chapter_id": "1177354054881933239",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881933239",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881933239",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881933239"
+									},
+									"chapter_date": "2016-10-22T23:50:19+08:00",
+									"chapter_index": 4,
+									"total_idx": 82,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十八レポート：アンデッドの倒し方",
+									"idx": 4,
+									"path": "00010_第二部　ユーティス大墳墓/00050_第四報告　アンデッドの克服状況について/00040_第十八レポート：アンデッドの倒し方.txt"
+								}
+							},
+							{
+								"id": "rJUM1mLLziz",
+								"parent": "HyeGym8IGjG",
+								"content": {
+									"chapter_title": "第十九レポート：アンデッドの倒し方②",
+									"chapter_id": "1177354054881944464",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881944464",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881944464",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881944464"
+									},
+									"chapter_date": "2016-10-25T02:40:01+08:00",
+									"chapter_index": 5,
+									"total_idx": 83,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十九レポート：アンデッドの倒し方②",
+									"idx": 5,
+									"path": "00010_第二部　ユーティス大墳墓/00050_第四報告　アンデッドの克服状況について/00050_第十九レポート：アンデッドの倒し方②.txt"
+								}
+							},
+							{
+								"id": "ryDG17UUfsz",
+								"parent": "HyeGym8IGjG",
+								"content": {
+									"chapter_title": "第二十レポート：アンデッドの倒し方③",
+									"chapter_id": "1177354054881946709",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881946709",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881946709",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881946709"
+									},
+									"chapter_date": "2016-10-25T23:00:13+08:00",
+									"chapter_index": 6,
+									"total_idx": 84,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十レポート：アンデッドの倒し方③",
+									"idx": 6,
+									"path": "00010_第二部　ユーティス大墳墓/00050_第四報告　アンデッドの克服状況について/00060_第二十レポート：アンデッドの倒し方③.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "SJ_fkm8LfsM",
+						"parent": "HyKeym8UGoG",
+						"content": {
+							"volume_title": "幕間その２",
+							"volume_level": 2,
+							"volume_index": 6,
+							"total_idx": 85,
+							"type": "volume",
+							"level": 2,
+							"name": "幕間その２",
+							"idx": 6,
+							"dirname": "00010_第二部　ユーティス大墳墓/00060_幕間その２"
+						},
+						"children": [
+							{
+								"id": "H1tfyXUIzjf",
+								"parent": "SJ_fkm8LfsM",
+								"content": {
+									"chapter_title": "神の試練",
+									"chapter_id": "1177354054881953996",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881953996",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881953996",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881953996"
+									},
+									"chapter_date": "2016-10-27T00:59:37+08:00",
+									"chapter_index": 0,
+									"total_idx": 86,
+									"type": "chapter",
+									"level": 3,
+									"name": "神の試練",
+									"idx": 0,
+									"path": "00010_第二部　ユーティス大墳墓/00060_幕間その２/00000_神の試練.txt"
+								}
+							},
+							{
+								"id": "rk5GJm8UfoM",
+								"parent": "SJ_fkm8LfsM",
+								"content": {
+									"chapter_title": "守護者",
+									"chapter_id": "1177354054881957933",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881957933",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881957933",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881957933"
+									},
+									"chapter_date": "2016-10-27T23:01:19+08:00",
+									"chapter_index": 1,
+									"total_idx": 87,
+									"type": "chapter",
+									"level": 3,
+									"name": "守護者",
+									"idx": 1,
+									"path": "00010_第二部　ユーティス大墳墓/00060_幕間その２/00010_守護者.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "ryoG17ILfoG",
+						"parent": "HyKeym8UGoG",
+						"content": {
+							"volume_title": "第五報告　ピュリフにおける勇者のサポートとその顛末について",
+							"volume_level": 2,
+							"volume_index": 7,
+							"total_idx": 88,
+							"type": "volume",
+							"level": 2,
+							"name": "第五報告　ピュリフにおける勇者のサポートとその顛末について",
+							"idx": 7,
+							"dirname": "00010_第二部　ユーティス大墳墓/00070_第五報告　ピュリフにおける勇者のサポートとその顛末について"
+						},
+						"children": [
+							{
+								"id": "H12G1mU8Giz",
+								"parent": "ryoG17ILfoG",
+								"content": {
+									"chapter_title": "第二十一レポート：アンデッドの討伐をサポートせよ",
+									"chapter_id": "1177354054881962865",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881962865",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881962865",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881962865"
+									},
+									"chapter_date": "2016-10-28T23:45:42+08:00",
+									"chapter_index": 0,
+									"total_idx": 89,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十一レポート：アンデッドの討伐をサポートせよ",
+									"idx": 0,
+									"path": "00010_第二部　ユーティス大墳墓/00070_第五報告　ピュリフにおける勇者のサポートとその顛末について/00000_第二十一レポート：アンデッドの討伐をサポートせよ.txt"
+								}
+							},
+							{
+								"id": "r1TGJmLLzjz",
+								"parent": "ryoG17ILfoG",
+								"content": {
+									"chapter_title": "第二十二レポート：アンデッドの討伐をサポートせよ②",
+									"chapter_id": "1177354054881973819",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881973819",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881973819",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881973819"
+									},
+									"chapter_date": "2016-10-31T02:49:42+08:00",
+									"chapter_index": 1,
+									"total_idx": 90,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十二レポート：アンデッドの討伐をサポートせよ②",
+									"idx": 1,
+									"path": "00010_第二部　ユーティス大墳墓/00070_第五報告　ピュリフにおける勇者のサポートとその顛末について/00010_第二十二レポート：アンデッドの討伐をサポートせよ②.txt"
+								}
+							},
+							{
+								"id": "SkAMym8LfoM",
+								"parent": "ryoG17ILfoG",
+								"content": {
+									"chapter_title": "第二十三レポート：災厄から勇者を守護せよ",
+									"chapter_id": "1177354054881978731",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881978731",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881978731",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881978731"
+									},
+									"chapter_date": "2016-11-01T05:08:02+08:00",
+									"chapter_index": 2,
+									"total_idx": 91,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十三レポート：災厄から勇者を守護せよ",
+									"idx": 2,
+									"path": "00010_第二部　ユーティス大墳墓/00070_第五報告　ピュリフにおける勇者のサポートとその顛末について/00020_第二十三レポート：災厄から勇者を守護せよ.txt"
+								}
+							},
+							{
+								"id": "SJkmkXIUziG",
+								"parent": "ryoG17ILfoG",
+								"content": {
+									"chapter_title": "第二十四レポート：災厄から勇者を守護せよ②",
+									"chapter_id": "1177354054881983036",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881983036",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881983036",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881983036"
+									},
+									"chapter_date": "2016-11-02T04:18:30+08:00",
+									"chapter_index": 3,
+									"total_idx": 92,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十四レポート：災厄から勇者を守護せよ②",
+									"idx": 3,
+									"path": "00010_第二部　ユーティス大墳墓/00070_第五報告　ピュリフにおける勇者のサポートとその顛末について/00030_第二十四レポート：災厄から勇者を守護せよ②.txt"
+								}
+							},
+							{
+								"id": "S1g71XIUfsz",
+								"parent": "ryoG17ILfoG",
+								"content": {
+									"chapter_title": "第二十五レポート：災厄から勇者を守護せよ③",
+									"chapter_id": "1177354054881987476",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881987476",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881987476",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881987476"
+									},
+									"chapter_date": "2016-11-03T00:30:29+08:00",
+									"chapter_index": 4,
+									"total_idx": 93,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十五レポート：災厄から勇者を守護せよ③",
+									"idx": 4,
+									"path": "00010_第二部　ユーティス大墳墓/00070_第五報告　ピュリフにおける勇者のサポートとその顛末について/00040_第二十五レポート：災厄から勇者を守護せよ③.txt"
+								}
+							},
+							{
+								"id": "SyWXymL8zjG",
+								"parent": "ryoG17ILfoG",
+								"content": {
+									"chapter_title": "第二十六レポート：神の御意志を証明せよ",
+									"chapter_id": "1177354054881992838",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881992838",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881992838",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881992838"
+									},
+									"chapter_date": "2016-11-04T00:25:42+08:00",
+									"chapter_index": 5,
+									"total_idx": 94,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十六レポート：神の御意志を証明せよ",
+									"idx": 5,
+									"path": "00010_第二部　ユーティス大墳墓/00070_第五報告　ピュリフにおける勇者のサポートとその顛末について/00050_第二十六レポート：神の御意志を証明せよ.txt"
+								}
+							},
+							{
+								"id": "HJz7y7UIzsf",
+								"parent": "ryoG17ILfoG",
+								"content": {
+									"chapter_title": "第二十七レポート：神の御意志を証明せよ②",
+									"chapter_id": "1177354054881998288",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881998288",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054881998288",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054881998288"
+									},
+									"chapter_date": "2016-11-05T01:35:09+08:00",
+									"chapter_index": 6,
+									"total_idx": 95,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十七レポート：神の御意志を証明せよ②",
+									"idx": 6,
+									"path": "00010_第二部　ユーティス大墳墓/00070_第五報告　ピュリフにおける勇者のサポートとその顛末について/00060_第二十七レポート：神の御意志を証明せよ②.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "ry7QyQI8Mif",
+						"parent": "HyKeym8UGoG",
+						"content": {
+							"chapter_title": "Epilogue：超越者の憂鬱",
+							"chapter_id": "1177354054882004004",
+							"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882004004",
+							"chapter_url_data": {
+								"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882004004",
+								"novel_pid": null,
+								"novel_id": "1177354054880238351",
+								"chapter_id": "1177354054882004004"
+							},
+							"chapter_date": "2016-11-06T00:59:38+08:00",
+							"chapter_index": 8,
+							"total_idx": 96,
+							"type": "chapter",
+							"level": 2,
+							"name": "Epilogue：超越者の憂鬱",
+							"idx": 8,
+							"path": "00010_第二部　ユーティス大墳墓/00080_Epilogue：超越者の憂鬱.txt"
+						}
+					},
+					{
+						"id": "HyEQym8IfjG",
+						"parent": "HyKeym8UGoG",
+						"content": {
+							"chapter_title": "英雄の唄③",
+							"chapter_id": "1177354054882009511",
+							"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882009511",
+							"chapter_url_data": {
+								"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882009511",
+								"novel_pid": null,
+								"novel_id": "1177354054880238351",
+								"chapter_id": "1177354054882009511"
+							},
+							"chapter_date": "2016-11-06T23:50:00+08:00",
+							"chapter_index": 9,
+							"total_idx": 97,
+							"type": "chapter",
+							"level": 2,
+							"name": "英雄の唄③",
+							"idx": 9,
+							"path": "00010_第二部　ユーティス大墳墓/00090_英雄の唄③.txt"
+						}
+					},
+					{
+						"id": "ryrX1XU8fjM",
+						"parent": "HyKeym8UGoG",
+						"content": {
+							"chapter_title": "幸運の星②",
+							"chapter_id": "1177354054882013850",
+							"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882013850",
+							"chapter_url_data": {
+								"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882013850",
+								"novel_pid": null,
+								"novel_id": "1177354054880238351",
+								"chapter_id": "1177354054882013850"
+							},
+							"chapter_date": "2016-11-07T23:00:05+08:00",
+							"chapter_index": 10,
+							"total_idx": 98,
+							"type": "chapter",
+							"level": 2,
+							"name": "幸運の星②",
+							"idx": 10,
+							"path": "00010_第二部　ユーティス大墳墓/00100_幸運の星②.txt"
+						}
+					}
+				]
+			},
+			{
+				"id": "B1LXk78Izsz",
+				"parent": "rkgaG8IMjG",
+				"content": {
+					"volume_title": "第三部　ゴーレム・バレー",
+					"volume_level": 1,
+					"volume_index": 2,
+					"total_idx": 99,
+					"type": "volume",
+					"level": 1,
+					"name": "第三部　ゴーレム・バレー",
+					"idx": 2,
+					"dirname": "00020_第三部　ゴーレム・バレー"
+				},
+				"children": [
+					{
+						"id": "ryP7JQ8Izsz",
+						"parent": "B1LXk78Izsz",
+						"content": {
+							"chapter_title": "Prologue：されど人は希望を求める",
+							"chapter_id": "1177354054882081572",
+							"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882081572",
+							"chapter_url_data": {
+								"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882081572",
+								"novel_pid": null,
+								"novel_id": "1177354054880238351",
+								"chapter_id": "1177354054882081572"
+							},
+							"chapter_date": "2016-11-21T23:00:36+08:00",
+							"chapter_index": 0,
+							"total_idx": 100,
+							"type": "chapter",
+							"level": 2,
+							"name": "Prologue：されど人は希望を求める",
+							"idx": 0,
+							"path": "00020_第三部　ゴーレム・バレー/00000_Prologue：されど人は希望を求める.txt"
+						}
+					},
+					{
+						"id": "ryuQkmU8fif",
+						"parent": "B1LXk78Izsz",
+						"content": {
+							"volume_title": "第一報告　増員メンバーの問題点と今後の予定について",
+							"volume_level": 2,
+							"volume_index": 1,
+							"total_idx": 101,
+							"type": "volume",
+							"level": 2,
+							"name": "第一報告　増員メンバーの問題点と今後の予定について",
+							"idx": 1,
+							"dirname": "00020_第三部　ゴーレム・バレー/00010_第一報告　増員メンバーの問題点と今後の予定について"
+						},
+						"children": [
+							{
+								"id": "H1F71QILGoz",
+								"parent": "ryuQkmU8fif",
+								"content": {
+									"chapter_title": "第一レポート：迷子のステファンの話",
+									"chapter_id": "1177354054882109340",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882109340",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882109340",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882109340"
+									},
+									"chapter_date": "2016-11-26T01:46:05+08:00",
+									"chapter_index": 0,
+									"total_idx": 102,
+									"type": "chapter",
+									"level": 3,
+									"name": "第一レポート：迷子のステファンの話",
+									"idx": 0,
+									"path": "00020_第三部　ゴーレム・バレー/00010_第一報告　増員メンバーの問題点と今後の予定について/00000_第一レポート：迷子のステファンの話.txt"
+								}
+							},
+							{
+								"id": "rJ9XymL8GoM",
+								"parent": "ryuQkmU8fif",
+								"content": {
+									"chapter_title": "第二レポート：機嫌の悪いアメリアの話",
+									"chapter_id": "1177354054882124601",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882124601",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882124601",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882124601"
+									},
+									"chapter_date": "2016-11-28T23:00:15+08:00",
+									"chapter_index": 1,
+									"total_idx": 103,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二レポート：機嫌の悪いアメリアの話",
+									"idx": 1,
+									"path": "00020_第三部　ゴーレム・バレー/00010_第一報告　増員メンバーの問題点と今後の予定について/00010_第二レポート：機嫌の悪いアメリアの話.txt"
+								}
+							},
+							{
+								"id": "rkimJmIIMsz",
+								"parent": "ryuQkmU8fif",
+								"content": {
+									"chapter_title": "第三レポート：体調を崩したリミスの話",
+									"chapter_id": "1177354054882140849",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882140849",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882140849",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882140849"
+									},
+									"chapter_date": "2016-12-01T23:00:12+08:00",
+									"chapter_index": 2,
+									"total_idx": 104,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三レポート：体調を崩したリミスの話",
+									"idx": 2,
+									"path": "00020_第三部　ゴーレム・バレー/00010_第一報告　増員メンバーの問題点と今後の予定について/00020_第三レポート：体調を崩したリミスの話.txt"
+								}
+							},
+							{
+								"id": "Bkn71QULziM",
+								"parent": "ryuQkmU8fif",
+								"content": {
+									"chapter_title": "第四レポート：可哀想なグレシャの話",
+									"chapter_id": "1177354054882162004",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882162004",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882162004",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882162004"
+									},
+									"chapter_date": "2016-12-05T03:00:29+08:00",
+									"chapter_index": 3,
+									"total_idx": 105,
+									"type": "chapter",
+									"level": 3,
+									"name": "第四レポート：可哀想なグレシャの話",
+									"idx": 3,
+									"path": "00020_第三部　ゴーレム・バレー/00010_第一報告　増員メンバーの問題点と今後の予定について/00030_第四レポート：可哀想なグレシャの話.txt"
+								}
+							},
+							{
+								"id": "ByaXkXUIfiz",
+								"parent": "ryuQkmU8fif",
+								"content": {
+									"chapter_title": "第五レポート：とりあえず仕事するアレスの話",
+									"chapter_id": "1177354054882194891",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882194891",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882194891",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882194891"
+									},
+									"chapter_date": "2016-12-12T03:56:23+08:00",
+									"chapter_index": 4,
+									"total_idx": 106,
+									"type": "chapter",
+									"level": 3,
+									"name": "第五レポート：とりあえず仕事するアレスの話",
+									"idx": 4,
+									"path": "00020_第三部　ゴーレム・バレー/00010_第一報告　増員メンバーの問題点と今後の予定について/00040_第五レポート：とりあえず仕事するアレスの話.txt"
+								}
+							},
+							{
+								"id": "rk07yX8LMsM",
+								"parent": "ryuQkmU8fif",
+								"content": {
+									"chapter_title": "第六レポート：冷静に考えたらこれ報告でも何でもねえな",
+									"chapter_id": "1177354054882225918",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882225918",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882225918",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882225918"
+									},
+									"chapter_date": "2016-12-18T17:25:26+08:00",
+									"chapter_index": 5,
+									"total_idx": 107,
+									"type": "chapter",
+									"level": 3,
+									"name": "第六レポート：冷静に考えたらこれ報告でも何でもねえな",
+									"idx": 5,
+									"path": "00020_第三部　ゴーレム・バレー/00010_第一報告　増員メンバーの問題点と今後の予定について/00050_第六レポート：冷静に考えたらこれ報告でも何でもねえな.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "SJ1Ny7L8ziG",
+						"parent": "B1LXk78Izsz",
+						"content": {
+							"volume_title": "幕間その１",
+							"volume_level": 2,
+							"volume_index": 2,
+							"total_idx": 108,
+							"type": "volume",
+							"level": 2,
+							"name": "幕間その１",
+							"idx": 2,
+							"dirname": "00020_第三部　ゴーレム・バレー/00020_幕間その１"
+						},
+						"children": [
+							{
+								"id": "SJe4k7UUMsf",
+								"parent": "SJ1Ny7L8ziG",
+								"content": {
+									"chapter_title": "アメリア・ノーマンの憂鬱",
+									"chapter_id": "1177354054882240080",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882240080",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882240080",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882240080"
+									},
+									"chapter_date": "2016-12-21T15:50:30+08:00",
+									"chapter_index": 0,
+									"total_idx": 109,
+									"type": "chapter",
+									"level": 3,
+									"name": "アメリア・ノーマンの憂鬱",
+									"idx": 0,
+									"path": "00020_第三部　ゴーレム・バレー/00020_幕間その１/00000_アメリア・ノーマンの憂鬱.txt"
+								}
+							},
+							{
+								"id": "BJbNkmLUGjf",
+								"parent": "SJ1Ny7L8ziG",
+								"content": {
+									"chapter_title": "ロック・ゴーレムの憂鬱",
+									"chapter_id": "1177354054882266754",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882266754",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882266754",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882266754"
+									},
+									"chapter_date": "2016-12-25T16:21:20+08:00",
+									"chapter_index": 1,
+									"total_idx": 110,
+									"type": "chapter",
+									"level": 3,
+									"name": "ロック・ゴーレムの憂鬱",
+									"idx": 1,
+									"path": "00020_第三部　ゴーレム・バレー/00020_幕間その１/00010_ロック・ゴーレムの憂鬱.txt"
+								}
+							},
+							{
+								"id": "r1GNyXL8fof",
+								"parent": "SJ1Ny7L8ziG",
+								"content": {
+									"chapter_title": "ステファン・ベロニドに憂鬱",
+									"chapter_id": "1177354054882273687",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882273687",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882273687",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882273687"
+									},
+									"chapter_date": "2016-12-26T19:00:10+08:00",
+									"chapter_index": 2,
+									"total_idx": 111,
+									"type": "chapter",
+									"level": 3,
+									"name": "ステファン・ベロニドに憂鬱",
+									"idx": 2,
+									"path": "00020_第三部　ゴーレム・バレー/00020_幕間その１/00020_ステファン・ベロニドに憂鬱.txt"
+								}
+							},
+							{
+								"id": "ryXEJQIUzof",
+								"parent": "SJ1Ny7L8ziG",
+								"content": {
+									"chapter_title": "英雄の唄④",
+									"chapter_id": "1177354054882304111",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882304111",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882304111",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882304111"
+									},
+									"chapter_date": "2016-12-31T14:32:05+08:00",
+									"chapter_index": 3,
+									"total_idx": 112,
+									"type": "chapter",
+									"level": 3,
+									"name": "英雄の唄④",
+									"idx": 3,
+									"path": "00020_第三部　ゴーレム・バレー/00020_幕間その１/00030_英雄の唄④.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "r1ENy78IGsf",
+						"parent": "B1LXk78Izsz",
+						"content": {
+							"volume_title": "第二報告 藤堂一行の戦力向上について",
+							"volume_level": 2,
+							"volume_index": 3,
+							"total_idx": 113,
+							"type": "volume",
+							"level": 2,
+							"name": "第二報告 藤堂一行の戦力向上について",
+							"idx": 3,
+							"dirname": "00020_第三部　ゴーレム・バレー/00030_第二報告 藤堂一行の戦力向上について"
+						},
+						"children": [
+							{
+								"id": "r1SN1mLUMsf",
+								"parent": "r1ENy78IGsf",
+								"content": {
+									"chapter_title": "第七レポート：藤堂達の戦力について",
+									"chapter_id": "1177354054882371026",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882371026",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882371026",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882371026"
+									},
+									"chapter_date": "2017-01-10T17:18:39+08:00",
+									"chapter_index": 0,
+									"total_idx": 114,
+									"type": "chapter",
+									"level": 3,
+									"name": "第七レポート：藤堂達の戦力について",
+									"idx": 0,
+									"path": "00020_第三部　ゴーレム・バレー/00030_第二報告 藤堂一行の戦力向上について/00000_第七レポート：藤堂達の戦力について.txt"
+								}
+							},
+							{
+								"id": "SyIN1QL8zjz",
+								"parent": "r1ENy78IGsf",
+								"content": {
+									"chapter_title": "第八レポート：戦力の向上について",
+									"chapter_id": "1177354054882448394",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882448394",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882448394",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882448394"
+									},
+									"chapter_date": "2017-01-22T01:47:38+08:00",
+									"chapter_index": 1,
+									"total_idx": 115,
+									"type": "chapter",
+									"level": 3,
+									"name": "第八レポート：戦力の向上について",
+									"idx": 1,
+									"path": "00020_第三部　ゴーレム・バレー/00030_第二報告 藤堂一行の戦力向上について/00010_第八レポート：戦力の向上について.txt"
+								}
+							},
+							{
+								"id": "S1PEJmUUGjz",
+								"parent": "r1ENy78IGsf",
+								"content": {
+									"chapter_title": "第九レポート：状況と訓練について",
+									"chapter_id": "1177354054882480230",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882480230",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882480230",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882480230"
+									},
+									"chapter_date": "2017-01-26T17:24:53+08:00",
+									"chapter_index": 2,
+									"total_idx": 116,
+									"type": "chapter",
+									"level": 3,
+									"name": "第九レポート：状況と訓練について",
+									"idx": 2,
+									"path": "00020_第三部　ゴーレム・バレー/00030_第二報告 藤堂一行の戦力向上について/00020_第九レポート：状況と訓練について.txt"
+								}
+							},
+							{
+								"id": "BJuEJ7LUGjM",
+								"parent": "r1ENy78IGsf",
+								"content": {
+									"chapter_title": "第十レポート：備品の調達について",
+									"chapter_id": "1177354054882509201",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882509201",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882509201",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882509201"
+									},
+									"chapter_date": "2017-01-30T16:13:46+08:00",
+									"chapter_index": 3,
+									"total_idx": 117,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十レポート：備品の調達について",
+									"idx": 3,
+									"path": "00020_第三部　ゴーレム・バレー/00030_第二報告 藤堂一行の戦力向上について/00030_第十レポート：備品の調達について.txt"
+								}
+							},
+							{
+								"id": "HJtVk78IMsf",
+								"parent": "r1ENy78IGsf",
+								"content": {
+									"chapter_title": "第十一レポート：成果と才能について",
+									"chapter_id": "1177354054882538660",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882538660",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882538660",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882538660"
+									},
+									"chapter_date": "2017-02-03T16:15:17+08:00",
+									"chapter_index": 4,
+									"total_idx": 118,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十一レポート：成果と才能について",
+									"idx": 4,
+									"path": "00020_第三部　ゴーレム・バレー/00030_第二報告 藤堂一行の戦力向上について/00040_第十一レポート：成果と才能について.txt"
+								}
+							},
+							{
+								"id": "H15VJm8Ifsf",
+								"parent": "r1ENy78IGsf",
+								"content": {
+									"chapter_title": "第十二レポート：レベルと存在格について",
+									"chapter_id": "1177354054882578212",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882578212",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882578212",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882578212"
+									},
+									"chapter_date": "2017-02-08T17:31:40+08:00",
+									"chapter_index": 5,
+									"total_idx": 119,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十二レポート：レベルと存在格について",
+									"idx": 5,
+									"path": "00020_第三部　ゴーレム・バレー/00030_第二報告 藤堂一行の戦力向上について/00050_第十二レポート：レベルと存在格について.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "SyoNkQUUGoz",
+						"parent": "B1LXk78Izsz",
+						"content": {
+							"volume_title": "第三報告 新メンバーの教育について",
+							"volume_level": 2,
+							"volume_index": 4,
+							"total_idx": 120,
+							"type": "volume",
+							"level": 2,
+							"name": "第三報告 新メンバーの教育について",
+							"idx": 4,
+							"dirname": "00020_第三部　ゴーレム・バレー/00040_第三報告 新メンバーの教育について"
+						},
+						"children": [
+							{
+								"id": "BkhV1QUUGoz",
+								"parent": "SyoNkQUUGoz",
+								"content": {
+									"chapter_title": "第十三レポート：発生し得る問題と対策について",
+									"chapter_id": "1177354054882607736",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882607736",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882607736",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882607736"
+									},
+									"chapter_date": "2017-02-12T17:06:59+08:00",
+									"chapter_index": 0,
+									"total_idx": 121,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十三レポート：発生し得る問題と対策について",
+									"idx": 0,
+									"path": "00020_第三部　ゴーレム・バレー/00040_第三報告 新メンバーの教育について/00000_第十三レポート：発生し得る問題と対策について.txt"
+								}
+							},
+							{
+								"id": "Hy6V1XLIMoz",
+								"parent": "SyoNkQUUGoz",
+								"content": {
+									"chapter_title": "第十四レポート：レベル上げと異変調査の状況について",
+									"chapter_id": "1177354054882657288",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882657288",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882657288",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882657288"
+									},
+									"chapter_date": "2017-02-21T16:05:25+08:00",
+									"chapter_index": 1,
+									"total_idx": 122,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十四レポート：レベル上げと異変調査の状況について",
+									"idx": 1,
+									"path": "00020_第三部　ゴーレム・バレー/00040_第三報告 新メンバーの教育について/00010_第十四レポート：レベル上げと異変調査の状況について.txt"
+								}
+							},
+							{
+								"id": "rk04k7U8fsf",
+								"parent": "SyoNkQUUGoz",
+								"content": {
+									"chapter_title": "第十五レポート：え？　私が報告書いていーんですか？",
+									"chapter_id": "1177354054882680093",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882680093",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882680093",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882680093"
+									},
+									"chapter_date": "2017-02-26T01:18:10+08:00",
+									"chapter_index": 2,
+									"total_idx": 123,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十五レポート：え？　私が報告書いていーんですか？",
+									"idx": 2,
+									"path": "00020_第三部　ゴーレム・バレー/00040_第三報告 新メンバーの教育について/00020_第十五レポート：え？　私が報告書いていーんですか？.txt"
+								}
+							},
+							{
+								"id": "Hy1rJmIUMjM",
+								"parent": "SyoNkQUUGoz",
+								"content": {
+									"chapter_title": "第十六レポート：アレスさんは……色々ひどいです。",
+									"chapter_id": "1177354054882705748",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882705748",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882705748",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882705748"
+									},
+									"chapter_date": "2017-03-02T16:38:18+08:00",
+									"chapter_index": 3,
+									"total_idx": 124,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十六レポート：アレスさんは……色々ひどいです。",
+									"idx": 3,
+									"path": "00020_第三部　ゴーレム・バレー/00040_第三報告 新メンバーの教育について/00030_第十六レポート：アレスさんは……色々ひどいです。.txt"
+								}
+							},
+							{
+								"id": "HklS1XL8foz",
+								"parent": "SyoNkQUUGoz",
+								"content": {
+									"chapter_title": "第十七レポート：アレスさんは……本当にひどいです。",
+									"chapter_id": "1177354054882732654",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882732654",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882732654",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882732654"
+									},
+									"chapter_date": "2017-03-07T11:05:26+08:00",
+									"chapter_index": 4,
+									"total_idx": 125,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十七レポート：アレスさんは……本当にひどいです。",
+									"idx": 4,
+									"path": "00020_第三部　ゴーレム・バレー/00040_第三報告 新メンバーの教育について/00040_第十七レポート：アレスさんは……本当にひどいです。.txt"
+								}
+							},
+							{
+								"id": "rkZBy78Ifsz",
+								"parent": "SyoNkQUUGoz",
+								"content": {
+									"chapter_title": "第十八レポート：あ、アレスさんは……最低だと思います。",
+									"chapter_id": "1177354054882768586",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882768586",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882768586",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882768586"
+									},
+									"chapter_date": "2017-03-13T22:52:34+08:00",
+									"chapter_index": 5,
+									"total_idx": 126,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十八レポート：あ、アレスさんは……最低だと思います。",
+									"idx": 5,
+									"path": "00020_第三部　ゴーレム・バレー/00040_第三報告 新メンバーの教育について/00050_第十八レポート：あ、アレスさんは……最低だと思います。.txt"
+								}
+							},
+							{
+								"id": "SkGSyXUIMsf",
+								"parent": "SyoNkQUUGoz",
+								"content": {
+									"chapter_title": "第十九レポート：免許皆伝？　しました",
+									"chapter_id": "1177354054882789176",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882789176",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882789176",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882789176"
+									},
+									"chapter_date": "2017-03-17T21:35:49+08:00",
+									"chapter_index": 6,
+									"total_idx": 127,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十九レポート：免許皆伝？　しました",
+									"idx": 6,
+									"path": "00020_第三部　ゴーレム・バレー/00040_第三報告 新メンバーの教育について/00060_第十九レポート：免許皆伝？　しました.txt"
+								}
+							},
+							{
+								"id": "S17rkX8Uzoz",
+								"parent": "SyoNkQUUGoz",
+								"content": {
+									"chapter_title": "第二十レポート：一人でもちゃんとできます",
+									"chapter_id": "1177354054882836100",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882836100",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882836100",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882836100"
+									},
+									"chapter_date": "2017-03-26T04:15:07+08:00",
+									"chapter_index": 7,
+									"total_idx": 128,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十レポート：一人でもちゃんとできます",
+									"idx": 7,
+									"path": "00020_第三部　ゴーレム・バレー/00040_第三報告 新メンバーの教育について/00070_第二十レポート：一人でもちゃんとできます.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "ByESJQL8Gof",
+						"parent": "B1LXk78Izsz",
+						"content": {
+							"volume_title": "幕間その２",
+							"volume_level": 2,
+							"volume_index": 5,
+							"total_idx": 129,
+							"type": "volume",
+							"level": 2,
+							"name": "幕間その２",
+							"idx": 5,
+							"dirname": "00020_第三部　ゴーレム・バレー/00050_幕間その２"
+						},
+						"children": [
+							{
+								"id": "SySH1mUIGsf",
+								"parent": "ByESJQL8Gof",
+								"content": {
+									"chapter_title": "ステファン・ベロニドはお仕事がしたい",
+									"chapter_id": "1177354054882846935",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882846935",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882846935",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882846935"
+									},
+									"chapter_date": "2017-03-28T00:20:29+08:00",
+									"chapter_index": 0,
+									"total_idx": 130,
+									"type": "chapter",
+									"level": 3,
+									"name": "ステファン・ベロニドはお仕事がしたい",
+									"idx": 0,
+									"path": "00020_第三部　ゴーレム・バレー/00050_幕間その２/00000_ステファン・ベロニドはお仕事がしたい.txt"
+								}
+							},
+							{
+								"id": "HJ8H1mIIGif",
+								"parent": "ByESJQL8Gof",
+								"content": {
+									"chapter_title": "英雄の唄⑤",
+									"chapter_id": "1177354054882866123",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882866123",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882866123",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882866123"
+									},
+									"chapter_date": "2017-03-31T03:22:24+08:00",
+									"chapter_index": 1,
+									"total_idx": 131,
+									"type": "chapter",
+									"level": 3,
+									"name": "英雄の唄⑤",
+									"idx": 1,
+									"path": "00020_第三部　ゴーレム・バレー/00050_幕間その２/00010_英雄の唄⑤.txt"
+								}
+							},
+							{
+								"id": "HywSkm88Miz",
+								"parent": "ByESJQL8Gof",
+								"content": {
+									"chapter_title": "教会からの刺客",
+									"chapter_id": "1177354054882882413",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882882413",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882882413",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882882413"
+									},
+									"chapter_date": "2017-04-02T17:10:32+08:00",
+									"chapter_index": 2,
+									"total_idx": 132,
+									"type": "chapter",
+									"level": 3,
+									"name": "教会からの刺客",
+									"idx": 2,
+									"path": "00020_第三部　ゴーレム・バレー/00050_幕間その２/00020_教会からの刺客.txt"
+								}
+							},
+							{
+								"id": "r1_HJX8Uzjz",
+								"parent": "ByESJQL8Gof",
+								"content": {
+									"chapter_title": "アレな人からの刺客",
+									"chapter_id": "1177354054882897800",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882897800",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882897800",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882897800"
+									},
+									"chapter_date": "2017-04-04T23:55:31+08:00",
+									"chapter_index": 3,
+									"total_idx": 133,
+									"type": "chapter",
+									"level": 3,
+									"name": "アレな人からの刺客",
+									"idx": 3,
+									"path": "00020_第三部　ゴーレム・バレー/00050_幕間その２/00030_アレな人からの刺客.txt"
+								}
+							},
+							{
+								"id": "SJKBJ78Lfiz",
+								"parent": "ByESJQL8Gof",
+								"content": {
+									"chapter_title": "ステファン効果",
+									"chapter_id": "1177354054882923033",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882923033",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882923033",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882923033"
+									},
+									"chapter_date": "2017-04-09T04:00:55+08:00",
+									"chapter_index": 4,
+									"total_idx": 134,
+									"type": "chapter",
+									"level": 3,
+									"name": "ステファン効果",
+									"idx": 4,
+									"path": "00020_第三部　ゴーレム・バレー/00050_幕間その２/00040_ステファン効果.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "SJqBJXIUMoM",
+						"parent": "B1LXk78Izsz",
+						"content": {
+							"volume_title": "第四報告 痕跡の発見とそれに伴う行動作戦について",
+							"volume_level": 2,
+							"volume_index": 6,
+							"total_idx": 135,
+							"type": "volume",
+							"level": 2,
+							"name": "第四報告 痕跡の発見とそれに伴う行動作戦について",
+							"idx": 6,
+							"dirname": "00020_第三部　ゴーレム・バレー/00060_第四報告 痕跡の発見とそれに伴う行動作戦について"
+						},
+						"children": [
+							{
+								"id": "rysHymLUMoz",
+								"parent": "SJqBJXIUMoM",
+								"content": {
+									"chapter_title": "第二十一レポート：アレスさんが疲れているので私が代わりに報告します。",
+									"chapter_id": "1177354054882942361",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882942361",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882942361",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882942361"
+									},
+									"chapter_date": "2017-04-12T04:03:50+08:00",
+									"chapter_index": 0,
+									"total_idx": 136,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十一レポート：アレスさんが疲れているので私が代わりに報告します。",
+									"idx": 0,
+									"path": "00020_第三部　ゴーレム・バレー/00060_第四報告 痕跡の発見とそれに伴う行動作戦について/00000_第二十一レポート：アレスさんが疲れているので私が代わりに報告します。.txt"
+								}
+							},
+							{
+								"id": "Sy2B1XLIfsz",
+								"parent": "SJqBJXIUMoM",
+								"content": {
+									"chapter_title": "第二十二レポート：精霊・調査・困惑",
+									"chapter_id": "1177354054882975406",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882975406",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882975406",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882975406"
+									},
+									"chapter_date": "2017-04-16T18:14:37+08:00",
+									"chapter_index": 1,
+									"total_idx": 137,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十二レポート：精霊・調査・困惑",
+									"idx": 1,
+									"path": "00020_第三部　ゴーレム・バレー/00060_第四報告 痕跡の発見とそれに伴う行動作戦について/00010_第二十二レポート：精霊・調査・困惑.txt"
+								}
+							},
+							{
+								"id": "Hy6S178IMjf",
+								"parent": "SJqBJXIUMoM",
+								"content": {
+									"chapter_title": "第二十三レポート：分析・風雨・推測",
+									"chapter_id": "1177354054882986770",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882986770",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054882986770",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054882986770"
+									},
+									"chapter_date": "2017-04-18T01:28:35+08:00",
+									"chapter_index": 2,
+									"total_idx": 138,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十三レポート：分析・風雨・推測",
+									"idx": 2,
+									"path": "00020_第三部　ゴーレム・バレー/00060_第四報告 痕跡の発見とそれに伴う行動作戦について/00020_第二十三レポート：分析・風雨・推測.txt"
+								}
+							},
+							{
+								"id": "S1ArkmLUGof",
+								"parent": "SJqBJXIUMoM",
+								"content": {
+									"chapter_title": "第二十四レポート：作戦・カカオちゃん",
+									"chapter_id": "1177354054883011067",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883011067",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883011067",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883011067"
+									},
+									"chapter_date": "2017-04-22T02:15:07+08:00",
+									"chapter_index": 3,
+									"total_idx": 139,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十四レポート：作戦・カカオちゃん",
+									"idx": 3,
+									"path": "00020_第三部　ゴーレム・バレー/00060_第四報告 痕跡の発見とそれに伴う行動作戦について/00030_第二十四レポート：作戦・カカオちゃん.txt"
+								}
+							},
+							{
+								"id": "ByJIkQUIMsG",
+								"parent": "SJqBJXIUMoM",
+								"content": {
+									"chapter_title": "第二十五レポート：観察・接触",
+									"chapter_id": "1177354054883041967",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883041967",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883041967",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883041967"
+									},
+									"chapter_date": "2017-04-26T22:04:19+08:00",
+									"chapter_index": 4,
+									"total_idx": 140,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十五レポート：観察・接触",
+									"idx": 4,
+									"path": "00020_第三部　ゴーレム・バレー/00060_第四報告 痕跡の発見とそれに伴う行動作戦について/00040_第二十五レポート：観察・接触.txt"
+								}
+							},
+							{
+								"id": "rJlLy7LLMoG",
+								"parent": "SJqBJXIUMoM",
+								"content": {
+									"chapter_title": "第二十六レポート：確認・異常",
+									"chapter_id": "1177354054883121024",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883121024",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883121024",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883121024"
+									},
+									"chapter_date": "2017-05-07T18:07:30+08:00",
+									"chapter_index": 5,
+									"total_idx": 141,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十六レポート：確認・異常",
+									"idx": 5,
+									"path": "00020_第三部　ゴーレム・バレー/00060_第四報告 痕跡の発見とそれに伴う行動作戦について/00050_第二十六レポート：確認・異常.txt"
+								}
+							},
+							{
+								"id": "By-IJXUUGjM",
+								"parent": "SJqBJXIUMoM",
+								"content": {
+									"chapter_title": "第二十七レポート：疲労・宣誓",
+									"chapter_id": "1177354054883158945",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883158945",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883158945",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883158945"
+									},
+									"chapter_date": "2017-05-13T01:07:06+08:00",
+									"chapter_index": 6,
+									"total_idx": 142,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十七レポート：疲労・宣誓",
+									"idx": 6,
+									"path": "00020_第三部　ゴーレム・バレー/00060_第四報告 痕跡の発見とそれに伴う行動作戦について/00060_第二十七レポート：疲労・宣誓.txt"
+								}
+							},
+							{
+								"id": "ByMIkQ8LzoM",
+								"parent": "SJqBJXIUMoM",
+								"content": {
+									"chapter_title": "第二十八レポート：精霊",
+									"chapter_id": "1177354054883180484",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883180484",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883180484",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883180484"
+									},
+									"chapter_date": "2017-05-16T01:49:31+08:00",
+									"chapter_index": 7,
+									"total_idx": 143,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十八レポート：精霊",
+									"idx": 7,
+									"path": "00020_第三部　ゴーレム・バレー/00060_第四報告 痕跡の発見とそれに伴う行動作戦について/00070_第二十八レポート：精霊.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "rJQLy7LUfjG",
+						"parent": "B1LXk78Izsz",
+						"content": {
+							"volume_title": "第五報告 ゴーレム・バレーの調査とその顛末について",
+							"volume_level": 2,
+							"volume_index": 7,
+							"total_idx": 144,
+							"type": "volume",
+							"level": 2,
+							"name": "第五報告 ゴーレム・バレーの調査とその顛末について",
+							"idx": 7,
+							"dirname": "00020_第三部　ゴーレム・バレー/00070_第五報告 ゴーレム・バレーの調査とその顛末について"
+						},
+						"children": [
+							{
+								"id": "By4IkQLIGiM",
+								"parent": "rJQLy7LUfjG",
+								"content": {
+									"chapter_title": "第二十九レポート：異常の原因を突き止めよ①",
+									"chapter_id": "1177354054883200216",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883200216",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883200216",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883200216"
+									},
+									"chapter_date": "2017-05-19T03:18:58+08:00",
+									"chapter_index": 0,
+									"total_idx": 145,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十九レポート：異常の原因を突き止めよ①",
+									"idx": 0,
+									"path": "00020_第三部　ゴーレム・バレー/00070_第五報告 ゴーレム・バレーの調査とその顛末について/00000_第二十九レポート：異常の原因を突き止めよ①.txt"
+								}
+							},
+							{
+								"id": "BkBL17UIMif",
+								"parent": "rJQLy7LUfjG",
+								"content": {
+									"chapter_title": "第三十レポート：異常の原因を突き止めよ②",
+									"chapter_id": "1177354054883230667",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883230667",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883230667",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883230667"
+									},
+									"chapter_date": "2017-05-23T03:31:07+08:00",
+									"chapter_index": 1,
+									"total_idx": 146,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十レポート：異常の原因を突き止めよ②",
+									"idx": 1,
+									"path": "00020_第三部　ゴーレム・バレー/00070_第五報告 ゴーレム・バレーの調査とその顛末について/00010_第三十レポート：異常の原因を突き止めよ②.txt"
+								}
+							},
+							{
+								"id": "BkLLJXLUGoz",
+								"parent": "rJQLy7LUfjG",
+								"content": {
+									"chapter_title": "第三十一レポート：異常の原因を突き止めよ③",
+									"chapter_id": "1177354054883250940",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883250940",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883250940",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883250940"
+									},
+									"chapter_date": "2017-05-26T01:36:32+08:00",
+									"chapter_index": 2,
+									"total_idx": 147,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十一レポート：異常の原因を突き止めよ③",
+									"idx": 2,
+									"path": "00020_第三部　ゴーレム・バレー/00070_第五報告 ゴーレム・バレーの調査とその顛末について/00020_第三十一レポート：異常の原因を突き止めよ③.txt"
+								}
+							},
+							{
+								"id": "ryvLkXLIzsf",
+								"parent": "rJQLy7LUfjG",
+								"content": {
+									"chapter_title": "第三十二レポート：猛る獣を撃滅せよ①",
+									"chapter_id": "1177354054883251827",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883251827",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883251827",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883251827"
+									},
+									"chapter_date": "2017-05-26T23:00:33+08:00",
+									"chapter_index": 3,
+									"total_idx": 148,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十二レポート：猛る獣を撃滅せよ①",
+									"idx": 3,
+									"path": "00020_第三部　ゴーレム・バレー/00070_第五報告 ゴーレム・バレーの調査とその顛末について/00030_第三十二レポート：猛る獣を撃滅せよ①.txt"
+								}
+							},
+							{
+								"id": "ByO8JQUIfjM",
+								"parent": "rJQLy7LUfjG",
+								"content": {
+									"chapter_title": "第三十三レポート：猛る獣を撃滅せよ②",
+									"chapter_id": "1177354054883263307",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883263307",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883263307",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883263307"
+									},
+									"chapter_date": "2017-05-27T23:00:00+08:00",
+									"chapter_index": 4,
+									"total_idx": 149,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十三レポート：猛る獣を撃滅せよ②",
+									"idx": 4,
+									"path": "00020_第三部　ゴーレム・バレー/00070_第五報告 ゴーレム・バレーの調査とその顛末について/00040_第三十三レポート：猛る獣を撃滅せよ②.txt"
+								}
+							},
+							{
+								"id": "rktUy7L8MiM",
+								"parent": "rJQLy7LUfjG",
+								"content": {
+									"chapter_title": "第三十四レポート：猛る獣を撃滅せよ③",
+									"chapter_id": "1177354054883272750",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883272750",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883272750",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883272750"
+									},
+									"chapter_date": "2017-05-29T02:27:38+08:00",
+									"chapter_index": 5,
+									"total_idx": 150,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十四レポート：猛る獣を撃滅せよ③",
+									"idx": 5,
+									"path": "00020_第三部　ゴーレム・バレー/00070_第五報告 ゴーレム・バレーの調査とその顛末について/00050_第三十四レポート：猛る獣を撃滅せよ③.txt"
+								}
+							},
+							{
+								"id": "r1qI17UIzoz",
+								"parent": "rJQLy7LUfjG",
+								"content": {
+									"chapter_title": "第三十五レポート：猛る獣を撃滅せよ④",
+									"chapter_id": "1177354054883278792",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883278792",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883278792",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883278792"
+									},
+									"chapter_date": "2017-05-29T23:00:42+08:00",
+									"chapter_index": 6,
+									"total_idx": 151,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十五レポート：猛る獣を撃滅せよ④",
+									"idx": 6,
+									"path": "00020_第三部　ゴーレム・バレー/00070_第五報告 ゴーレム・バレーの調査とその顛末について/00060_第三十五レポート：猛る獣を撃滅せよ④.txt"
+								}
+							},
+							{
+								"id": "SyoU17UIfsG",
+								"parent": "rJQLy7LUfjG",
+								"content": {
+									"chapter_title": "第三十六レポート：猛る獣を撃滅せよ⑤",
+									"chapter_id": "1177354054883291123",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883291123",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883291123",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883291123"
+									},
+									"chapter_date": "2017-05-31T16:42:56+08:00",
+									"chapter_index": 7,
+									"total_idx": 152,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十六レポート：猛る獣を撃滅せよ⑤",
+									"idx": 7,
+									"path": "00020_第三部　ゴーレム・バレー/00070_第五報告 ゴーレム・バレーの調査とその顛末について/00070_第三十六レポート：猛る獣を撃滅せよ⑤.txt"
+								}
+							},
+							{
+								"id": "Hy3IJ7I8zjz",
+								"parent": "rJQLy7LUfjG",
+								"content": {
+									"chapter_title": "第三十七レポート：猛る獣を撃滅せよ⑥",
+									"chapter_id": "1177354054883298750",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883298750",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883298750",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883298750"
+									},
+									"chapter_date": "2017-06-01T15:06:28+08:00",
+									"chapter_index": 8,
+									"total_idx": 153,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十七レポート：猛る獣を撃滅せよ⑥",
+									"idx": 8,
+									"path": "00020_第三部　ゴーレム・バレー/00070_第五報告 ゴーレム・バレーの調査とその顛末について/00080_第三十七レポート：猛る獣を撃滅せよ⑥.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "rJaUyX8Izif",
+						"parent": "B1LXk78Izsz",
+						"content": {
+							"chapter_title": "Epilogue：かくして僧侶は最善を求める",
+							"chapter_id": "1177354054883311387",
+							"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883311387",
+							"chapter_url_data": {
+								"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883311387",
+								"novel_pid": null,
+								"novel_id": "1177354054880238351",
+								"chapter_id": "1177354054883311387"
+							},
+							"chapter_date": "2017-06-03T03:06:13+08:00",
+							"chapter_index": 8,
+							"total_idx": 154,
+							"type": "chapter",
+							"level": 2,
+							"name": "Epilogue：かくして僧侶は最善を求める",
+							"idx": 8,
+							"path": "00020_第三部　ゴーレム・バレー/00080_Epilogue：かくして僧侶は最善を求める.txt"
+						}
+					},
+					{
+						"id": "rkRUy7UIGiG",
+						"parent": "B1LXk78Izsz",
+						"content": {
+							"chapter_title": "ステファン・ベロニドはお仕事がしたい②",
+							"chapter_id": "1177354054883326416",
+							"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883326416",
+							"chapter_url_data": {
+								"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883326416",
+								"novel_pid": null,
+								"novel_id": "1177354054880238351",
+								"chapter_id": "1177354054883326416"
+							},
+							"chapter_date": "2017-06-04T20:45:17+08:00",
+							"chapter_index": 9,
+							"total_idx": 155,
+							"type": "chapter",
+							"level": 2,
+							"name": "ステファン・ベロニドはお仕事がしたい②",
+							"idx": 9,
+							"path": "00020_第三部　ゴーレム・バレー/00090_ステファン・ベロニドはお仕事がしたい②.txt"
+						}
+					},
+					{
+						"id": "BykwkX8LzjM",
+						"parent": "B1LXk78Izsz",
+						"content": {
+							"chapter_title": "英雄の唄⑥",
+							"chapter_id": "1177354054883332560",
+							"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883332560",
+							"chapter_url_data": {
+								"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883332560",
+								"novel_pid": null,
+								"novel_id": "1177354054880238351",
+								"chapter_id": "1177354054883332560"
+							},
+							"chapter_date": "2017-06-05T17:18:42+08:00",
+							"chapter_index": 10,
+							"total_idx": 156,
+							"type": "chapter",
+							"level": 2,
+							"name": "英雄の唄⑥",
+							"idx": 10,
+							"path": "00020_第三部　ゴーレム・バレー/00100_英雄の唄⑥.txt"
+						}
+					}
+				]
+			},
+			{
+				"id": "HklwJQIIfiz",
+				"parent": "rkgaG8IMjG",
+				"content": {
+					"volume_title": "第四部",
+					"volume_level": 1,
+					"volume_index": 3,
+					"total_idx": 157,
+					"type": "volume",
+					"level": 1,
+					"name": "第四部",
+					"idx": 3,
+					"dirname": "00030_第四部"
+				},
+				"children": [
+					{
+						"id": "HyWPk7ULfjf",
+						"parent": "HklwJQIIfiz",
+						"content": {
+							"chapter_title": "Prologue：俺は同じ失敗はしない",
+							"chapter_id": "1177354054883509764",
+							"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883509764",
+							"chapter_url_data": {
+								"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883509764",
+								"novel_pid": null,
+								"novel_id": "1177354054880238351",
+								"chapter_id": "1177354054883509764"
+							},
+							"chapter_date": "2017-06-30T23:00:26+08:00",
+							"chapter_index": 0,
+							"total_idx": 158,
+							"type": "chapter",
+							"level": 2,
+							"name": "Prologue：俺は同じ失敗はしない",
+							"idx": 0,
+							"path": "00030_第四部/00000_Prologue：俺は同じ失敗はしない.txt"
+						}
+					},
+					{
+						"id": "B1zPkmUUzoM",
+						"parent": "HklwJQIIfiz",
+						"content": {
+							"volume_title": "第一報告 水の都までの道程について",
+							"volume_level": 2,
+							"volume_index": 1,
+							"total_idx": 159,
+							"type": "volume",
+							"level": 2,
+							"name": "第一報告 水の都までの道程について",
+							"idx": 1,
+							"dirname": "00030_第四部/00010_第一報告 水の都までの道程について"
+						},
+						"children": [
+							{
+								"id": "rk7wJXU8MiM",
+								"parent": "B1zPkmUUzoM",
+								"content": {
+									"chapter_title": "第一レポート：水の都に向かう手段について",
+									"chapter_id": "1177354054883652371",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883652371",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883652371",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883652371"
+									},
+									"chapter_date": "2017-07-19T16:46:39+08:00",
+									"chapter_index": 0,
+									"total_idx": 160,
+									"type": "chapter",
+									"level": 3,
+									"name": "第一レポート：水の都に向かう手段について",
+									"idx": 0,
+									"path": "00030_第四部/00010_第一報告 水の都までの道程について/00000_第一レポート：水の都に向かう手段について.txt"
+								}
+							},
+							{
+								"id": "rkVDk7ILzjG",
+								"parent": "B1zPkmUUzoM",
+								"content": {
+									"chapter_title": "第二レポート：水の都に向かう手段について②",
+									"chapter_id": "1177354054883691866",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883691866",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883691866",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883691866"
+									},
+									"chapter_date": "2017-07-25T12:45:58+08:00",
+									"chapter_index": 1,
+									"total_idx": 161,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二レポート：水の都に向かう手段について②",
+									"idx": 1,
+									"path": "00030_第四部/00010_第一報告 水の都までの道程について/00010_第二レポート：水の都に向かう手段について②.txt"
+								}
+							},
+							{
+								"id": "S1HwJXUIzsG",
+								"parent": "B1zPkmUUzoM",
+								"content": {
+									"chapter_title": "第三レポート：水の都に向かう手段について③",
+									"chapter_id": "1177354054883735810",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883735810",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883735810",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883735810"
+									},
+									"chapter_date": "2017-07-31T17:09:25+08:00",
+									"chapter_index": 2,
+									"total_idx": 162,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三レポート：水の都に向かう手段について③",
+									"idx": 2,
+									"path": "00030_第四部/00010_第一報告 水の都までの道程について/00020_第三レポート：水の都に向かう手段について③.txt"
+								}
+							},
+							{
+								"id": "Hk8PJQ88zsf",
+								"parent": "B1zPkmUUzoM",
+								"content": {
+									"chapter_title": "第四レポート：水の都に向かう手段について④",
+									"chapter_id": "1177354054883772515",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883772515",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883772515",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883772515"
+									},
+									"chapter_date": "2017-08-06T00:40:52+08:00",
+									"chapter_index": 3,
+									"total_idx": 163,
+									"type": "chapter",
+									"level": 3,
+									"name": "第四レポート：水の都に向かう手段について④",
+									"idx": 3,
+									"path": "00030_第四部/00010_第一報告 水の都までの道程について/00030_第四レポート：水の都に向かう手段について④.txt"
+								}
+							},
+							{
+								"id": "B1vPJQIUfjf",
+								"parent": "B1zPkmUUzoM",
+								"content": {
+									"chapter_title": "第五レポート：雇った傭兵の能力について",
+									"chapter_id": "1177354054883780084",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883780084",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883780084",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883780084"
+									},
+									"chapter_date": "2017-08-07T23:00:05+08:00",
+									"chapter_index": 4,
+									"total_idx": 164,
+									"type": "chapter",
+									"level": 3,
+									"name": "第五レポート：雇った傭兵の能力について",
+									"idx": 4,
+									"path": "00030_第四部/00010_第一報告 水の都までの道程について/00040_第五レポート：雇った傭兵の能力について.txt"
+								}
+							},
+							{
+								"id": "H1_w1XILGiM",
+								"parent": "B1zPkmUUzoM",
+								"content": {
+									"chapter_title": "第六レポート：雇った傭兵の能力について②",
+									"chapter_id": "1177354054883783791",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883783791",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883783791",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883783791"
+									},
+									"chapter_date": "2017-08-09T23:00:19+08:00",
+									"chapter_index": 5,
+									"total_idx": 165,
+									"type": "chapter",
+									"level": 3,
+									"name": "第六レポート：雇った傭兵の能力について②",
+									"idx": 5,
+									"path": "00030_第四部/00010_第一報告 水の都までの道程について/00050_第六レポート：雇った傭兵の能力について②.txt"
+								}
+							},
+							{
+								"id": "rkFvkXLIfjz",
+								"parent": "B1zPkmUUzoM",
+								"content": {
+									"chapter_title": "第七レポート：藤堂達の様子について",
+									"chapter_id": "1177354054883884301",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883884301",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883884301",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883884301"
+									},
+									"chapter_date": "2017-08-22T10:54:17+08:00",
+									"chapter_index": 6,
+									"total_idx": 166,
+									"type": "chapter",
+									"level": 3,
+									"name": "第七レポート：藤堂達の様子について",
+									"idx": 6,
+									"path": "00030_第四部/00010_第一報告 水の都までの道程について/00060_第七レポート：藤堂達の様子について.txt"
+								}
+							},
+							{
+								"id": "H1cw1QI8foM",
+								"parent": "B1zPkmUUzoM",
+								"content": {
+									"chapter_title": "第八レポート：藤堂達の様子について②",
+									"chapter_id": "1177354054883966856",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883966856",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883966856",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883966856"
+									},
+									"chapter_date": "2017-09-03T16:55:57+08:00",
+									"chapter_index": 7,
+									"total_idx": 167,
+									"type": "chapter",
+									"level": 3,
+									"name": "第八レポート：藤堂達の様子について②",
+									"idx": 7,
+									"path": "00030_第四部/00010_第一報告 水の都までの道程について/00070_第八レポート：藤堂達の様子について②.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "BkiPkQI8fjz",
+						"parent": "HklwJQIIfiz",
+						"content": {
+							"volume_title": "第二報告 精霊契約の調査について",
+							"volume_level": 2,
+							"volume_index": 2,
+							"total_idx": 168,
+							"type": "volume",
+							"level": 2,
+							"name": "第二報告 精霊契約の調査について",
+							"idx": 2,
+							"dirname": "00030_第四部/00020_第二報告 精霊契約の調査について"
+						},
+						"children": [
+							{
+								"id": "H12PyXUIziz",
+								"parent": "BkiPkQI8fjz",
+								"content": {
+									"chapter_title": "第九レポート：海底神殿への道筋について",
+									"chapter_id": "1177354054883974529",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883974529",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883974529",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883974529"
+									},
+									"chapter_date": "2017-09-04T23:00:24+08:00",
+									"chapter_index": 0,
+									"total_idx": 169,
+									"type": "chapter",
+									"level": 3,
+									"name": "第九レポート：海底神殿への道筋について",
+									"idx": 0,
+									"path": "00030_第四部/00020_第二報告 精霊契約の調査について/00000_第九レポート：海底神殿への道筋について.txt"
+								}
+							},
+							{
+								"id": "B16PJQULMoM",
+								"parent": "BkiPkQI8fjz",
+								"content": {
+									"chapter_title": "第十レポート：手段を手に入れる手段について",
+									"chapter_id": "1177354054883983004",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883983004",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883983004",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883983004"
+									},
+									"chapter_date": "2017-09-05T23:00:12+08:00",
+									"chapter_index": 1,
+									"total_idx": 170,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十レポート：手段を手に入れる手段について",
+									"idx": 1,
+									"path": "00030_第四部/00020_第二報告 精霊契約の調査について/00010_第十レポート：手段を手に入れる手段について.txt"
+								}
+							},
+							{
+								"id": "HkRDJ788Msz",
+								"parent": "BkiPkQI8fjz",
+								"content": {
+									"chapter_title": "第十一レポート：魔導具の価値について",
+									"chapter_id": "1177354054883996670",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883996670",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054883996670",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054883996670"
+									},
+									"chapter_date": "2017-09-07T23:00:31+08:00",
+									"chapter_index": 2,
+									"total_idx": 171,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十一レポート：魔導具の価値について",
+									"idx": 2,
+									"path": "00030_第四部/00020_第二報告 精霊契約の調査について/00020_第十一レポート：魔導具の価値について.txt"
+								}
+							},
+							{
+								"id": "rJJ_k7IUMsf",
+								"parent": "BkiPkQI8fjz",
+								"content": {
+									"chapter_title": "第十二レポート：魔導具素材の収集について",
+									"chapter_id": "1177354054884008106",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884008106",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884008106",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884008106"
+									},
+									"chapter_date": "2017-09-09T15:29:49+08:00",
+									"chapter_index": 3,
+									"total_idx": 172,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十二レポート：魔導具素材の収集について",
+									"idx": 3,
+									"path": "00030_第四部/00020_第二報告 精霊契約の調査について/00030_第十二レポート：魔導具素材の収集について.txt"
+								}
+							},
+							{
+								"id": "BkgOJQIUzof",
+								"parent": "BkiPkQI8fjz",
+								"content": {
+									"chapter_title": "第十三レポート：海中戦闘訓練について",
+									"chapter_id": "1177354054884027866",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884027866",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884027866",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884027866"
+									},
+									"chapter_date": "2017-09-12T00:45:24+08:00",
+									"chapter_index": 4,
+									"total_idx": 173,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十三レポート：海中戦闘訓練について",
+									"idx": 4,
+									"path": "00030_第四部/00020_第二報告 精霊契約の調査について/00040_第十三レポート：海中戦闘訓練について.txt"
+								}
+							},
+							{
+								"id": "SJ-OJXLUzsG",
+								"parent": "BkiPkQI8fjz",
+								"content": {
+									"chapter_title": "第十四レポート：サーニャ・シャトルの衝動",
+									"chapter_id": "1177354054884048010",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884048010",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884048010",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884048010"
+									},
+									"chapter_date": "2017-09-15T01:52:00+08:00",
+									"chapter_index": 5,
+									"total_idx": 174,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十四レポート：サーニャ・シャトルの衝動",
+									"idx": 5,
+									"path": "00030_第四部/00020_第二報告 精霊契約の調査について/00050_第十四レポート：サーニャ・シャトルの衝動.txt"
+								}
+							},
+							{
+								"id": "ByM_JQILGoM",
+								"parent": "BkiPkQI8fjz",
+								"content": {
+									"chapter_title": "第十五レポート：魔導具の製造と神殿調査について",
+									"chapter_id": "1177354054884098394",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884098394",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884098394",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884098394"
+									},
+									"chapter_date": "2017-09-22T02:26:20+08:00",
+									"chapter_index": 6,
+									"total_idx": 175,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十五レポート：魔導具の製造と神殿調査について",
+									"idx": 6,
+									"path": "00030_第四部/00020_第二報告 精霊契約の調査について/00060_第十五レポート：魔導具の製造と神殿調査について.txt"
+								}
+							},
+							{
+								"id": "Hk7O1XUUGoM",
+								"parent": "BkiPkQI8fjz",
+								"content": {
+									"chapter_title": "第十六レポート：魔王の手口と指針について",
+									"chapter_id": "1177354054884140067",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884140067",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884140067",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884140067"
+									},
+									"chapter_date": "2017-09-28T00:35:49+08:00",
+									"chapter_index": 7,
+									"total_idx": 176,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十六レポート：魔王の手口と指針について",
+									"idx": 7,
+									"path": "00030_第四部/00020_第二報告 精霊契約の調査について/00070_第十六レポート：魔王の手口と指針について.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "HyEO1QLLfjz",
+						"parent": "HklwJQIIfiz",
+						"content": {
+							"volume_title": "第三報告 海底探索の準備について",
+							"volume_level": 2,
+							"volume_index": 3,
+							"total_idx": 177,
+							"type": "volume",
+							"level": 2,
+							"name": "第三報告 海底探索の準備について",
+							"idx": 3,
+							"dirname": "00030_第四部/00030_第三報告 海底探索の準備について"
+						},
+						"children": [
+							{
+								"id": "BkB_1XLLGsf",
+								"parent": "HyEO1QLLfjz",
+								"content": {
+									"chapter_title": "第十七レポート：到着と合流について",
+									"chapter_id": "1177354054884181767",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884181767",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884181767",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884181767"
+									},
+									"chapter_date": "2017-10-04T00:02:29+08:00",
+									"chapter_index": 0,
+									"total_idx": 178,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十七レポート：到着と合流について",
+									"idx": 0,
+									"path": "00030_第四部/00030_第三報告 海底探索の準備について/00000_第十七レポート：到着と合流について.txt"
+								}
+							},
+							{
+								"id": "r1UO17L8GsG",
+								"parent": "HyEO1QLLfjz",
+								"content": {
+									"chapter_title": "第十八レポート：到着と合流について②",
+									"chapter_id": "1177354054884209870",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884209870",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884209870",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884209870"
+									},
+									"chapter_date": "2017-10-08T19:18:51+08:00",
+									"chapter_index": 1,
+									"total_idx": 179,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十八レポート：到着と合流について②",
+									"idx": 1,
+									"path": "00030_第四部/00030_第三報告 海底探索の準備について/00010_第十八レポート：到着と合流について②.txt"
+								}
+							},
+							{
+								"id": "HJDOkmULMsM",
+								"parent": "HyEO1QLLfjz",
+								"content": {
+									"chapter_title": "第十九レポート：挑戦と勇気について",
+									"chapter_id": "1177354054884241824",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884241824",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884241824",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884241824"
+									},
+									"chapter_date": "2017-10-13T22:12:56+08:00",
+									"chapter_index": 2,
+									"total_idx": 180,
+									"type": "chapter",
+									"level": 3,
+									"name": "第十九レポート：挑戦と勇気について",
+									"idx": 2,
+									"path": "00030_第四部/00030_第三報告 海底探索の準備について/00020_第十九レポート：挑戦と勇気について.txt"
+								}
+							},
+							{
+								"id": "Bkd_1QILMiG",
+								"parent": "HyEO1QLLfjz",
+								"content": {
+									"chapter_title": "第二十レポート：魔導具の性能確認について",
+									"chapter_id": "1177354054884462512",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884462512",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884462512",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884462512"
+									},
+									"chapter_date": "2017-11-16T22:22:18+08:00",
+									"chapter_index": 3,
+									"total_idx": 181,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十レポート：魔導具の性能確認について",
+									"idx": 3,
+									"path": "00030_第四部/00030_第三報告 海底探索の準備について/00030_第二十レポート：魔導具の性能確認について.txt"
+								}
+							},
+							{
+								"id": "SJKdkQ8IGoG",
+								"parent": "HyEO1QLLfjz",
+								"content": {
+									"chapter_title": "第二十一レポート：魔導具の性能確認について②",
+									"chapter_id": "1177354054884493249",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884493249",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884493249",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884493249"
+									},
+									"chapter_date": "2017-11-21T19:35:19+08:00",
+									"chapter_index": 4,
+									"total_idx": 182,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十一レポート：魔導具の性能確認について②",
+									"idx": 4,
+									"path": "00030_第四部/00030_第三報告 海底探索の準備について/00040_第二十一レポート：魔導具の性能確認について②.txt"
+								}
+							},
+							{
+								"id": "HyqOJQ88zsz",
+								"parent": "HyEO1QLLfjz",
+								"content": {
+									"chapter_title": "第二十二レポート：海底調査について",
+									"chapter_id": "1177354054884646751",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884646751",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884646751",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884646751"
+									},
+									"chapter_date": "2017-12-12T16:38:58+08:00",
+									"chapter_index": 5,
+									"total_idx": 183,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十二レポート：海底調査について",
+									"idx": 5,
+									"path": "00030_第四部/00030_第三報告 海底探索の準備について/00050_第二十二レポート：海底調査について.txt"
+								}
+							},
+							{
+								"id": "Byid1mILzsG",
+								"parent": "HyEO1QLLfjz",
+								"content": {
+									"chapter_title": "第二十三レポート：海底調査について②",
+									"chapter_id": "1177354054884659399",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884659399",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884659399",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884659399"
+									},
+									"chapter_date": "2017-12-14T02:21:46+08:00",
+									"chapter_index": 6,
+									"total_idx": 184,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十三レポート：海底調査について②",
+									"idx": 6,
+									"path": "00030_第四部/00030_第三報告 海底探索の準備について/00060_第二十三レポート：海底調査について②.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "S12d1QLLfif",
+						"parent": "HklwJQIIfiz",
+						"content": {
+							"volume_title": "幕間その１",
+							"volume_level": 2,
+							"volume_index": 4,
+							"total_idx": 185,
+							"type": "volume",
+							"level": 2,
+							"name": "幕間その１",
+							"idx": 4,
+							"dirname": "00030_第四部/00040_幕間その１"
+						},
+						"children": [
+							{
+								"id": "B1p_ymL8GoG",
+								"parent": "S12d1QLLfif",
+								"content": {
+									"chapter_title": "英雄の唄⑦",
+									"chapter_id": "1177354054884667064",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884667064",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884667064",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884667064"
+									},
+									"chapter_date": "2017-12-15T02:49:57+08:00",
+									"chapter_index": 0,
+									"total_idx": 186,
+									"type": "chapter",
+									"level": 3,
+									"name": "英雄の唄⑦",
+									"idx": 0,
+									"path": "00030_第四部/00040_幕間その１/00000_英雄の唄⑦.txt"
+								}
+							},
+							{
+								"id": "S10OyXILzjz",
+								"parent": "S12d1QLLfif",
+								"content": {
+									"chapter_title": "アメリア・ノーマンの憂鬱②",
+									"chapter_id": "1177354054884673349",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884673349",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884673349",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884673349"
+									},
+									"chapter_date": "2017-12-15T23:00:13+08:00",
+									"chapter_index": 1,
+									"total_idx": 187,
+									"type": "chapter",
+									"level": 3,
+									"name": "アメリア・ノーマンの憂鬱②",
+									"idx": 1,
+									"path": "00030_第四部/00040_幕間その１/00010_アメリア・ノーマンの憂鬱②.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "HkktyXIUzjf",
+						"parent": "HklwJQIIfiz",
+						"content": {
+							"volume_title": "第四報告 海底の魔物について",
+							"volume_level": 2,
+							"volume_index": 5,
+							"total_idx": 188,
+							"type": "volume",
+							"level": 2,
+							"name": "第四報告 海底の魔物について",
+							"idx": 5,
+							"dirname": "00030_第四部/00050_第四報告 海底の魔物について"
+						},
+						"children": [
+							{
+								"id": "B1eFkQ88GjG",
+								"parent": "HkktyXIUzjf",
+								"content": {
+									"chapter_title": "第二十四レポート：海底の都について",
+									"chapter_id": "1177354054884692673",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884692673",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884692673",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884692673"
+									},
+									"chapter_date": "2017-12-18T01:20:17+08:00",
+									"chapter_index": 0,
+									"total_idx": 189,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十四レポート：海底の都について",
+									"idx": 0,
+									"path": "00030_第四部/00050_第四報告 海底の魔物について/00000_第二十四レポート：海底の都について.txt"
+								}
+							},
+							{
+								"id": "BJWYk7LUMoM",
+								"parent": "HkktyXIUzjf",
+								"content": {
+									"chapter_title": "第二十五レポート：海底の都について②",
+									"chapter_id": "1177354054884698478",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884698478",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884698478",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884698478"
+									},
+									"chapter_date": "2017-12-18T23:00:20+08:00",
+									"chapter_index": 1,
+									"total_idx": 190,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十五レポート：海底の都について②",
+									"idx": 1,
+									"path": "00030_第四部/00050_第四報告 海底の魔物について/00010_第二十五レポート：海底の都について②.txt"
+								}
+							},
+							{
+								"id": "HyzYyQUIzoG",
+								"parent": "HkktyXIUzjf",
+								"content": {
+									"chapter_title": "第二十六レポート：計画と資質について",
+									"chapter_id": "1177354054884707364",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884707364",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884707364",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884707364"
+									},
+									"chapter_date": "2017-12-19T23:00:26+08:00",
+									"chapter_index": 2,
+									"total_idx": 191,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十六レポート：計画と資質について",
+									"idx": 2,
+									"path": "00030_第四部/00050_第四報告 海底の魔物について/00020_第二十六レポート：計画と資質について.txt"
+								}
+							},
+							{
+								"id": "SJXY17UIziG",
+								"parent": "HkktyXIUzjf",
+								"content": {
+									"chapter_title": "第二十七レポート：海の悪魔について",
+									"chapter_id": "1177354054884712692",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884712692",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884712692",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884712692"
+									},
+									"chapter_date": "2017-12-20T23:00:05+08:00",
+									"chapter_index": 3,
+									"total_idx": 192,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十七レポート：海の悪魔について",
+									"idx": 3,
+									"path": "00030_第四部/00050_第四報告 海底の魔物について/00030_第二十七レポート：海の悪魔について.txt"
+								}
+							},
+							{
+								"id": "H1VtkXULGof",
+								"parent": "HkktyXIUzjf",
+								"content": {
+									"chapter_title": "第二十八レポート：海の悪魔について②",
+									"chapter_id": "1177354054884720038",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884720038",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884720038",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884720038"
+									},
+									"chapter_date": "2017-12-21T23:00:46+08:00",
+									"chapter_index": 4,
+									"total_idx": 193,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十八レポート：海の悪魔について②",
+									"idx": 4,
+									"path": "00030_第四部/00050_第四報告 海底の魔物について/00040_第二十八レポート：海の悪魔について②.txt"
+								}
+							},
+							{
+								"id": "ryHt17L8MjG",
+								"parent": "HkktyXIUzjf",
+								"content": {
+									"chapter_title": "第二十九レポート：海の都の調査について",
+									"chapter_id": "1177354054884756400",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884756400",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884756400",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884756400"
+									},
+									"chapter_date": "2017-12-25T23:00:09+08:00",
+									"chapter_index": 5,
+									"total_idx": 194,
+									"type": "chapter",
+									"level": 3,
+									"name": "第二十九レポート：海の都の調査について",
+									"idx": 5,
+									"path": "00030_第四部/00050_第四報告 海底の魔物について/00050_第二十九レポート：海の都の調査について.txt"
+								}
+							},
+							{
+								"id": "Hy8FJ78IzoM",
+								"parent": "HkktyXIUzjf",
+								"content": {
+									"chapter_title": "第三十レポート：海の都の調査について②",
+									"chapter_id": "1177354054884802825",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884802825",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884802825",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884802825"
+									},
+									"chapter_date": "2017-12-31T16:01:05+08:00",
+									"chapter_index": 6,
+									"total_idx": 195,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十レポート：海の都の調査について②",
+									"idx": 6,
+									"path": "00030_第四部/00050_第四報告 海底の魔物について/00060_第三十レポート：海の都の調査について②.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "HyvFJ788MsM",
+						"parent": "HklwJQIIfiz",
+						"content": {
+							"volume_title": "第五報告 魔王軍の動向調査について",
+							"volume_level": 2,
+							"volume_index": 6,
+							"total_idx": 196,
+							"type": "volume",
+							"level": 2,
+							"name": "第五報告 魔王軍の動向調査について",
+							"idx": 6,
+							"dirname": "00030_第四部/00060_第五報告 魔王軍の動向調査について"
+						},
+						"children": [
+							{
+								"id": "SydFk7UIzof",
+								"parent": "HyvFJ788MsM",
+								"content": {
+									"chapter_title": "第三十一レポート：情報収集",
+									"chapter_id": "1177354054884845668",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884845668",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884845668",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884845668"
+									},
+									"chapter_date": "2018-01-05T02:48:31+08:00",
+									"chapter_index": 0,
+									"total_idx": 197,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十一レポート：情報収集",
+									"idx": 0,
+									"path": "00030_第四部/00060_第五報告 魔王軍の動向調査について/00000_第三十一レポート：情報収集.txt"
+								}
+							},
+							{
+								"id": "rkFFyXLLfiG",
+								"parent": "HyvFJ788MsM",
+								"content": {
+									"chapter_title": "第三十二レポート：調査・探索",
+									"chapter_id": "1177354054884850290",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884850290",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884850290",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884850290"
+									},
+									"chapter_date": "2018-01-05T23:00:26+08:00",
+									"chapter_index": 1,
+									"total_idx": 198,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十二レポート：調査・探索",
+									"idx": 1,
+									"path": "00030_第四部/00060_第五報告 魔王軍の動向調査について/00010_第三十二レポート：調査・探索.txt"
+								}
+							},
+							{
+								"id": "SyqYJmL8fjf",
+								"parent": "HyvFJ788MsM",
+								"content": {
+									"chapter_title": "第三十三レポート：傾向と対策",
+									"chapter_id": "1177354054884858780",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884858780",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884858780",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884858780"
+									},
+									"chapter_date": "2018-01-06T23:00:02+08:00",
+									"chapter_index": 2,
+									"total_idx": 199,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十三レポート：傾向と対策",
+									"idx": 2,
+									"path": "00030_第四部/00060_第五報告 魔王軍の動向調査について/00020_第三十三レポート：傾向と対策.txt"
+								}
+							},
+							{
+								"id": "BJjYk7L8Mjf",
+								"parent": "HyvFJ788MsM",
+								"content": {
+									"chapter_title": "第三十四レポート：準備・挑戦",
+									"chapter_id": "1177354054884868336",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884868336",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884868336",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884868336"
+									},
+									"chapter_date": "2018-01-07T23:00:14+08:00",
+									"chapter_index": 3,
+									"total_idx": 200,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十四レポート：準備・挑戦",
+									"idx": 3,
+									"path": "00030_第四部/00060_第五報告 魔王軍の動向調査について/00030_第三十四レポート：準備・挑戦.txt"
+								}
+							},
+							{
+								"id": "By3tJmUIfoz",
+								"parent": "HyvFJ788MsM",
+								"content": {
+									"chapter_title": "第三十五レポート：宣戦布告",
+									"chapter_id": "1177354054884889390",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884889390",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884889390",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884889390"
+									},
+									"chapter_date": "2018-01-09T23:00:29+08:00",
+									"chapter_index": 4,
+									"total_idx": 201,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十五レポート：宣戦布告",
+									"idx": 4,
+									"path": "00030_第四部/00060_第五報告 魔王軍の動向調査について/00040_第三十五レポート：宣戦布告.txt"
+								}
+							},
+							{
+								"id": "SyTt1X8IfiG",
+								"parent": "HyvFJ788MsM",
+								"content": {
+									"chapter_title": "第三十六レポート：開戦",
+									"chapter_id": "1177354054884895909",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884895909",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884895909",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884895909"
+									},
+									"chapter_date": "2018-01-10T23:00:23+08:00",
+									"chapter_index": 5,
+									"total_idx": 202,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十六レポート：開戦",
+									"idx": 5,
+									"path": "00030_第四部/00060_第五報告 魔王軍の動向調査について/00050_第三十六レポート：開戦.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "HkRYyXLLzsM",
+						"parent": "HklwJQIIfiz",
+						"content": {
+							"volume_title": "第六報告 水の都における勇者サポートとその顛末について",
+							"volume_level": 2,
+							"volume_index": 7,
+							"total_idx": 203,
+							"type": "volume",
+							"level": 2,
+							"name": "第六報告 水の都における勇者サポートとその顛末について",
+							"idx": 7,
+							"dirname": "00030_第四部/00070_第六報告 水の都における勇者サポートとその顛末について"
+						},
+						"children": [
+							{
+								"id": "S11ckmUUfjG",
+								"parent": "HkRYyXLLzsM",
+								"content": {
+									"chapter_title": "第三十七レポート：神殿",
+									"chapter_id": "1177354054884902206",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884902206",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884902206",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884902206"
+									},
+									"chapter_date": "2018-01-11T23:00:16+08:00",
+									"chapter_index": 0,
+									"total_idx": 204,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十七レポート：神殿",
+									"idx": 0,
+									"path": "00030_第四部/00070_第六報告 水の都における勇者サポートとその顛末について/00000_第三十七レポート：神殿.txt"
+								}
+							},
+							{
+								"id": "rJxckXLUziG",
+								"parent": "HkRYyXLLzsM",
+								"content": {
+									"chapter_title": "第三十八レポート：探索",
+									"chapter_id": "1177354054884913941",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884913941",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884913941",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884913941"
+									},
+									"chapter_date": "2018-01-13T00:11:43+08:00",
+									"chapter_index": 1,
+									"total_idx": 205,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十八レポート：探索",
+									"idx": 1,
+									"path": "00030_第四部/00070_第六報告 水の都における勇者サポートとその顛末について/00010_第三十八レポート：探索.txt"
+								}
+							},
+							{
+								"id": "HkZcJ7IUGiM",
+								"parent": "HkRYyXLLzsM",
+								"content": {
+									"chapter_title": "第三十九レポート：遭遇",
+									"chapter_id": "1177354054884919427",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884919427",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884919427",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884919427"
+									},
+									"chapter_date": "2018-01-13T23:00:11+08:00",
+									"chapter_index": 2,
+									"total_idx": 206,
+									"type": "chapter",
+									"level": 3,
+									"name": "第三十九レポート：遭遇",
+									"idx": 2,
+									"path": "00030_第四部/00070_第六報告 水の都における勇者サポートとその顛末について/00020_第三十九レポート：遭遇.txt"
+								}
+							},
+							{
+								"id": "SJMcJm8UfiM",
+								"parent": "HkRYyXLLzsM",
+								"content": {
+									"chapter_title": "第四十レポート：作戦",
+									"chapter_id": "1177354054884932204",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884932204",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884932204",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884932204"
+									},
+									"chapter_date": "2018-01-14T23:00:16+08:00",
+									"chapter_index": 3,
+									"total_idx": 207,
+									"type": "chapter",
+									"level": 3,
+									"name": "第四十レポート：作戦",
+									"idx": 3,
+									"path": "00030_第四部/00070_第六報告 水の都における勇者サポートとその顛末について/00030_第四十レポート：作戦.txt"
+								}
+							},
+							{
+								"id": "S1mqJXLUGsM",
+								"parent": "HkRYyXLLzsM",
+								"content": {
+									"chapter_title": "第四十一レポート：決戦",
+									"chapter_id": "1177354054884940717",
+									"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884940717",
+									"chapter_url_data": {
+										"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884940717",
+										"novel_pid": null,
+										"novel_id": "1177354054880238351",
+										"chapter_id": "1177354054884940717"
+									},
+									"chapter_date": "2018-01-15T23:00:42+08:00",
+									"chapter_index": 4,
+									"total_idx": 208,
+									"type": "chapter",
+									"level": 3,
+									"name": "第四十一レポート：決戦",
+									"idx": 4,
+									"path": "00030_第四部/00070_第六報告 水の都における勇者サポートとその顛末について/00040_第四十一レポート：決戦.txt"
+								}
+							}
+						]
+					},
+					{
+						"id": "Hy45J788fif",
+						"parent": "HklwJQIIfiz",
+						"content": {
+							"chapter_title": "Epilogue：サポートの進め方",
+							"chapter_id": "1177354054884948827",
+							"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884948827",
+							"chapter_url_data": {
+								"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884948827",
+								"novel_pid": null,
+								"novel_id": "1177354054880238351",
+								"chapter_id": "1177354054884948827"
+							},
+							"chapter_date": "2018-01-16T23:00:43+08:00",
+							"chapter_index": 8,
+							"total_idx": 209,
+							"type": "chapter",
+							"level": 2,
+							"name": "Epilogue：サポートの進め方",
+							"idx": 8,
+							"path": "00030_第四部/00080_Epilogue：サポートの進め方.txt"
+						}
+					},
+					{
+						"id": "r1S51QILMoG",
+						"parent": "HklwJQIIfiz",
+						"content": {
+							"chapter_title": "英雄の唄⑧",
+							"chapter_id": "1177354054884950075",
+							"chapter_url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884950075",
+							"chapter_url_data": {
+								"url": "https://kakuyomu.jp/works/1177354054880238351/episodes/1177354054884950075",
+								"novel_pid": null,
+								"novel_id": "1177354054880238351",
+								"chapter_id": "1177354054884950075"
+							},
+							"chapter_date": "2018-01-17T23:00:45+08:00",
+							"chapter_index": 9,
+							"total_idx": 210,
+							"type": "chapter",
+							"level": 2,
+							"name": "英雄の唄⑧",
+							"idx": 9,
+							"path": "00030_第四部/00090_英雄の唄⑧.txt"
+						}
+					}
+				]
+			}
+		]
+	},
+	"checkdate": "2018-04-04T21:41:42+08:00",
+	"imgs": []
+}
