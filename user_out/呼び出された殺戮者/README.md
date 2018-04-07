@@ -24,6 +24,18 @@
 - 邪道
 - 戰爭
 - 病嬌
+- R15
+- syosetu
+- スプラッタ
+- 主人公最強
+- 奴隷
+- 武道
+- 武術
+- 残酷な描写あり
+- 殺人
+- 異世界転移
+- 呼び出された殺戮者
+- 魔法
 - 
 
 # contribute
@@ -37,4 +49,5 @@
 
 - [呼び出された殺戮者.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%95%E3%82%8C%E3%81%9F%E6%AE%BA%E6%88%AE%E8%80%85.ts)
 - [よみがえる殺戮者](../よみがえる殺戮者) - 續作(第二部)
+- [dip.jp](https://narou.dip.jp/search.php?text=n4399ci&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - 
