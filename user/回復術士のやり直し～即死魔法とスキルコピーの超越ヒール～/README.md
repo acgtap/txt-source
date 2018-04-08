@@ -53,6 +53,9 @@
 - 君机翻本当上手
 - meinekonigin
 - 打工吧二愣子
+- 圣光武士爱迪生
+- Mightea
+- 索尔之怒
 - 
 
 # options
