@@ -72,6 +72,8 @@
 - jackie991209
 - Model_M
 - 怎么天天是重名
+- 比利小子
+- 晶体管PN结
 - 
 
 # options
