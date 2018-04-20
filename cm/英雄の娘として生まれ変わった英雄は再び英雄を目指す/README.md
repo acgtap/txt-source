@@ -24,6 +24,18 @@
 - 真白抱枕@tieba
 - 尼祿@tieba
 - 丶若雨kiss@tieba
+- CielSacred@tieba
+- 月下黑@tieba
+- BIBIYZ@tieba
+- 月下黑@teiba
+- cyb673290510@tieba
+- 霜烨哀月@tieba
+- 只是路过_AG@tieba
+- №湛蓝の天空@tieba
+- LordD-@tieba
+- 星宫濑奈@tieba
+- 迷之控的王子@tieba
+- 水無月流歌@tieba
 
 # options
 
