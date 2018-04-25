@@ -54,5 +54,5 @@
 # link
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n3701cp&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
-
-
+- [贪婪之花吧](https://tieba.baidu.com/f?kw=%E8%B4%AA%E5%A9%AA%E4%B9%8B%E8%8A%B1&ie=utf-8&tp=0 "")
+- 
