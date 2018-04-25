@@ -31,6 +31,7 @@
 - jlkl232@tieba
 - seven7545@tieba
 - 道具精灵@tieba
+- 香风-可可亚@tieba
 
 # options
 
