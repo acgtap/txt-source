@@ -32,6 +32,7 @@
 - seven7545@tieba
 - 道具精灵@tieba
 - 香风-可可亚@tieba
+- sdo771@tieba
 
 # options
 
