@@ -54,7 +54,7 @@
 
 ## textlayout
 
-- allow_lf2: false
+- allow_lf2: true
 
 # link
 
