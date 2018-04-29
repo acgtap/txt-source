@@ -57,6 +57,7 @@
 - 零崎千爱
 - time中二病患者
 - kong5sl
+- 業餘渣翻
 - 
 
 # options
