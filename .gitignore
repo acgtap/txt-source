@@ -14,3 +14,5 @@ raw
 /user/**/*.raw
 dmzj_out
 
+temp
+**/temp

@@ -64,5 +64,7 @@
 # link
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n2027de&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
-
+- http://q.dmzj.com/2461/index.shtml
+- [天才魔法使与原娼妇新娘吧](https://tieba.baidu.com/f?kw=%E5%A4%A9%E6%89%8D%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B8%8E%E5%8E%9F%E5%A8%BC%E5%A6%87%E6%96%B0%E5%A8%98&ie=utf-8 "天才魔法使与原娼妇新娘")
+- 
 
