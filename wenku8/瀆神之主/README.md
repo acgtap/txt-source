@@ -1,6 +1,7 @@
 # novel
 
-- title: 渎神之主
+- title: 瀆神之主
+- title_jp: イコノクラスト!
 - author: 榊一郎
 - source: http://www.wenku8.com/book/173.htm
 - cover: https://images-na.ssl-images-amazon.com/images/I/51GH3FM438L._SX345_BO1,204,203,200_.jpg
@@ -10,7 +11,7 @@
 
 ## series
 
-- name: 渎神之主
+- name: 瀆神之主
 
 ## preface
 
@@ -36,4 +37,7 @@
 
 # link
 
-
+- [ja.wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B3%E3%83%8E%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%88!)
+- [渎神之主吧](https://tieba.baidu.com/f?kw=%E6%B8%8E%E7%A5%9E%E4%B9%8B%E4%B8%BB&ie=utf-8 "")
+- [【心得】瀆神之主](https://home.gamer.com.tw/creationDetail.php?sn=1459097)
+- 
