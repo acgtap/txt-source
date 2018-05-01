@@ -19,6 +19,7 @@
 # contribute
 
 - 神域结城明日奈@tieba
+- 名無しの紳士さん
 
 # options
 
