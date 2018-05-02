@@ -1,6 +1,7 @@
 # novel
 
 - title: モンスターがあふれる世界になったので、好きに生きたいと思います
+- title_zh: 由于世界魔物满载
 - author: よっしゃあっ！
 - source: https://ncode.syosetu.com/n9418eg/
 - cover:
