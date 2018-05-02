@@ -1,6 +1,7 @@
 # novel
 
 - title: 姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜
+- title_zh: 我的同學是姬騎士
 - author: ＥＫＺ
 - source: http://novel18.syosetu.com/n0153ce/
 - cover: https://lightnovelstranslations.com/wp-content/uploads/2017/03/Volume-1-cover.jpg
