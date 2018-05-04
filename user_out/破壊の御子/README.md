@@ -71,6 +71,7 @@
 - 葉都狐
 - 阡翼狸
 - ChrisLiu
+- NavyFlash
 - 
 
 # options
