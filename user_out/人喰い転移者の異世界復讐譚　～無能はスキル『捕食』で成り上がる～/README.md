@@ -59,6 +59,8 @@
 - kong5sl
 - 業餘渣翻
 - mana63905
+- yswysc
+- siumonmon
 - 
 
 # options
