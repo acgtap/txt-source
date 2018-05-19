@@ -62,6 +62,9 @@
 - yswysc
 - siumonmon
 - 六一绅士
+- 一云淡风轻
+- mana63905
+- 污浊不堪
 - 
 
 # options
@@ -81,3 +84,5 @@
 - [千爱的陨石坑吧](https://tieba.baidu.com/f?kw=%E5%8D%83%E7%88%B1%E7%9A%84%E9%99%A8%E7%9F%B3%E5%9D%91&ie=utf-8&tp=0 "千爱的陨石坑")
 - [食人转移者的异世界复仇谭吧](https://tieba.baidu.com/f?kw=%E9%A3%9F%E4%BA%BA%E8%BD%AC%E7%A7%BB%E8%80%85%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E5%A4%8D%E4%BB%87%E8%B0%AD&ie=utf-8&tp=0 "食人转移者的异世界复仇谭") <= new
 - [喰人转移者的异世界复仇谭吧](https://tieba.baidu.com/f?kw=%E5%96%B0%E4%BA%BA%E8%BD%AC%E7%A7%BB%E8%80%85%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E5%A4%8D%E4%BB%87%E8%B0%AD&ie=utf-8 "喰人转移者的异世界复仇谭") <=廢棄
+- [图转文](https://mega.nz/#F!hSpEULqA!Fo2HF_TjZFtDnLPb7yx0gQ)
+- 
