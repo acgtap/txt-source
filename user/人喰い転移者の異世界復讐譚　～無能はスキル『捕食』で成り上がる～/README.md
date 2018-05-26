@@ -3,7 +3,7 @@
 - title: 人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～
 - author: kiki
 - source: http://ncode.syosetu.com/n7933eb/
-- cover:
+- cover: https://imgsa.baidu.com/forum/w%3D580/sign=d15db7c2dca20cf44690fed746084b0c/c29f1a83b9014a907edc76f8a5773912b21bee1b.jpg
 - publisher: syosetu
 - date: 2017-11-28T21:51:00+08:00
 - status: 完結済
