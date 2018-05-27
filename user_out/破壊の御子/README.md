@@ -72,6 +72,9 @@
 - 阡翼狸
 - ChrisLiu
 - NavyFlash
+- 蝶舞凝汐
+- ScarletFlash
+- 邵升云
 - 
 
 # options
