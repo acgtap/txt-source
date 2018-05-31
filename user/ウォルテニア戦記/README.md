@@ -61,6 +61,10 @@
 - 暗風月
 - lturtle22
 - yuqi312
+- tommy0060
+- su2hc
+- kit1502
+- 
 
 # options
 
@@ -75,5 +79,7 @@
 # link
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n1898i&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
+- [沃特尼亚战记](https://tieba.baidu.com/f?kw=%E6%B2%83%E7%89%B9%E5%B0%BC%E4%BA%9A%E6%88%98%E8%AE%B0&ie=utf-8 "沃特尼亚战记")
+- 
 
 
