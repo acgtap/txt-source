@@ -75,6 +75,7 @@
 - 蝶舞凝汐
 - ScarletFlash
 - 邵升云
+- NavyFlash
 - 
 
 # options
