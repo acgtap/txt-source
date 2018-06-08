@@ -70,6 +70,7 @@
 - [暴食のベルセルク - pixivコミック](https://comic.pixiv.net/works/4258)
 - [暴食のベルセルク～俺だけレベルという概念を突破する～ コミックライド](http://comicride.jp/gluttony/)
 - [暴食的狂暴](https://tieba.baidu.com/f?kw=%E6%9A%B4%E9%A3%9F%E7%9A%84%E7%8B%82%E6%9A%B4&ie=utf-8 "")
+- [狂怒的暴食 ～只有我突破了等级这概念～](http://www.dm5.com/manhua-kuangnudebaoshi--zhiyouwotupoledengjizhegainian/) - 漫畫
 - 
 
 
