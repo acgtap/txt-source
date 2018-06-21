@@ -341,7 +341,7 @@ GHOUL（食屍鬼）们都举拳高呼着KING。GHOUL（食屍鬼）基本上是
 
 名称：薩姆
 位階：３
-种族：GHOST CARRIAGE（幽灵馬车）
+种族：GHOST CARRIAGE（幽靈馬车）
 等級：６５
 
 被动技能
