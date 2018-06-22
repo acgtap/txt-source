@@ -3,7 +3,7 @@
 - title: 隻腕の鉄姫兵団
 - author: 文乃　優
 - source: http://ncode.syosetu.com/n6673cu/
-- cover:
+- cover: https://raikou1.donmai.us/sample/69/62/__original_drawn_by_izuru_timbermetal__sample-69622e1b970f88376a5aaa7f89d5b20d.jpg
 - publisher: syosetu
 - date: 2017-05-09T22:57:00+08:00
 - status: 連載
