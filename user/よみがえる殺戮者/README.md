@@ -6,6 +6,10 @@
 - source: https://ncode.syosetu.com/n4805cx/
 - cover: https://images-na.ssl-images-amazon.com/images/I/71vxcMpwfIL.jpg
 
+## series
+
+- name: 呼び出された殺戮者
+
 ## preface
 
 ```
