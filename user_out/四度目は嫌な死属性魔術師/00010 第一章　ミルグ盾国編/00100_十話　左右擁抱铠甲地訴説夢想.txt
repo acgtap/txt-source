@@ -368,7 +368,7 @@ BLACK SKULL GENERAL（黑骷髅將軍）所持有的武器和盾极其麻烦，�
 这才是善行。
 
 
-名称：沙利婭
+名字：沙利婭
 位階：３
 种族：LIVING HIGH LEG ARMOR（活高叉鎧甲）
 等級：１
@@ -383,7 +383,7 @@ BLACK SKULL GENERAL（黑骷髅將軍）所持有的武器和盾极其麻烦，�
 家务：２級
 
 
-名称：麗塔
+名字：麗塔
 位階：３
 种族：LIVING BIKINI ARMOR（活比基尼鎧甲）
 等級：１
