@@ -65,6 +65,7 @@
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n2435cr&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [暇人以魔王之姿在异世界吧](https://tieba.baidu.com/f?kw=%E6%9A%87%E4%BA%BA%E4%BB%A5%E9%AD%94%E7%8E%8B%E4%B9%8B%E5%A7%BF%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C&ie=utf-8&tp=0 "暇人以魔王之姿在异世界")
+- [暇人、魔王の姿で異世界へ.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E6%9A%87%E4%BA%BA%E3%80%81%E9%AD%94%E7%8E%8B%E3%81%AE%E5%A7%BF%E3%81%A7%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%B8.ts) - 整合樣式
 
 ## file
 
