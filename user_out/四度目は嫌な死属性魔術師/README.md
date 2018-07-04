@@ -80,8 +80,9 @@
 - 嘉韾
 - 古灵精探二代
 - mingxu976
+- 秋本君
+- ReadBook642
 - 
-
 
 # options
 
