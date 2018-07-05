@@ -60,5 +60,5 @@
 - [1-5卷web epub整合](https://tieba.baidu.com/p/5765951643 "1-5卷web epub整合")
 - [土之女神 整合](https://tieba.baidu.com/p/4422629720 "整合")
 - [kong5sl](http://tieba.baidu.com/home/main/?un=kong5sl&ie=utf-8&fr=frs&red_tag=d0474615308)
+- [最強呪族転生.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E6%9C%80%E5%BC%B7%E5%91%AA%E6%97%8F%E8%BB%A2%E7%94%9F.ts)
 - 
-
