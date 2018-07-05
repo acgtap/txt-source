@@ -14,6 +14,8 @@ raw
 /user/**/*.raw
 dmzj_out
 
+*.raw
+
 temp
 **/temp
 **/image/
