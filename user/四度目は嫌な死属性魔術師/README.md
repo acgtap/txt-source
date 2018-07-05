@@ -97,10 +97,12 @@
 - [四度目 epub txt 格式整合 譯名統一](http://tieba.baidu.com/p/5531952815?pid=117529194602)
 - [dip.jp](https://narou.dip.jp/search.php?text=n1745ct&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [p/4971496357](https://tieba.baidu.com/p/4971496357) 參考用 這裏面大多都沒被採用
+- 
 
 ## 漫畫
 
 - https://comic-walker.com/contents/detail/KDCW_MF00000076010000_68/
 - http://seiga.nicovideo.jp/comic/35257
+- 
 
 
