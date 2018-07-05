@@ -37,6 +37,8 @@
 
 # contribute
 
+- 普通的人渣
+- 
 
 # options
 
@@ -51,5 +53,8 @@
 # link
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n1592db&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
-
+- [最强咒族吧](https://tieba.baidu.com/f?kw=%E6%9C%80%E5%BC%BA%E5%92%92%E6%97%8F&ie=utf-8&tp=0 "")
+- [1-5卷web epub整合](https://tieba.baidu.com/p/5765951643 "1-5卷web epub整合")
+- [土之女神 整合](https://tieba.baidu.com/p/4422629720 "整合")
+- 
 
