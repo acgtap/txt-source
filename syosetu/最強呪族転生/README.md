@@ -38,6 +38,7 @@
 # contribute
 
 - 普通的人渣
+- kong5sl
 - 
 
 # options
