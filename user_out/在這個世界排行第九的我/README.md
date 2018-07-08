@@ -58,6 +58,9 @@
 # contribute
 
 - 灵九条
+- 零度星塵
+- 神之奏鸣曲no
+- 湊崎莎莎
 - 
 
 # options
