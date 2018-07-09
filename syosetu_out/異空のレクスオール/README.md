@@ -3,7 +3,7 @@
 - title: 異空のレクスオール
 - author: 天野ハザマ
 - source: http://ncode.syosetu.com/n3475df/
-- cover:
+- cover: https://1.bp.blogspot.com/-Ev5QjgBPkmE/VhNkQNw0hwI/AAAAAAAAFpI/_Z-6zBp5UKI/s640/SORERU-B.png
 - publisher: syosetu
 - date: 2018-01-13T07:00:00+08:00
 - status: 完結済
