@@ -70,6 +70,7 @@
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n3475df&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [异空的雷库斯欧鲁](https://www.lightnovel.cn/forum.php?mod=viewthread&tid=889888&extra=&authorid=154731&page=1)
+- [kakuyomu.jp](https://kakuyomu.jp/works/1177354054884095492) - 作者似乎同時在這個網站也刊登
 - 
 
 
