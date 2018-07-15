@@ -73,5 +73,6 @@
 
 - [难找的稀少的绝版的轻小说整合](http://lscj.ys168.com/) by [lansechenji](http://tieba.baidu.com/home/main?un=lansechenji&ie=utf-8&fr=pb&red_tag=y2750700121)
 - [夜空下之旅途](http://tieba.baidu.com/home/main/?un=%E5%A4%9C%E7%A9%BA%E4%B8%8B%E4%B9%8B%E6%97%85%E9%80%94&ie=utf-8&fr=frs&red_tag=b0506494179)
+- [夜空下之旅途](https://www.jianguoyun.com/p/DTpScpsQxszoBhicn2M) - 堅果
 - 
 
