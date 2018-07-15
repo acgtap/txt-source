@@ -8,17 +8,10 @@ raw
 *.raw.txt
 *.raw.*
 *.json
-!/dmzj_out/**/*.json
-!/dmzj/**/*.json
-/user/**/zraw
-/user/**/*.raw
-dmzj_out
 
+**/zraw
 *.raw
 
 temp
 **/temp
 **/image/
-*.rar
-*.zip
-
