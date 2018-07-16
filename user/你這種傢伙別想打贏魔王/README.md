@@ -5,7 +5,7 @@
 - title_zh: 你這種傢伙別想打贏魔王
 - author: kiki
 - source: http://ncode.syosetu.com/n5361em/
-- cover: https://pbs.twimg.com/media/DXM7pH8VoAEmZLX.jpg
+- cover: http://micromagazine.net/gcn/omaegotokiga/img/main_v.png
 - publisher: syosetu
 - date: 2018-03-18T08:42:00+08:00
 - status: 連載
@@ -89,6 +89,7 @@ GCノベルズ様から書籍化決定しました！　発売日はまだ未定
 - [你这种家伙别想打赢魔王吧](https://tieba.baidu.com/f?kw=%E4%BD%A0%E8%BF%99%E7%A7%8D%E5%AE%B6%E4%BC%99%E5%88%AB%E6%83%B3%E6%89%93%E8%B5%A2%E9%AD%94%E7%8E%8B&ie=utf-8 "你这种家伙别想打赢魔王")
 - [BIBIYZ](https://mega.nz/#F!x4JwDAgR!DMz0X522W7WsarvaKbPyhQ)
 - [物理盐鱼](https://pan.baidu.com/s/1R3f2qxCEQZ61m_x4AYhlVQ) e9vp
+- [「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい｜GCノベルズ](http://micromagazine.net/gcn/omaegotokiga/)
 - 
 
 
