@@ -43,6 +43,12 @@
 
 # contribute
 
+- Castaway
+- a8901566
+- 轻之国度录入组
+- 化物語
+- 林意凱
+- 
 
 # options
 
