@@ -79,7 +79,8 @@
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n2123do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [恶笑行善之邪神无双](https://tieba.baidu.com/f?kw=%E6%81%B6%E7%AC%91%E8%A1%8C%E5%96%84%E4%B9%8B%E9%82%AA%E7%A5%9E%E6%97%A0%E5%8F%8C&ie=utf-8 "恶笑行善之邪神无双")
-
+- [章魚子](https://pan.baidu.com/s/1xOs1KZ4SuEwoXZcgA9rVDQ) wu2f
+- 
 
 
 
