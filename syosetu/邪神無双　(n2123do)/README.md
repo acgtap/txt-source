@@ -3,7 +3,7 @@
 - title: 邪神無双　～邪神が黒い笑顔で人助けを始めたようです～
 - author: 九頭七尾
 - source: http://ncode.syosetu.com/n2123do/
-- cover:
+- cover: https://images-na.ssl-images-amazon.com/images/I/61k2CbxyrVL._SX336_BO1,204,203,200_.jpg
 - publisher: syosetu
 - date: 2018-03-31T19:00:00+08:00
 - status: 連載
