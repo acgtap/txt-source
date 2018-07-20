@@ -75,6 +75,8 @@
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n6683ej&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [无职的英雄吧](https://tieba.baidu.com/f?kw=%E6%97%A0%E8%81%8C%E7%9A%84%E8%8B%B1%E9%9B%84&ie=utf-8 "")
+- [DAJSAY](https://pan.baidu.com/s/1izbzpbNtAFzJcUeT_PiegA)
+- 
 
 
 
