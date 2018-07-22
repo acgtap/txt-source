@@ -52,6 +52,7 @@
 - @弘岩315
 - @XarbitraryX
 - 伊芙加登
+- 当过勇者的职员
 - 
 
 # options
@@ -68,6 +69,7 @@
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n0611em&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [想要成为影之实力者吧](https://tieba.baidu.com/f?kw=%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%BD%B1%E4%B9%8B%E5%AE%9E%E5%8A%9B%E8%80%85&ie=utf-8&tp=0 "想要成为影之实力者")
+- [当过勇者的职员](https://pan.baidu.com/s/1ROkx_9avE2NupIPXyPX87Q) 8edq
 - 
 
 
