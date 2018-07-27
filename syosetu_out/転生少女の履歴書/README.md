@@ -1,0 +1,67 @@
+# novel
+
+- title: 転生少女の履歴書
+- author: 唐澤和希/鳥好きのピスタチオ
+- source: http://ncode.syosetu.com/n4269cp/
+- cover: https://images-na.ssl-images-amazon.com/images/I/71iUyAS7ibL.jpg
+- publisher: syosetu
+- date: 2018-06-30T00:17:00+08:00
+- status: 連載
+
+## series
+
+- name: 転生少女の履歴書
+
+## preface
+
+
+```
+頭脳明晰、スポーツ万能、何をやらせてもそつなくこなす絶世の美少女は、車の事故であっけなく命を散らしてしまう。
+そして前世の記憶を持ちながら、転生した先は剣と魔法のファンタジーな異世界！
+魔法使いによって全ての生活が支えられていたが、年々減少する魔法使い、世界中に散らばる魔力（マナ）がなくなっていくなどの問題が起きており、魔法頼りの生活では立ち行かなくなってきていた。
+
+前世の知識を頼りに、魔法が無くても生きていけることを提案しながら、魔法とは何なのかを模索し、少女がより豊な生活を目指して人々を導いていく物語です。
+
+※ヒーロー文庫さんで書籍化することになりました。
+それに伴いタイトルを変更しました（旧：ハイスペック女子高生の異世界転生）
+```
+
+## tags
+
+- node-novel
+- R15
+- syosetu
+- たまにシリアス
+- コメディー
+- ハッピーエンド
+- ファンタジー
+- 内政
+- 基本ほのぼの
+- 女主人公
+- 学園
+- 恋愛
+- 異世界転生
+- 知識チート
+
+# contribute
+
+- 漂移雾董
+- 路易666bbs
+- 
+
+# options
+
+## syosetu
+
+- txtdownload_id: 674202
+
+## textlayout
+
+- allow_lf2: true
+
+# link
+
+- [dip.jp](https://narou.dip.jp/search.php?text=n4269cp&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
+- [转生少女的履历书](http://dq.tieba.com/f?kw=%E8%BD%AC%E7%94%9F%E5%B0%91%E5%A5%B3%E7%9A%84%E5%B1%A5%E5%8E%86%E4%B9%A6&ie=utf-8 "转生少女的履历书")
+- 
+

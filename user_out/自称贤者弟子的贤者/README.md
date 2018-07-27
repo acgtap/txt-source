@@ -5,6 +5,13 @@
 - author: りゅうせんひろつぐ
 - source: http://ncode.syosetu.com/n6829bd/
 - cover: https://images-na.ssl-images-amazon.com/images/I/91Qk3leml-L.jpg
+- publisher: syosetu
+- date: 2018-07-26T19:52:00+08:00
+- status: 連載
+
+## series
+
+- name: 賢者の弟子を名乗る賢者
 
 ## preface
 
@@ -30,6 +37,17 @@
 - 穿越
 - 奇幻
 - syosetu
+- MMO
+- TS
+- VRMMO
+- ファンタジー
+- ロリジジイ？
+- ロリババア
+- 冒険
+- 性転換
+- 残酷な描写あり
+- 異世界
+- 異世界転移
 - 
 
 # contribute
@@ -49,4 +67,14 @@
 - michaelbb2DkN
 - BrianZSYJ
 - 贤狼赫萝
+- 邊緣佳
+- 休闲飛
 - 
+
+# link
+
+- [dip.jp](https://narou.dip.jp/search.php?text=n6829bd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
+- [自称贤者弟子的贤者](https://tieba.baidu.com/f?kw=%E8%87%AA%E7%A7%B0%E8%B4%A4%E8%80%85%E5%BC%9F%E5%AD%90%E7%9A%84%E8%B4%A4%E8%80%85&ie=utf-8 "自称贤者弟子的贤者")
+- [epub / txt 持續更新](https://tieba.baidu.com/p/5664828470)
+- 
+ 
