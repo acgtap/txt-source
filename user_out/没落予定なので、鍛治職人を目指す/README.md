@@ -61,6 +61,9 @@
 - 0066ch
 - 泠澪
 - 戮祿乃北臣
+- 茶酒烟
+- 风之祭雅
+- ビーム反射
 - 
 
 
@@ -78,6 +81,7 @@
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n7940cn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [没落预订吧](https://tieba.baidu.com/f?kw=%E6%B2%A1%E8%90%BD%E9%A2%84%E8%AE%A2&ie=utf-8 "")
+- [没落予定なので、鍛冶職人を目指す](https://comic-walker.com/contents/detail/KDCW_FS01000044010000_68/) 漫畫
 - 
 
 
