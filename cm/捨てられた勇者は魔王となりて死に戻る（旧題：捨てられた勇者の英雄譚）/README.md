@@ -2,6 +2,7 @@
 
 - title: 捨てられた勇者は魔王となりて死に戻る（旧題：捨てられた勇者の英雄譚）
 - title_zh: 被捨棄的勇者變成魔王從死亡中歸來了
+- title_other: 被捨棄的勇者的英雄譚
 - author: 悠島　蘭
 - source: http://ncode.syosetu.com/n0878cb/
 - cover: https://universonl.files.wordpress.com/2017/12/917mr-b11jl.jpg
