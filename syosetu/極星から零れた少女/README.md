@@ -40,6 +40,8 @@
 # contribute
 
 - 倾听の翅膀
+- 黑426
+- 布枝道123
 - 
 
 # options
