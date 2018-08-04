@@ -1,6 +1,7 @@
 # novel
 
 - title: 極星から零れた少女
+- title_zh: 從極星飄落的少女
 - author: 七沢またり
 - source: http://ncode.syosetu.com/n4468cs/
 - cover: https://wikiwiki.jp/roleplay2/?plugin=attach&refer=%E3%83%A6%E3%82%A4%E3%83%A1%EF%BC%9D%EF%BC%B3%EF%BC%9D%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%91%E3%82%BB%E3%83%AB&openfile=1210492967302.png
