@@ -1,7 +1,7 @@
 # novel
 
 - title: 英雄の中の英雄の物語　〜アレスティア建国記〜
-- author:
+- author: 勘八
 - source: http://ncode.syosetu.com/n9170dm/
 - cover: https://i.ytimg.com/vi/zdEV66C27T4/maxresdefault.jpg
 - publisher: syosetu
