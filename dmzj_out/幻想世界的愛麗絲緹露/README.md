@@ -4,7 +4,7 @@
 - title_zh: 幻想世界的愛麗絲緹露
 - author: 瀬戸悠一
 - source: https://ncode.syosetu.com/n6049cc/
-- cover: http://xs.dmzj.com/img/webpic/9/hs0426l.jpg
+- cover: https://www.wallpaperup.com/uploads/wallpapers/2014/07/13/394403/5e434ffb71c8994db250926b67c46741.jpg
 - publisher: syosetu
 - date: 2018-06-04T18:52:00+08:00
 - status: 連載
