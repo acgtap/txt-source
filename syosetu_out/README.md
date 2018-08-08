@@ -1,5 +1,11 @@
 # toc
 
+## World's End Online
+
+- link: [World's End Online](World's%20End%20Online/)
+- link_source: [World's End Online](../syosetu/World's%20End%20Online/)
+- tags: yuki , R15 , TS , VRMMO , node-novel , syosetu , ファンタジー , 性転換 , 星球大賞 , 残酷な描写あり , 異世界 , 異世界転移
+
 ## 勇者的活躍從現在才開始！
 
 - link: [勇者的活躍從現在才開始！](%E5%8B%87%E8%80%85%E7%9A%84%E6%B4%BB%E8%BA%8D%E5%BE%9E%E7%8F%BE%E5%9C%A8%E6%89%8D%E9%96%8B%E5%A7%8B%EF%BC%81/)
