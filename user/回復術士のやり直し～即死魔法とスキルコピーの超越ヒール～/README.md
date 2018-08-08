@@ -69,6 +69,7 @@
 - 专用RBQ
 - 公主殿下DC
 - www1994930
+- 伊尔格尔
 - 
 
 # options
@@ -85,4 +86,6 @@
 
 - [回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E5%9B%9E%E5%BE%A9%E8%A1%93%E5%A3%AB%E3%81%AE%E3%82%84%E3%82%8A%E7%9B%B4%E3%81%97%EF%BD%9E%E5%8D%B3%E6%AD%BB%E9%AD%94%E6%B3%95%E3%81%A8%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%B3%E3%83%94%E3%83%BC%E3%81%AE%E8%B6%85%E8%B6%8A%E3%83%92%E3%83%BC%E3%83%AB%EF%BD%9E.ts "回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～.ts")
 - [回复术士重来人生吧](https://tieba.baidu.com/f?kw=%E5%9B%9E%E5%A4%8D%E6%9C%AF%E5%A3%AB%E9%87%8D%E6%9D%A5%E4%BA%BA%E7%94%9F&ie=utf-8 "回复术士重来人生")
-- [公主殿下DC epub 潤色版](https://tieba.baidu.com/p/5769494425 "【EPUB整合】《回复术士的重来人生》WEB小说（章更新）")
+- [公主殿下DC epub 潤色版](https://tieba.baidu.com/p/5769494425 "【EPUB整合】《回复术士的重来人生》WEB小说（章更新）") 結果看起來似乎沒做
+- [以腳本整理的 epub / txt 格式整合 譯名統一](https://tieba.baidu.com/p/5546046593 "以腳本整理的 epub / txt 格式整合 譯名統一")
+- 
