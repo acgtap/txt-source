@@ -53,6 +53,8 @@
 - @XarbitraryX
 - 伊芙加登
 - 当过勇者的职员
+- King丶lost
+- XarbitraryX
 - 
 
 # options
