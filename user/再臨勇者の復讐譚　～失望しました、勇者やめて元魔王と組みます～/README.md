@@ -75,6 +75,7 @@
 - 盾之勇者11
 - 流向西南处
 - 紫色萊姆
+- 灰常瞴语
 - 
 
 # options
@@ -90,5 +91,9 @@
 # link
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n1678cx&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
+- [再临勇者的复仇谭吧](https://tieba.baidu.com/f?kw=%E5%86%8D%E4%B8%B4%E5%8B%87%E8%80%85%E7%9A%84%E5%A4%8D%E4%BB%87%E8%B0%AD&ie=utf-8 "再临勇者的复仇谭")
+- 
+
+
 
 
