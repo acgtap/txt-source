@@ -1,8 +1,8 @@
 # novel
 
 - title: 奪う者　奪われる者
-  - author: mino
-  - source: http://ncode.syosetu.com/n4128bn/
+- author: mino
+- source: http://ncode.syosetu.com/n4128bn/
 - cover: http://xs.dmzj.com/img/webpic/4/ldzbdz658964l.jpg
 - publisher:
 - date: 2017-05-27T14:45:28+08:00
@@ -76,3 +76,7 @@
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n4128bn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - http://q.dmzj.com/2156/index.shtml
+- [epub / txt 格式整合 譯名統一](https://tieba.baidu.com/p/5569641658 "以腳本整理的 epub / txt 格式整合 譯名統一")
+- [掠夺者剥夺者吧](https://tieba.baidu.com/f?kw=%E6%8E%A0%E5%A4%BA%E8%80%85%E5%89%A5%E5%A4%BA%E8%80%85&ie=utf-8&tp=0 "掠夺者剥夺者")
+- [comic-walker](https://comic-walker.com/contents/detail/KDCW_KS11000017010000_68/) - 漫画
+- 
