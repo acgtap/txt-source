@@ -63,9 +63,10 @@
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n5947eg&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [等级s的冒险者吧](https://tieba.baidu.com/f?kw=%E7%AD%89%E7%BA%A7s%E7%9A%84%E5%86%92%E9%99%A9%E8%80%85&ie=utf-8&tp=0 "等级s的冒险者")
-- [comic-earthstar.jp](https://comic-earthstar.jp/detail/srank/)
+- [comic-earthstar.jp](https://comic-earthstar.jp/detail/srank/) - 漫畫
 - [www.es-novel.jp](https://www.es-novel.jp/booktitle/54srank.php)
-- [dmzj](https://manhua.dmzj.com/dengjisdemaoxianzhe/)
+- [dmzj](https://manhua.dmzj.com/dengjisdemaoxianzhe/) - 漫畫
+- [lightnovel.cn](https://www.lightnovel.cn/forum.php?mod=viewthread&tid=934740&page=1&authorid=1007858)
 - 
 
 
