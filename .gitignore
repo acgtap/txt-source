@@ -20,3 +20,4 @@ temp
 !docs/**/*.jpg
 !docs/**/*.png
 !docs/**/*.gif
+*.epub
