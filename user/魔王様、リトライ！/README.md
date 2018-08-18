@@ -64,6 +64,7 @@
 - 獨翼天使
 - 迪斯托爾夏夫特
 - 霧骸神曲
+- 飄零leaf
 - 
 
 # options
@@ -80,5 +81,8 @@
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n6789do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [重来吧魔王大人](https://tieba.baidu.com/f?kw=%E9%87%8D%E6%9D%A5%E5%90%A7%E9%AD%94%E7%8E%8B%E5%A4%A7%E4%BA%BA)
+- [漫畫](http://tieba.baidu.com/home/main/?un=%E9%A3%84%E9%9B%B6leaf&ie=utf-8&id=04e2e9a384e99bb66c656166ae5f&fr=frs&red_tag=c2986950856) - 飄零leaf
+- http://webaction.jp/Mcomics/
+- 
 
 
