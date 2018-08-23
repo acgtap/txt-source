@@ -21,3 +21,5 @@ temp
 !docs/**/*.png
 !docs/**/*.gif
 *.epub
+*.patch
+
