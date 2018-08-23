@@ -76,7 +76,6 @@
 - [dip.jp](https://narou.dip.jp/search.php?text=n9759dd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [dmzj 漫画](https://manhua.dmzj.com/zaiyishijiekailegueryuandanbuzhiweihemeiyouyigeren/)
 - [异世界孤儿院吧](https://tieba.baidu.com/f?kw=%E5%BC%82%E4%B8%96%E7%95%8C%E5%AD%A4%E5%84%BF%E9%99%A2&ie=utf-8 "异世界孤儿院")
+- [小說家毒作：在異世界開了孤兒院可是(略](https://www.ptt.cc/bbs/C_Chat/M.1504510592.A.DDD.html) - ptt
 - 
-
-
 
