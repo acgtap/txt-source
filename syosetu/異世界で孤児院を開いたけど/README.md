@@ -59,6 +59,10 @@
 
 # options
 
+## novel
+
+- pattern: 在異世界開了孤兒院
+
 ## syosetu
 
 - txtdownload_id: 819678
