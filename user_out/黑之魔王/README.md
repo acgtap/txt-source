@@ -5,6 +5,11 @@
 - source: http://ncode.syosetu.com/n2627t/
 - cover: https://2.bp.blogspot.com/-qG7giNZTRuI/VkpMgj44IfI/AAAAAAAAAL4/MldUKuehBaE/s1600/volumen-1-0.jpg
 - status: 連載
+
+## series
+
+- name: 黒の魔王
+
 ## preface
 
 ```
@@ -79,11 +84,23 @@
 
 # options
 
+## dmzj
+
+- novel_id: 2367
+
 ## syosetu
 
 - txtdownload_id: 192608
+
+## qq
+
+### id
+
+- 616844565
 
 # link
 
 - [黑之魔王.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B.ts)
 - [dip.jp](https://narou.dip.jp/search.php?text=n2627t&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
+- [黒之魔王吧](https://tieba.baidu.com/f?kw=%E9%BB%92%E4%B9%8B%E9%AD%94%E7%8E%8B&ie=utf-8 "")
+
