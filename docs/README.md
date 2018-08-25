@@ -10,13 +10,13 @@
 
 ### 码云
 
-1. [如何用码云(gitee.com)](如何用码云%28gitee.com%29.md)
-2. [Pull Request](Pull%20Request.md)
-3. [編輯瀏覽](編輯瀏覽.md)
+1. [如何用码云(gitee.com)](gitee/如何用码云%28gitee.com%29.md)
+2. [Pull Request](gitee/Pull%20Request.md)
+3. [編輯瀏覽](gitee/編輯瀏覽.md)
 
 ### git
 
-1. [如何安裝git](如何安裝git.md) (非必要 但推薦學學 安裝後就可以在電腦內直接進行版本操作)
+1. [如何安裝git](gitee/如何安裝git.md) (非必要 但推薦學學 安裝後就可以在電腦內直接進行版本操作)
 
 ## 其他說明
 

@@ -8,19 +8,19 @@
 首先先安裝 Git for Windows  
 [http://gitforwindows.org/](http://gitforwindows.org/)
 
-![git001](img/git001.jpg)
+![git001](../img/git001.jpg)
 
 然後在安裝 TortoiseGit  
 https://tortoisegit.org/download/
 
-![git002](img/git002.jpg)
+![git002](../img/git002.jpg)
 
 正常來說現在大多電腦都能安裝右邊的 x64 版本  
 但是如果你無法安裝的話那就改裝 左邊的檔案
 
 接著安裝語言包
 
-![git003](img/git003.jpg)
+![git003](../img/git003.jpg)
 
 然後底下有語言包  
 zh cn 代表簡體

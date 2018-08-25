@@ -2,7 +2,7 @@
 
 ## fork
 
-![ui001](img/ui001.jpg)
+![ui001](../img/ui001.jpg)
 
 fork 複製之後 你可以在自己的項目內去對文本編輯  
 fork 之後的好處就是可以 去編輯
@@ -13,12 +13,12 @@ fork 之後的好處就是可以 去編輯
 
 ## Pull Request
 
-![ui002](img/ui002.jpg)
+![ui002](../img/ui002.jpg)
 
 對方可以看到你編輯的差異  
 以及你的說明
 
-![pr](img/pr.jpg)
+![pr](../img/pr.jpg)
 
 然後可以決定是不是要合併你的更改
 

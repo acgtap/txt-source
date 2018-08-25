@@ -7,7 +7,7 @@ https://gitee.com
 ## 介面說明
 
 ### 1
-![ui001](img/ui001.jpg)
+![ui001](../img/ui001.jpg)
 
 * Watch = 關注
 * Star = 收藏
@@ -15,7 +15,7 @@ https://gitee.com
 * 
 
 ### 2
-![ui002](img/ui002.jpg)
+![ui002](../img/ui002.jpg)
 
 * 程式碼 = 檔案列表
 * Issues = 留言/問題回饋
@@ -24,7 +24,7 @@ https://gitee.com
 
 ### 如何下載項目
 
-![ui003](img/ui003.jpg)
+![ui003](../img/ui003.jpg)
 
 點下載 ZIP 就可以下載壓縮檔
 
