@@ -5,7 +5,7 @@
 - title_zh: 你這種傢伙別想打贏魔王
 - author: kiki
 - source: http://ncode.syosetu.com/n5361em/
-- cover: http://micromagazine.net/gcn/omaegotokiga/img/main_v.png
+- cover: https://images-na.ssl-images-amazon.com/images/I/91A8RvS10uL.jpg
 - publisher: syosetu
 - date: 2018-03-18T08:42:00+08:00
 - status: 連載
@@ -20,10 +20,10 @@
 ```
 少女芙拉姆，因為神的指示，被選為討伐魔王旅程的一員。
 全員都擁有一流能力的勇者一行。但是，不知為何只有芙拉姆不具戰鬥能力，所有狀態值皆為0。
-於是在某一天，被隊伍中的一人騙說「已經不需要妳了」後賣給了奴.隸商人
-在身為奴.隸的惡劣環境中，芙拉姆為了生存而被迫堅強。
+於是在某一天，被隊伍中的一人騙說「已經不需要妳了」後賣給了奴隸商人
+在身為奴隸的惡劣環境中，芙拉姆為了生存而被迫堅強。
 但是她在那與“受詛之劍”相遇、知道了最弱能力“反轉”的真正價值。
-得到戰鬥能力的她，老實說已經覺得魔王什麼的怎樣都好了，決定和遇到的奴.隸少女一起當冒險者安穩的生活下去。
+得到戰鬥能力的她，老實說已經覺得魔王什麼的怎樣都好了，決定和遇到的奴隸少女一起當冒險者安穩的生活下去。
 
 －－－這就是一位少女，為了取回平穩的日常而從深淵底下爬上來的戰鬥故事。
 
@@ -75,6 +75,10 @@ GCノベルズ様から書籍化決定しました！　発売日はまだ未定
 
 # options
 
+## dmzj
+
+- novel_id: 2541
+
 ## syosetu
 
 - txtdownload_id: 1165245
@@ -90,6 +94,7 @@ GCノベルズ様から書籍化決定しました！　発売日はまだ未定
 - [BIBIYZ](https://mega.nz/#F!x4JwDAgR!DMz0X522W7WsarvaKbPyhQ)
 - [物理盐鱼](https://pan.baidu.com/s/1R3f2qxCEQZ61m_x4AYhlVQ) e9vp
 - [「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい｜GCノベルズ](http://micromagazine.net/gcn/omaegotokiga/)
+- [物理盐鱼 文庫](https://tieba.baidu.com/p/5853088454)
 - 
 
 
