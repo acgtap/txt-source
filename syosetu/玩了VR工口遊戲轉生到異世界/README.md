@@ -83,6 +83,8 @@
 - [dip.jp](https://narou18.dip.jp/search.php?text=n3640eg&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [kakuyomu.jp](https://kakuyomu.jp/works/1177354054885380132)
 - [章魚子](https://pan.baidu.com/s/1xOs1KZ4SuEwoXZcgA9rVDQ) wu2f
-- 
+- [漫畫](https://manhua.dmzj.com/vryouxizhuanshengyishijietiaojiaomowangmeishaonvcl/ "VR游戏转生异世界调教魔王美少女 clothout·saber")
+
+
 
 
