@@ -3,6 +3,7 @@
 ## OVERLORD不死者之王
 
 - link: [OVERLORD不死者之王](OVERLORD%E4%B8%8D%E6%AD%BB%E8%80%85%E4%B9%8B%E7%8E%8B/)
+- link_output: [OVERLORD不死者之王](../wenku8_out/OVERLORD%E4%B8%8D%E6%AD%BB%E8%80%85%E4%B9%8B%E7%8E%8B/)
 - tags: 丸山くがね , node-novel , wenku8
 
 ### titles
