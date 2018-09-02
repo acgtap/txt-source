@@ -188,7 +188,7 @@
 　技能 　亲爱的朋友<Swindler>
 　　　　　卑劣的俯瞰者< LifeTorture>
 　　　　　正义的伙伴<Braver>
-　　　　　消失于雾的恶意<SorceryChaff>
+　　　　　消失於雾的恶意<SorceryChaff>
 　能力　　Lv.36
 　　　　　HP　　 32200/36800
 　　　　　MP　　 15800/29700
