@@ -1,10 +1,11 @@
 # novel
 
 - title: ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。
-- title_zh: 你們先走我斷後
+- title_zh: 快走！這裡就交給我了！這樣說的十年過後，成了傳說
+- title_other: 你們先走我斷後
 - author: えぞぎんぎつね
 - source: http://ncode.syosetu.com/n3722ev/
-- cover:
+- cover: https://img2.finalfantasyxiv.com/accimg2/1b/d3/1bd338d18c89809e5c535c5185a6fcaa4bbf39cb.jpg
 - publisher: syosetu
 - date: 2018-08-30T19:02:00+08:00
 - status: 連載
@@ -95,5 +96,6 @@
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n3722ev&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [你们先走我断后吧](https://tieba.baidu.com/f?kw=%E4%BD%A0%E4%BB%AC%E5%85%88%E8%B5%B0%E6%88%91%E6%96%AD%E5%90%8E&ie=utf-8&tp=0 "你们先走我断后")
+- [txt by Leanboxese](https://pan.baidu.com/s/1hPJzBHaK94XNh1wkczb6Jw) - gfhf
 - 
 
