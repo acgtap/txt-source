@@ -54,7 +54,7 @@
 # link
 
 - [呼び出された殺戮者.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%95%E3%82%8C%E3%81%9F%E6%AE%BA%E6%88%AE%E8%80%85.ts)
-- [よみがえる殺戮者](../よみがえる殺戮者) - 續作(第二部)
+- [よみがえる殺戮者](./00020_第二部：復甦的殺戮者) - 續作(第二部)
 - [dip.jp](https://narou.dip.jp/search.php?text=n4399ci&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [召唤出的杀戮者吧](https://tieba.baidu.com/f?kw=%E5%8F%AC%E5%94%A4%E5%87%BA%E7%9A%84%E6%9D%80%E6%88%AE%E8%80%85&ie=utf-8 "召唤出的杀戮者")
 - [漆黑的部长吧](https://tieba.baidu.com/f?kw=%E6%BC%86%E9%BB%91%E7%9A%84%E9%83%A8%E9%95%BF&ie=utf-8 "")
