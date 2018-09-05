@@ -1,9 +1,10 @@
 # novel
 
 - title: 誰にでもできる影から助ける魔王討伐
+- title_zh: 誰都能做到的暗中協助魔王討伐
 - author: 槻影
 - source: https://kakuyomu.jp/works/1177354054880238351
-- cover:
+- cover: https://images-na.ssl-images-amazon.com/images/I/81iY8SzcvtL.jpg
 - publisher: kakuyomu
 - date: 2018-01-17T23:00:45+08:00
 - status: 連載中
