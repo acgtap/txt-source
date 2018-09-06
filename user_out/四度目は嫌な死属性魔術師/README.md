@@ -83,6 +83,7 @@
 - 秋本君
 - ReadBook642
 - joy10079
+- NatThar
 - 
 
 # options
