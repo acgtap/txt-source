@@ -67,6 +67,9 @@
 - tommy0060
 - su2hc
 - kit1502
+- 人生就像除錯
+- cqwt
+- kenby1024
 - 
 
 # options
