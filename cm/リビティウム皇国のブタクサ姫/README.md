@@ -32,7 +32,7 @@
 
 - node-novel
 - R15
-- TS?
+- TS
 - syosetu
 - お伽噺の定石破壊
 - 人間としてはチート
@@ -59,6 +59,8 @@
 - 道具精灵@tieba
 - 香风-可可亚@tieba
 - sdo771@tieba
+- ChrisLiu
+- 
 
 # options
 
