@@ -84,6 +84,7 @@
 - ReadBook642
 - joy10079
 - NatThar
+- SPT草包
 - 
 
 # options
@@ -101,5 +102,6 @@
 - [p/4971496357](https://tieba.baidu.com/p/4971496357) 參考用 這裏面大多都沒被採用
 - https://comic-walker.com/contents/detail/KDCW_MF00000076010000_68/
 - http://seiga.nicovideo.jp/comic/35257
--
+- [SPT草包](https://home.gamer.com.tw/creationCategory.php?owner=okinadog&c=417638)
+- 
 
