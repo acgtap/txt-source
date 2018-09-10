@@ -1,7 +1,7 @@
 # novel
 
 - title: 望まぬ不死の冒険者
-- title_zh: 事與願違的不死冒險者漫畫
+- title_zh: 事與願違的不死冒險者
 - author: 丘/丘野　優
 - source: http://ncode.syosetu.com/n8577dn/
 - cover: https://images-na.ssl-images-amazon.com/images/I/91HFHrtpF0L.jpg
@@ -58,5 +58,8 @@
 # link
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n8577dn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
+- [事与愿违的不死冒险者吧](https://tieba.baidu.com/f?kw=%E4%BA%8B%E4%B8%8E%E6%84%BF%E8%BF%9D%E7%9A%84%E4%B8%8D%E6%AD%BB%E5%86%92%E9%99%A9%E8%80%85&ie=utf-8 "事与愿违的不死冒险者")
+- 
+
 
 
