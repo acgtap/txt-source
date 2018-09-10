@@ -60,6 +60,15 @@
 - 香风-可可亚@tieba
 - sdo771@tieba
 - ChrisLiu
+- 若叶姬色
+- 要保护动物啊
+- alexli1991
+- 恶魔怜歌
+- deoxys150
+- hansonyang_1
+- 长地里的土豆
+- 爱笑的怪咖哟
+- 培根芝士魔法
 - 
 
 # options
