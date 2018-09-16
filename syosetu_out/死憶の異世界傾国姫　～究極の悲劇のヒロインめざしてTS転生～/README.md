@@ -1,6 +1,7 @@
 # novel
 
 - title: 死憶の異世界傾国姫　～究極の悲劇のヒロインめざしてTS転生～
+- title_short: 死憶の異世界傾国姫
 - author: ぎむねま
 - source: http://ncode.syosetu.com/n6266dl/
 - cover: https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr117/auc0303/users/7/2/5/1/readiohead2001-img377x600-146211377806bqxr19050.jpg
