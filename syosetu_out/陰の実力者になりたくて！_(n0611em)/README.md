@@ -55,6 +55,7 @@
 - 当过勇者的职员
 - King丶lost
 - XarbitraryX
+- SOSZ0Z
 - 
 
 # options
