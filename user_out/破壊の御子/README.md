@@ -76,6 +76,8 @@
 - ScarletFlash
 - 邵升云
 - NavyFlash
+- outer-6
+- 感谢鱼
 - 
 
 # options
