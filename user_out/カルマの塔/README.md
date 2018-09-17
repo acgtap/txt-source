@@ -80,4 +80,6 @@
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n6337cb&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [业之塔吧](https://tieba.baidu.com/f?kw=%E4%B8%9A%E4%B9%8B%E5%A1%94&ie=utf-8 "")
+- [kakuyomu](https://kakuyomu.jp/works/1177354054886943247) - 帳號被封後的新小說地址
+- [海市蜃楼谁不识](https://pan.baidu.com/s/1TTBqYxhDke49hyePdmxOFQ) - t2aa
 - 
