@@ -4,7 +4,7 @@
 - title_zh: 異常狀態是絕望
 - author: 猫倶楽部
 - source: http://ncode.syosetu.com/n3959cn/
-- cover:
+- cover: https://www.melonbooks.co.jp/special/b/0/fair_shoseki/201807_overlap_fair/images/cover.jpg
 - publisher: syosetu
 - date: 2017-03-31T19:00:00+08:00
 - status: 作者棄坑
