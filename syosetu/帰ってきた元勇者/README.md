@@ -44,6 +44,12 @@
 # contribute
 
 - 落花飃雪
+- 紫夜羽辰
+- 懶惰的咸魚
+- 神様四夕
+- 古灵精探二代
+- 闪闪发光的亦
+- 雷楓
 - 
 
 # options
@@ -59,7 +65,11 @@
 # link
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n4701bs&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
+- [归来的原勇者吧](https://tieba.baidu.com/f?kw=%E5%BD%92%E6%9D%A5%E7%9A%84%E5%8E%9F%E5%8B%87%E8%80%85&ie=utf-8 "归来的原勇者")
 - [落花飃雪](https://pan.baidu.com/s/1nvqVOKD)
+- [懶惰的咸魚](https://pan.baidu.com/s/1jImpVvw)
 - 
+
+
 
 
