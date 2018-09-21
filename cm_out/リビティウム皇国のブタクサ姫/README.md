@@ -73,6 +73,7 @@
 - 僅此一位
 - EMPERY_MODER
 - 神cat核蛋
+- readingread
 - 
 
 # options
