@@ -1,20 +1,21 @@
 # novel
 
 - title: 現実主義勇者の大国建造記
-- author: 
-- source: undefined
-- cover: 
+- author: どぜう丸
+- source: https://www.pixiv.net/series.php?id=916564
+- cover:
 - publisher: syosetu
-- date: 
-- status: 
-- preface: 
+- date:
+- status:
+- preface:
 
 ## series
 
-- name: 
+- name: 現実主義勇者の大国建造記
 
 ## tags
 
+- SF・ファンタジー
 
 # contribute
 
@@ -23,6 +24,10 @@
 
 ## syosetu
 
+## pixiv
+
+- user_id: 3543620
+- series_id: 916564
 
 ## textlayout
 
