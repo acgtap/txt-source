@@ -52,6 +52,9 @@
 - anxian8337
 - 斷翼之妖精
 - 名無しの紳士さん
+- 天野雏菊
+- ChrisLiu
+- 
 
 # options
 
