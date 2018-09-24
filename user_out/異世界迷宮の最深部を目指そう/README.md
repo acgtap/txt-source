@@ -72,6 +72,8 @@
 - 冷粥傳奇
 - 珂学大家
 - -沉滞留驻-
+- 絳紅葉
+- 我叫阿進
 - 
 
 # options
@@ -87,5 +89,6 @@
 - [dip.jp](https://narou.dip.jp/search.php?text=n0089bk&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [异世界迷宫最深部为目标吧](https://tieba.baidu.com/f?kw=%E5%BC%82%E4%B8%96%E7%95%8C%E8%BF%B7%E5%AE%AB%E6%9C%80%E6%B7%B1%E9%83%A8%E4%B8%BA%E7%9B%AE%E6%A0%87&ie=utf-8 "异世界迷宫最深部为目标")
 - [外傳空間2 諾文](https://mega.nz/#!kRUkiSxJ!wKCxPYC33egz4HLFe4b_5OKddBUEpfZlAgXCcDNrvng) - 冷粥傳奇
+- [小说插图集合](https://tieba.baidu.com/p/4647529889)
 - 
 
