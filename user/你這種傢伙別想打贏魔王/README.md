@@ -1,8 +1,8 @@
 # novel
 
 - title: 「お前ごときが魔王に勝てると思うな」とガチ勢に勇者パーティを追放されたので、王都で気ままに暮らしたい
-- title_short: お前ごときが魔王に勝てると思うな
-- title_zh: 你這種傢伙別想打贏魔王
+- title_short: 你這種傢伙別想打贏魔王
+- title_zh: 「你這種傢伙別想打贏魔王」被攻略廚踢出了勇者隊伍，想在王都過上平靜的生活
 - author: kiki
 - source: http://ncode.syosetu.com/n5361em/
 - cover: https://images-na.ssl-images-amazon.com/images/I/91A8RvS10uL.jpg
@@ -12,7 +12,7 @@
 
 ## series
 
-- name:
+- name: お前ごときが魔王に勝てると思うな
 
 ## preface
 
@@ -72,6 +72,7 @@ GCノベルズ様から書籍化決定しました！　発売日はまだ未定
 - 物理盐鱼
 - 无水灬天际
 - 十六夜的犬咲夜
+- 千恋
 - 
 
 # options
