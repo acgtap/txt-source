@@ -1,10 +1,10 @@
 # novel
 
 - title: ２９歳独身は異世界で自由に生きた…かった。
-- title_zh: 29歲單身漢在異世界想自由生活卻事與願違！？
+- title_zh: ２９歲單身漢在異世界想自由生活卻事與願違！？
 - author: リュート
 - source: http://ncode.syosetu.com/n9814bu/
-- cover: https://shop.r10s.jp/book/cabinet/3631/9784040723631.jpg
+- cover: https://images-na.ssl-images-amazon.com/images/I/8157FLBOjDL.jpg
 - publisher: syosetu
 - date: 2017-11-05T21:00:00+08:00
 - status: 連載
@@ -52,9 +52,24 @@
 - 異世界転移
 - 街づくり
 - 魔法
+- 冒险
+- 后宫
+- 异界
+- 日本
+- 穿越
+- 魔法
+- 
 
 # contribute
 
+- markchao
+- 養老驢
+- kerorokun
+- 曹茹蘋
+- 桑島黎音
+- kid
+- 輕之國度
+- 
 
 # options
 
