@@ -78,6 +78,7 @@
 ## syosetu
 
 - txtdownload_id: 963416
+- novel_id: n3512ds
 
 ## textlayout
 
@@ -89,4 +90,5 @@
 - [回复术士重来人生吧](https://tieba.baidu.com/f?kw=%E5%9B%9E%E5%A4%8D%E6%9C%AF%E5%A3%AB%E9%87%8D%E6%9D%A5%E4%BA%BA%E7%94%9F&ie=utf-8 "回复术士重来人生")
 - [公主殿下DC epub 潤色版](https://tieba.baidu.com/p/5769494425 "【EPUB整合】《回复术士的重来人生》WEB小说（章更新）") 結果看起來似乎沒做
 - [以腳本整理的 epub / txt 格式整合 譯名統一](https://tieba.baidu.com/p/5546046593 "以腳本整理的 epub / txt 格式整合 譯名統一")
+- [伊尔格尔](https://pan.baidu.com/s/12s7pitOzNAXTiNB5xT0WNQ) - kna9
 - 
