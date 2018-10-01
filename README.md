@@ -7,3 +7,7 @@
 > 沒有 _out 的則是代表沒有經過腳本處理的原始文本
 
 其他請看 [README](docs/README.md)
+
+## links
+
+- [1pagenovel](https://dyxang.gitee.io/1pn/) - 由 [dyxdsgdsg](https://tieba.baidu.com/home/main?un=dyxdsgdsg&ie=utf-8&fr=pb) 製作的 txt 搜尋器
