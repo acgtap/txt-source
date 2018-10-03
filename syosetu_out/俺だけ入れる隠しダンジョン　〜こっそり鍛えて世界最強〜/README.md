@@ -61,6 +61,8 @@
 - 大藏里想奈
 - big_monster
 - smallpiggod
+- 大狗砸砸
+- 在梦中出UR
 - 
 
 # options
