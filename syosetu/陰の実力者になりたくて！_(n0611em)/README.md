@@ -82,9 +82,16 @@
 
 # options
 
+## downloadOptions
+
+- noFilePadend: true
+- filePrefixMode: 3
+- startIndex: 0
+
 ## syosetu
 
 - txtdownload_id: 1160495
+- novel_id: n0611em
 
 ## textlayout
 
