@@ -85,6 +85,10 @@
 
 # options
 
+## textlayout
+
+- allow_lf2: true
+
 ## dmzj
 
 - novel_id: 2367
