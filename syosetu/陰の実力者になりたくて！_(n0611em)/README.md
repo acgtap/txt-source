@@ -81,6 +81,7 @@
 - 烧着hdcsb
 - cate50503
 - 天禅子酱
+- ah21ling
 - 
 
 # options
@@ -106,6 +107,8 @@
 - [想要成为影之实力者吧](https://tieba.baidu.com/f?kw=%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%BD%B1%E4%B9%8B%E5%AE%9E%E5%8A%9B%E8%80%85&ie=utf-8&tp=0 "想要成为影之实力者")
 - [当过勇者的职员](https://pan.baidu.com/s/1ROkx_9avE2NupIPXyPX87Q) 8edq
 - [kadokawa](https://www.kadokawa.co.jp/product/321806000138/)
+- [EPUB - ah21ling](https://tieba.baidu.com/p/5810372348)
+- [【导航】影守的始末名录](https://tieba.baidu.com/p/5750567803 "【导航】影守的始末名录")
 - 
 
 
