@@ -1,9 +1,10 @@
 # novel
 
-- title: 虛弱的高中生的異世界修行日記
+- title: 虚弱高校生が世界最強となるまでの異世界武者修行日誌
+- title_zh: 虛弱的高中生的異世界修行日記
 - author: 力水
-- source: http://q.dmzj.com/2563/index.shtml
-- cover: http://xs.dmzj.com/img/webpic/0/zuixuruo1011l.jpg
+- source: https://ncode.syosetu.com/n9782cs/
+- cover: https://images-na.ssl-images-amazon.com/images/I/912d0N8fDGL.jpg
 - publisher:
 - date: 2018-10-14T19:14:42+08:00
 - status: 连载中
