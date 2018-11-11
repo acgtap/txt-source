@@ -70,5 +70,5 @@
 * [整合贴](https://tieba.baidu.com/p/5473361593 "整合贴") - 貼吧目錄
 * [epub](https://tieba.baidu.com/p/5515573122 "以整合txt為基礎的整合epub 與 txt分割")
 * [kakuyomu.jp](https://kakuyomu.jp/works/1177354054885318680)
-* 
+* [magnet-novels](https://www.magnet-novels.com/novels/56184)
 
