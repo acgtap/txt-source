@@ -1,6 +1,8 @@
 # novel
 
 - title: 奪う者　奪われる者
+- title_zh1: 剝奪者與被剝奪者
+- title_tw1: 異界轉生強奪戰
 - author: mino
 - source: http://ncode.syosetu.com/n4128bn/
 - cover: http://xs.dmzj.com/img/webpic/4/ldzbdz658964l.jpg
@@ -63,6 +65,7 @@
 - 唔好死呀
 - kid
 - 真妹控
+- 空泃
 - 
 
 # options
