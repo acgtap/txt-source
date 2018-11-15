@@ -1,6 +1,7 @@
 # novel
 
 - title: 暇人、魔王の姿で異世界へ　～時々チートなぶらり旅～
+- title_other: 廢柴以魔王之姿闖蕩異世界有時作弊一下的悠哉旅程
 - author: 藍敦
 - source: http://ncode.syosetu.com/n2435cr/
 - cover: https://images-na.ssl-images-amazon.com/images/I/81lL3xQjiPL.jpg
@@ -51,6 +52,7 @@
 - 夜空下之旅途
 - 养老驴
 - linpop
+- 喵到飞机
 - 
 
 # options
