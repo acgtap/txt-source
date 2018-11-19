@@ -2,6 +2,7 @@
 # novel
 
 - title: 異世界迷宮の最深部を目指そう
+- title_zh1: 異世界迷宮最深部為目標
 - author: 割内＠タリサ
 - source: http://ncode.syosetu.com/n0089bk/
 - cover: https://c.bookwalker.jp/coverImage_1124471.jpg
