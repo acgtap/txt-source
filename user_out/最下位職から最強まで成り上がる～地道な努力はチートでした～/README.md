@@ -1,9 +1,10 @@
 # novel
 
 - title: 最下位職から最強まで成り上がる～地道な努力はチートでした～
+- title_zh1: 脚踏实地的努力就是开挂
 - author: 上谷圭
 - source: http://ncode.syosetu.com/n0612dm/
-- cover:
+- cover: https://images-na.ssl-images-amazon.com/images/I/71Tu-5M01VL.jpg
 - publisher: syosetu
 - date: 2017-11-30T12:00:00+08:00
 - status: 連載
