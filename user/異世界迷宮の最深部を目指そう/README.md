@@ -81,6 +81,10 @@
 
 # options
 
+## dmzj
+
+- novel_id: 2440
+
 ## syosetu
 
 - txtdownload_id: 360053
