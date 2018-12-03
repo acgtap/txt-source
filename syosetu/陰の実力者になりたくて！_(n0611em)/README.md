@@ -4,7 +4,7 @@
 - title_zh: 想要成為影之實力者
 - author: あかさたな
 - source: http://ncode.syosetu.com/n0611em/
-- cover: https://cdn.kdkw.jp/cover_1000/321806/321806000138.jpg
+- cover: https://images-na.ssl-images-amazon.com/images/I/81-PA9bnu7L.jpg
 - publisher: syosetu
 - date: 2018-07-22T02:51:00+08:00
 - status: 連載
