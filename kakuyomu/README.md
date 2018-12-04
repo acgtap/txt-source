@@ -1,34 +1,15 @@
 # toc
 
-## demo_depth_3_mode_1
+## この勇者が俺ＴＵＥＥＥくせに慎重すぎる
 
-- link: [demo_depth_3_mode_1](demo_depth_3_mode_1/)
-- tags: 槻影 , kakuyomu , node-novel , カクヨムオンリー , ヒーラー , ファンタジー , プリースト , ライトノベル , 勇者 , 異世界ファンタジー , 魔王
-
-### titles
-
-- demo_depth_3_mode_1
-- 誰にでもできる影から助ける魔王討伐
-
-## demo_depth_3_mode_2
-
-- link: [demo_depth_3_mode_2](demo_depth_3_mode_2/)
-- tags: 槻影 , kakuyomu , node-novel , カクヨムオンリー , ヒーラー , ファンタジー , プリースト , ライトノベル , 勇者 , 異世界ファンタジー , 魔王
+- link: [この勇者が俺ＴＵＥＥＥくせに慎重すぎる](%E3%81%93%E3%81%AE%E5%8B%87%E8%80%85%E3%81%8C%E4%BF%BA%EF%BC%B4%EF%BC%B5%EF%BC%A5%EF%BC%A5%EF%BC%A5%E3%81%8F%E3%81%9B%E3%81%AB%E6%85%8E%E9%87%8D%E3%81%99%E3%81%8E%E3%82%8B/)
+- link_output: [この勇者が俺ＴＵＥＥＥくせに慎重すぎる](../kakuyomu_out/%E3%81%93%E3%81%AE%E5%8B%87%E8%80%85%E3%81%8C%E4%BF%BA%EF%BC%B4%EF%BC%B5%EF%BC%A5%EF%BC%A5%EF%BC%A5%E3%81%8F%E3%81%9B%E3%81%AB%E6%85%8E%E9%87%8D%E3%81%99%E3%81%8E%E3%82%8B/)
+- tags: 土日　月 , kakuyomu , node-novel , カクヨムオンリー , コメディ , シリアス , ファンタジー , ライトノベル , 俺ＴＵＥＥＥ , 異世界ファンタジー , 異世界召喚 , 異世界転移
 
 ### titles
 
-- demo_depth_3_mode_2
-- 誰にでもできる影から助ける魔王討伐
-
-## demo_depth_3_mode_3
-
-- link: [demo_depth_3_mode_3](demo_depth_3_mode_3/)
-- tags: 槻影 , kakuyomu , node-novel , カクヨムオンリー , ヒーラー , ファンタジー , プリースト , ライトノベル , 勇者 , 異世界ファンタジー , 魔王
-
-### titles
-
-- demo_depth_3_mode_3
-- 誰にでもできる影から助ける魔王討伐
+- この勇者が俺ＴＵＥＥＥくせに慎重すぎる
+- 這個勇者明明超強卻過分慎重
 
 ## 惡魔支配者　～想定時回家的男人之瘋狂升級～
 
