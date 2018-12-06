@@ -1,9 +1,10 @@
 # novel
 
 - title: 元将軍のアンデッドナイト
+- title_zh1: 原將軍的不死騎士
 - author: 猫子
 - source: http://ncode.syosetu.com/n1354dw/
-- cover: https://pbs.twimg.com/media/DVFhPXQVQAAHJXK.jpg
+- cover: https://images-na.ssl-images-amazon.com/images/I/71I8CUcj1ZL.jpg
 - publisher: syosetu
 - date: 2018-03-07T11:00:00+08:00
 - status: 連載
@@ -38,6 +39,7 @@
 - 節操消愁
 - 普通的人渣
 - 王爵德
+- 多多良折叠伞
 - 
 
 # options
@@ -54,6 +56,7 @@
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n1354dw&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [原将军的不死骑士](https://tieba.baidu.com/f?kw=%E5%8E%9F%E5%B0%86%E5%86%9B%E7%9A%84%E4%B8%8D%E6%AD%BB%E9%AA%91%E5%A3%AB&ie=utf-8 "原将军的不死骑士")
+- [masiro.moe](http://masiro.moe/forum.php?mod=forumdisplay&fid=63&page=1)
 - 
 
 
