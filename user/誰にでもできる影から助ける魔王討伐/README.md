@@ -53,6 +53,7 @@
 
 - 絨質墮菌
 - 海市蜃楼谁不识
+- 弒澪
 - 
 
 # options
@@ -64,6 +65,9 @@
 # link
 
 - [谁都能做到的暗中协助魔王讨伐](https://tieba.baidu.com/f?kw=%E8%B0%81%E9%83%BD%E8%83%BD%E5%81%9A%E5%88%B0%E7%9A%84%E6%9A%97%E4%B8%AD%E5%8D%8F%E5%8A%A9%E9%AD%94%E7%8E%8B%E8%AE%A8%E4%BC%90&ie=utf-8 "谁都能做到的暗中协助魔王讨伐")
+- [我异世界的姐妹很不自重吧](https://tieba.baidu.com/f?kw=%E6%88%91%E5%BC%82%E4%B8%96%E7%95%8C%E7%9A%84%E5%A7%90%E5%A6%B9%E5%BE%88%E4%B8%8D%E8%87%AA%E9%87%8D&ie=utf-8 "我异世界的姐妹很不自重")
+- [masiro.moe](http://masiro.moe/forum.php?mod=forumdisplay&fid=61&page=1)
 - 
+
 
 
