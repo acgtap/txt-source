@@ -46,6 +46,9 @@
 - 龘實
 - SDK_C
 - 眼前的飞碟
+- f2008zhq
+- Alice
+- wahaha9990920
 - 
 
 # options
@@ -64,6 +67,7 @@
 - [事与愿违的不死冒险者吧](https://tieba.baidu.com/f?kw=%E4%BA%8B%E4%B8%8E%E6%84%BF%E8%BF%9D%E7%9A%84%E4%B8%8D%E6%AD%BB%E5%86%92%E9%99%A9%E8%80%85&ie=utf-8 "事与愿违的不死冒险者")
 - [txr by SDK_C](https://tieba.baidu.com/p/5854693784?pid=121650524888&cid=0&red_tag=0833195265#121650524888)
 - [txt by 龘實](https://pan.baidu.com/s/1dI8KPYu1TdWqRKEUW-tuEg) x1z8 , [tieba](http://tieba.baidu.com/p/5363881548?pid=118578420733#118578420733)
+- [txt by f2008zhq](https://pan.baidu.com/s/1IERTh8IYNkjPjSsgi3k4vQ) xc8g , [tieba](https://tieba.baidu.com/p/5967895104)
 - 
 
 
