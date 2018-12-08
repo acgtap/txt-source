@@ -65,6 +65,7 @@
 - 961038
 - xlFXTZ
 - 伪髅
+- dettle
 - 
 
 # options
@@ -82,6 +83,7 @@
 - [dip.jp](https://narou.dip.jp/search.php?text=n1578dx&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [魔王学院的不适合者](https://tieba.baidu.com/f?kw=%E9%AD%94%E7%8E%8B%E5%AD%A6%E9%99%A2%E7%9A%84%E4%B8%8D%E9%80%82%E5%90%88%E8%80%85&ie=utf-8 "魔王学院的不适合者")
 - [漫画](https://www.manhuagui.com/comic/28684/)
+- [txt by dettle](https://tieba.baidu.com/p/5972023609)
 - 
 
 
