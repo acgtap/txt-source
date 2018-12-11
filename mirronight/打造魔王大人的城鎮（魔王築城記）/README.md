@@ -3,6 +3,7 @@
 - title: 魔王様の街づくり！～最強のダンジョンは近代都市～
 - title_zh: 打造魔王大人的城鎮！～近代都市就是最強的地下城～
 - title_zh1: 魔王築城記！～最強迷宮是近代都市～
+- title_output: 打造魔王大人的城鎮（魔王築城記）
 - author: 月夜　涙（るい）
 - source: http://ncode.syosetu.com/n7637dj/
 - cover: https://images-na.ssl-images-amazon.com/images/I/71D%2BwHmvu-L.jpg
