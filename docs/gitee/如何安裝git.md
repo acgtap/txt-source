@@ -5,12 +5,15 @@
 順便說一下 如何安裝 git  
 一開始用可能不習慣 但是以後 就會發現挺好用
 
-首先先安裝 Git for Windows  
+### 首先先安裝
+
+基本上全都照著預設值就可以
+
 [http://gitforwindows.org/](http://gitforwindows.org/)
 
 ![git001](../img/git001.jpg)
 
-然後在安裝 TortoiseGit  
+### 然後在安裝 TortoiseGit (此步驟為非必要)
 https://tortoisegit.org/download/
 
 ![git002](../img/git002.jpg)
@@ -18,7 +21,7 @@ https://tortoisegit.org/download/
 正常來說現在大多電腦都能安裝右邊的 x64 版本  
 但是如果你無法安裝的話那就改裝 左邊的檔案
 
-接著安裝語言包
+如果有安裝 TortoiseGit 則接著安裝語言包
 
 ![git003](../img/git003.jpg)
 
