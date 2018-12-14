@@ -94,7 +94,7 @@
 
 總之，希望能用恰當的語言看懂。
 
-──状态
+──狀態
 
 Name KanamiAikawa HP 4／51　MP 72／72 Class
 
