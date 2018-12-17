@@ -957,7 +957,7 @@
 
 > 黒の魔王
 
-- [黑之魔王](user_out/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B/%E5%B0%8E%E8%88%AA%E7%9B%AE%E9%8C%84.md) - *user_out*
+- [黑之魔王](user_out/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B/%E5%B0%8E%E8%88%AA%E7%9B%AE%E9%8C%84.md) - *user_out*<br/>build: 50931-08-21  chapter: 540  
 
 
 ### 葵 大和
