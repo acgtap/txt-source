@@ -70,4 +70,5 @@
 - [dip.jp](https://narou.nar.jp/search.php?text=n7707dt&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [over-lap.co.jp](https://over-lap.co.jp/Form/Product/ProductDetail.aspx?shop=0&pid=ZG0022&vid=&cat=CGS&swrd=)
 - [我的数值明显比勇者强吧](https://tieba.baidu.com/f?kw=%E6%88%91%E7%9A%84%E6%95%B0%E5%80%BC%E6%98%8E%E6%98%BE%E6%AF%94%E5%8B%87%E8%80%85%E5%BC%BA&ie=utf-8&tp=0 "我的数值明显比勇者强")
+- [dmzj](https://manhua.dmzj.com/shenweianshazhedewomingxianbiyongzhehaiqiang/)
 - 
