@@ -88,7 +88,7 @@ http://yomeru-hj.net/
 
 ## textlayout
 
-- allow_lf2: true
+- allow_lf2: false
 
 # link
 
