@@ -91,4 +91,5 @@
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n6517bw&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [利贝提姆皇国的豚草姬吧](https://tieba.baidu.com/f?kw=%E5%88%A9%E8%B4%9D%E6%8F%90%E5%A7%86%E7%9A%87%E5%9B%BD%E7%9A%84%E8%B1%9A%E8%8D%89%E5%A7%AC&ie=utf-8 "利贝提姆皇国的豚草姬")
+- [リビティウム皇国のブタクサ姫の外伝と番外編となります](https://ncode.syosetu.com/n2808cr/)
 - 
