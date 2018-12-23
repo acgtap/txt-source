@@ -471,6 +471,199 @@
           }
         ]
       ]
+    },
+    "1545580800000": {
+      "segment_count": 6,
+      "segment": [
+        [
+          "syosetu",
+          "望まぬ不死の冒険者",
+          {
+            "segment_date": 1545607102002,
+            "segment_old": 0,
+            "segment": 50,
+            "init_date": 1545607102002,
+            "update_date": 1545607102002,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "異常狀態是絕望",
+          {
+            "segment_date": 1545607138342,
+            "segment_old": 0,
+            "segment": 4,
+            "init_date": 1545607138342,
+            "update_date": 1545607138342,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "紅き血に口づけを　～外れスキルからの逆転人生～",
+          {
+            "segment_date": 1545607143322,
+            "segment_old": 0,
+            "segment": 16,
+            "init_date": 1545607143322,
+            "update_date": 1545607143322,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "陰の実力者になりたくて！_(n0611em)",
+          {
+            "segment_date": 1545607158613,
+            "segment_old": 53,
+            "segment": 1,
+            "init_date": 1545521322627,
+            "update_date": 1545607158613,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "豚公爵に転生したから、今度は君に好きと言いたい",
+          {
+            "segment_date": 1545607228123,
+            "segment_old": 0,
+            "segment": 26,
+            "init_date": 1545607228123,
+            "update_date": 1545607228123,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "黑之魔王",
+          {
+            "segment_date": 1545607374186,
+            "segment_old": 309,
+            "segment": 11,
+            "init_date": 1545261427757,
+            "update_date": 1545607374186,
+            "update_count": 1
+          }
+        ]
+      ],
+      "epub_count": 7,
+      "epub": [
+        [
+          "syosetu_out",
+          "俺　VS　人類　～アンデッドを使役して王国を襲う俺～",
+          {
+            "epub_date": 1545607413494,
+            "volume_old": 4,
+            "chapter_old": 116,
+            "volume": 4,
+            "chapter": 116,
+            "epub_basename": "俺　VS　人類　～使役不死者去襲擊王國的俺～.epub",
+            "novel_status": 1,
+            "init_date": 1545548928688,
+            "txt_basename": "俺　VS　人類　～使役不死者去襲擊王國的.out.txt",
+            "update_date": 1545607413494,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu_out",
+          "望まぬ不死の冒険者",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "事與願違的不死冒險者.out.txt",
+            "epub_date": 1545607416850,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 10,
+            "chapter": 168,
+            "epub_basename": "事與願違的不死冒險者.epub",
+            "update_date": 1545607416850,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu_out",
+          "異常狀態是絕望",
+          {
+            "epub_date": 1545607422008,
+            "volume_old": 5,
+            "chapter_old": 81,
+            "volume": 5,
+            "chapter": 81,
+            "epub_basename": "異常狀態是絕望.epub",
+            "init_date": 1545548935642,
+            "txt_basename": "異常狀態是絕望.out.txt",
+            "update_date": 1545607422008,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu_out",
+          "紅き血に口づけを　～外れスキルからの逆転人生～",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "為鮮血獻上吻　～從沒用技能開始的逆轉人生.out.txt",
+            "epub_date": 1545607422693,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 19,
+            "epub_basename": "為鮮血獻上吻　～從沒用技能開始的逆轉人生～.epub",
+            "update_date": 1545607422693,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu_out",
+          "陰の実力者になりたくて！_(n0611em)",
+          {
+            "epub_date": 1545607425510,
+            "volume_old": 8,
+            "chapter_old": 163,
+            "volume": 8,
+            "chapter": 164,
+            "epub_basename": "想要成為影之實力者.epub",
+            "init_date": 1545548940691,
+            "txt_basename": "想要成為影之實力者.out.txt",
+            "update_date": 1545607425510,
+            "update_count": 1
+          }
+        ],
+        [
+          "user_out",
+          "豚公爵に転生したから、今度は君に好きと言いたい",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "豚公爵に転生したから、今度は君に好きと言.out.txt",
+            "epub_date": 1545607428320,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 7,
+            "chapter": 166,
+            "epub_basename": "豚公爵に転生したから、今度は君に好きと言いたい.epub",
+            "update_date": 1545607428320,
+            "update_count": 1
+          }
+        ],
+        [
+          "user_out",
+          "黑之魔王",
+          {
+            "epub_date": 1545607437492,
+            "volume_old": 29,
+            "chapter_old": 542,
+            "volume": 29,
+            "chapter": 545,
+            "init_date": 1545261469203,
+            "epub_basename": "黑之魔王.epub",
+            "txt_basename": "黑之魔王.out.txt",
+            "update_date": 1545607437492,
+            "update_count": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -497,33 +690,27 @@
         "segment_date": 1545548616238,
         "segment_old": 14,
         "segment": 14,
-        "init_date": 1545521248792,
-        "update_date": 1545548616238,
-        "update_count": 34
+        "init_date": 1545521248792
       },
       "用務員さんは勇者じゃありませんので": {
         "segment_date": 1545548630634,
         "segment_old": 54,
         "segment": 54,
-        "init_date": 1545521263591,
-        "update_date": 1545548630634,
-        "update_count": 33
+        "init_date": 1545521263591
       },
       "重生的貓騎士與精靈娘的日常": {
         "segment_date": 1545548673452,
         "segment_old": 25,
         "segment": 25,
-        "init_date": 1545521307326,
-        "update_date": 1545548673452,
-        "update_count": 32
+        "init_date": 1545521307326
       },
       "陰の実力者になりたくて！_(n0611em)": {
-        "segment_date": 1545548688321,
+        "segment_date": 1545607158613,
         "segment_old": 53,
-        "segment": 53,
+        "segment": 1,
         "init_date": 1545521322627,
-        "update_date": 1545548688321,
-        "update_count": 31
+        "update_date": 1545607158613,
+        "update_count": 1
       },
       "最強職《竜騎士》から初級職《運び屋》": {
         "init_date": 1545494400000
@@ -548,32 +735,52 @@
       },
       "ニトの怠惰な異世界症候群～最弱職〈ヒーラー〉なのに最強はチートですか？～": {
         "init_date": 1545494400000
+      },
+      "望まぬ不死の冒険者": {
+        "segment_date": 1545607102002,
+        "segment_old": 0,
+        "segment": 50,
+        "init_date": 1545607102002,
+        "update_date": 1545607102002,
+        "update_count": 1
+      },
+      "異常狀態是絕望": {
+        "segment_date": 1545607138342,
+        "segment_old": 0,
+        "segment": 4,
+        "init_date": 1545607138342,
+        "update_date": 1545607138342,
+        "update_count": 1
+      },
+      "紅き血に口づけを　～外れスキルからの逆転人生～": {
+        "segment_date": 1545607143322,
+        "segment_old": 0,
+        "segment": 16,
+        "init_date": 1545607143322,
+        "update_date": 1545607143322,
+        "update_count": 1
       }
     },
     "user": {
       "黑之魔王": {
-        "segment_date": 1545548851942,
+        "segment_date": 1545607374186,
         "segment_old": 309,
-        "segment": 309,
+        "segment": 11,
         "init_date": 1545261427757,
-        "update_date": 1545548851942,
-        "update_count": 28
+        "update_date": 1545607374186,
+        "update_count": 1
       },
       "火輪を抱いた少女": {
         "segment_date": 1545548707385,
         "segment_old": 1,
         "segment": 1,
-        "init_date": 1545521341885,
-        "update_date": 1545548707385,
-        "update_count": 30
+        "init_date": 1545521341885
       },
       "魔王様、リトライ！": {
         "segment_date": 1545552564307,
         "segment_old": 38,
         "segment": 1,
-        "init_date": 1545521369284,
-        "update_date": 1545552564307,
-        "update_count": 29
+        "init_date": 1545521369284
       },
       "虫虫酱むいむいたん": {
         "init_date": 1545494400000
@@ -586,19 +793,28 @@
       },
       "魔拳のデイドリーマー": {
         "init_date": 1545494400000
+      },
+      "豚公爵に転生したから、今度は君に好きと言いたい": {
+        "segment_date": 1545607228123,
+        "segment_old": 0,
+        "segment": 26,
+        "init_date": 1545607228123,
+        "update_date": 1545607228123,
+        "update_count": 1
       }
     },
     "user_out": {
       "黑之魔王": {
-        "epub_date": 1545548954571,
+        "epub_date": 1545607437492,
         "volume_old": 29,
-        "chapter_old": 541,
+        "chapter_old": 542,
         "volume": 29,
-        "chapter": 542,
+        "chapter": 545,
         "init_date": 1545261469203,
-        "epub_basename": "黑之魔王",
-        "update_date": 1545548954571,
-        "update_count": 14
+        "epub_basename": "黑之魔王.epub",
+        "txt_basename": "黑之魔王.out.txt",
+        "update_date": 1545607437492,
+        "update_count": 1
       },
       "火輪を抱いた少女": {
         "epub_date": 1545548942271,
@@ -608,9 +824,7 @@
         "chapter": 48,
         "epub_basename": "火輪を抱いた少女",
         "novel_status": 16,
-        "init_date": 1545548942271,
-        "update_date": 1545548942271,
-        "update_count": 14
+        "init_date": 1545548942271
       },
       "魔王様、リトライ！": {
         "epub_date": 1545548944955,
@@ -619,9 +833,7 @@
         "volume": 9,
         "chapter": 110,
         "epub_basename": "魔王様、リトライ！",
-        "init_date": 1545548944955,
-        "update_date": 1545548944955,
-        "update_count": 14
+        "init_date": 1545548944955
       },
       "没落予定なので、鍛治職人を目指す": {
         "init_date": 1545494400000
@@ -669,7 +881,16 @@
         "init_date": 1545494400000
       },
       "豚公爵に転生したから、今度は君に好きと言いたい": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "txt_basename": "豚公爵に転生したから、今度は君に好きと言.out.txt",
+        "epub_date": 1545607428320,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 7,
+        "chapter": 166,
+        "epub_basename": "豚公爵に転生したから、今度は君に好きと言いたい.epub",
+        "update_date": 1545607428320,
+        "update_count": 1
       },
       "悠久の愚者アズリーの、賢者のすゝめ": {
         "init_date": 1545494400000
@@ -763,16 +984,17 @@
         "init_date": 1545261458252
       },
       "俺　VS　人類　～アンデッドを使役して王国を襲う俺～": {
-        "epub_date": 1545548928688,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1545607413494,
+        "volume_old": 4,
+        "chapter_old": 116,
         "volume": 4,
         "chapter": 116,
-        "epub_basename": "俺　VS　人類　～使役不死者去襲擊王國的俺～",
+        "epub_basename": "俺　VS　人類　～使役不死者去襲擊王國的俺～.epub",
         "novel_status": 1,
         "init_date": 1545548928688,
-        "update_date": 1545548928688,
-        "update_count": 14
+        "txt_basename": "俺　VS　人類　～使役不死者去襲擊王國的.out.txt",
+        "update_date": 1545607413494,
+        "update_count": 1
       },
       "用務員さんは勇者じゃありませんので": {
         "epub_date": 1545548930185,
@@ -781,20 +1003,19 @@
         "volume": 3,
         "chapter": 60,
         "epub_basename": "因為校工桑並不是勇者",
-        "init_date": 1545548930185,
-        "update_date": 1545548930185,
-        "update_count": 14
+        "init_date": 1545548930185
       },
       "異常狀態是絕望": {
-        "epub_date": 1545548935642,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1545607422008,
+        "volume_old": 5,
+        "chapter_old": 81,
         "volume": 5,
         "chapter": 81,
-        "epub_basename": "異常狀態是絕望",
+        "epub_basename": "異常狀態是絕望.epub",
         "init_date": 1545548935642,
-        "update_date": 1545548935642,
-        "update_count": 14
+        "txt_basename": "異常狀態是絕望.out.txt",
+        "update_date": 1545607422008,
+        "update_count": 1
       },
       "重生的貓騎士與精靈娘的日常": {
         "epub_date": 1545548938005,
@@ -803,20 +1024,19 @@
         "volume": 3,
         "chapter": 48,
         "epub_basename": "重生的貓騎士與精靈娘的日常",
-        "init_date": 1545548938005,
-        "update_date": 1545548938005,
-        "update_count": 14
+        "init_date": 1545548938005
       },
       "陰の実力者になりたくて！_(n0611em)": {
-        "epub_date": 1545548940691,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1545607425510,
+        "volume_old": 8,
+        "chapter_old": 163,
         "volume": 8,
-        "chapter": 163,
-        "epub_basename": "想要成為影之實力者",
+        "chapter": 164,
+        "epub_basename": "想要成為影之實力者.epub",
         "init_date": 1545548940691,
-        "update_date": 1545548940691,
-        "update_count": 14
+        "txt_basename": "想要成為影之實力者.out.txt",
+        "update_date": 1545607425510,
+        "update_count": 1
       },
       "勇者的活躍從現在才開始！": {
         "init_date": 1545494400000
@@ -843,7 +1063,16 @@
         "init_date": 1545494400000
       },
       "紅き血に口づけを　～外れスキルからの逆転人生～": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "txt_basename": "為鮮血獻上吻　～從沒用技能開始的逆轉人生.out.txt",
+        "epub_date": 1545607422693,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 19,
+        "epub_basename": "為鮮血獻上吻　～從沒用技能開始的逆轉人生～.epub",
+        "update_date": 1545607422693,
+        "update_count": 1
       },
       "無口な天使_(n3462bz)": {
         "init_date": 1545494400000
@@ -858,7 +1087,16 @@
         "init_date": 1545494400000
       },
       "望まぬ不死の冒険者": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "txt_basename": "事與願違的不死冒險者.out.txt",
+        "epub_date": 1545607416850,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 10,
+        "chapter": 168,
+        "epub_basename": "事與願違的不死冒險者.epub",
+        "update_date": 1545607416850,
+        "update_count": 1
       },
       "無職の英雄　(n6683ej)": {
         "init_date": 1545494400000
@@ -950,9 +1188,7 @@
         "segment_date": 1545548395026,
         "segment_old": 68,
         "segment": 68,
-        "init_date": 1545521021481,
-        "update_date": 1545548395026,
-        "update_count": 37
+        "init_date": 1545521021481
       },
       "姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜": {
         "init_date": 1545494400000
@@ -994,8 +1230,6 @@
         "segment_old": 2,
         "segment": 2,
         "init_date": 1545521161792,
-        "update_date": 1545552691391,
-        "update_count": 36,
         "epub_date": 1545552691391,
         "volume_old": 9,
         "chapter_old": 200,
@@ -1009,9 +1243,7 @@
         "segment_date": 1545548872909,
         "segment_old": 1,
         "segment": 1,
-        "init_date": 1545521509007,
-        "update_date": 1545548872909,
-        "update_count": 27
+        "init_date": 1545521509007
       },
       "钱进战国雄霸天下": {
         "init_date": 1545494400000
@@ -1025,9 +1257,7 @@
         "volume": 7,
         "chapter": 202,
         "epub_basename": "利貝提姆皇國的豚草姫",
-        "init_date": 1545548908164,
-        "update_date": 1545548908164,
-        "update_count": 14
+        "init_date": 1545548908164
       }
     },
     "dmzj_out": {
@@ -1038,9 +1268,7 @@
         "volume": 3,
         "chapter": 39,
         "epub_basename": "吃掉死神的少女",
-        "init_date": 1545548909747,
-        "update_date": 1545548909747,
-        "update_count": 14
+        "init_date": 1545548909747
       },
       "不是真正同伴的我被逐出了勇者隊伍，因此決定在邊境過上慢生活": {
         "init_date": 1545494400000
@@ -1069,9 +1297,7 @@
         "volume": 1,
         "chapter": 311,
         "epub_basename": "只是被勇者消滅的簡單工作",
-        "init_date": 1545548919768,
-        "update_date": 1545548919768,
-        "update_count": 14
+        "init_date": 1545548919768
       }
     },
     "wenku8_out": {
@@ -1082,9 +1308,7 @@
         "volume": 3,
         "chapter": 13,
         "epub_basename": "勇者、或いは化物と呼ばれた少女",
-        "init_date": 1545548957577,
-        "update_date": 1545548957577,
-        "update_count": 14
+        "init_date": 1545548957577
       },
       "OVERLORD不死者之王": {
         "init_date": 1545494400000
@@ -1106,9 +1330,7 @@
         "volume": 4,
         "chapter": 36,
         "epub_basename": "異世界で魅了チートを使って奴隷ハーレムをつくってみた",
-        "init_date": 1545552687196,
-        "update_date": 1545552687196,
-        "update_count": 2
+        "init_date": 1545552687196
       }
     },
     "h_out": {
@@ -2510,6 +2732,7 @@
         },
         "contribute": [
           "4038多线",
+          "rieplist",
           "冰夜汉化组",
           "天理二阶堂",
           "盒子",
@@ -2522,7 +2745,7 @@
             "novel_id": "n3668ef"
           },
           "textlayout": {
-            "allow_lf2": true
+            "allow_lf2": false
           }
         },
         "link": {
@@ -5466,7 +5689,8 @@
         },
         "link": {
           "[豚猪公爵吧](http": "//tieba.baidu.com/f?kw=%E8%B1%9A%E7%8C%AA%E5%85%AC%E7%88%B5 \"豚猪公爵吧\")",
-          "[【整合】轉生豚公爵、今次想要說出喜歡你](https": "//tieba.baidu.com/p/5525554645 \"【整合】轉生豚公爵、今次想要說出喜歡你\")"
+          "[【整合】轉生豚公爵、今次想要說出喜歡你](https": "//tieba.baidu.com/p/5525554645 \"【整合】轉生豚公爵、今次想要說出喜歡你\")",
+          "[masiro.moe](https": "//masiro.moe/forum.php?mod=forumdisplay&fid=80&page=1) ›"
         }
       },
       "悠久の愚者アズリーの、賢者のすゝめ": {
