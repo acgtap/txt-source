@@ -1,9 +1,10 @@
 # novel
 
 - title: 異世界で魅力チートを使って奴隷ハーレムをつくってみた
+- title_zh1: 在异世界使用魅力开奴隶后宫
 - author: 大石ねがい
 - source: http://novel18.syosetu.com/n1413cw/
-- cover: https://i.pinimg.com/originals/c9/18/27/c918275b750d778e58b95c7c83d4d692.jpg
+- cover: https://images-na.ssl-images-amazon.com/images/I/81nlCSm2fkL.jpg
 - publisher: syosetu
 - date: 2016-11-05T08:00:00+08:00
 - status: 完結済
@@ -76,4 +77,7 @@
 # link
 
 - [dip.jp](https://narou18.dip.jp/search.php?text=%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%A7%E9%AD%85%E5%8A%9B%E3%83%81%E3%83%BC%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E5%A5%B4%E9%9A%B7%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%A0%E3%82%92%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
+- [在异世界使用魅力开了奴隶后宫吧](https://tieba.baidu.com/f?kw=%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E4%BD%BF%E7%94%A8%E9%AD%85%E5%8A%9B%E5%BC%80%E4%BA%86%E5%A5%B4%E9%9A%B6%E5%90%8E%E5%AE%AB&ie=utf-8 "在异世界使用魅力开了奴隶后宫")
+- 
+
 
