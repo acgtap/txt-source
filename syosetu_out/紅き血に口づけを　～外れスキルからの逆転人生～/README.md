@@ -70,6 +70,8 @@
 - 盒子
 - 天理二阶堂
 - 4038多线
+- rieplist
+- 
 
 # options
 
@@ -80,7 +82,7 @@
 
 ## textlayout
 
-- allow_lf2: true
+- allow_lf2: false
 
 # link
 
