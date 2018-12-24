@@ -319,7 +319,7 @@
 > 俺　VS　人類　～使役不死者去襲擊王國的俺～
 
 - [俺　VS　人類　～アンデッドを使役して王国を襲う俺～](syosetu_out/%E4%BF%BA%E3%80%80VS%E3%80%80%E4%BA%BA%E9%A1%9E%E3%80%80%EF%BD%9E%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%83%89%E3%82%92%E4%BD%BF%E5%BD%B9%E3%81%97%E3%81%A6%E7%8E%8B%E5%9B%BD%E3%82%92%E8%A5%B2%E3%81%86%E4%BF%BA%EF%BD%9E/%E5%B0%8E%E8%88%AA%E7%9B%AE%E9%8C%84.md) - *syosetu_out*
-  <br/>build: 2018-12-24  chapter: 116  add: 0  
+  <br/>build: 2018-12-25  chapter: 116  add: 0  
 
 
 ### よっしゃあっ！
@@ -1170,7 +1170,7 @@
 > 黒の魔王
 
 - [黑之魔王](user_out/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B/%E5%B0%8E%E8%88%AA%E7%9B%AE%E9%8C%84.md) - *user_out*
-  <br/>build: 2018-12-24  chapter: 545  add: 3  
+  <br/>build: 2018-12-25  chapter: 545  add: 0  
 
 
 ### 葵 大和
