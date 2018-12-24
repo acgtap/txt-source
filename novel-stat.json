@@ -1,16 +1,5 @@
 {
   "history": {
-    "1545004800000": {
-      "epub_count": 1,
-      "epub": [
-        [
-          "user_out",
-          "黑之魔王"
-        ]
-      ],
-      "segment_count": 0,
-      "segment": []
-    },
     "1545091200000": {
       "epub_count": 1,
       "epub": [
@@ -664,6 +653,119 @@
           }
         ]
       ]
+    },
+    "1545667200000": {
+      "segment_count": 6,
+      "segment": [
+        [
+          "syosetu",
+          "俺　VS　人類　～アンデッドを使役して王国を襲う俺～",
+          {
+            "segment_date": 1545693553722,
+            "segment_old": 14,
+            "segment": 20,
+            "init_date": 1545521248792,
+            "update_date": 1545693553722,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "望まぬ不死の冒険者",
+          {
+            "segment_date": 1545693577434,
+            "segment_old": 50,
+            "segment": 1,
+            "init_date": 1545607102002,
+            "update_date": 1545693577434,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu",
+          "異常狀態是絕望",
+          {
+            "segment_date": 1545693613818,
+            "segment_old": 4,
+            "segment": 7,
+            "init_date": 1545607138342,
+            "update_date": 1545693613818,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu",
+          "陰の実力者になりたくて！_(n0611em)",
+          {
+            "segment_date": 1545693633529,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1545521322627,
+            "update_date": 1545693633529,
+            "update_count": 2
+          }
+        ],
+        [
+          "user",
+          "豚公爵に転生したから、今度は君に好きと言いたい",
+          {
+            "segment_date": 1545693703692,
+            "segment_old": 26,
+            "segment": 2,
+            "init_date": 1545607228123,
+            "update_date": 1545693703692,
+            "update_count": 2
+          }
+        ],
+        [
+          "user",
+          "黑之魔王",
+          {
+            "segment_date": 1545693820933,
+            "segment_old": 11,
+            "segment": 8,
+            "init_date": 1545261427757,
+            "update_date": 1545693820933,
+            "update_count": 2
+          }
+        ]
+      ],
+      "epub_count": 2,
+      "epub": [
+        [
+          "syosetu_out",
+          "俺　VS　人類　～アンデッドを使役して王国を襲う俺～",
+          {
+            "epub_date": 1545693859757,
+            "volume_old": 4,
+            "chapter_old": 116,
+            "volume": 4,
+            "chapter": 116,
+            "epub_basename": "俺　VS　人類　～使役不死者去襲擊王國的俺～.epub",
+            "novel_status": 1,
+            "init_date": 1545548928688,
+            "txt_basename": "俺　VS　人類　～使役不死者去襲擊王國的.out.txt",
+            "update_date": 1545693859757,
+            "update_count": 2
+          }
+        ],
+        [
+          "user_out",
+          "黑之魔王",
+          {
+            "epub_date": 1545693869622,
+            "volume_old": 29,
+            "chapter_old": 545,
+            "volume": 29,
+            "chapter": 545,
+            "init_date": 1545261469203,
+            "epub_basename": "黑之魔王.epub",
+            "txt_basename": "黑之魔王.out.txt",
+            "update_date": 1545693869622,
+            "update_count": 2
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -687,10 +789,12 @@
         "init_date": 1545347808133
       },
       "俺　VS　人類　～アンデッドを使役して王国を襲う俺～": {
-        "segment_date": 1545548616238,
+        "segment_date": 1545693553722,
         "segment_old": 14,
-        "segment": 14,
-        "init_date": 1545521248792
+        "segment": 20,
+        "init_date": 1545521248792,
+        "update_date": 1545693553722,
+        "update_count": 1
       },
       "用務員さんは勇者じゃありませんので": {
         "segment_date": 1545548630634,
@@ -705,12 +809,12 @@
         "init_date": 1545521307326
       },
       "陰の実力者になりたくて！_(n0611em)": {
-        "segment_date": 1545607158613,
-        "segment_old": 53,
+        "segment_date": 1545693633529,
+        "segment_old": 1,
         "segment": 1,
         "init_date": 1545521322627,
-        "update_date": 1545607158613,
-        "update_count": 1
+        "update_date": 1545693633529,
+        "update_count": 2
       },
       "最強職《竜騎士》から初級職《運び屋》": {
         "init_date": 1545494400000
@@ -737,20 +841,20 @@
         "init_date": 1545494400000
       },
       "望まぬ不死の冒険者": {
-        "segment_date": 1545607102002,
-        "segment_old": 0,
-        "segment": 50,
+        "segment_date": 1545693577434,
+        "segment_old": 50,
+        "segment": 1,
         "init_date": 1545607102002,
-        "update_date": 1545607102002,
-        "update_count": 1
+        "update_date": 1545693577434,
+        "update_count": 2
       },
       "異常狀態是絕望": {
-        "segment_date": 1545607138342,
-        "segment_old": 0,
-        "segment": 4,
+        "segment_date": 1545693613818,
+        "segment_old": 4,
+        "segment": 7,
         "init_date": 1545607138342,
-        "update_date": 1545607138342,
-        "update_count": 1
+        "update_date": 1545693613818,
+        "update_count": 2
       },
       "紅き血に口づけを　～外れスキルからの逆転人生～": {
         "segment_date": 1545607143322,
@@ -763,12 +867,12 @@
     },
     "user": {
       "黑之魔王": {
-        "segment_date": 1545607374186,
-        "segment_old": 309,
-        "segment": 11,
+        "segment_date": 1545693820933,
+        "segment_old": 11,
+        "segment": 8,
         "init_date": 1545261427757,
-        "update_date": 1545607374186,
-        "update_count": 1
+        "update_date": 1545693820933,
+        "update_count": 2
       },
       "火輪を抱いた少女": {
         "segment_date": 1545548707385,
@@ -795,26 +899,26 @@
         "init_date": 1545494400000
       },
       "豚公爵に転生したから、今度は君に好きと言いたい": {
-        "segment_date": 1545607228123,
-        "segment_old": 0,
-        "segment": 26,
+        "segment_date": 1545693703692,
+        "segment_old": 26,
+        "segment": 2,
         "init_date": 1545607228123,
-        "update_date": 1545607228123,
-        "update_count": 1
+        "update_date": 1545693703692,
+        "update_count": 2
       }
     },
     "user_out": {
       "黑之魔王": {
-        "epub_date": 1545607437492,
+        "epub_date": 1545693869622,
         "volume_old": 29,
-        "chapter_old": 542,
+        "chapter_old": 545,
         "volume": 29,
         "chapter": 545,
         "init_date": 1545261469203,
         "epub_basename": "黑之魔王.epub",
         "txt_basename": "黑之魔王.out.txt",
-        "update_date": 1545607437492,
-        "update_count": 1
+        "update_date": 1545693869622,
+        "update_count": 2
       },
       "火輪を抱いた少女": {
         "epub_date": 1545548942271,
@@ -984,7 +1088,7 @@
         "init_date": 1545261458252
       },
       "俺　VS　人類　～アンデッドを使役して王国を襲う俺～": {
-        "epub_date": 1545607413494,
+        "epub_date": 1545693859757,
         "volume_old": 4,
         "chapter_old": 116,
         "volume": 4,
@@ -993,8 +1097,8 @@
         "novel_status": 1,
         "init_date": 1545548928688,
         "txt_basename": "俺　VS　人類　～使役不死者去襲擊王國的.out.txt",
-        "update_date": 1545607413494,
-        "update_count": 1
+        "update_date": 1545693859757,
+        "update_count": 2
       },
       "用務員さんは勇者じゃありませんので": {
         "epub_date": 1545548930185,
