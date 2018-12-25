@@ -71,4 +71,6 @@
 - [over-lap.co.jp](https://over-lap.co.jp/Form/Product/ProductDetail.aspx?shop=0&pid=ZG0022&vid=&cat=CGS&swrd=)
 - [我的数值明显比勇者强吧](https://tieba.baidu.com/f?kw=%E6%88%91%E7%9A%84%E6%95%B0%E5%80%BC%E6%98%8E%E6%98%BE%E6%AF%94%E5%8B%87%E8%80%85%E5%BC%BA&ie=utf-8&tp=0 "我的数值明显比勇者强")
 - [dmzj](https://manhua.dmzj.com/shenweianshazhedewomingxianbiyongzhehaiqiang/)
+- [身为阿萨辛的我明显比勇者还强吧](https://tieba.baidu.com/f?kw=%E8%BA%AB%E4%B8%BA%E9%98%BF%E8%90%A8%E8%BE%9B%E7%9A%84%E6%88%91%E6%98%8E%E6%98%BE%E6%AF%94%E5%8B%87%E8%80%85%E8%BF%98%E5%BC%BA&ie=utf-8&tp=0 "身为阿萨辛的我明显比勇者还强")
 - 
+
