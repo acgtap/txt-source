@@ -1,21 +1,5 @@
 {
   "history": {
-    "1545091200000": {
-      "epub_count": 1,
-      "epub": [
-        [
-          "syosetu_out",
-          "ロリータ・ガンバレット　～魔弾幼女の異世界戦記～"
-        ]
-      ],
-      "segment_count": 1,
-      "segment": [
-        [
-          "syosetu",
-          "ロリータ・ガンバレット　～魔弾幼女の異世界戦記～"
-        ]
-      ]
-    },
     "1545177600000": {
       "segment_count": 2,
       "segment": [
@@ -766,6 +750,182 @@
           }
         ]
       ]
+    },
+    "1545753600000": {
+      "segment_count": 6,
+      "segment": [
+        [
+          "dmzj",
+          "蜘蛛ですが、なにか？",
+          {
+            "segment_date": 1545779972577,
+            "segment_old": 0,
+            "segment": 625,
+            "init_date": 1545779972577,
+            "update_date": 1545779972577,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "望まぬ不死の冒険者",
+          {
+            "segment_date": 1545780065569,
+            "segment_old": 1,
+            "segment": 4,
+            "init_date": 1545607102002,
+            "update_date": 1545780065569,
+            "update_count": 3
+          }
+        ],
+        [
+          "syosetu",
+          "異常狀態是絕望",
+          {
+            "segment_date": 1545780104620,
+            "segment_old": 7,
+            "segment": 1,
+            "init_date": 1545607138342,
+            "update_date": 1545780104620,
+            "update_count": 3
+          }
+        ],
+        [
+          "syosetu",
+          "身為暗殺者的我明顯比勇者還強",
+          {
+            "epub_date": 1545780402561,
+            "volume_old": 1,
+            "chapter_old": 16,
+            "volume": 1,
+            "chapter": 16,
+            "init_date": 1545347808133,
+            "segment_date": 1545780109238,
+            "segment_old": 0,
+            "segment": 3,
+            "epub_basename": "身為暗殺者的我明顯比勇者還強.epub",
+            "update_date": 1545780402561,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "黑之魔王",
+          {
+            "segment_date": 1545780326125,
+            "segment_old": 8,
+            "segment": 6,
+            "init_date": 1545261427757,
+            "update_date": 1545780326125,
+            "update_count": 3
+          }
+        ],
+        [
+          "zh",
+          "如何在異世界殺死一個死宅",
+          {
+            "segment_date": 1545780337964,
+            "segment_old": 0,
+            "segment": 28,
+            "init_date": 1545780337964,
+            "epub_date": 1545780422393,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 3,
+            "chapter": 28,
+            "epub_basename": "如何在異世界殺死一個死宅.epub",
+            "update_date": 1545780422393,
+            "update_count": 1
+          }
+        ]
+      ],
+      "epub_count": 5,
+      "epub": [
+        [
+          "dmzj_out",
+          "蜘蛛ですが、なにか？",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "轉生成蜘蛛又怎樣！.out.txt",
+            "epub_date": 1545780401645,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 14,
+            "chapter": 728,
+            "epub_basename": "轉生成蜘蛛又怎樣！.epub",
+            "update_date": 1545780401645,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "身為暗殺者的我明顯比勇者還強",
+          {
+            "epub_date": 1545780402561,
+            "volume_old": 1,
+            "chapter_old": 16,
+            "volume": 1,
+            "chapter": 16,
+            "init_date": 1545347808133,
+            "segment_date": 1545780109238,
+            "segment_old": 0,
+            "segment": 3,
+            "epub_basename": "身為暗殺者的我明顯比勇者還強.epub",
+            "update_date": 1545780402561,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu_out",
+          "望まぬ不死の冒険者",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "事與願違的不死冒險者.out.txt",
+            "epub_date": 1545780406423,
+            "volume_old": 10,
+            "chapter_old": 168,
+            "volume": 10,
+            "chapter": 172,
+            "epub_basename": "事與願違的不死冒險者.epub",
+            "update_date": 1545780406423,
+            "update_count": 2
+          }
+        ],
+        [
+          "user_out",
+          "黑之魔王",
+          {
+            "epub_date": 1545780418625,
+            "volume_old": 29,
+            "chapter_old": 545,
+            "volume": 29,
+            "chapter": 547,
+            "init_date": 1545261469203,
+            "epub_basename": "黑之魔王.epub",
+            "txt_basename": "黑之魔王.out.txt",
+            "update_date": 1545780418625,
+            "update_count": 3
+          }
+        ],
+        [
+          "zh",
+          "如何在異世界殺死一個死宅",
+          {
+            "segment_date": 1545780337964,
+            "segment_old": 0,
+            "segment": 28,
+            "init_date": 1545780337964,
+            "epub_date": 1545780422393,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 3,
+            "chapter": 28,
+            "epub_basename": "如何在異世界殺死一個死宅.epub",
+            "update_date": 1545780422393,
+            "update_count": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -781,12 +941,18 @@
         "init_date": 1545261305497
       },
       "身為暗殺者的我明顯比勇者還強": {
-        "epub_date": 1545347808133,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1545780402561,
+        "volume_old": 1,
+        "chapter_old": 16,
         "volume": 1,
         "chapter": 16,
-        "init_date": 1545347808133
+        "init_date": 1545347808133,
+        "segment_date": 1545780109238,
+        "segment_old": 0,
+        "segment": 3,
+        "epub_basename": "身為暗殺者的我明顯比勇者還強.epub",
+        "update_date": 1545780402561,
+        "update_count": 1
       },
       "俺　VS　人類　～アンデッドを使役して王国を襲う俺～": {
         "segment_date": 1545693553722,
@@ -841,20 +1007,20 @@
         "init_date": 1545494400000
       },
       "望まぬ不死の冒険者": {
-        "segment_date": 1545693577434,
-        "segment_old": 50,
-        "segment": 1,
+        "segment_date": 1545780065569,
+        "segment_old": 1,
+        "segment": 4,
         "init_date": 1545607102002,
-        "update_date": 1545693577434,
-        "update_count": 2
+        "update_date": 1545780065569,
+        "update_count": 3
       },
       "異常狀態是絕望": {
-        "segment_date": 1545693613818,
-        "segment_old": 4,
-        "segment": 7,
+        "segment_date": 1545780104620,
+        "segment_old": 7,
+        "segment": 1,
         "init_date": 1545607138342,
-        "update_date": 1545693613818,
-        "update_count": 2
+        "update_date": 1545780104620,
+        "update_count": 3
       },
       "紅き血に口づけを　～外れスキルからの逆転人生～": {
         "segment_date": 1545607143322,
@@ -867,12 +1033,12 @@
     },
     "user": {
       "黑之魔王": {
-        "segment_date": 1545693820933,
-        "segment_old": 11,
-        "segment": 8,
+        "segment_date": 1545780326125,
+        "segment_old": 8,
+        "segment": 6,
         "init_date": 1545261427757,
-        "update_date": 1545693820933,
-        "update_count": 2
+        "update_date": 1545780326125,
+        "update_count": 3
       },
       "火輪を抱いた少女": {
         "segment_date": 1545548707385,
@@ -909,16 +1075,16 @@
     },
     "user_out": {
       "黑之魔王": {
-        "epub_date": 1545693869622,
+        "epub_date": 1545780418625,
         "volume_old": 29,
         "chapter_old": 545,
         "volume": 29,
-        "chapter": 545,
+        "chapter": 547,
         "init_date": 1545261469203,
         "epub_basename": "黑之魔王.epub",
         "txt_basename": "黑之魔王.out.txt",
-        "update_date": 1545693869622,
-        "update_count": 2
+        "update_date": 1545780418625,
+        "update_count": 3
       },
       "火輪を抱いた少女": {
         "epub_date": 1545548942271,
@@ -1193,14 +1359,14 @@
       "望まぬ不死の冒険者": {
         "init_date": 1545494400000,
         "txt_basename": "事與願違的不死冒險者.out.txt",
-        "epub_date": 1545607416850,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1545780406423,
+        "volume_old": 10,
+        "chapter_old": 168,
         "volume": 10,
-        "chapter": 168,
+        "chapter": 172,
         "epub_basename": "事與願違的不死冒險者.epub",
-        "update_date": 1545607416850,
-        "update_count": 1
+        "update_date": 1545780406423,
+        "update_count": 2
       },
       "無職の英雄　(n6683ej)": {
         "init_date": 1545494400000
@@ -1390,7 +1556,16 @@
         "init_date": 1545494400000
       },
       "蜘蛛ですが、なにか？": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "txt_basename": "轉生成蜘蛛又怎樣！.out.txt",
+        "epub_date": 1545780401645,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 14,
+        "chapter": 728,
+        "epub_basename": "轉生成蜘蛛又怎樣！.epub",
+        "update_date": 1545780401645,
+        "update_count": 1
       }
     },
     "lost_out": {
@@ -1474,6 +1649,32 @@
     "z.abandon_out": {
       "邪竜転生": {
         "init_date": 1545494400000
+      }
+    },
+    "dmzj": {
+      "蜘蛛ですが、なにか？": {
+        "segment_date": 1545779972577,
+        "segment_old": 0,
+        "segment": 625,
+        "init_date": 1545779972577,
+        "update_date": 1545779972577,
+        "update_count": 1
+      }
+    },
+    "zh": {
+      "如何在異世界殺死一個死宅": {
+        "segment_date": 1545780337964,
+        "segment_old": 0,
+        "segment": 28,
+        "init_date": 1545780337964,
+        "epub_date": 1545780422393,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 3,
+        "chapter": 28,
+        "epub_basename": "如何在異世界殺死一個死宅.epub",
+        "update_date": 1545780422393,
+        "update_count": 1
       }
     }
   },
@@ -3113,7 +3314,8 @@
           "[事与愿违的不死冒险者吧](https": "//tieba.baidu.com/f?kw=%E4%BA%8B%E4%B8%8E%E6%84%BF%E8%BF%9D%E7%9A%84%E4%B8%8D%E6%AD%BB%E5%86%92%E9%99%A9%E8%80%85&ie=utf-8 \"事与愿违的不死冒险者\")",
           "[txr by sdk_c](https": "//tieba.baidu.com/p/5854693784?pid=121650524888&cid=0&red_tag=0833195265#121650524888)",
           "[txt by 龘實](https": "//pan.baidu.com/s/1dI8KPYu1TdWqRKEUW-tuEg) x1z8 , [tieba](http://tieba.baidu.com/p/5363881548?pid=118578420733#118578420733)",
-          "[txt by f2008zhq](https": "//pan.baidu.com/s/1IERTh8IYNkjPjSsgi3k4vQ) xc8g , [tieba](https://tieba.baidu.com/p/5967895104)"
+          "[txt by f2008zhq](https": "//pan.baidu.com/s/1IERTh8IYNkjPjSsgi3k4vQ) xc8g , [tieba](https://tieba.baidu.com/p/5967895104)",
+          "[alice txt](https": "//pan.baidu.com/s/1Uo-opKhJNwdpRRVPhLwn-Q) 4bzy"
         }
       },
       "無職の英雄　(n6683ej)": {
@@ -8271,7 +8473,8 @@
           "[dip.jp](https": "//narou.nar.jp/search.php?text=n7707dt&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[over-lap.co.jp](https": "//over-lap.co.jp/Form/Product/ProductDetail.aspx?shop=0&pid=ZG0022&vid=&cat=CGS&swrd=)",
           "[我的数值明显比勇者强吧](https": "//tieba.baidu.com/f?kw=%E6%88%91%E7%9A%84%E6%95%B0%E5%80%BC%E6%98%8E%E6%98%BE%E6%AF%94%E5%8B%87%E8%80%85%E5%BC%BA&ie=utf-8&tp=0 \"我的数值明显比勇者强\")",
-          "[dmzj](https": "//manhua.dmzj.com/shenweianshazhedewomingxianbiyongzhehaiqiang/)"
+          "[dmzj](https": "//manhua.dmzj.com/shenweianshazhedewomingxianbiyongzhehaiqiang/)",
+          "[身为阿萨辛的我明显比勇者还强吧](https": "//tieba.baidu.com/f?kw=%E8%BA%AB%E4%B8%BA%E9%98%BF%E8%90%A8%E8%BE%9B%E7%9A%84%E6%88%91%E6%98%8E%E6%98%BE%E6%AF%94%E5%8B%87%E8%80%85%E8%BF%98%E5%BC%BA&ie=utf-8&tp=0 \"身为阿萨辛的我明显比勇者还强\")"
         }
       },
       "ニトの怠惰な異世界症候群～最弱職〈ヒーラー〉なのに最強はチートですか？～": {
@@ -8813,6 +9016,44 @@
         },
         "link": {
           "[邪龙转生就算在异世界我还是我吧](https": "//tieba.baidu.com/f?kw=%E9%82%AA%E9%BE%99%E8%BD%AC%E7%94%9F%E5%B0%B1%E7%AE%97%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E6%88%91%E8%BF%98%E6%98%AF%E6%88%91&ie=utf-8 \"邪龙转生就算在异世界我还是我\")"
+        }
+      }
+    },
+    "zh": {
+      "如何在異世界殺死一個死宅": {
+        "novel": {
+          "title": "如何在异世界杀死一个死宅",
+          "author": "果冻小超人",
+          "source": "http://q.dmzj.com/2560/index.shtml",
+          "cover": "https://xs.dmzj.com/img/webpic/23/sizhai1217l.jpg",
+          "publisher": "",
+          "date": "2018-12-17T20:43:34+08:00",
+          "status": "连载中",
+          "series": {
+            "name": "如何在异世界杀死一个死宅"
+          },
+          "preface": "(国轻)不通剑术，不懂魔法……根本无法战斗的男孩落入了这个陌生的世界之中……他胸无大志，也怯懦无力，仅仅只是想和偶遇的少女一起平凡安稳地度过余生，他还不知道，连这渺小的愿望都会成为他苦难的源头……\n无论在哪个世界，无论是什么样的人，其心中都有着苦难的存在，在这个前提下，苦难间的冲突、对苦难的猎捕甚至是交易苦难的市场也就应运而生了——没错，这就是这个世界的某一部分高速运转的核心。",
+          "tags": [
+            "dmzj",
+            "node-novel",
+            "内地",
+            "异界",
+            "爱情",
+            "穿越"
+          ]
+        },
+        "options": {
+          "dmzj": {
+            "novel_id": "2560"
+          },
+          "downloadoptions": {
+            "nofilepadend": true,
+            "fileprefixmode": 4,
+            "startindex": 1
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
         }
       }
     }
