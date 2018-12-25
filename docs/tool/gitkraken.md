@@ -57,6 +57,8 @@
 
 ![image_13](../img/image_13.png)
 
+> 備註：如果不需要上傳或者只是打算下載而已的話 就不需要輸入帳密
+
 將伺服器網址加上帳密 `帳號:密碼@` 用 `:` 區隔帳密 以及用 `@` 做結尾
 
 > `https://gitee.com/bluelovers/novel.git`
