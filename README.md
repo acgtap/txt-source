@@ -346,6 +346,7 @@
 > 賢者の弟子を名乗る賢者
 
 - [自称贤者弟子的贤者](user_out/%E8%87%AA%E7%A7%B0%E8%B4%A4%E8%80%85%E5%BC%9F%E5%AD%90%E7%9A%84%E8%B4%A4%E8%80%85/%E5%B0%8E%E8%88%AA%E7%9B%AE%E9%8C%84.md) - *user_out*
+  <br/>build: 2018-12-27  chapter: 293  
 
 
 ### りょうと　かえ
@@ -543,7 +544,7 @@
 > 事與願違的不死冒險者
 
 - [望まぬ不死の冒険者](syosetu_out/%E6%9C%9B%E3%81%BE%E3%81%AC%E4%B8%8D%E6%AD%BB%E3%81%AE%E5%86%92%E9%99%BA%E8%80%85/%E5%B0%8E%E8%88%AA%E7%9B%AE%E9%8C%84.md) - *syosetu_out*
-  <br/>build: 2018-12-26  chapter: 172  add: 4  
+  <br/>build: 2018-12-27  chapter: 172  add: 0  
 
 
 #### 蘇りの魔王
@@ -924,7 +925,7 @@
 > 如何在异世界杀死一个死宅
 
 - [如何在異世界殺死一個死宅](zh/%E5%A6%82%E4%BD%95%E5%9C%A8%E7%95%B0%E4%B8%96%E7%95%8C%E6%AE%BA%E6%AD%BB%E4%B8%80%E5%80%8B%E6%AD%BB%E5%AE%85/%E5%B0%8E%E8%88%AA%E7%9B%AE%E9%8C%84.md) - *zh*
-  <br/>build: 2018-12-26  chapter: 28  
+  <br/>build: 2018-12-27  chapter: 28  add: 0  
 
 
 ### 柑橘ゆすら
@@ -964,7 +965,7 @@
 > 因為校工桑並不是勇者
 
 - [用務員さんは勇者じゃありませんので](syosetu_out/%E7%94%A8%E5%8B%99%E5%93%A1%E3%81%95%E3%82%93%E3%81%AF%E5%8B%87%E8%80%85%E3%81%98%E3%82%83%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%AE%E3%81%A7/%E5%B0%8E%E8%88%AA%E7%9B%AE%E9%8C%84.md) - *syosetu_out*
-  <br/>build: 2018-12-23  chapter: 60  
+  <br/>build: 2018-12-27  chapter: 63  add: 3  
 
 
 ### 椎鸢音
@@ -1181,7 +1182,7 @@
 > 黒の魔王
 
 - [黑之魔王](user_out/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B/%E5%B0%8E%E8%88%AA%E7%9B%AE%E9%8C%84.md) - *user_out*
-  <br/>build: 2018-12-26  chapter: 547  add: 2  
+  <br/>build: 2018-12-27  chapter: 547  add: 0  
 
 
 ### 葵 大和
@@ -1232,7 +1233,7 @@
 > 暗殺者である俺のステータスが勇者よりも明らかに強いのだが
 
 - [身為暗殺者的我明顯比勇者還強](syosetu/%E8%BA%AB%E7%82%BA%E6%9A%97%E6%AE%BA%E8%80%85%E7%9A%84%E6%88%91%E6%98%8E%E9%A1%AF%E6%AF%94%E5%8B%87%E8%80%85%E9%82%84%E5%BC%B7/%E5%B0%8E%E8%88%AA%E7%9B%AE%E9%8C%84.md) - *syosetu*
-  <br/>build: 2018-12-26  chapter: 16  add: 0  
+  <br/>build: 2018-12-27  chapter: 16  add: 0  
 
 
 ### 酒とゾンビ
@@ -1266,7 +1267,7 @@
 > 轉生成蜘蛛又怎樣！ , 我是蜘蛛,怎么了 , 不过是蜘蛛什么的 , So I'm a Spider, So What?
 
 - [蜘蛛ですが、なにか？](dmzj_out/%E8%9C%98%E8%9B%9B%E3%81%A7%E3%81%99%E3%81%8C%E3%80%81%E3%81%AA%E3%81%AB%E3%81%8B%EF%BC%9F/%E5%B0%8E%E8%88%AA%E7%9B%AE%E9%8C%84.md) - *dmzj_out*
-  <br/>build: 2018-12-26  chapter: 728  
+  <br/>build: 2018-12-27  chapter: 733  add: 5  
 
 
 ### unknow
