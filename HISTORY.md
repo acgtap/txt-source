@@ -1,5 +1,41 @@
 # HISTORY
 
+## 2018-12-27
+
+### Epub
+
+- [蜘蛛ですが、なにか？](dmzj_out/%E8%9C%98%E8%9B%9B%E3%81%A7%E3%81%99%E3%81%8C%E3%80%81%E3%81%AA%E3%81%AB%E3%81%8B%EF%BC%9F) - dmzj_out
+  <br/>( v: 14 , c: 733, add: 5 )
+- [身為暗殺者的我明顯比勇者還強](syosetu/%E8%BA%AB%E7%82%BA%E6%9A%97%E6%AE%BA%E8%80%85%E7%9A%84%E6%88%91%E6%98%8E%E9%A1%AF%E6%AF%94%E5%8B%87%E8%80%85%E9%82%84%E5%BC%B7) - syosetu
+  <br/>( v: 1 , c: 16, add: 0 )
+- [望まぬ不死の冒険者](syosetu_out/%E6%9C%9B%E3%81%BE%E3%81%AC%E4%B8%8D%E6%AD%BB%E3%81%AE%E5%86%92%E9%99%BA%E8%80%85) - syosetu_out
+  <br/>( v: 10 , c: 172, add: 0 )
+- [用務員さんは勇者じゃありませんので](syosetu_out/%E7%94%A8%E5%8B%99%E5%93%A1%E3%81%95%E3%82%93%E3%81%AF%E5%8B%87%E8%80%85%E3%81%98%E3%82%83%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%AE%E3%81%A7) - syosetu_out
+  <br/>( v: 4 , c: 63, add: 3 )
+- [自称贤者弟子的贤者](user_out/%E8%87%AA%E7%A7%B0%E8%B4%A4%E8%80%85%E5%BC%9F%E5%AD%90%E7%9A%84%E8%B4%A4%E8%80%85) - user_out
+  <br/>( v: 6 , c: 293, add: 293 )
+- [黑之魔王](user_out/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B) - user_out
+  <br/>( v: 29 , c: 547, add: 0 )
+- [如何在異世界殺死一個死宅](zh/%E5%A6%82%E4%BD%95%E5%9C%A8%E7%95%B0%E4%B8%96%E7%95%8C%E6%AE%BA%E6%AD%BB%E4%B8%80%E5%80%8B%E6%AD%BB%E5%AE%85) - zh
+  <br/>( v: 3 , c: 28, add: 0 )
+
+### Segment
+
+- [蜘蛛ですが、なにか？](dmzj/%E8%9C%98%E8%9B%9B%E3%81%A7%E3%81%99%E3%81%8C%E3%80%81%E3%81%AA%E3%81%AB%E3%81%8B%EF%BC%9F) - dmzj
+  <br/>( s: 6 )
+- [望まぬ不死の冒険者](syosetu/%E6%9C%9B%E3%81%BE%E3%81%AC%E4%B8%8D%E6%AD%BB%E3%81%AE%E5%86%92%E9%99%BA%E8%80%85) - syosetu
+  <br/>( s: 4 )
+- [用務員さんは勇者じゃありませんので](syosetu/%E7%94%A8%E5%8B%99%E5%93%A1%E3%81%95%E3%82%93%E3%81%AF%E5%8B%87%E8%80%85%E3%81%98%E3%82%83%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%AE%E3%81%A7) - syosetu
+  <br/>( s: 14 )
+- [異常狀態是絕望](syosetu/%E7%95%B0%E5%B8%B8%E7%8B%80%E6%85%8B%E6%98%AF%E7%B5%95%E6%9C%9B) - syosetu
+  <br/>( s: 1 )
+- [自称贤者弟子的贤者](user/%E8%87%AA%E7%A7%B0%E8%B4%A4%E8%80%85%E5%BC%9F%E5%AD%90%E7%9A%84%E8%B4%A4%E8%80%85) - user
+  <br/>( s: 231 )
+- [黑之魔王](user/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B) - user
+  <br/>( s: 4 )
+- [如何在異世界殺死一個死宅](zh/%E5%A6%82%E4%BD%95%E5%9C%A8%E7%95%B0%E4%B8%96%E7%95%8C%E6%AE%BA%E6%AD%BB%E4%B8%80%E5%80%8B%E6%AD%BB%E5%AE%85) - zh
+  <br/>( s: 28 )
+
 ## 2018-12-26
 
 ### Epub
@@ -169,22 +205,6 @@
 
 - [ロリータ・ガンバレット　～魔弾幼女の異世界戦記～](syosetu/%E3%83%AD%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%90%E3%83%AC%E3%83%83%E3%83%88%E3%80%80%EF%BD%9E%E9%AD%94%E5%BC%BE%E5%B9%BC%E5%A5%B3%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E6%88%A6%E8%A8%98%EF%BD%9E) - syosetu
   <br/>( s: 1 )
-
-## 2018-12-19
-
-### Epub
-
-- [ロリータ・ガンバレット　～魔弾幼女の異世界戦記～](syosetu_out/%E3%83%AD%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%90%E3%83%AC%E3%83%83%E3%83%88%E3%80%80%EF%BD%9E%E9%AD%94%E5%BC%BE%E5%B9%BC%E5%A5%B3%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E6%88%A6%E8%A8%98%EF%BD%9E) - syosetu_out
-  <br/>( v: 6 , c: 103, add: 0 )
-- [黑之魔王](user_out/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B) - user_out
-  <br/>( v: 29 , c: 547, add: 2 )
-
-### Segment
-
-- [ロリータ・ガンバレット　～魔弾幼女の異世界戦記～](syosetu/%E3%83%AD%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%90%E3%83%AC%E3%83%83%E3%83%88%E3%80%80%EF%BD%9E%E9%AD%94%E5%BC%BE%E5%B9%BC%E5%A5%B3%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E6%88%A6%E8%A8%98%EF%BD%9E) - syosetu
-  <br/>( s: 76 )
-- [黑之魔王](user/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B) - user
-  <br/>( s: 6 )
 
 
 
