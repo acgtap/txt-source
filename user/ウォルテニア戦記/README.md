@@ -90,6 +90,8 @@
 ## 譯文網盤
 
 * [kit1502](https://pan.baidu.com/s/1Rw0DHkgVAYNdCuYZfuit6A)
+* [kit1502 google](https://drive.google.com/drive/folders/1rRQHMrOKhlzlxix-Bdj7mk1oMX3UkHW_)
+* 
 
 
 
