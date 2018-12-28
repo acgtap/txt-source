@@ -3,6 +3,7 @@
 - title: 「お前ごときが魔王に勝てると思うな」とガチ勢に勇者パーティを追放されたので、王都で気ままに暮らしたい
 - title_short: 你這種傢伙別想打贏魔王
 - title_zh: 「你這種傢伙別想打贏魔王」被攻略廚踢出了勇者隊伍，想在王都過上平靜的生活
+- title_zh2: 就凭你也想打败魔王吗
 - author: kiki
 - source: http://ncode.syosetu.com/n5361em/
 - cover: https://images-na.ssl-images-amazon.com/images/I/91A8RvS10uL.jpg
@@ -101,6 +102,8 @@ GCノベルズ様から書籍化決定しました！　発売日はまだ未定
 - [物理盐鱼](https://pan.baidu.com/s/1R3f2qxCEQZ61m_x4AYhlVQ) e9vp
 - [「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい｜GCノベルズ](http://micromagazine.net/gcn/omaegotokiga/)
 - [物理盐鱼 文庫](https://tieba.baidu.com/p/5853088454)
+- [dm5](http://www.dm5.com/manhua-jiupingniyexiangdabaimowangma/) 漫畫版
+- [masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=90)
 - 
 
 
