@@ -5,7 +5,7 @@
 - title_tw1: 異界轉生強奪戰
 - author: mino
 - source: http://ncode.syosetu.com/n4128bn/
-- cover: http://xs.dmzj.com/img/webpic/4/ldzbdz658964l.jpg
+- cover: https://images-fe.ssl-images-amazon.com/images/I/61vxzl9a-qL._SY346_.jpg
 - publisher:
 - date: 2017-05-27T14:45:28+08:00
 - status:
