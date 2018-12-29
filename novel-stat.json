@@ -1,35 +1,5 @@
 {
   "history": {
-    "1545408000000": {
-      "segment_count": 1,
-      "segment": [
-        [
-          "syosetu",
-          "ロリータ・ガンバレット　～魔弾幼女の異世界戦記～",
-          {
-            "segment_date": 1545434207623,
-            "segment_old": 1,
-            "segment": 76,
-            "init_date": 1545261305497
-          }
-        ]
-      ],
-      "epub_count": 1,
-      "epub": [
-        [
-          "syosetu_out",
-          "ロリータ・ガンバレット　～魔弾幼女の異世界戦記～",
-          {
-            "epub_date": 1545434244229,
-            "volume_old": 6,
-            "chapter_old": 103,
-            "volume": 6,
-            "chapter": 103,
-            "init_date": 1545261458252
-          }
-        ]
-      ]
-    },
     "1545494400000": {
       "segment_count": 10,
       "segment": [
@@ -1190,6 +1160,194 @@
           }
         ]
       ]
+    },
+    "1546012800000": {
+      "segment_count": 7,
+      "segment": [
+        [
+          "cm",
+          "リビティウム皇国のブタクサ姫",
+          {
+            "segment_date": 1546039946181,
+            "segment_old": 2,
+            "segment": 2,
+            "init_date": 1545521021481,
+            "update_date": 1546039946181,
+            "update_count": 2
+          }
+        ],
+        [
+          "dmzj",
+          "蜘蛛ですが、なにか？",
+          {
+            "segment_date": 1546044507695,
+            "segment_old": 31,
+            "segment": 4,
+            "init_date": 1545779972577,
+            "update_date": 1546044507695,
+            "update_count": 6
+          }
+        ],
+        [
+          "user",
+          "ウォルテニア戦記",
+          {
+            "segment_date": 1546044567479,
+            "segment_old": 0,
+            "segment": 64,
+            "init_date": 1546044567479,
+            "update_date": 1546044567479,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "你這種傢伙別想打贏魔王",
+          {
+            "segment_date": 1546044596562,
+            "segment_old": 0,
+            "segment": 47,
+            "init_date": 1546044596562,
+            "update_date": 1546044596562,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～",
+          {
+            "segment_date": 1546044660108,
+            "segment_old": 106,
+            "segment": 1,
+            "init_date": 1545952990121,
+            "update_date": 1546044660108,
+            "update_count": 3
+          }
+        ],
+        [
+          "user",
+          "自称贤者弟子的贤者",
+          {
+            "segment_date": 1546040276246,
+            "segment_old": 3,
+            "segment": 3,
+            "init_date": 1545876626768,
+            "update_date": 1546040276246,
+            "update_count": 3
+          }
+        ],
+        [
+          "user",
+          "黑之魔王",
+          {
+            "segment_date": 1546040435347,
+            "segment_old": 5,
+            "segment": 10,
+            "init_date": 1545261427757,
+            "update_date": 1546040435347,
+            "update_count": 7
+          }
+        ]
+      ],
+      "epub_count": 6,
+      "epub": [
+        [
+          "cm_out",
+          "リビティウム皇国のブタクサ姫",
+          {
+            "epub_date": 1546044795781,
+            "volume_old": 7,
+            "chapter_old": 205,
+            "volume": 7,
+            "chapter": 205,
+            "epub_basename": "利貝提姆皇國的豚草姫.epub",
+            "init_date": 1545548908164,
+            "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
+            "update_date": 1546044795781,
+            "update_count": 3
+          }
+        ],
+        [
+          "dmzj_out",
+          "蜘蛛ですが、なにか？",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "轉生成蜘蛛又怎樣！.out.txt",
+            "epub_date": 1546044808454,
+            "volume_old": 14,
+            "chapter_old": 733,
+            "volume": 14,
+            "chapter": 733,
+            "epub_basename": "轉生成蜘蛛又怎樣！.epub",
+            "update_date": 1546044808454,
+            "update_count": 4
+          }
+        ],
+        [
+          "user_out",
+          "ウォルテニア戦記",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "沃特尼亞戰記.out.txt",
+            "epub_date": 1546044812185,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 5,
+            "chapter": 166,
+            "epub_basename": "沃特尼亞戰記.epub",
+            "update_date": 1546044812185,
+            "update_count": 1
+          }
+        ],
+        [
+          "user_out",
+          "你這種傢伙別想打贏魔王",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "「你這種傢伙別想打贏魔王」被攻略廚踢出了.out.txt",
+            "epub_date": 1546044815019,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 8,
+            "chapter": 80,
+            "epub_basename": "「你這種傢伙別想打贏魔王」被攻略廚踢出了勇者隊伍，想在王都過上平靜的生活.epub",
+            "update_date": 1546044815019,
+            "update_count": 1
+          }
+        ],
+        [
+          "user_out",
+          "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "暗黒騎士物語　～勇者を倒すために魔王に召.out.txt",
+            "epub_date": 1546044820746,
+            "volume_old": 9,
+            "chapter_old": 177,
+            "volume": 9,
+            "chapter": 177,
+            "epub_basename": "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～.epub",
+            "update_date": 1546044820746,
+            "update_count": 3
+          }
+        ],
+        [
+          "user_out",
+          "黑之魔王",
+          {
+            "epub_date": 1546044830211,
+            "volume_old": 29,
+            "chapter_old": 547,
+            "volume": 29,
+            "chapter": 547,
+            "init_date": 1545261469203,
+            "epub_basename": "黑之魔王.epub",
+            "txt_basename": "黑之魔王.out.txt",
+            "update_date": 1546044830211,
+            "update_count": 8
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1302,12 +1460,12 @@
     },
     "user": {
       "黑之魔王": {
-        "segment_date": 1545953238817,
-        "segment_old": 4,
-        "segment": 5,
+        "segment_date": 1546040435347,
+        "segment_old": 5,
+        "segment": 10,
         "init_date": 1545261427757,
-        "update_date": 1545953238817,
-        "update_count": 6
+        "update_date": 1546040435347,
+        "update_count": 7
       },
       "火輪を抱いた少女": {
         "segment_date": 1545548707385,
@@ -1342,25 +1500,41 @@
         "update_count": 2
       },
       "自称贤者弟子的贤者": {
-        "segment_date": 1545953102470,
-        "segment_old": 231,
+        "segment_date": 1546040276246,
+        "segment_old": 3,
         "segment": 3,
         "init_date": 1545876626768,
-        "update_date": 1545953102470,
-        "update_count": 2
+        "update_date": 1546040276246,
+        "update_count": 3
       },
       "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～": {
-        "segment_date": 1545952990121,
-        "segment_old": 0,
-        "segment": 106,
+        "segment_date": 1546044660108,
+        "segment_old": 106,
+        "segment": 1,
         "init_date": 1545952990121,
-        "update_date": 1545952990121,
+        "update_date": 1546044660108,
+        "update_count": 3
+      },
+      "ウォルテニア戦記": {
+        "segment_date": 1546044567479,
+        "segment_old": 0,
+        "segment": 64,
+        "init_date": 1546044567479,
+        "update_date": 1546044567479,
+        "update_count": 1
+      },
+      "你這種傢伙別想打贏魔王": {
+        "segment_date": 1546044596562,
+        "segment_old": 0,
+        "segment": 47,
+        "init_date": 1546044596562,
+        "update_date": 1546044596562,
         "update_count": 1
       }
     },
     "user_out": {
       "黑之魔王": {
-        "epub_date": 1545953297553,
+        "epub_date": 1546044830211,
         "volume_old": 29,
         "chapter_old": 547,
         "volume": 29,
@@ -1368,8 +1542,8 @@
         "init_date": 1545261469203,
         "epub_basename": "黑之魔王.epub",
         "txt_basename": "黑之魔王.out.txt",
-        "update_date": 1545953297553,
-        "update_count": 6
+        "update_date": 1546044830211,
+        "update_count": 8
       },
       "火輪を抱いた少女": {
         "epub_date": 1545548942271,
@@ -1397,7 +1571,16 @@
         "init_date": 1545494400000
       },
       "你這種傢伙別想打贏魔王": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "txt_basename": "「你這種傢伙別想打贏魔王」被攻略廚踢出了.out.txt",
+        "epub_date": 1546044815019,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 8,
+        "chapter": 80,
+        "epub_basename": "「你這種傢伙別想打贏魔王」被攻略廚踢出了勇者隊伍，想在王都過上平靜的生活.epub",
+        "update_date": 1546044815019,
+        "update_count": 1
       },
       "奪う者　奪われる者": {
         "init_date": 1545494400000
@@ -1424,7 +1607,16 @@
         "init_date": 1545494400000
       },
       "ウォルテニア戦記": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "txt_basename": "沃特尼亞戰記.out.txt",
+        "epub_date": 1546044812185,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 5,
+        "chapter": 166,
+        "epub_basename": "沃特尼亞戰記.epub",
+        "update_date": 1546044812185,
+        "update_count": 1
       },
       "２９歳独身は異世界で自由に生きた…かった。": {
         "init_date": 1545494400000
@@ -1501,14 +1693,14 @@
       "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～": {
         "init_date": 1545494400000,
         "txt_basename": "暗黒騎士物語　～勇者を倒すために魔王に召.out.txt",
-        "epub_date": 1545953286800,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1546044820746,
+        "volume_old": 9,
+        "chapter_old": 177,
         "volume": 9,
         "chapter": 177,
         "epub_basename": "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～.epub",
-        "update_date": 1545953286800,
-        "update_count": 1
+        "update_date": 1546044820746,
+        "update_count": 3
       },
       "転生したら剣でした": {
         "init_date": 1545494400000
@@ -1761,12 +1953,12 @@
     },
     "cm": {
       "リビティウム皇国のブタクサ姫": {
-        "segment_date": 1545952793353,
-        "segment_old": 68,
+        "segment_date": 1546039946181,
+        "segment_old": 2,
         "segment": 2,
         "init_date": 1545521021481,
-        "update_date": 1545952793353,
-        "update_count": 1
+        "update_date": 1546039946181,
+        "update_count": 2
       },
       "姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜": {
         "init_date": 1545494400000
@@ -1829,16 +2021,16 @@
     },
     "cm_out": {
       "リビティウム皇国のブタクサ姫": {
-        "epub_date": 1545953280754,
+        "epub_date": 1546044795781,
         "volume_old": 7,
-        "chapter_old": 202,
+        "chapter_old": 205,
         "volume": 7,
         "chapter": 205,
         "epub_basename": "利貝提姆皇國的豚草姫.epub",
         "init_date": 1545548908164,
         "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-        "update_date": 1545953280754,
-        "update_count": 1
+        "update_date": 1546044795781,
+        "update_count": 3
       }
     },
     "dmzj_out": {
@@ -1869,14 +2061,14 @@
       "蜘蛛ですが、なにか？": {
         "init_date": 1545494400000,
         "txt_basename": "轉生成蜘蛛又怎樣！.out.txt",
-        "epub_date": 1545876901729,
+        "epub_date": 1546044808454,
         "volume_old": 14,
-        "chapter_old": 728,
+        "chapter_old": 733,
         "volume": 14,
         "chapter": 733,
         "epub_basename": "轉生成蜘蛛又怎樣！.epub",
-        "update_date": 1545876901729,
-        "update_count": 3
+        "update_date": 1546044808454,
+        "update_count": 4
       }
     },
     "lost_out": {
@@ -1964,12 +2156,12 @@
     },
     "dmzj": {
       "蜘蛛ですが、なにか？": {
-        "segment_date": 1545952881936,
-        "segment_old": 6,
-        "segment": 2,
+        "segment_date": 1546044507695,
+        "segment_old": 31,
+        "segment": 4,
         "init_date": 1545779972577,
-        "update_date": 1545952881936,
-        "update_count": 4
+        "update_date": 1546044507695,
+        "update_count": 6
       }
     },
     "zh": {
@@ -5491,6 +5683,7 @@
           "title": "「お前ごときが魔王に勝てると思うな」とガチ勢に勇者パーティを追放されたので、王都で気ままに暮らしたい",
           "title_short": "你這種傢伙別想打贏魔王",
           "title_zh": "「你這種傢伙別想打贏魔王」被攻略廚踢出了勇者隊伍，想在王都過上平靜的生活",
+          "title_zh2": "就凭你也想打败魔王吗",
           "author": "kiki",
           "source": "http://ncode.syosetu.com/n5361em/",
           "cover": "https://images-na.ssl-images-amazon.com/images/I/91A8RvS10uL.jpg",
@@ -5552,7 +5745,9 @@
           "[bibiyz](https": "//mega.nz/#F!x4JwDAgR!DMz0X522W7WsarvaKbPyhQ)",
           "[物理盐鱼](https": "//pan.baidu.com/s/1R3f2qxCEQZ61m_x4AYhlVQ) e9vp",
           "[「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい｜gcノベルズ](http": "//micromagazine.net/gcn/omaegotokiga/)",
-          "[物理盐鱼 文庫](https": "//tieba.baidu.com/p/5853088454)"
+          "[物理盐鱼 文庫](https": "//tieba.baidu.com/p/5853088454)",
+          "[dm5](http": "//www.dm5.com/manhua-jiupingniyexiangdabaimowangma/) 漫畫版",
+          "[masiro.moe](https": "//masiro.moe/forum.php?mod=forumdisplay&fid=90)"
         }
       },
       "奪う者　奪われる者": {
@@ -5908,7 +6103,8 @@
           "[dip.jp](https": "//narou.dip.jp/search.php?text=n1898i&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[沃特尼亚战记](https": "//tieba.baidu.com/f?kw=%E6%B2%83%E7%89%B9%E5%B0%BC%E4%BA%9A%E6%88%98%E8%AE%B0&ie=utf-8 \"沃特尼亚战记\")",
           "譯文網盤": {
-            "[kit1502](https": "//pan.baidu.com/s/1Rw0DHkgVAYNdCuYZfuit6A)"
+            "[kit1502](https": "//pan.baidu.com/s/1Rw0DHkgVAYNdCuYZfuit6A)",
+            "[kit1502 google](https": "//drive.google.com/drive/folders/1rRQHMrOKhlzlxix-Bdj7mk1oMX3UkHW_)"
           }
         }
       },
