@@ -1,354 +1,5 @@
 {
   "history": {
-    "1545494400000": {
-      "segment_count": 10,
-      "segment": [
-        [
-          "cm",
-          "リビティウム皇国のブタクサ姫",
-          {
-            "segment_date": 1545548395026,
-            "segment_old": 68,
-            "segment": 68,
-            "init_date": 1545521021481,
-            "update_date": 1545548395026,
-            "update_count": 37
-          }
-        ],
-        [
-          "mirronight",
-          "打造魔王大人的城鎮（魔王築城記）",
-          {
-            "segment_date": 1545548531866,
-            "segment_old": 2,
-            "segment": 2,
-            "init_date": 1545521161792,
-            "update_date": 1545552691391,
-            "update_count": 36,
-            "epub_date": 1545552691391,
-            "volume_old": 9,
-            "chapter_old": 200,
-            "volume": 9,
-            "chapter": 200,
-            "epub_basename": "打造魔王大人的城鎮（魔王築城記）"
-          }
-        ],
-        [
-          "syosetu",
-          "俺　VS　人類　～アンデッドを使役して王国を襲う俺～",
-          {
-            "segment_date": 1545548616238,
-            "segment_old": 14,
-            "segment": 14,
-            "init_date": 1545521248792,
-            "update_date": 1545548616238,
-            "update_count": 34
-          }
-        ],
-        [
-          "syosetu",
-          "用務員さんは勇者じゃありませんので",
-          {
-            "segment_date": 1545548630634,
-            "segment_old": 54,
-            "segment": 54,
-            "init_date": 1545521263591,
-            "update_date": 1545548630634,
-            "update_count": 33
-          }
-        ],
-        [
-          "syosetu",
-          "重生的貓騎士與精靈娘的日常",
-          {
-            "segment_date": 1545548673452,
-            "segment_old": 25,
-            "segment": 25,
-            "init_date": 1545521307326,
-            "update_date": 1545548673452,
-            "update_count": 32
-          }
-        ],
-        [
-          "syosetu",
-          "陰の実力者になりたくて！_(n0611em)",
-          {
-            "segment_date": 1545548688321,
-            "segment_old": 53,
-            "segment": 53,
-            "init_date": 1545521322627,
-            "update_date": 1545548688321,
-            "update_count": 31
-          }
-        ],
-        [
-          "user",
-          "火輪を抱いた少女",
-          {
-            "segment_date": 1545548707385,
-            "segment_old": 1,
-            "segment": 1,
-            "init_date": 1545521341885,
-            "update_date": 1545548707385,
-            "update_count": 30
-          }
-        ],
-        [
-          "user",
-          "魔王様、リトライ！",
-          {
-            "segment_date": 1545552564307,
-            "segment_old": 38,
-            "segment": 1,
-            "init_date": 1545521369284,
-            "update_date": 1545552564307,
-            "update_count": 29
-          }
-        ],
-        [
-          "user",
-          "黑之魔王",
-          {
-            "segment_date": 1545548851942,
-            "segment_old": 309,
-            "segment": 309,
-            "init_date": 1545261427757,
-            "update_date": 1545548851942,
-            "update_count": 28
-          }
-        ],
-        [
-          "wenku8",
-          "勇者、或いは化物と呼ばれた少女",
-          {
-            "segment_date": 1545548872909,
-            "segment_old": 1,
-            "segment": 1,
-            "init_date": 1545521509007,
-            "update_date": 1545548872909,
-            "update_count": 27
-          }
-        ]
-      ],
-      "epub_count": 14,
-      "epub": [
-        [
-          "cm_out",
-          "リビティウム皇国のブタクサ姫",
-          {
-            "epub_date": 1545548908164,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 7,
-            "chapter": 202,
-            "epub_basename": "利貝提姆皇國的豚草姫",
-            "init_date": 1545548908164,
-            "update_date": 1545548908164,
-            "update_count": 14
-          }
-        ],
-        [
-          "dmzj_out",
-          "吃掉死神的少女",
-          {
-            "epub_date": 1545548909747,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 3,
-            "chapter": 39,
-            "epub_basename": "吃掉死神的少女",
-            "init_date": 1545548909747,
-            "update_date": 1545548909747,
-            "update_count": 14
-          }
-        ],
-        [
-          "epub_out",
-          "異世界で魅了チートを使って奴隷ハーレムをつくってみた",
-          {
-            "epub_date": 1545552687196,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 4,
-            "chapter": 36,
-            "epub_basename": "異世界で魅了チートを使って奴隷ハーレムをつくってみた",
-            "init_date": 1545552687196,
-            "update_date": 1545552687196,
-            "update_count": 2
-          }
-        ],
-        [
-          "lost_out",
-          "只是被勇者消滅的簡單工作",
-          {
-            "epub_date": 1545548919768,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 311,
-            "epub_basename": "只是被勇者消滅的簡單工作",
-            "init_date": 1545548919768,
-            "update_date": 1545548919768,
-            "update_count": 14
-          }
-        ],
-        [
-          "mirronight",
-          "打造魔王大人的城鎮（魔王築城記）",
-          {
-            "segment_date": 1545548531866,
-            "segment_old": 2,
-            "segment": 2,
-            "init_date": 1545521161792,
-            "update_date": 1545552691391,
-            "update_count": 36,
-            "epub_date": 1545552691391,
-            "volume_old": 9,
-            "chapter_old": 200,
-            "volume": 9,
-            "chapter": 200,
-            "epub_basename": "打造魔王大人的城鎮（魔王築城記）"
-          }
-        ],
-        [
-          "syosetu_out",
-          "俺　VS　人類　～アンデッドを使役して王国を襲う俺～",
-          {
-            "epub_date": 1545548928688,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 4,
-            "chapter": 116,
-            "epub_basename": "俺　VS　人類　～使役不死者去襲擊王國的俺～",
-            "novel_status": 1,
-            "init_date": 1545548928688,
-            "update_date": 1545548928688,
-            "update_count": 14
-          }
-        ],
-        [
-          "syosetu_out",
-          "用務員さんは勇者じゃありませんので",
-          {
-            "epub_date": 1545548930185,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 3,
-            "chapter": 60,
-            "epub_basename": "因為校工桑並不是勇者",
-            "init_date": 1545548930185,
-            "update_date": 1545548930185,
-            "update_count": 14
-          }
-        ],
-        [
-          "syosetu_out",
-          "異常狀態是絕望",
-          {
-            "epub_date": 1545548935642,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 5,
-            "chapter": 81,
-            "epub_basename": "異常狀態是絕望",
-            "init_date": 1545548935642,
-            "update_date": 1545548935642,
-            "update_count": 14
-          }
-        ],
-        [
-          "syosetu_out",
-          "重生的貓騎士與精靈娘的日常",
-          {
-            "epub_date": 1545548938005,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 3,
-            "chapter": 48,
-            "epub_basename": "重生的貓騎士與精靈娘的日常",
-            "init_date": 1545548938005,
-            "update_date": 1545548938005,
-            "update_count": 14
-          }
-        ],
-        [
-          "syosetu_out",
-          "陰の実力者になりたくて！_(n0611em)",
-          {
-            "epub_date": 1545548940691,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 8,
-            "chapter": 163,
-            "epub_basename": "想要成為影之實力者",
-            "init_date": 1545548940691,
-            "update_date": 1545548940691,
-            "update_count": 14
-          }
-        ],
-        [
-          "user_out",
-          "火輪を抱いた少女",
-          {
-            "epub_date": 1545548942271,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 48,
-            "epub_basename": "火輪を抱いた少女",
-            "novel_status": 16,
-            "init_date": 1545548942271,
-            "update_date": 1545548942271,
-            "update_count": 14
-          }
-        ],
-        [
-          "user_out",
-          "魔王様、リトライ！",
-          {
-            "epub_date": 1545548944955,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 9,
-            "chapter": 110,
-            "epub_basename": "魔王様、リトライ！",
-            "init_date": 1545548944955,
-            "update_date": 1545548944955,
-            "update_count": 14
-          }
-        ],
-        [
-          "user_out",
-          "黑之魔王",
-          {
-            "epub_date": 1545548954571,
-            "volume_old": 29,
-            "chapter_old": 541,
-            "volume": 29,
-            "chapter": 542,
-            "init_date": 1545261469203,
-            "epub_basename": "黑之魔王",
-            "update_date": 1545548954571,
-            "update_count": 14
-          }
-        ],
-        [
-          "wenku8_out",
-          "勇者、或いは化物と呼ばれた少女",
-          {
-            "epub_date": 1545548957577,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 3,
-            "chapter": 13,
-            "epub_basename": "勇者、或いは化物と呼ばれた少女",
-            "init_date": 1545548957577,
-            "update_date": 1545548957577,
-            "update_count": 14
-          }
-        ]
-      ]
-    },
     "1545580800000": {
       "segment_count": 6,
       "segment": [
@@ -1348,6 +999,174 @@
           }
         ]
       ]
+    },
+    "1546099200000": {
+      "segment_count": 4,
+      "segment": [
+        [
+          "dmzj",
+          "蜘蛛ですが、なにか？",
+          {
+            "segment_date": 1546130368549,
+            "segment_old": 4,
+            "segment": 19,
+            "init_date": 1545779972577,
+            "update_date": 1546130368549,
+            "update_count": 8
+          }
+        ],
+        [
+          "user",
+          "ウォルテニア戦記",
+          {
+            "segment_date": 1546126217693,
+            "segment_old": 64,
+            "segment": 1,
+            "init_date": 1546044567479,
+            "update_date": 1546126217693,
+            "update_count": 2
+          }
+        ],
+        [
+          "user",
+          "你這種傢伙別想打贏魔王",
+          {
+            "segment_date": 1546126246577,
+            "segment_old": 47,
+            "segment": 47,
+            "init_date": 1546044596562,
+            "update_date": 1546126246577,
+            "update_count": 2
+          }
+        ],
+        [
+          "user",
+          "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～",
+          {
+            "segment_date": 1546126307660,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1545952990121,
+            "update_date": 1546126307660,
+            "update_count": 4
+          }
+        ]
+      ],
+      "epub_count": 7,
+      "epub": [
+        [
+          "cm_out",
+          "リビティウム皇国のブタクサ姫",
+          {
+            "epub_date": 1546130708282,
+            "volume_old": 7,
+            "chapter_old": 205,
+            "volume": 7,
+            "chapter": 205,
+            "epub_basename": "利貝提姆皇國的豚草姫.epub",
+            "init_date": 1545548908164,
+            "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
+            "update_date": 1546130708282,
+            "update_count": 5
+          }
+        ],
+        [
+          "dmzj_out",
+          "蜘蛛ですが、なにか？",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "轉生成蜘蛛又怎樣！.out.txt",
+            "epub_date": 1546130720415,
+            "volume_old": 14,
+            "chapter_old": 733,
+            "volume": 14,
+            "chapter": 736,
+            "epub_basename": "轉生成蜘蛛又怎樣！.epub",
+            "update_date": 1546130720415,
+            "update_count": 6
+          }
+        ],
+        [
+          "user_out",
+          "ウォルテニア戦記",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "沃特尼亞戰記.out.txt",
+            "epub_date": 1546130723835,
+            "volume_old": 5,
+            "chapter_old": 166,
+            "volume": 5,
+            "chapter": 166,
+            "epub_basename": "沃特尼亞戰記.epub",
+            "update_date": 1546130723835,
+            "update_count": 3
+          }
+        ],
+        [
+          "user_out",
+          "你這種傢伙別想打贏魔王",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "「你這種傢伙別想打贏魔王」被攻略廚踢出了.out.txt",
+            "epub_date": 1546130726373,
+            "volume_old": 8,
+            "chapter_old": 80,
+            "volume": 8,
+            "chapter": 80,
+            "epub_basename": "「你這種傢伙別想打贏魔王」被攻略廚踢出了勇者隊伍，想在王都過上平靜的生活.epub",
+            "update_date": 1546130726373,
+            "update_count": 3
+          }
+        ],
+        [
+          "user_out",
+          "奪う者　奪われる者",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "奪う者　奪われる者.out.txt",
+            "epub_date": 1546130732122,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 15,
+            "chapter": 272,
+            "epub_basename": "奪う者　奪われる者.epub",
+            "update_date": 1546130732122,
+            "update_count": 1
+          }
+        ],
+        [
+          "user_out",
+          "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "暗黒騎士物語　～勇者を倒すために魔王に召.out.txt",
+            "epub_date": 1546130737586,
+            "volume_old": 9,
+            "chapter_old": 177,
+            "volume": 9,
+            "chapter": 177,
+            "epub_basename": "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～.epub",
+            "update_date": 1546130737586,
+            "update_count": 5
+          }
+        ],
+        [
+          "user_out",
+          "黑之魔王",
+          {
+            "epub_date": 1546130746525,
+            "volume_old": 29,
+            "chapter_old": 547,
+            "volume": 29,
+            "chapter": 547,
+            "init_date": 1545261469203,
+            "epub_basename": "黑之魔王.epub",
+            "txt_basename": "黑之魔王.out.txt",
+            "update_date": 1546130746525,
+            "update_count": 10
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1508,33 +1327,36 @@
         "update_count": 3
       },
       "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～": {
-        "segment_date": 1546044660108,
-        "segment_old": 106,
+        "segment_date": 1546126307660,
+        "segment_old": 1,
         "segment": 1,
         "init_date": 1545952990121,
-        "update_date": 1546044660108,
-        "update_count": 3
+        "update_date": 1546126307660,
+        "update_count": 4
       },
       "ウォルテニア戦記": {
-        "segment_date": 1546044567479,
-        "segment_old": 0,
-        "segment": 64,
+        "segment_date": 1546126217693,
+        "segment_old": 64,
+        "segment": 1,
         "init_date": 1546044567479,
-        "update_date": 1546044567479,
-        "update_count": 1
+        "update_date": 1546126217693,
+        "update_count": 2
       },
       "你這種傢伙別想打贏魔王": {
-        "segment_date": 1546044596562,
-        "segment_old": 0,
+        "segment_date": 1546126246577,
+        "segment_old": 47,
         "segment": 47,
         "init_date": 1546044596562,
-        "update_date": 1546044596562,
-        "update_count": 1
+        "update_date": 1546126246577,
+        "update_count": 2
+      },
+      "奪う者　奪われる者": {
+        "init_date": 1546099200000
       }
     },
     "user_out": {
       "黑之魔王": {
-        "epub_date": 1546044830211,
+        "epub_date": 1546130746525,
         "volume_old": 29,
         "chapter_old": 547,
         "volume": 29,
@@ -1542,8 +1364,8 @@
         "init_date": 1545261469203,
         "epub_basename": "黑之魔王.epub",
         "txt_basename": "黑之魔王.out.txt",
-        "update_date": 1546044830211,
-        "update_count": 8
+        "update_date": 1546130746525,
+        "update_count": 10
       },
       "火輪を抱いた少女": {
         "epub_date": 1545548942271,
@@ -1573,17 +1395,26 @@
       "你這種傢伙別想打贏魔王": {
         "init_date": 1545494400000,
         "txt_basename": "「你這種傢伙別想打贏魔王」被攻略廚踢出了.out.txt",
-        "epub_date": 1546044815019,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1546130726373,
+        "volume_old": 8,
+        "chapter_old": 80,
         "volume": 8,
         "chapter": 80,
         "epub_basename": "「你這種傢伙別想打贏魔王」被攻略廚踢出了勇者隊伍，想在王都過上平靜的生活.epub",
-        "update_date": 1546044815019,
-        "update_count": 1
+        "update_date": 1546130726373,
+        "update_count": 3
       },
       "奪う者　奪われる者": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "txt_basename": "奪う者　奪われる者.out.txt",
+        "epub_date": 1546130732122,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 15,
+        "chapter": 272,
+        "epub_basename": "奪う者　奪われる者.epub",
+        "update_date": 1546130732122,
+        "update_count": 1
       },
       "由于世界魔物满载": {
         "init_date": 1545494400000
@@ -1609,14 +1440,14 @@
       "ウォルテニア戦記": {
         "init_date": 1545494400000,
         "txt_basename": "沃特尼亞戰記.out.txt",
-        "epub_date": 1546044812185,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1546130723835,
+        "volume_old": 5,
+        "chapter_old": 166,
         "volume": 5,
         "chapter": 166,
         "epub_basename": "沃特尼亞戰記.epub",
-        "update_date": 1546044812185,
-        "update_count": 1
+        "update_date": 1546130723835,
+        "update_count": 3
       },
       "２９歳独身は異世界で自由に生きた…かった。": {
         "init_date": 1545494400000
@@ -1693,14 +1524,14 @@
       "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～": {
         "init_date": 1545494400000,
         "txt_basename": "暗黒騎士物語　～勇者を倒すために魔王に召.out.txt",
-        "epub_date": 1546044820746,
+        "epub_date": 1546130737586,
         "volume_old": 9,
         "chapter_old": 177,
         "volume": 9,
         "chapter": 177,
         "epub_basename": "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～.epub",
-        "update_date": 1546044820746,
-        "update_count": 3
+        "update_date": 1546130737586,
+        "update_count": 5
       },
       "転生したら剣でした": {
         "init_date": 1545494400000
@@ -2021,7 +1852,7 @@
     },
     "cm_out": {
       "リビティウム皇国のブタクサ姫": {
-        "epub_date": 1546044795781,
+        "epub_date": 1546130708282,
         "volume_old": 7,
         "chapter_old": 205,
         "volume": 7,
@@ -2029,8 +1860,8 @@
         "epub_basename": "利貝提姆皇國的豚草姫.epub",
         "init_date": 1545548908164,
         "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-        "update_date": 1546044795781,
-        "update_count": 3
+        "update_date": 1546130708282,
+        "update_count": 5
       }
     },
     "dmzj_out": {
@@ -2061,14 +1892,14 @@
       "蜘蛛ですが、なにか？": {
         "init_date": 1545494400000,
         "txt_basename": "轉生成蜘蛛又怎樣！.out.txt",
-        "epub_date": 1546044808454,
+        "epub_date": 1546130720415,
         "volume_old": 14,
         "chapter_old": 733,
         "volume": 14,
-        "chapter": 733,
+        "chapter": 736,
         "epub_basename": "轉生成蜘蛛又怎樣！.epub",
-        "update_date": 1546044808454,
-        "update_count": 4
+        "update_date": 1546130720415,
+        "update_count": 6
       }
     },
     "lost_out": {
@@ -2156,12 +1987,12 @@
     },
     "dmzj": {
       "蜘蛛ですが、なにか？": {
-        "segment_date": 1546044507695,
-        "segment_old": 31,
-        "segment": 4,
+        "segment_date": 1546130368549,
+        "segment_old": 4,
+        "segment": 19,
         "init_date": 1545779972577,
-        "update_date": 1546044507695,
-        "update_count": 6
+        "update_date": 1546130368549,
+        "update_count": 8
       }
     },
     "zh": {
@@ -5756,7 +5587,7 @@
           "title_zh1": "剝奪者與被剝奪者",
           "author": "mino",
           "source": "http://ncode.syosetu.com/n4128bn/",
-          "cover": "http://xs.dmzj.com/img/webpic/4/ldzbdz658964l.jpg",
+          "cover": "https://images-fe.ssl-images-amazon.com/images/I/61vxzl9a-qL._SY346_.jpg",
           "publisher": "",
           "date": "2017-05-27T14:45:28+08:00",
           "status": "",
