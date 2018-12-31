@@ -1,6 +1,8 @@
 # novel
 
 - title: 人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～
+- title_zh1: 食人转移者的异世界复仇谭
+- title_zh2: 喰人转移者的异世界复仇谭
 - author: kiki
 - source: http://ncode.syosetu.com/n7933eb/
 - cover: https://imgsa.baidu.com/forum/w%3D580/sign=d15db7c2dca20cf44690fed746084b0c/c29f1a83b9014a907edc76f8a5773912b21bee1b.jpg
