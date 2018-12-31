@@ -1,5 +1,23 @@
 # HISTORY
 
+## 2018-12-31
+
+### Epub
+
+- [蜘蛛ですが、なにか？](dmzj_out/%E8%9C%98%E8%9B%9B%E3%81%A7%E3%81%99%E3%81%8C%E3%80%81%E3%81%AA%E3%81%AB%E3%81%8B%EF%BC%9F) - dmzj_out
+  <br/>( v: 15 , c: 777, add: 41 )
+- [ウォルテニア戦記](user_out/%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%86%E3%83%8B%E3%82%A2%E6%88%A6%E8%A8%98) - user_out
+  <br/>( v: 5 , c: 171, add: 5 )
+- [你這種傢伙別想打贏魔王](user_out/%E4%BD%A0%E9%80%99%E7%A8%AE%E5%82%A2%E4%BC%99%E5%88%A5%E6%83%B3%E6%89%93%E8%B4%8F%E9%AD%94%E7%8E%8B) - user_out
+  <br/>( v: 9 , c: 82, add: 2 )
+
+### Segment
+
+- [蜘蛛ですが、なにか？](dmzj/%E8%9C%98%E8%9B%9B%E3%81%A7%E3%81%99%E3%81%8C%E3%80%81%E3%81%AA%E3%81%AB%E3%81%8B%EF%BC%9F) - dmzj
+  <br/>( s: 40 )
+- [ウォルテニア戦記](user/%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%86%E3%83%8B%E3%82%A2%E6%88%A6%E8%A8%98) - user
+  <br/>( s: 1 )
+
 ## 2018-12-30
 
 ### Epub
@@ -177,40 +195,6 @@
   <br/>( s: 2 )
 - [黑之魔王](user/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B) - user
   <br/>( s: 8 )
-
-## 2018-12-24
-
-### Epub
-
-- [俺　VS　人類　～アンデッドを使役して王国を襲う俺～](syosetu_out/%E4%BF%BA%E3%80%80VS%E3%80%80%E4%BA%BA%E9%A1%9E%E3%80%80%EF%BD%9E%E3%82%A2%E3%83%B3%E3%83%87%E3%83%83%E3%83%89%E3%82%92%E4%BD%BF%E5%BD%B9%E3%81%97%E3%81%A6%E7%8E%8B%E5%9B%BD%E3%82%92%E8%A5%B2%E3%81%86%E4%BF%BA%EF%BD%9E) - syosetu_out
-  <br/>( v: 4 , c: 116, add: 0 )
-- [望まぬ不死の冒険者](syosetu_out/%E6%9C%9B%E3%81%BE%E3%81%AC%E4%B8%8D%E6%AD%BB%E3%81%AE%E5%86%92%E9%99%BA%E8%80%85) - syosetu_out
-  <br/>( v: 10 , c: 168, add: 168 )
-- [異常狀態是絕望](syosetu_out/%E7%95%B0%E5%B8%B8%E7%8B%80%E6%85%8B%E6%98%AF%E7%B5%95%E6%9C%9B) - syosetu_out
-  <br/>( v: 5 , c: 81, add: 0 )
-- [紅き血に口づけを　～外れスキルからの逆転人生～](syosetu_out/%E7%B4%85%E3%81%8D%E8%A1%80%E3%81%AB%E5%8F%A3%E3%81%A5%E3%81%91%E3%82%92%E3%80%80%EF%BD%9E%E5%A4%96%E3%82%8C%E3%82%B9%E3%82%AD%E3%83%AB%E3%81%8B%E3%82%89%E3%81%AE%E9%80%86%E8%BB%A2%E4%BA%BA%E7%94%9F%EF%BD%9E) - syosetu_out
-  <br/>( v: 1 , c: 19, add: 19 )
-- [陰の実力者になりたくて！_(n0611em)](syosetu_out/%E9%99%B0%E3%81%AE%E5%AE%9F%E5%8A%9B%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%8F%E3%81%A6%EF%BC%81_(n0611em)) - syosetu_out
-  <br/>( v: 8 , c: 164, add: 1 )
-- [豚公爵に転生したから、今度は君に好きと言いたい](user_out/%E8%B1%9A%E5%85%AC%E7%88%B5%E3%81%AB%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E3%81%8B%E3%82%89%E3%80%81%E4%BB%8A%E5%BA%A6%E3%81%AF%E5%90%9B%E3%81%AB%E5%A5%BD%E3%81%8D%E3%81%A8%E8%A8%80%E3%81%84%E3%81%9F%E3%81%84) - user_out
-  <br/>( v: 7 , c: 166, add: 166 )
-- [黑之魔王](user_out/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B) - user_out
-  <br/>( v: 29 , c: 545, add: 3 )
-
-### Segment
-
-- [望まぬ不死の冒険者](syosetu/%E6%9C%9B%E3%81%BE%E3%81%AC%E4%B8%8D%E6%AD%BB%E3%81%AE%E5%86%92%E9%99%BA%E8%80%85) - syosetu
-  <br/>( s: 50 )
-- [異常狀態是絕望](syosetu/%E7%95%B0%E5%B8%B8%E7%8B%80%E6%85%8B%E6%98%AF%E7%B5%95%E6%9C%9B) - syosetu
-  <br/>( s: 4 )
-- [紅き血に口づけを　～外れスキルからの逆転人生～](syosetu/%E7%B4%85%E3%81%8D%E8%A1%80%E3%81%AB%E5%8F%A3%E3%81%A5%E3%81%91%E3%82%92%E3%80%80%EF%BD%9E%E5%A4%96%E3%82%8C%E3%82%B9%E3%82%AD%E3%83%AB%E3%81%8B%E3%82%89%E3%81%AE%E9%80%86%E8%BB%A2%E4%BA%BA%E7%94%9F%EF%BD%9E) - syosetu
-  <br/>( s: 16 )
-- [陰の実力者になりたくて！_(n0611em)](syosetu/%E9%99%B0%E3%81%AE%E5%AE%9F%E5%8A%9B%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%8F%E3%81%A6%EF%BC%81_(n0611em)) - syosetu
-  <br/>( s: 1 )
-- [豚公爵に転生したから、今度は君に好きと言いたい](user/%E8%B1%9A%E5%85%AC%E7%88%B5%E3%81%AB%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E3%81%8B%E3%82%89%E3%80%81%E4%BB%8A%E5%BA%A6%E3%81%AF%E5%90%9B%E3%81%AB%E5%A5%BD%E3%81%8D%E3%81%A8%E8%A8%80%E3%81%84%E3%81%9F%E3%81%84) - user
-  <br/>( s: 26 )
-- [黑之魔王](user/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B) - user
-  <br/>( s: 11 )
 
 
 
