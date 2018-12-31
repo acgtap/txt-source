@@ -1,198 +1,5 @@
 {
   "history": {
-    "1545580800000": {
-      "segment_count": 6,
-      "segment": [
-        [
-          "syosetu",
-          "望まぬ不死の冒険者",
-          {
-            "segment_date": 1545607102002,
-            "segment_old": 0,
-            "segment": 50,
-            "init_date": 1545607102002,
-            "update_date": 1545607102002,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "異常狀態是絕望",
-          {
-            "segment_date": 1545607138342,
-            "segment_old": 0,
-            "segment": 4,
-            "init_date": 1545607138342,
-            "update_date": 1545607138342,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "紅き血に口づけを　～外れスキルからの逆転人生～",
-          {
-            "segment_date": 1545607143322,
-            "segment_old": 0,
-            "segment": 16,
-            "init_date": 1545607143322,
-            "update_date": 1545607143322,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "陰の実力者になりたくて！_(n0611em)",
-          {
-            "segment_date": 1545607158613,
-            "segment_old": 53,
-            "segment": 1,
-            "init_date": 1545521322627,
-            "update_date": 1545607158613,
-            "update_count": 1
-          }
-        ],
-        [
-          "user",
-          "豚公爵に転生したから、今度は君に好きと言いたい",
-          {
-            "segment_date": 1545607228123,
-            "segment_old": 0,
-            "segment": 26,
-            "init_date": 1545607228123,
-            "update_date": 1545607228123,
-            "update_count": 1
-          }
-        ],
-        [
-          "user",
-          "黑之魔王",
-          {
-            "segment_date": 1545607374186,
-            "segment_old": 309,
-            "segment": 11,
-            "init_date": 1545261427757,
-            "update_date": 1545607374186,
-            "update_count": 1
-          }
-        ]
-      ],
-      "epub_count": 7,
-      "epub": [
-        [
-          "syosetu_out",
-          "俺　VS　人類　～アンデッドを使役して王国を襲う俺～",
-          {
-            "epub_date": 1545607413494,
-            "volume_old": 4,
-            "chapter_old": 116,
-            "volume": 4,
-            "chapter": 116,
-            "epub_basename": "俺　VS　人類　～使役不死者去襲擊王國的俺～.epub",
-            "novel_status": 1,
-            "init_date": 1545548928688,
-            "txt_basename": "俺　VS　人類　～使役不死者去襲擊王國的.out.txt",
-            "update_date": 1545607413494,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu_out",
-          "望まぬ不死の冒険者",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "事與願違的不死冒險者.out.txt",
-            "epub_date": 1545607416850,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 10,
-            "chapter": 168,
-            "epub_basename": "事與願違的不死冒險者.epub",
-            "update_date": 1545607416850,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu_out",
-          "異常狀態是絕望",
-          {
-            "epub_date": 1545607422008,
-            "volume_old": 5,
-            "chapter_old": 81,
-            "volume": 5,
-            "chapter": 81,
-            "epub_basename": "異常狀態是絕望.epub",
-            "init_date": 1545548935642,
-            "txt_basename": "異常狀態是絕望.out.txt",
-            "update_date": 1545607422008,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu_out",
-          "紅き血に口づけを　～外れスキルからの逆転人生～",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "為鮮血獻上吻　～從沒用技能開始的逆轉人生.out.txt",
-            "epub_date": 1545607422693,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 19,
-            "epub_basename": "為鮮血獻上吻　～從沒用技能開始的逆轉人生～.epub",
-            "update_date": 1545607422693,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu_out",
-          "陰の実力者になりたくて！_(n0611em)",
-          {
-            "epub_date": 1545607425510,
-            "volume_old": 8,
-            "chapter_old": 163,
-            "volume": 8,
-            "chapter": 164,
-            "epub_basename": "想要成為影之實力者.epub",
-            "init_date": 1545548940691,
-            "txt_basename": "想要成為影之實力者.out.txt",
-            "update_date": 1545607425510,
-            "update_count": 1
-          }
-        ],
-        [
-          "user_out",
-          "豚公爵に転生したから、今度は君に好きと言いたい",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "豚公爵に転生したから、今度は君に好きと言.out.txt",
-            "epub_date": 1545607428320,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 7,
-            "chapter": 166,
-            "epub_basename": "豚公爵に転生したから、今度は君に好きと言いたい.epub",
-            "update_date": 1545607428320,
-            "update_count": 1
-          }
-        ],
-        [
-          "user_out",
-          "黑之魔王",
-          {
-            "epub_date": 1545607437492,
-            "volume_old": 29,
-            "chapter_old": 542,
-            "volume": 29,
-            "chapter": 545,
-            "init_date": 1545261469203,
-            "epub_basename": "黑之魔王.epub",
-            "txt_basename": "黑之魔王.out.txt",
-            "update_date": 1545607437492,
-            "update_count": 1
-          }
-        ]
-      ]
-    },
     "1545667200000": {
       "segment_count": 6,
       "segment": [
@@ -1167,6 +974,86 @@
           }
         ]
       ]
+    },
+    "1546185600000": {
+      "segment_count": 2,
+      "segment": [
+        [
+          "dmzj",
+          "蜘蛛ですが、なにか？",
+          {
+            "segment_date": 1546216656876,
+            "segment_old": 19,
+            "segment": 40,
+            "init_date": 1545779972577,
+            "update_date": 1546216656876,
+            "update_count": 9
+          }
+        ],
+        [
+          "user",
+          "ウォルテニア戦記",
+          {
+            "segment_date": 1546216660642,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1546044567479,
+            "update_date": 1546216660642,
+            "update_count": 3
+          }
+        ]
+      ],
+      "epub_count": 3,
+      "epub": [
+        [
+          "dmzj_out",
+          "蜘蛛ですが、なにか？",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "轉生成蜘蛛又怎樣！.out.txt",
+            "epub_date": 1546216735175,
+            "volume_old": 14,
+            "chapter_old": 736,
+            "volume": 15,
+            "chapter": 777,
+            "epub_basename": "轉生成蜘蛛又怎樣！.epub",
+            "update_date": 1546216735175,
+            "update_count": 7
+          }
+        ],
+        [
+          "user_out",
+          "ウォルテニア戦記",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "沃特尼亞戰記.out.txt",
+            "epub_date": 1546216738962,
+            "volume_old": 5,
+            "chapter_old": 166,
+            "volume": 5,
+            "chapter": 171,
+            "epub_basename": "沃特尼亞戰記.epub",
+            "update_date": 1546216738962,
+            "update_count": 4
+          }
+        ],
+        [
+          "user_out",
+          "你這種傢伙別想打贏魔王",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "「你這種傢伙別想打贏魔王」被攻略廚踢出了.out.txt",
+            "epub_date": 1546216870250,
+            "volume_old": 8,
+            "chapter_old": 80,
+            "volume": 9,
+            "chapter": 82,
+            "epub_basename": "「你這種傢伙別想打贏魔王」被攻略廚踢出了勇者隊伍，想在王都過上平靜的生活.epub",
+            "update_date": 1546216870250,
+            "update_count": 4
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1335,12 +1222,12 @@
         "update_count": 4
       },
       "ウォルテニア戦記": {
-        "segment_date": 1546126217693,
-        "segment_old": 64,
+        "segment_date": 1546216660642,
+        "segment_old": 1,
         "segment": 1,
         "init_date": 1546044567479,
-        "update_date": 1546126217693,
-        "update_count": 2
+        "update_date": 1546216660642,
+        "update_count": 3
       },
       "你這種傢伙別想打贏魔王": {
         "segment_date": 1546126246577,
@@ -1352,6 +1239,9 @@
       },
       "奪う者　奪われる者": {
         "init_date": 1546099200000
+      },
+      "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～": {
+        "init_date": 1546185600000
       }
     },
     "user_out": {
@@ -1395,14 +1285,14 @@
       "你這種傢伙別想打贏魔王": {
         "init_date": 1545494400000,
         "txt_basename": "「你這種傢伙別想打贏魔王」被攻略廚踢出了.out.txt",
-        "epub_date": 1546130726373,
+        "epub_date": 1546216870250,
         "volume_old": 8,
         "chapter_old": 80,
-        "volume": 8,
-        "chapter": 80,
+        "volume": 9,
+        "chapter": 82,
         "epub_basename": "「你這種傢伙別想打贏魔王」被攻略廚踢出了勇者隊伍，想在王都過上平靜的生活.epub",
-        "update_date": 1546130726373,
-        "update_count": 3
+        "update_date": 1546216870250,
+        "update_count": 4
       },
       "奪う者　奪われる者": {
         "init_date": 1545494400000,
@@ -1440,14 +1330,14 @@
       "ウォルテニア戦記": {
         "init_date": 1545494400000,
         "txt_basename": "沃特尼亞戰記.out.txt",
-        "epub_date": 1546130723835,
+        "epub_date": 1546216738962,
         "volume_old": 5,
         "chapter_old": 166,
         "volume": 5,
-        "chapter": 166,
+        "chapter": 171,
         "epub_basename": "沃特尼亞戰記.epub",
-        "update_date": 1546130723835,
-        "update_count": 3
+        "update_date": 1546216738962,
+        "update_count": 4
       },
       "２９歳独身は異世界で自由に生きた…かった。": {
         "init_date": 1545494400000
@@ -1892,14 +1782,14 @@
       "蜘蛛ですが、なにか？": {
         "init_date": 1545494400000,
         "txt_basename": "轉生成蜘蛛又怎樣！.out.txt",
-        "epub_date": 1546130720415,
+        "epub_date": 1546216735175,
         "volume_old": 14,
-        "chapter_old": 733,
-        "volume": 14,
-        "chapter": 736,
+        "chapter_old": 736,
+        "volume": 15,
+        "chapter": 777,
         "epub_basename": "轉生成蜘蛛又怎樣！.epub",
-        "update_date": 1546130720415,
-        "update_count": 6
+        "update_date": 1546216735175,
+        "update_count": 7
       }
     },
     "lost_out": {
@@ -1987,12 +1877,12 @@
     },
     "dmzj": {
       "蜘蛛ですが、なにか？": {
-        "segment_date": 1546130368549,
-        "segment_old": 4,
-        "segment": 19,
+        "segment_date": 1546216656876,
+        "segment_old": 19,
+        "segment": 40,
         "init_date": 1545779972577,
-        "update_date": 1546130368549,
-        "update_count": 8
+        "update_date": 1546216656876,
+        "update_count": 9
       }
     },
     "zh": {
@@ -2425,6 +2315,7 @@
           "真妹控",
           "秋山茉莉茶",
           "穷妹控",
+          "若叶柚希",
           "轻之国度",
           "阿露"
         ],
@@ -5550,11 +5441,13 @@
         "contribute": [
           "BIBIYZ",
           "hill皮皮",
+          "hououmon",
           "jiash08",
           "儚鬱",
           "十六夜的犬咲夜",
           "千恋",
           "卢浮宫卖包子",
+          "回元",
           "无水灬天际",
           "爱布丁的梨",
           "物理盐鱼"
