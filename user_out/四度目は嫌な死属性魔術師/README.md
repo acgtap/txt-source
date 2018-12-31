@@ -106,6 +106,7 @@
 - [讨厌第四次的死属性魔术师吧](https://tieba.baidu.com/f?kw=%E8%AE%A8%E5%8E%8C%E7%AC%AC%E5%9B%9B%E6%AC%A1%E7%9A%84%E6%AD%BB%E5%B1%9E%E6%80%A7%E9%AD%94%E6%9C%AF%E5%B8%88&ie=utf-8 "讨厌第四次的死属性魔术师")
 - [漫畫 中文](https://tw.manhuagui.com/comic/28989/)
 - [漫畫 RAW](https://lhscan.net/manga-yondome-wa-iyana-shi-zokusei-majutsushi-raw.html)
+- [lightnovel.cn](https://www.lightnovel.cn/forum.php?mod=viewthread&tid=876034&extra=&ordertype=1&page=1)
 - 
 
 
