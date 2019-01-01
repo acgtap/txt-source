@@ -1,6 +1,7 @@
 # novel
 
 - title: 没落予定なので、鍛治職人を目指す
+- title_zh1: 没落预定，以锻治工匠为目标
 - author: CK
 - source: http://ncode.syosetu.com/n7940cn/
 - cover: https://shop.r10s.jp/book/cabinet/0142/9784040720142.jpg
