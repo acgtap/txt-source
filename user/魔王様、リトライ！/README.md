@@ -1,6 +1,7 @@
 # novel
 
 - title: 魔王様、リトライ！
+- title_zh1: 重来吧魔王大人
 - author: 神埼　黒音
 - source: http://ncode.syosetu.com/n6789do/
 - cover: http://1.bp.blogspot.com/-8T7bmTGvhi8/Wfig3_jSYrI/AAAAAAADUxE/fPMNhAwtTUYxuPHv-LVSG-edussPsxMQACHMYCw/s0/Maou-sama,_Retry!.jpg
