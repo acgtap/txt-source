@@ -1,118 +1,5 @@
 {
   "history": {
-    "1545667200000": {
-      "segment_count": 6,
-      "segment": [
-        [
-          "syosetu",
-          "俺　VS　人類　～アンデッドを使役して王国を襲う俺～",
-          {
-            "segment_date": 1545693553722,
-            "segment_old": 14,
-            "segment": 20,
-            "init_date": 1545521248792,
-            "update_date": 1545693553722,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "望まぬ不死の冒険者",
-          {
-            "segment_date": 1545693577434,
-            "segment_old": 50,
-            "segment": 1,
-            "init_date": 1545607102002,
-            "update_date": 1545693577434,
-            "update_count": 2
-          }
-        ],
-        [
-          "syosetu",
-          "異常狀態是絕望",
-          {
-            "segment_date": 1545693613818,
-            "segment_old": 4,
-            "segment": 7,
-            "init_date": 1545607138342,
-            "update_date": 1545693613818,
-            "update_count": 2
-          }
-        ],
-        [
-          "syosetu",
-          "陰の実力者になりたくて！_(n0611em)",
-          {
-            "segment_date": 1545693633529,
-            "segment_old": 1,
-            "segment": 1,
-            "init_date": 1545521322627,
-            "update_date": 1545693633529,
-            "update_count": 2
-          }
-        ],
-        [
-          "user",
-          "豚公爵に転生したから、今度は君に好きと言いたい",
-          {
-            "segment_date": 1545693703692,
-            "segment_old": 26,
-            "segment": 2,
-            "init_date": 1545607228123,
-            "update_date": 1545693703692,
-            "update_count": 2
-          }
-        ],
-        [
-          "user",
-          "黑之魔王",
-          {
-            "segment_date": 1545693820933,
-            "segment_old": 11,
-            "segment": 8,
-            "init_date": 1545261427757,
-            "update_date": 1545693820933,
-            "update_count": 2
-          }
-        ]
-      ],
-      "epub_count": 2,
-      "epub": [
-        [
-          "syosetu_out",
-          "俺　VS　人類　～アンデッドを使役して王国を襲う俺～",
-          {
-            "epub_date": 1545693859757,
-            "volume_old": 4,
-            "chapter_old": 116,
-            "volume": 4,
-            "chapter": 116,
-            "epub_basename": "俺　VS　人類　～使役不死者去襲擊王國的俺～.epub",
-            "novel_status": 1,
-            "init_date": 1545548928688,
-            "txt_basename": "俺　VS　人類　～使役不死者去襲擊王國的.out.txt",
-            "update_date": 1545693859757,
-            "update_count": 2
-          }
-        ],
-        [
-          "user_out",
-          "黑之魔王",
-          {
-            "epub_date": 1545693869622,
-            "volume_old": 29,
-            "chapter_old": 545,
-            "volume": 29,
-            "chapter": 545,
-            "init_date": 1545261469203,
-            "epub_basename": "黑之魔王.epub",
-            "txt_basename": "黑之魔王.out.txt",
-            "update_date": 1545693869622,
-            "update_count": 2
-          }
-        ]
-      ]
-    },
     "1545753600000": {
       "segment_count": 6,
       "segment": [
@@ -1054,6 +941,168 @@
           }
         ]
       ]
+    },
+    "1546272000000": {
+      "segment_count": 6,
+      "segment": [
+        [
+          "dmzj",
+          "蜘蛛ですが、なにか？",
+          {
+            "segment_date": 1546301636762,
+            "segment_old": 40,
+            "segment": 26,
+            "init_date": 1545779972577,
+            "update_date": 1546301636762,
+            "update_count": 10
+          }
+        ],
+        [
+          "user",
+          "ウォルテニア戦記",
+          {
+            "segment_date": 1546301706349,
+            "segment_old": 1,
+            "segment": 6,
+            "init_date": 1546044567479,
+            "update_date": 1546301706349,
+            "update_count": 4
+          }
+        ],
+        [
+          "user",
+          "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～",
+          {
+            "init_date": 1546185600000,
+            "segment_date": 1546301719001,
+            "segment_old": 0,
+            "segment": 4,
+            "update_date": 1546301719001,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "四度目は嫌な死属性魔術師",
+          {
+            "segment_date": 1546302039608,
+            "segment_old": 0,
+            "segment": 183,
+            "init_date": 1546302039608,
+            "update_date": 1546302039608,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "誰にでもできる影から助ける魔王討伐",
+          {
+            "segment_date": 1546302072698,
+            "segment_old": 0,
+            "segment": 27,
+            "init_date": 1546302072698,
+            "update_date": 1546302072698,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "豚公爵に転生したから、今度は君に好きと言いたい",
+          {
+            "segment_date": 1546302164614,
+            "segment_old": 2,
+            "segment": 2,
+            "init_date": 1545607228123,
+            "update_date": 1546302164614,
+            "update_count": 3
+          }
+        ]
+      ],
+      "epub_count": 5,
+      "epub": [
+        [
+          "syosetu",
+          "身為暗殺者的我明顯比勇者還強",
+          {
+            "epub_date": 1546302201554,
+            "volume_old": 1,
+            "chapter_old": 16,
+            "volume": 1,
+            "chapter": 20,
+            "init_date": 1545347808133,
+            "segment_date": 1545780109238,
+            "segment_old": 0,
+            "segment": 3,
+            "epub_basename": "身為暗殺者的我明顯比勇者還強.epub",
+            "update_date": 1546302201554,
+            "update_count": 4
+          }
+        ],
+        [
+          "syosetu_out",
+          "想自由生活的魔王默示錄",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "想自由生活的魔王默示錄.out.txt",
+            "epub_date": 1546302203201,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 5,
+            "chapter": 52,
+            "epub_basename": "想自由生活的魔王默示錄.epub",
+            "update_date": 1546302203201,
+            "update_count": 1
+          }
+        ],
+        [
+          "user_out",
+          "四度目は嫌な死属性魔術師",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "四度目は嫌な死属性魔術師.out.txt",
+            "epub_date": 1546302341477,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 17,
+            "chapter": 278,
+            "epub_basename": "四度目は嫌な死属性魔術師.epub",
+            "update_date": 1546302341477,
+            "update_count": 1
+          }
+        ],
+        [
+          "user_out",
+          "誰にでもできる影から助ける魔王討伐",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "誰都能做到的暗中協助魔王討伐.out.txt",
+            "epub_date": 1546302343180,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 10,
+            "chapter": 34,
+            "epub_basename": "誰都能做到的暗中協助魔王討伐.epub",
+            "update_date": 1546302343180,
+            "update_count": 1
+          }
+        ],
+        [
+          "user_out",
+          "豚公爵に転生したから、今度は君に好きと言いたい",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "豚公爵に転生したから、今度は君に好きと言.out.txt",
+            "epub_date": 1546302346119,
+            "volume_old": 7,
+            "chapter_old": 166,
+            "volume": 7,
+            "chapter": 167,
+            "epub_basename": "豚公爵に転生したから、今度は君に好きと言いたい.epub",
+            "update_date": 1546302346119,
+            "update_count": 2
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1069,18 +1118,18 @@
         "init_date": 1545261305497
       },
       "身為暗殺者的我明顯比勇者還強": {
-        "epub_date": 1545876902555,
+        "epub_date": 1546302201554,
         "volume_old": 1,
         "chapter_old": 16,
         "volume": 1,
-        "chapter": 16,
+        "chapter": 20,
         "init_date": 1545347808133,
         "segment_date": 1545780109238,
         "segment_old": 0,
         "segment": 3,
         "epub_basename": "身為暗殺者的我明顯比勇者還強.epub",
-        "update_date": 1545876902555,
-        "update_count": 3
+        "update_date": 1546302201554,
+        "update_count": 4
       },
       "俺　VS　人類　～アンデッドを使役して王国を襲う俺～": {
         "segment_date": 1545693553722,
@@ -1162,6 +1211,9 @@
       },
       "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。_(n5691dd)": {
         "init_date": 1545926400000
+      },
+      "想自由生活的魔王默示錄": {
+        "init_date": 1546272000000
       }
     },
     "user": {
@@ -1198,12 +1250,12 @@
         "init_date": 1545494400000
       },
       "豚公爵に転生したから、今度は君に好きと言いたい": {
-        "segment_date": 1545693703692,
-        "segment_old": 26,
+        "segment_date": 1546302164614,
+        "segment_old": 2,
         "segment": 2,
         "init_date": 1545607228123,
-        "update_date": 1545693703692,
-        "update_count": 2
+        "update_date": 1546302164614,
+        "update_count": 3
       },
       "自称贤者弟子的贤者": {
         "segment_date": 1546040276246,
@@ -1222,12 +1274,12 @@
         "update_count": 4
       },
       "ウォルテニア戦記": {
-        "segment_date": 1546216660642,
+        "segment_date": 1546301706349,
         "segment_old": 1,
-        "segment": 1,
+        "segment": 6,
         "init_date": 1546044567479,
-        "update_date": 1546216660642,
-        "update_count": 3
+        "update_date": 1546301706349,
+        "update_count": 4
       },
       "你這種傢伙別想打贏魔王": {
         "segment_date": 1546126246577,
@@ -1241,7 +1293,28 @@
         "init_date": 1546099200000
       },
       "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～": {
-        "init_date": 1546185600000
+        "init_date": 1546185600000,
+        "segment_date": 1546301719001,
+        "segment_old": 0,
+        "segment": 4,
+        "update_date": 1546301719001,
+        "update_count": 1
+      },
+      "四度目は嫌な死属性魔術師": {
+        "segment_date": 1546302039608,
+        "segment_old": 0,
+        "segment": 183,
+        "init_date": 1546302039608,
+        "update_date": 1546302039608,
+        "update_count": 1
+      },
+      "誰にでもできる影から助ける魔王討伐": {
+        "segment_date": 1546302072698,
+        "segment_old": 0,
+        "segment": 27,
+        "init_date": 1546302072698,
+        "update_date": 1546302072698,
+        "update_count": 1
       }
     },
     "user_out": {
@@ -1322,7 +1395,16 @@
         "update_count": 1
       },
       "四度目は嫌な死属性魔術師": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "txt_basename": "四度目は嫌な死属性魔術師.out.txt",
+        "epub_date": 1546302341477,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 17,
+        "chapter": 278,
+        "epub_basename": "四度目は嫌な死属性魔術師.epub",
+        "update_date": 1546302341477,
+        "update_count": 1
       },
       "その者。のちに・・・": {
         "init_date": 1545494400000
@@ -1360,14 +1442,14 @@
       "豚公爵に転生したから、今度は君に好きと言いたい": {
         "init_date": 1545494400000,
         "txt_basename": "豚公爵に転生したから、今度は君に好きと言.out.txt",
-        "epub_date": 1545607428320,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1546302346119,
+        "volume_old": 7,
+        "chapter_old": 166,
         "volume": 7,
-        "chapter": 166,
+        "chapter": 167,
         "epub_basename": "豚公爵に転生したから、今度は君に好きと言いたい.epub",
-        "update_date": 1545607428320,
-        "update_count": 1
+        "update_date": 1546302346119,
+        "update_count": 2
       },
       "悠久の愚者アズリーの、賢者のすゝめ": {
         "init_date": 1545494400000
@@ -1427,7 +1509,16 @@
         "init_date": 1545494400000
       },
       "誰にでもできる影から助ける魔王討伐": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "txt_basename": "誰都能做到的暗中協助魔王討伐.out.txt",
+        "epub_date": 1546302343180,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 10,
+        "chapter": 34,
+        "epub_basename": "誰都能做到的暗中協助魔王討伐.epub",
+        "update_date": 1546302343180,
+        "update_count": 1
       },
       "俺の死亡フラグが留まるところを知らない": {
         "init_date": 1545494400000
@@ -1648,7 +1739,16 @@
         "init_date": 1545494400000
       },
       "想自由生活的魔王默示錄": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "txt_basename": "想自由生活的魔王默示錄.out.txt",
+        "epub_date": 1546302203201,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 5,
+        "chapter": 52,
+        "epub_basename": "想自由生活的魔王默示錄.epub",
+        "update_date": 1546302203201,
+        "update_count": 1
       },
       "俺だけ入れる隠しダンジョン　〜こっそり鍛えて世界最強〜": {
         "init_date": 1545494400000
@@ -1877,12 +1977,12 @@
     },
     "dmzj": {
       "蜘蛛ですが、なにか？": {
-        "segment_date": 1546216656876,
-        "segment_old": 19,
-        "segment": 40,
+        "segment_date": 1546301636762,
+        "segment_old": 40,
+        "segment": 26,
         "init_date": 1545779972577,
-        "update_date": 1546216656876,
-        "update_count": 9
+        "update_date": 1546301636762,
+        "update_count": 10
       }
     },
     "zh": {
@@ -4645,6 +4745,9 @@
           ]
         },
         "contribute": [
+          "-妖妖幻想",
+          "gasai谢丽尔",
+          "二階堂真紅",
           "土之女神",
           "梨衣熊大好",
           "猫也学外语",
@@ -5335,6 +5438,8 @@
       "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～": {
         "novel": {
           "title": "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～",
+          "title_zh1": "食人转移者的异世界复仇谭",
+          "title_zh2": "喰人转移者的异世界复仇谭",
           "author": "kiki",
           "source": "http://ncode.syosetu.com/n7933eb/",
           "cover": "https://imgsa.baidu.com/forum/w%3D580/sign=d15db7c2dca20cf44690fed746084b0c/c29f1a83b9014a907edc76f8a5773912b21bee1b.jpg",
@@ -5703,7 +5808,8 @@
           "[spt草包](https": "//home.gamer.com.tw/creationCategory.php?owner=okinadog&c=417638)",
           "[讨厌第四次的死属性魔术师吧](https": "//tieba.baidu.com/f?kw=%E8%AE%A8%E5%8E%8C%E7%AC%AC%E5%9B%9B%E6%AC%A1%E7%9A%84%E6%AD%BB%E5%B1%9E%E6%80%A7%E9%AD%94%E6%9C%AF%E5%B8%88&ie=utf-8 \"讨厌第四次的死属性魔术师\")",
           "[漫畫 中文](https": "//tw.manhuagui.com/comic/28989/)",
-          "[漫畫 raw](https": "//lhscan.net/manga-yondome-wa-iyana-shi-zokusei-majutsushi-raw.html)"
+          "[漫畫 raw](https": "//lhscan.net/manga-yondome-wa-iyana-shi-zokusei-majutsushi-raw.html)",
+          "[lightnovel.cn](https": "//www.lightnovel.cn/forum.php?mod=viewthread&tid=876034&extra=&ordertype=1&page=1)"
         }
       },
       "その者。のちに・・・": {
@@ -7082,7 +7188,8 @@
         "contribute": [
           "弒澪",
           "海市蜃楼谁不识",
-          "絨質墮菌"
+          "絨質墮菌",
+          "飒君CONAN"
         ],
         "options": {
           "textlayout": {
@@ -8686,7 +8793,12 @@
           ]
         },
         "contribute": [
-          "Koryf"
+          "Koryf",
+          "懶惰的鹹魚",
+          "深海潜水母舰",
+          "灵零翎凌铃",
+          "蝶舞凝汐",
+          "路西法"
         ],
         "options": {
           "downloadoptions": {
