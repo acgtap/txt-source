@@ -2,6 +2,8 @@
 
 - title: 暇人、魔王の姿で異世界へ　～時々チートなぶらり旅～
 - title_other: 廢柴以魔王之姿闖蕩異世界有時作弊一下的悠哉旅程
+- title_zh1: 闲人魔王的异世界之旅
+- title_zh2: 閑人以魔王之姿在異世界闖蕩 \~時而開掛的休閒之旅\~
 - author: 藍敦
 - source: http://ncode.syosetu.com/n2435cr/
 - cover: https://images-na.ssl-images-amazon.com/images/I/81lL3xQjiPL.jpg
