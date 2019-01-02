@@ -5,7 +5,7 @@
 - title_zh2: 喰人转移者的异世界复仇谭
 - author: kiki
 - source: http://ncode.syosetu.com/n7933eb/
-- cover: https://imgsa.baidu.com/forum/w%3D580/sign=d15db7c2dca20cf44690fed746084b0c/c29f1a83b9014a907edc76f8a5773912b21bee1b.jpg
+- cover:
 - publisher: syosetu
 - date: 2017-11-28T21:51:00+08:00
 - status: 完結済
