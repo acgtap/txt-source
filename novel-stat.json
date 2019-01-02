@@ -1,181 +1,5 @@
 {
   "history": {
-    "1545753600000": {
-      "segment_count": 6,
-      "segment": [
-        [
-          "dmzj",
-          "蜘蛛ですが、なにか？",
-          {
-            "segment_date": 1545779972577,
-            "segment_old": 0,
-            "segment": 625,
-            "init_date": 1545779972577,
-            "update_date": 1545779972577,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "望まぬ不死の冒険者",
-          {
-            "segment_date": 1545780065569,
-            "segment_old": 1,
-            "segment": 4,
-            "init_date": 1545607102002,
-            "update_date": 1545780065569,
-            "update_count": 3
-          }
-        ],
-        [
-          "syosetu",
-          "異常狀態是絕望",
-          {
-            "segment_date": 1545780104620,
-            "segment_old": 7,
-            "segment": 1,
-            "init_date": 1545607138342,
-            "update_date": 1545780104620,
-            "update_count": 3
-          }
-        ],
-        [
-          "syosetu",
-          "身為暗殺者的我明顯比勇者還強",
-          {
-            "epub_date": 1545780402561,
-            "volume_old": 1,
-            "chapter_old": 16,
-            "volume": 1,
-            "chapter": 16,
-            "init_date": 1545347808133,
-            "segment_date": 1545780109238,
-            "segment_old": 0,
-            "segment": 3,
-            "epub_basename": "身為暗殺者的我明顯比勇者還強.epub",
-            "update_date": 1545780402561,
-            "update_count": 1
-          }
-        ],
-        [
-          "user",
-          "黑之魔王",
-          {
-            "segment_date": 1545780326125,
-            "segment_old": 8,
-            "segment": 6,
-            "init_date": 1545261427757,
-            "update_date": 1545780326125,
-            "update_count": 3
-          }
-        ],
-        [
-          "zh",
-          "如何在異世界殺死一個死宅",
-          {
-            "segment_date": 1545780337964,
-            "segment_old": 0,
-            "segment": 28,
-            "init_date": 1545780337964,
-            "epub_date": 1545780422393,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 3,
-            "chapter": 28,
-            "epub_basename": "如何在異世界殺死一個死宅.epub",
-            "update_date": 1545780422393,
-            "update_count": 1
-          }
-        ]
-      ],
-      "epub_count": 5,
-      "epub": [
-        [
-          "dmzj_out",
-          "蜘蛛ですが、なにか？",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "轉生成蜘蛛又怎樣！.out.txt",
-            "epub_date": 1545780401645,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 14,
-            "chapter": 728,
-            "epub_basename": "轉生成蜘蛛又怎樣！.epub",
-            "update_date": 1545780401645,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "身為暗殺者的我明顯比勇者還強",
-          {
-            "epub_date": 1545780402561,
-            "volume_old": 1,
-            "chapter_old": 16,
-            "volume": 1,
-            "chapter": 16,
-            "init_date": 1545347808133,
-            "segment_date": 1545780109238,
-            "segment_old": 0,
-            "segment": 3,
-            "epub_basename": "身為暗殺者的我明顯比勇者還強.epub",
-            "update_date": 1545780402561,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu_out",
-          "望まぬ不死の冒険者",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "事與願違的不死冒險者.out.txt",
-            "epub_date": 1545780406423,
-            "volume_old": 10,
-            "chapter_old": 168,
-            "volume": 10,
-            "chapter": 172,
-            "epub_basename": "事與願違的不死冒險者.epub",
-            "update_date": 1545780406423,
-            "update_count": 2
-          }
-        ],
-        [
-          "user_out",
-          "黑之魔王",
-          {
-            "epub_date": 1545780418625,
-            "volume_old": 29,
-            "chapter_old": 545,
-            "volume": 29,
-            "chapter": 547,
-            "init_date": 1545261469203,
-            "epub_basename": "黑之魔王.epub",
-            "txt_basename": "黑之魔王.out.txt",
-            "update_date": 1545780418625,
-            "update_count": 3
-          }
-        ],
-        [
-          "zh",
-          "如何在異世界殺死一個死宅",
-          {
-            "segment_date": 1545780337964,
-            "segment_old": 0,
-            "segment": 28,
-            "init_date": 1545780337964,
-            "epub_date": 1545780422393,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 3,
-            "chapter": 28,
-            "epub_basename": "如何在異世界殺死一個死宅.epub",
-            "update_date": 1545780422393,
-            "update_count": 1
-          }
-        ]
-      ]
-    },
     "1545840000000": {
       "segment_count": 7,
       "segment": [
@@ -1103,6 +927,246 @@
           }
         ]
       ]
+    },
+    "1546358400000": {
+      "segment_count": 10,
+      "segment": [
+        [
+          "cm",
+          "リビティウム皇国のブタクサ姫",
+          {
+            "segment_date": 1546388199405,
+            "segment_old": 2,
+            "segment": 2,
+            "init_date": 1545521021481,
+            "update_date": 1546388199405,
+            "update_count": 3
+          }
+        ],
+        [
+          "dmzj",
+          "蜘蛛ですが、なにか？",
+          {
+            "segment_date": 1546388289029,
+            "segment_old": 26,
+            "segment": 12,
+            "init_date": 1545779972577,
+            "update_date": 1546388289029,
+            "update_count": 11
+          }
+        ],
+        [
+          "syosetu",
+          "暇人、魔王の姿で異世界へ",
+          {
+            "segment_date": 1546388330951,
+            "segment_old": 0,
+            "segment": 20,
+            "init_date": 1546388330951,
+            "update_date": 1546388330951,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "望まぬ不死の冒険者",
+          {
+            "segment_date": 1546388358471,
+            "segment_old": 4,
+            "segment": 2,
+            "init_date": 1545607102002,
+            "update_date": 1546388358471,
+            "update_count": 5
+          }
+        ],
+        [
+          "syosetu",
+          "陰の実力者になりたくて！_(n0611em)",
+          {
+            "segment_date": 1546388388175,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1545521322627,
+            "update_date": 1546388388175,
+            "update_count": 3
+          }
+        ],
+        [
+          "user",
+          "ウォルテニア戦記",
+          {
+            "segment_date": 1546388437441,
+            "segment_old": 6,
+            "segment": 1,
+            "init_date": 1546044567479,
+            "update_date": 1546388437441,
+            "update_count": 5
+          }
+        ],
+        [
+          "user",
+          "四度目は嫌な死属性魔術師",
+          {
+            "segment_date": 1546388765188,
+            "segment_old": 183,
+            "segment": 5,
+            "init_date": 1546302039608,
+            "update_date": 1546388765188,
+            "update_count": 2
+          }
+        ],
+        [
+          "user",
+          "没落予定なので、鍛治職人を目指す",
+          {
+            "segment_date": 1546388791522,
+            "segment_old": 0,
+            "segment": 1,
+            "init_date": 1546388791522,
+            "update_date": 1546388791522,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "豚公爵に転生したから、今度は君に好きと言いたい",
+          {
+            "segment_date": 1546388917107,
+            "segment_old": 2,
+            "segment": 1,
+            "init_date": 1545607228123,
+            "update_date": 1546388917107,
+            "update_count": 4
+          }
+        ],
+        [
+          "user",
+          "魔王様、リトライ！",
+          {
+            "segment_date": 1546388945830,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1545521369284,
+            "update_date": 1546388945830,
+            "update_count": 1
+          }
+        ]
+      ],
+      "epub_count": 7,
+      "epub": [
+        [
+          "cm_out",
+          "リビティウム皇国のブタクサ姫",
+          {
+            "epub_date": 1546389019101,
+            "volume_old": 7,
+            "chapter_old": 205,
+            "volume": 7,
+            "chapter": 206,
+            "epub_basename": "利貝提姆皇國的豚草姫.epub",
+            "init_date": 1545548908164,
+            "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
+            "update_date": 1546389019101,
+            "update_count": 6
+          }
+        ],
+        [
+          "syosetu_out",
+          "暇人、魔王の姿で異世界へ",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "暇人、魔王の姿で異世界へ.out.txt",
+            "epub_date": 1546389024329,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 10,
+            "chapter": 224,
+            "epub_basename": "暇人、魔王の姿で異世界へ.epub",
+            "update_date": 1546389024329,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu_out",
+          "望まぬ不死の冒険者",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "事與願違的不死冒險者.out.txt",
+            "epub_date": 1546389027716,
+            "volume_old": 10,
+            "chapter_old": 172,
+            "volume": 10,
+            "chapter": 177,
+            "epub_basename": "事與願違的不死冒險者.epub",
+            "update_date": 1546389027716,
+            "update_count": 5
+          }
+        ],
+        [
+          "syosetu_out",
+          "死憶の異世界傾国姫　～究極の悲劇のヒロインめざしてTS転生～",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "死憶の異世界傾国姫.out.txt",
+            "epub_date": 1546389029994,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 3,
+            "chapter": 45,
+            "epub_basename": "死憶の異世界傾国姫.epub",
+            "update_date": 1546389029994,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu_out",
+          "陰の実力者になりたくて！_(n0611em)",
+          {
+            "epub_date": 1546389033825,
+            "volume_old": 8,
+            "chapter_old": 164,
+            "volume": 8,
+            "chapter": 166,
+            "epub_basename": "想要成為影之實力者.epub",
+            "init_date": 1545548940691,
+            "txt_basename": "想要成為影之實力者.out.txt",
+            "update_date": 1546389033825,
+            "update_count": 2
+          }
+        ],
+        [
+          "user_out",
+          "没落予定なので、鍛治職人を目指す",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "没落予定なので、鍛治職人を目指す.out.txt",
+            "epub_date": 1546389166400,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 8,
+            "chapter": 144,
+            "epub_basename": "没落予定なので、鍛治職人を目指す.epub",
+            "update_date": 1546389166400,
+            "update_count": 1
+          }
+        ],
+        [
+          "user_out",
+          "魔王様、リトライ！",
+          {
+            "epub_date": 1546389169615,
+            "volume_old": 9,
+            "chapter_old": 110,
+            "volume": 9,
+            "chapter": 112,
+            "epub_basename": "魔王様、リトライ！.epub",
+            "init_date": 1545548944955,
+            "txt_basename": "魔王様、リトライ！.out.txt",
+            "update_date": 1546389169615,
+            "update_count": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1154,12 +1218,12 @@
         "init_date": 1545521307326
       },
       "陰の実力者になりたくて！_(n0611em)": {
-        "segment_date": 1545693633529,
+        "segment_date": 1546388388175,
         "segment_old": 1,
         "segment": 1,
         "init_date": 1545521322627,
-        "update_date": 1545693633529,
-        "update_count": 2
+        "update_date": 1546388388175,
+        "update_count": 3
       },
       "最強職《竜騎士》から初級職《運び屋》": {
         "init_date": 1545494400000
@@ -1186,12 +1250,12 @@
         "init_date": 1545494400000
       },
       "望まぬ不死の冒険者": {
-        "segment_date": 1545867719408,
+        "segment_date": 1546388358471,
         "segment_old": 4,
-        "segment": 4,
+        "segment": 2,
         "init_date": 1545607102002,
-        "update_date": 1545867719408,
-        "update_count": 4
+        "update_date": 1546388358471,
+        "update_count": 5
       },
       "異常狀態是絕望": {
         "segment_date": 1545867724522,
@@ -1214,6 +1278,17 @@
       },
       "想自由生活的魔王默示錄": {
         "init_date": 1546272000000
+      },
+      "暇人、魔王の姿で異世界へ": {
+        "segment_date": 1546388330951,
+        "segment_old": 0,
+        "segment": 20,
+        "init_date": 1546388330951,
+        "update_date": 1546388330951,
+        "update_count": 1
+      },
+      "死憶の異世界傾国姫　～究極の悲劇のヒロインめざしてTS転生～": {
+        "init_date": 1546358400000
       }
     },
     "user": {
@@ -1232,10 +1307,12 @@
         "init_date": 1545521341885
       },
       "魔王様、リトライ！": {
-        "segment_date": 1545552564307,
-        "segment_old": 38,
+        "segment_date": 1546388945830,
+        "segment_old": 1,
         "segment": 1,
-        "init_date": 1545521369284
+        "init_date": 1545521369284,
+        "update_date": 1546388945830,
+        "update_count": 1
       },
       "虫虫酱むいむいたん": {
         "init_date": 1545494400000
@@ -1250,12 +1327,12 @@
         "init_date": 1545494400000
       },
       "豚公爵に転生したから、今度は君に好きと言いたい": {
-        "segment_date": 1546302164614,
+        "segment_date": 1546388917107,
         "segment_old": 2,
-        "segment": 2,
+        "segment": 1,
         "init_date": 1545607228123,
-        "update_date": 1546302164614,
-        "update_count": 3
+        "update_date": 1546388917107,
+        "update_count": 4
       },
       "自称贤者弟子的贤者": {
         "segment_date": 1546040276246,
@@ -1274,12 +1351,12 @@
         "update_count": 4
       },
       "ウォルテニア戦記": {
-        "segment_date": 1546301706349,
-        "segment_old": 1,
-        "segment": 6,
+        "segment_date": 1546388437441,
+        "segment_old": 6,
+        "segment": 1,
         "init_date": 1546044567479,
-        "update_date": 1546301706349,
-        "update_count": 4
+        "update_date": 1546388437441,
+        "update_count": 5
       },
       "你這種傢伙別想打贏魔王": {
         "segment_date": 1546126246577,
@@ -1301,12 +1378,12 @@
         "update_count": 1
       },
       "四度目は嫌な死属性魔術師": {
-        "segment_date": 1546302039608,
-        "segment_old": 0,
-        "segment": 183,
+        "segment_date": 1546388765188,
+        "segment_old": 183,
+        "segment": 5,
         "init_date": 1546302039608,
-        "update_date": 1546302039608,
-        "update_count": 1
+        "update_date": 1546388765188,
+        "update_count": 2
       },
       "誰にでもできる影から助ける魔王討伐": {
         "segment_date": 1546302072698,
@@ -1314,6 +1391,14 @@
         "segment": 27,
         "init_date": 1546302072698,
         "update_date": 1546302072698,
+        "update_count": 1
+      },
+      "没落予定なので、鍛治職人を目指す": {
+        "segment_date": 1546388791522,
+        "segment_old": 0,
+        "segment": 1,
+        "init_date": 1546388791522,
+        "update_date": 1546388791522,
         "update_count": 1
       }
     },
@@ -1341,16 +1426,28 @@
         "init_date": 1545548942271
       },
       "魔王様、リトライ！": {
-        "epub_date": 1545548944955,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1546389169615,
+        "volume_old": 9,
+        "chapter_old": 110,
         "volume": 9,
-        "chapter": 110,
-        "epub_basename": "魔王様、リトライ！",
-        "init_date": 1545548944955
+        "chapter": 112,
+        "epub_basename": "魔王様、リトライ！.epub",
+        "init_date": 1545548944955,
+        "txt_basename": "魔王様、リトライ！.out.txt",
+        "update_date": 1546389169615,
+        "update_count": 1
       },
       "没落予定なので、鍛治職人を目指す": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "txt_basename": "没落予定なので、鍛治職人を目指す.out.txt",
+        "epub_date": 1546389166400,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 8,
+        "chapter": 144,
+        "epub_basename": "没落予定なので、鍛治職人を目指す.epub",
+        "update_date": 1546389166400,
+        "update_count": 1
       },
       "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～": {
         "init_date": 1545494400000
@@ -1607,16 +1704,16 @@
         "init_date": 1545548938005
       },
       "陰の実力者になりたくて！_(n0611em)": {
-        "epub_date": 1545607425510,
+        "epub_date": 1546389033825,
         "volume_old": 8,
-        "chapter_old": 163,
+        "chapter_old": 164,
         "volume": 8,
-        "chapter": 164,
+        "chapter": 166,
         "epub_basename": "想要成為影之實力者.epub",
         "init_date": 1545548940691,
         "txt_basename": "想要成為影之實力者.out.txt",
-        "update_date": 1545607425510,
-        "update_count": 1
+        "update_date": 1546389033825,
+        "update_count": 2
       },
       "勇者的活躍從現在才開始！": {
         "init_date": 1545494400000
@@ -1631,7 +1728,16 @@
         "init_date": 1545494400000
       },
       "死憶の異世界傾国姫　～究極の悲劇のヒロインめざしてTS転生～": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "txt_basename": "死憶の異世界傾国姫.out.txt",
+        "epub_date": 1546389029994,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 3,
+        "chapter": 45,
+        "epub_basename": "死憶の異世界傾国姫.epub",
+        "update_date": 1546389029994,
+        "update_count": 1
       },
       "チートで賢者な俺は異世界に革命を起こす": {
         "init_date": 1545494400000
@@ -1669,14 +1775,14 @@
       "望まぬ不死の冒険者": {
         "init_date": 1545494400000,
         "txt_basename": "事與願違的不死冒險者.out.txt",
-        "epub_date": 1545876905538,
+        "epub_date": 1546389027716,
         "volume_old": 10,
         "chapter_old": 172,
         "volume": 10,
-        "chapter": 172,
+        "chapter": 177,
         "epub_basename": "事與願違的不死冒險者.epub",
-        "update_date": 1545876905538,
-        "update_count": 4
+        "update_date": 1546389027716,
+        "update_count": 5
       },
       "無職の英雄　(n6683ej)": {
         "init_date": 1545494400000
@@ -1763,7 +1869,16 @@
         "init_date": 1545494400000
       },
       "暇人、魔王の姿で異世界へ": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "txt_basename": "暇人、魔王の姿で異世界へ.out.txt",
+        "epub_date": 1546389024329,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 10,
+        "chapter": 224,
+        "epub_basename": "暇人、魔王の姿で異世界へ.epub",
+        "update_date": 1546389024329,
+        "update_count": 1
       },
       "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。_(n5691dd)": {
         "init_date": 1545494400000
@@ -1774,12 +1889,12 @@
     },
     "cm": {
       "リビティウム皇国のブタクサ姫": {
-        "segment_date": 1546039946181,
+        "segment_date": 1546388199405,
         "segment_old": 2,
         "segment": 2,
         "init_date": 1545521021481,
-        "update_date": 1546039946181,
-        "update_count": 2
+        "update_date": 1546388199405,
+        "update_count": 3
       },
       "姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜": {
         "init_date": 1545494400000
@@ -1842,16 +1957,16 @@
     },
     "cm_out": {
       "リビティウム皇国のブタクサ姫": {
-        "epub_date": 1546130708282,
+        "epub_date": 1546389019101,
         "volume_old": 7,
         "chapter_old": 205,
         "volume": 7,
-        "chapter": 205,
+        "chapter": 206,
         "epub_basename": "利貝提姆皇國的豚草姫.epub",
         "init_date": 1545548908164,
         "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-        "update_date": 1546130708282,
-        "update_count": 5
+        "update_date": 1546389019101,
+        "update_count": 6
       }
     },
     "dmzj_out": {
@@ -1977,12 +2092,12 @@
     },
     "dmzj": {
       "蜘蛛ですが、なにか？": {
-        "segment_date": 1546301636762,
-        "segment_old": 40,
-        "segment": 26,
+        "segment_date": 1546388289029,
+        "segment_old": 26,
+        "segment": 12,
         "init_date": 1545779972577,
-        "update_date": 1546301636762,
-        "update_count": 10
+        "update_date": 1546388289029,
+        "update_count": 11
       }
     },
     "zh": {
@@ -3616,6 +3731,7 @@
           "celestia173",
           "cyfung1031",
           "f2008zhq",
+          "joseph261059",
           "nice天夜月",
           "wahaha9990920",
           "伪髅",
@@ -5001,6 +5117,8 @@
       "暇人、魔王の姿で異世界へ": {
         "novel": {
           "title": "暇人、魔王の姿で異世界へ　～時々チートなぶらり旅～",
+          "title_zh1": "闲人魔王的异世界之旅",
+          "title_zh2": "閑人以魔王之姿在異世界闖蕩 \\~時而開掛的休閒之旅\\~",
           "title_other": "廢柴以魔王之姿闖蕩異世界有時作弊一下的悠哉旅程",
           "author": "藍敦",
           "source": "http://ncode.syosetu.com/n2435cr/",
@@ -5208,6 +5326,7 @@
       "魔王様、リトライ！": {
         "novel": {
           "title": "魔王様、リトライ！",
+          "title_zh1": "重来吧魔王大人",
           "author": "神埼　黒音",
           "source": "http://ncode.syosetu.com/n6789do/",
           "cover": "http://1.bp.blogspot.com/-8T7bmTGvhi8/Wfig3_jSYrI/AAAAAAADUxE/fPMNhAwtTUYxuPHv-LVSG-edussPsxMQACHMYCw/s0/Maou-sama,_Retry!.jpg",
@@ -5376,6 +5495,7 @@
       "没落予定なので、鍛治職人を目指す": {
         "novel": {
           "title": "没落予定なので、鍛治職人を目指す",
+          "title_zh1": "没落预定，以锻治工匠为目标",
           "author": "CK",
           "source": "http://ncode.syosetu.com/n7940cn/",
           "cover": "https://shop.r10s.jp/book/cabinet/0142/9784040720142.jpg",
