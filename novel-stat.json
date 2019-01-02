@@ -929,7 +929,7 @@
       ]
     },
     "1546358400000": {
-      "segment_count": 10,
+      "segment_count": 11,
       "segment": [
         [
           "cm",
@@ -939,8 +939,26 @@
             "segment_old": 2,
             "segment": 2,
             "init_date": 1545521021481,
-            "update_date": 1546388199405,
-            "update_count": 3
+            "update_date": 1546358400000,
+            "update_count": 4
+          }
+        ],
+        [
+          "cm",
+          "姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜",
+          {
+            "init_date": 1545494400000,
+            "segment_date": 1546393553093,
+            "segment_old": 0,
+            "segment": 13,
+            "epub_date": 1546393635207,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 3,
+            "chapter": 72,
+            "epub_basename": "我的同學是姬騎士.epub",
+            "update_date": 1546358400000,
+            "update_count": 1
           }
         ],
         [
@@ -951,8 +969,8 @@
             "segment_old": 26,
             "segment": 12,
             "init_date": 1545779972577,
-            "update_date": 1546388289029,
-            "update_count": 11
+            "update_date": 1546358400000,
+            "update_count": 12
           }
         ],
         [
@@ -963,8 +981,8 @@
             "segment_old": 0,
             "segment": 20,
             "init_date": 1546388330951,
-            "update_date": 1546388330951,
-            "update_count": 1
+            "update_date": 1546358400000,
+            "update_count": 2
           }
         ],
         [
@@ -975,8 +993,8 @@
             "segment_old": 4,
             "segment": 2,
             "init_date": 1545607102002,
-            "update_date": 1546388358471,
-            "update_count": 5
+            "update_date": 1546358400000,
+            "update_count": 6
           }
         ],
         [
@@ -987,8 +1005,8 @@
             "segment_old": 1,
             "segment": 1,
             "init_date": 1545521322627,
-            "update_date": 1546388388175,
-            "update_count": 3
+            "update_date": 1546358400000,
+            "update_count": 4
           }
         ],
         [
@@ -999,8 +1017,8 @@
             "segment_old": 6,
             "segment": 1,
             "init_date": 1546044567479,
-            "update_date": 1546388437441,
-            "update_count": 5
+            "update_date": 1546358400000,
+            "update_count": 6
           }
         ],
         [
@@ -1011,8 +1029,8 @@
             "segment_old": 183,
             "segment": 5,
             "init_date": 1546302039608,
-            "update_date": 1546388765188,
-            "update_count": 2
+            "update_date": 1546358400000,
+            "update_count": 3
           }
         ],
         [
@@ -1023,8 +1041,8 @@
             "segment_old": 0,
             "segment": 1,
             "init_date": 1546388791522,
-            "update_date": 1546388791522,
-            "update_count": 1
+            "update_date": 1546358400000,
+            "update_count": 2
           }
         ],
         [
@@ -1035,8 +1053,8 @@
             "segment_old": 2,
             "segment": 1,
             "init_date": 1545607228123,
-            "update_date": 1546388917107,
-            "update_count": 4
+            "update_date": 1546358400000,
+            "update_count": 5
           }
         ],
         [
@@ -1047,13 +1065,31 @@
             "segment_old": 1,
             "segment": 1,
             "init_date": 1545521369284,
-            "update_date": 1546388945830,
-            "update_count": 1
+            "update_date": 1546358400000,
+            "update_count": 2
           }
         ]
       ],
-      "epub_count": 7,
+      "epub_count": 9,
       "epub": [
+        [
+          "cm",
+          "姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜",
+          {
+            "init_date": 1545494400000,
+            "segment_date": 1546393553093,
+            "segment_old": 0,
+            "segment": 13,
+            "epub_date": 1546393635207,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 3,
+            "chapter": 72,
+            "epub_basename": "我的同學是姬騎士.epub",
+            "update_date": 1546358400000,
+            "update_count": 1
+          }
+        ],
         [
           "cm_out",
           "リビティウム皇国のブタクサ姫",
@@ -1066,8 +1102,8 @@
             "epub_basename": "利貝提姆皇國的豚草姫.epub",
             "init_date": 1545548908164,
             "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-            "update_date": 1546389019101,
-            "update_count": 6
+            "update_date": 1546358400000,
+            "update_count": 7
           }
         ],
         [
@@ -1082,8 +1118,8 @@
             "volume": 10,
             "chapter": 224,
             "epub_basename": "暇人、魔王の姿で異世界へ.epub",
-            "update_date": 1546389024329,
-            "update_count": 1
+            "update_date": 1546358400000,
+            "update_count": 2
           }
         ],
         [
@@ -1098,8 +1134,8 @@
             "volume": 10,
             "chapter": 177,
             "epub_basename": "事與願違的不死冒險者.epub",
-            "update_date": 1546389027716,
-            "update_count": 5
+            "update_date": 1546358400000,
+            "update_count": 6
           }
         ],
         [
@@ -1114,8 +1150,8 @@
             "volume": 3,
             "chapter": 45,
             "epub_basename": "死憶の異世界傾国姫.epub",
-            "update_date": 1546389029994,
-            "update_count": 1
+            "update_date": 1546358400000,
+            "update_count": 2
           }
         ],
         [
@@ -1130,8 +1166,24 @@
             "epub_basename": "想要成為影之實力者.epub",
             "init_date": 1545548940691,
             "txt_basename": "想要成為影之實力者.out.txt",
-            "update_date": 1546389033825,
-            "update_count": 2
+            "update_date": 1546358400000,
+            "update_count": 3
+          }
+        ],
+        [
+          "user_out",
+          "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "人喰い転移者の異世界復讐譚　～無能はスキ.out.txt",
+            "epub_date": 1546393637093,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 3,
+            "chapter": 58,
+            "epub_basename": "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～.epub",
+            "update_date": 1546358400000,
+            "update_count": 1
           }
         ],
         [
@@ -1146,8 +1198,8 @@
             "volume": 8,
             "chapter": 144,
             "epub_basename": "没落予定なので、鍛治職人を目指す.epub",
-            "update_date": 1546389166400,
-            "update_count": 1
+            "update_date": 1546358400000,
+            "update_count": 2
           }
         ],
         [
@@ -1162,8 +1214,8 @@
             "epub_basename": "魔王様、リトライ！.epub",
             "init_date": 1545548944955,
             "txt_basename": "魔王様、リトライ！.out.txt",
-            "update_date": 1546389169615,
-            "update_count": 1
+            "update_date": 1546358400000,
+            "update_count": 2
           }
         ]
       ]
@@ -1222,8 +1274,8 @@
         "segment_old": 1,
         "segment": 1,
         "init_date": 1545521322627,
-        "update_date": 1546388388175,
-        "update_count": 3
+        "update_date": 1546358400000,
+        "update_count": 4
       },
       "最強職《竜騎士》から初級職《運び屋》": {
         "init_date": 1545494400000
@@ -1254,8 +1306,8 @@
         "segment_old": 4,
         "segment": 2,
         "init_date": 1545607102002,
-        "update_date": 1546388358471,
-        "update_count": 5
+        "update_date": 1546358400000,
+        "update_count": 6
       },
       "異常狀態是絕望": {
         "segment_date": 1545867724522,
@@ -1284,8 +1336,8 @@
         "segment_old": 0,
         "segment": 20,
         "init_date": 1546388330951,
-        "update_date": 1546388330951,
-        "update_count": 1
+        "update_date": 1546358400000,
+        "update_count": 2
       },
       "死憶の異世界傾国姫　～究極の悲劇のヒロインめざしてTS転生～": {
         "init_date": 1546358400000
@@ -1311,8 +1363,8 @@
         "segment_old": 1,
         "segment": 1,
         "init_date": 1545521369284,
-        "update_date": 1546388945830,
-        "update_count": 1
+        "update_date": 1546358400000,
+        "update_count": 2
       },
       "虫虫酱むいむいたん": {
         "init_date": 1545494400000
@@ -1331,8 +1383,8 @@
         "segment_old": 2,
         "segment": 1,
         "init_date": 1545607228123,
-        "update_date": 1546388917107,
-        "update_count": 4
+        "update_date": 1546358400000,
+        "update_count": 5
       },
       "自称贤者弟子的贤者": {
         "segment_date": 1546040276246,
@@ -1355,8 +1407,8 @@
         "segment_old": 6,
         "segment": 1,
         "init_date": 1546044567479,
-        "update_date": 1546388437441,
-        "update_count": 5
+        "update_date": 1546358400000,
+        "update_count": 6
       },
       "你這種傢伙別想打贏魔王": {
         "segment_date": 1546126246577,
@@ -1382,8 +1434,8 @@
         "segment_old": 183,
         "segment": 5,
         "init_date": 1546302039608,
-        "update_date": 1546388765188,
-        "update_count": 2
+        "update_date": 1546358400000,
+        "update_count": 3
       },
       "誰にでもできる影から助ける魔王討伐": {
         "segment_date": 1546302072698,
@@ -1398,8 +1450,8 @@
         "segment_old": 0,
         "segment": 1,
         "init_date": 1546388791522,
-        "update_date": 1546388791522,
-        "update_count": 1
+        "update_date": 1546358400000,
+        "update_count": 2
       }
     },
     "user_out": {
@@ -1434,8 +1486,8 @@
         "epub_basename": "魔王様、リトライ！.epub",
         "init_date": 1545548944955,
         "txt_basename": "魔王様、リトライ！.out.txt",
-        "update_date": 1546389169615,
-        "update_count": 1
+        "update_date": 1546358400000,
+        "update_count": 2
       },
       "没落予定なので、鍛治職人を目指す": {
         "init_date": 1545494400000,
@@ -1446,11 +1498,20 @@
         "volume": 8,
         "chapter": 144,
         "epub_basename": "没落予定なので、鍛治職人を目指す.epub",
-        "update_date": 1546389166400,
-        "update_count": 1
+        "update_date": 1546358400000,
+        "update_count": 2
       },
       "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "txt_basename": "人喰い転移者の異世界復讐譚　～無能はスキ.out.txt",
+        "epub_date": 1546393637093,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 3,
+        "chapter": 58,
+        "epub_basename": "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～.epub",
+        "update_date": 1546358400000,
+        "update_count": 1
       },
       "你這種傢伙別想打贏魔王": {
         "init_date": 1545494400000,
@@ -1712,8 +1773,8 @@
         "epub_basename": "想要成為影之實力者.epub",
         "init_date": 1545548940691,
         "txt_basename": "想要成為影之實力者.out.txt",
-        "update_date": 1546389033825,
-        "update_count": 2
+        "update_date": 1546358400000,
+        "update_count": 3
       },
       "勇者的活躍從現在才開始！": {
         "init_date": 1545494400000
@@ -1736,8 +1797,8 @@
         "volume": 3,
         "chapter": 45,
         "epub_basename": "死憶の異世界傾国姫.epub",
-        "update_date": 1546389029994,
-        "update_count": 1
+        "update_date": 1546358400000,
+        "update_count": 2
       },
       "チートで賢者な俺は異世界に革命を起こす": {
         "init_date": 1545494400000
@@ -1781,8 +1842,8 @@
         "volume": 10,
         "chapter": 177,
         "epub_basename": "事與願違的不死冒險者.epub",
-        "update_date": 1546389027716,
-        "update_count": 5
+        "update_date": 1546358400000,
+        "update_count": 6
       },
       "無職の英雄　(n6683ej)": {
         "init_date": 1545494400000
@@ -1877,8 +1938,8 @@
         "volume": 10,
         "chapter": 224,
         "epub_basename": "暇人、魔王の姿で異世界へ.epub",
-        "update_date": 1546389024329,
-        "update_count": 1
+        "update_date": 1546358400000,
+        "update_count": 2
       },
       "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。_(n5691dd)": {
         "init_date": 1545494400000
@@ -1893,11 +1954,22 @@
         "segment_old": 2,
         "segment": 2,
         "init_date": 1545521021481,
-        "update_date": 1546388199405,
-        "update_count": 3
+        "update_date": 1546358400000,
+        "update_count": 4
       },
       "姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "segment_date": 1546393553093,
+        "segment_old": 0,
+        "segment": 13,
+        "epub_date": 1546393635207,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 3,
+        "chapter": 72,
+        "epub_basename": "我的同學是姬騎士.epub",
+        "update_date": 1546358400000,
+        "update_count": 1
       },
       "異世界人の手引き書": {
         "init_date": 1545494400000
@@ -1965,8 +2037,8 @@
         "epub_basename": "利貝提姆皇國的豚草姫.epub",
         "init_date": 1545548908164,
         "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-        "update_date": 1546389019101,
-        "update_count": 6
+        "update_date": 1546358400000,
+        "update_count": 7
       }
     },
     "dmzj_out": {
@@ -2096,8 +2168,8 @@
         "segment_old": 26,
         "segment": 12,
         "init_date": 1545779972577,
-        "update_date": 1546388289029,
-        "update_count": 11
+        "update_date": 1546358400000,
+        "update_count": 12
       }
     },
     "zh": {
@@ -5562,7 +5634,7 @@
           "title_zh2": "喰人转移者的异世界复仇谭",
           "author": "kiki",
           "source": "http://ncode.syosetu.com/n7933eb/",
-          "cover": "https://imgsa.baidu.com/forum/w%3D580/sign=d15db7c2dca20cf44690fed746084b0c/c29f1a83b9014a907edc76f8a5773912b21bee1b.jpg",
+          "cover": "",
           "publisher": "syosetu",
           "date": "2017-11-28T21:51:00+08:00",
           "status": "完結済",
@@ -8029,6 +8101,7 @@
         "novel": {
           "title": "姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜",
           "title_zh": "我的同學是姬騎士",
+          "title_zh2": "姬騎士是同班同學",
           "author": "ＥＫＺ",
           "source": "http://novel18.syosetu.com/n0153ce/",
           "cover": "https://lightnovelstranslations.com/wp-content/uploads/2017/03/Volume-1-cover.jpg",
@@ -8038,7 +8111,7 @@
           "series": {
             "name": "姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜"
           },
-          "preface": "友達のいない男子高校生、小田森トオルは、修学旅行のバス事故でファンタジー異世界へと転生することに。そこで引き当てたジョブは、他人を言いなりにできるチート職業『魔隷術師』。さっそくその力で女たちを奴隷にし始めるトオル。だが同じく転生したクラスメートの美少女、姫野桐華が正義の『姫騎士』としてトオルの前に現れて——！？　「こうなったら元クラスメートも冒険者も、エルフも魔族もお姫様も、まとめて奴隷にしてやるぜ！」【※書籍版１〜３巻、キルタイムコミュニケーション様『ビギニングノベルズ』から発売中！　漫画版『コミックヴァルキリーWeb』にて連載中、コミックス１巻発売中！　書籍版最新４巻、１０／４発売予定！】",
+          "preface": "小田森トオル (Oda-mori tōru), 男高中生 (沒有朋友, 在班上如同空氣般的存在)\n修學旅行途中發生意外事故\n死後遇到神\n以原本的年齡與長相轉生到異世界\n成為一名魔隸術師\n在異世界抓村娘與女冒險者作為魔隸(性奴隸)\n一個月後, 王國因為多起失蹤事件, 而派出姬騎士進行討伐\n當姬騎士與魔隸術師見面後\n沒想到姬騎士竟然是前世的班級委員(女班長) \n\n友達のいない男子高校生、小田森トオルは、修学旅行のバス事故でファンタジー異世界へと転生することに。そこで引き当てたジョブは、他人を言いなりにできるチート職業『魔隷術師』。さっそくその力で女たちを奴隷にし始めるトオル。だが同じく転生したクラスメートの美少女、姫野桐華が正義の『姫騎士』としてトオルの前に現れて——！？　「こうなったら元クラスメートも冒険者も、エルフも魔族もお姫様も、まとめて奴隷にしてやるぜ！」【※書籍版１〜３巻、キルタイムコミュニケーション様『ビギニングノベルズ』から発売中！　漫画版『コミックヴァルキリーWeb』にて連載中、コミックス１巻発売中！　書籍版最新４巻、１０／４発売予定！】",
           "tags": [
             "node-novel",
             "novel18",
