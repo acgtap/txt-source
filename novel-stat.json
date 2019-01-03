@@ -1,121 +1,5 @@
 {
   "history": {
-    "1545926400000": {
-      "segment_count": 5,
-      "segment": [
-        [
-          "cm",
-          "リビティウム皇国のブタクサ姫",
-          {
-            "segment_date": 1545952793353,
-            "segment_old": 68,
-            "segment": 2,
-            "init_date": 1545521021481,
-            "update_date": 1545952793353,
-            "update_count": 1
-          }
-        ],
-        [
-          "dmzj",
-          "蜘蛛ですが、なにか？",
-          {
-            "segment_date": 1545952881936,
-            "segment_old": 6,
-            "segment": 2,
-            "init_date": 1545779972577,
-            "update_date": 1545952881936,
-            "update_count": 4
-          }
-        ],
-        [
-          "user",
-          "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～",
-          {
-            "segment_date": 1545952990121,
-            "segment_old": 0,
-            "segment": 106,
-            "init_date": 1545952990121,
-            "update_date": 1545952990121,
-            "update_count": 1
-          }
-        ],
-        [
-          "user",
-          "自称贤者弟子的贤者",
-          {
-            "segment_date": 1545953102470,
-            "segment_old": 231,
-            "segment": 3,
-            "init_date": 1545876626768,
-            "update_date": 1545953102470,
-            "update_count": 2
-          }
-        ],
-        [
-          "user",
-          "黑之魔王",
-          {
-            "segment_date": 1545953238817,
-            "segment_old": 4,
-            "segment": 5,
-            "init_date": 1545261427757,
-            "update_date": 1545953238817,
-            "update_count": 6
-          }
-        ]
-      ],
-      "epub_count": 3,
-      "epub": [
-        [
-          "cm_out",
-          "リビティウム皇国のブタクサ姫",
-          {
-            "epub_date": 1545953280754,
-            "volume_old": 7,
-            "chapter_old": 202,
-            "volume": 7,
-            "chapter": 205,
-            "epub_basename": "利貝提姆皇國的豚草姫.epub",
-            "init_date": 1545548908164,
-            "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-            "update_date": 1545953280754,
-            "update_count": 1
-          }
-        ],
-        [
-          "user_out",
-          "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "暗黒騎士物語　～勇者を倒すために魔王に召.out.txt",
-            "epub_date": 1545953286800,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 9,
-            "chapter": 177,
-            "epub_basename": "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～.epub",
-            "update_date": 1545953286800,
-            "update_count": 1
-          }
-        ],
-        [
-          "user_out",
-          "黑之魔王",
-          {
-            "epub_date": 1545953297553,
-            "volume_old": 29,
-            "chapter_old": 547,
-            "volume": 29,
-            "chapter": 547,
-            "init_date": 1545261469203,
-            "epub_basename": "黑之魔王.epub",
-            "txt_basename": "黑之魔王.out.txt",
-            "update_date": 1545953297553,
-            "update_count": 6
-          }
-        ]
-      ]
-    },
     "1546012800000": {
       "segment_count": 7,
       "segment": [
@@ -1044,6 +928,27 @@
           }
         ]
       ]
+    },
+    "1546531200000": {
+      "epub_count": 1,
+      "epub": [
+        [
+          "syosetu_out",
+          "想自由生活的魔王默示錄",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "想自由生活的魔王默示錄.out.txt",
+            "epub_date": 1546557929531,
+            "volume_old": 5,
+            "chapter_old": 52,
+            "volume": 6,
+            "chapter": 54,
+            "epub_basename": "想自由生活的魔王默示錄.epub",
+            "update_date": 1546531200000,
+            "update_count": 2
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1733,14 +1638,14 @@
       "想自由生活的魔王默示錄": {
         "init_date": 1545494400000,
         "txt_basename": "想自由生活的魔王默示錄.out.txt",
-        "epub_date": 1546302203201,
-        "volume_old": 0,
-        "chapter_old": 0,
-        "volume": 5,
-        "chapter": 52,
+        "epub_date": 1546557929531,
+        "volume_old": 5,
+        "chapter_old": 52,
+        "volume": 6,
+        "chapter": 54,
         "epub_basename": "想自由生活的魔王默示錄.epub",
-        "update_date": 1546302203201,
-        "update_count": 1
+        "update_date": 1546531200000,
+        "update_count": 2
       },
       "俺だけ入れる隠しダンジョン　〜こっそり鍛えて世界最強〜": {
         "init_date": 1545494400000
@@ -2082,11 +1987,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n6517bw&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[利贝提姆皇国的豚草姬吧](https": "//tieba.baidu.com/f?kw=%E5%88%A9%E8%B4%9D%E6%8F%90%E5%A7%86%E7%9A%87%E5%9B%BD%E7%9A%84%E8%B1%9A%E8%8D%89%E5%A7%AC&ie=utf-8 \"利贝提姆皇国的豚草姬\")",
-          "[リビティウム皇国のブタクサ姫の外伝と番外編となります](https": "//ncode.syosetu.com/n2808cr/)"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n6517bw&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[利贝提姆皇国的豚草姬吧](https://tieba.baidu.com/f?kw=%E5%88%A9%E8%B4%9D%E6%8F%90%E5%A7%86%E7%9A%87%E5%9B%BD%E7%9A%84%E8%B1%9A%E8%8D%89%E5%A7%AC&ie=utf-8 \"利贝提姆皇国的豚草姬\")",
+          "[リビティウム皇国のブタクサ姫の外伝と番外編となります](https://ncode.syosetu.com/n2808cr/)"
+        ]
       }
     },
     "dmzj_out": {
@@ -2145,9 +2050,9 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.nar.jp/search.php?text=n5240bc&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
-        }
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n5240bc&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
+        ]
       },
       "不是真正同伴的我被逐出了勇者隊伍，因此決定在邊境過上慢生活": {
         "novel": {
@@ -2232,9 +2137,9 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[《成為小說家吧》漢化整合#838](http": "//tieba.baidu.com/p/4295900106?pid=119472958863#119472958863)"
-        }
+        "link": [
+          "[《成為小說家吧》漢化整合#838](http://tieba.baidu.com/p/4295900106?pid=119472958863#119472958863)"
+        ]
       },
       "虛弱的高中生的異世界修行日記": {
         "novel": {
@@ -2274,9 +2179,9 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[虚弱的高中生的异世界修行日记吧](https": "//tieba.baidu.com/f?kw=%E8%99%9A%E5%BC%B1%E7%9A%84%E9%AB%98%E4%B8%AD%E7%94%9F%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E4%BF%AE%E8%A1%8C%E6%97%A5%E8%AE%B0&ie=utf-8 \"虚弱的高中生的异世界修行日记\")"
-        }
+        "link": [
+          "[虚弱的高中生的异世界修行日记吧](https://tieba.baidu.com/f?kw=%E8%99%9A%E5%BC%B1%E7%9A%84%E9%AB%98%E4%B8%AD%E7%94%9F%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E4%BF%AE%E8%A1%8C%E6%97%A5%E8%AE%B0&ie=utf-8 \"虚弱的高中生的异世界修行日记\")"
+        ]
       },
       "幻想世界的愛麗絲緹露": {
         "novel": {
@@ -2332,10 +2237,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n6049cc&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[幻世的爱丽丝吧](https": "//tieba.baidu.com/f?kw=%E5%B9%BB%E4%B8%96%E7%9A%84%E7%88%B1%E4%B8%BD%E4%B8%9D&ie=utf-8 \"幻世的爱丽丝\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n6049cc&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[幻世的爱丽丝吧](https://tieba.baidu.com/f?kw=%E5%B9%BB%E4%B8%96%E7%9A%84%E7%88%B1%E4%B8%BD%E4%B8%9D&ie=utf-8 \"幻世的爱丽丝\")"
+        ]
       },
       "哥布林殺手": {
         "novel": {
@@ -2448,13 +2353,13 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[不过是蜘蛛什么的吧](https": "//tieba.baidu.com/f?kw=%E4%B8%8D%E8%BF%87%E6%98%AF%E8%9C%98%E8%9B%9B%E4%BB%80%E4%B9%88%E7%9A%84&ie=utf-8 \"不过是蜘蛛什么的\")",
-          "[comic-walker](https": "//comic-walker.com/contents/detail/KDCW_KS11000007010000_68/)",
-          "[轉生成蜘蛛又怎樣！特設網站 ](https": "//promo.kadokawa.co.jp/kumo/)",
-          "[web-ace](https": "//web-ace.jp/youngaceup/contents/1000013/)",
-          "[web1至550 简体txt](https": "//tieba.baidu.com/p/5918492604) - [14tJI4O4b8WFBQqPgQ95g-w](https://pan.baidu.com/s/14tJI4O4b8WFBQqPgQ95g-w) - db76"
-        }
+        "link": [
+          "[不过是蜘蛛什么的吧](https://tieba.baidu.com/f?kw=%E4%B8%8D%E8%BF%87%E6%98%AF%E8%9C%98%E8%9B%9B%E4%BB%80%E4%B9%88%E7%9A%84&ie=utf-8 \"不过是蜘蛛什么的\")",
+          "[comic-walker](https://comic-walker.com/contents/detail/KDCW_KS11000007010000_68/)",
+          "[轉生成蜘蛛又怎樣！特設網站 ](https://promo.kadokawa.co.jp/kumo/)",
+          "[web-ace](https://web-ace.jp/youngaceup/contents/1000013/)",
+          "[Web1至550 简体txt](https://tieba.baidu.com/p/5918492604) - [14tJI4O4b8WFBQqPgQ95g-w](https://pan.baidu.com/s/14tJI4O4b8WFBQqPgQ95g-w) - db76"
+        ]
       }
     },
     "lost_out": {
@@ -2484,10 +2389,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[只是被勇者消灭的简单工作吧](https": "//tieba.baidu.com/f?kw=%E5%8F%AA%E6%98%AF%E8%A2%AB%E5%8B%87%E8%80%85%E6%B6%88%E7%81%AD%E7%9A%84%E7%AE%80%E5%8D%95%E5%B7%A5%E4%BD%9C&ie=utf-8 \"只是被勇者消灭的简单工作\")",
-          "[只是被勇者消灭的简单工作 文库版 第八卷](https": "//tieba.baidu.com/p/5930825384 \"【自译】只是被勇者消灭的简单工作 文库版 第八卷\")"
-        }
+        "link": [
+          "[只是被勇者消灭的简单工作吧](https://tieba.baidu.com/f?kw=%E5%8F%AA%E6%98%AF%E8%A2%AB%E5%8B%87%E8%80%85%E6%B6%88%E7%81%AD%E7%9A%84%E7%AE%80%E5%8D%95%E5%B7%A5%E4%BD%9C&ie=utf-8 \"只是被勇者消灭的简单工作\")",
+          "[只是被勇者消灭的简单工作 文库版 第八卷](https://tieba.baidu.com/p/5930825384 \"【自译】只是被勇者消灭的简单工作 文库版 第八卷\")"
+        ]
       }
     },
     "mirronight": {
@@ -2553,10 +2458,10 @@
             "allow_lf2": false
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.nar.jp/search.php?text=n7637dj&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[打造魔王大人的城镇吧](https": "//tieba.baidu.com/f?kw=%E6%89%93%E9%80%A0%E9%AD%94%E7%8E%8B%E5%A4%A7%E4%BA%BA%E7%9A%84%E5%9F%8E%E9%95%87&ie=utf-8 \"打造魔王大人的城镇\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n7637dj&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[打造魔王大人的城镇吧](https://tieba.baidu.com/f?kw=%E6%89%93%E9%80%A0%E9%AD%94%E7%8E%8B%E5%A4%A7%E4%BA%BA%E7%9A%84%E5%9F%8E%E9%95%87&ie=utf-8 \"打造魔王大人的城镇\")"
+        ]
       }
     },
     "syosetu_out": {
@@ -2620,12 +2525,12 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.nar.jp/search.php?text=n9551cp&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[俺vs人类吧](https": "//tieba.baidu.com/f?kw=%E4%BF%BAvs%E4%BA%BA%E7%B1%BB&ie=utf-8 \"\")",
-          "[lightnovel.cn](https": "//www.lightnovel.cn/thread-849235-1-1.html)",
-          "[整合帖](https": "//tieba.baidu.com/p/5030026673 \"整合帖\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n9551cp&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[俺vs人类吧](https://tieba.baidu.com/f?kw=%E4%BF%BAvs%E4%BA%BA%E7%B1%BB&ie=utf-8 \"\")",
+          "[lightnovel.cn](https://www.lightnovel.cn/thread-849235-1-1.html)",
+          "[整合帖](https://tieba.baidu.com/p/5030026673 \"整合帖\")"
+        ]
       },
       "用務員さんは勇者じゃありませんので": {
         "novel": {
@@ -2678,10 +2583,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.nar.jp/search.php?text=n4202cb&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[因为校工桑并不是勇者吧](https": "//tieba.baidu.com/f?kw=%E5%9B%A0%E4%B8%BA%E6%A0%A1%E5%B7%A5%E6%A1%91%E5%B9%B6%E4%B8%8D%E6%98%AF%E5%8B%87%E8%80%85&ie=utf-8 \"因为校工桑并不是勇者\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n4202cb&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[因为校工桑并不是勇者吧](https://tieba.baidu.com/f?kw=%E5%9B%A0%E4%B8%BA%E6%A0%A1%E5%B7%A5%E6%A1%91%E5%B9%B6%E4%B8%8D%E6%98%AF%E5%8B%87%E8%80%85&ie=utf-8 \"因为校工桑并不是勇者\")"
+        ]
       },
       "異常狀態是絕望": {
         "novel": {
@@ -2743,10 +2648,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n3959cn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[异常状态是绝望吧](https": "//tieba.baidu.com/f?kw=%E5%BC%82%E5%B8%B8%E7%8A%B6%E6%80%81%E6%98%AF%E7%BB%9D%E6%9C%9B&ie=utf-8 \"异常状态是绝望\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n3959cn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[异常状态是绝望吧](https://tieba.baidu.com/f?kw=%E5%BC%82%E5%B8%B8%E7%8A%B6%E6%80%81%E6%98%AF%E7%BB%9D%E6%9C%9B&ie=utf-8 \"异常状态是绝望\")"
+        ]
       },
       "重生的貓騎士與精靈娘的日常": {
         "novel": {
@@ -2811,11 +2716,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.nar.jp/search.php?text=n9107ee&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[重生的猫骑士与精灵娘的日常吧](https": "//tieba.baidu.com/f?kw=%E9%87%8D%E7%94%9F%E7%9A%84%E7%8C%AB%E9%AA%91%E5%A3%AB%E4%B8%8E%E7%B2%BE%E7%81%B5%E5%A8%98%E7%9A%84%E6%97%A5%E5%B8%B8&ie=utf-8 \"重生的猫骑士与精灵娘的日常\")",
-          "[dm5](http": "//www.dm5.com/manhua-chongshengdemaoqishiyujinglingniangderichang/)"
-        }
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n9107ee&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[重生的猫骑士与精灵娘的日常吧](https://tieba.baidu.com/f?kw=%E9%87%8D%E7%94%9F%E7%9A%84%E7%8C%AB%E9%AA%91%E5%A3%AB%E4%B8%8E%E7%B2%BE%E7%81%B5%E5%A8%98%E7%9A%84%E6%97%A5%E5%B8%B8&ie=utf-8 \"重生的猫骑士与精灵娘的日常\")",
+          "[dm5](http://www.dm5.com/manhua-chongshengdemaoqishiyujinglingniangderichang/)"
+        ]
       },
       "陰の実力者になりたくて！_(n0611em)": {
         "novel": {
@@ -2874,14 +2779,14 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n0611em&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[想要成为影之实力者吧](https": "//tieba.baidu.com/f?kw=%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%BD%B1%E4%B9%8B%E5%AE%9E%E5%8A%9B%E8%80%85&ie=utf-8&tp=0 \"想要成为影之实力者\")",
-          "[当过勇者的职员](https": "//pan.baidu.com/s/1ROkx_9avE2NupIPXyPX87Q) 8edq",
-          "[kadokawa](https": "//www.kadokawa.co.jp/product/321806000138/)",
-          "[epub - ah21ling](https": "//tieba.baidu.com/p/5810372348)",
-          "[【导航】影守的始末名录](https": "//tieba.baidu.com/p/5750567803 \"【导航】影守的始末名录\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n0611em&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[想要成为影之实力者吧](https://tieba.baidu.com/f?kw=%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%BD%B1%E4%B9%8B%E5%AE%9E%E5%8A%9B%E8%80%85&ie=utf-8&tp=0 \"想要成为影之实力者\")",
+          "[当过勇者的职员](https://pan.baidu.com/s/1ROkx_9avE2NupIPXyPX87Q) 8edq",
+          "[kadokawa](https://www.kadokawa.co.jp/product/321806000138/)",
+          "[EPUB - ah21ling](https://tieba.baidu.com/p/5810372348)",
+          "[【导航】影守的始末名录](https://tieba.baidu.com/p/5750567803 \"【导航】影守的始末名录\")"
+        ]
       },
       "勇者的活躍從現在才開始！": {
         "novel": {
@@ -2927,10 +2832,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n0597ea&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[勇者的活跃从现在才开始](https": "//tieba.baidu.com/f?kw=%E5%8B%87%E8%80%85%E7%9A%84%E6%B4%BB%E8%B7%83%E4%BB%8E%E7%8E%B0%E5%9C%A8%E6%89%8D%E5%BC%80%E5%A7%8B&ie=utf-8 \"勇者的活跃从现在才开始\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n0597ea&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[勇者的活跃从现在才开始](https://tieba.baidu.com/f?kw=%E5%8B%87%E8%80%85%E7%9A%84%E6%B4%BB%E8%B7%83%E4%BB%8E%E7%8E%B0%E5%9C%A8%E6%89%8D%E5%BC%80%E5%A7%8B&ie=utf-8 \"勇者的活跃从现在才开始\")"
+        ]
       },
       "World's End Online": {
         "novel": {
@@ -2977,10 +2882,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n4227bh&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[worldsendonline吧](https": "//tieba.baidu.com/f?kw=worldsendonline&ie=utf-8 \"\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n4227bh&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[worldsendonline吧](https://tieba.baidu.com/f?kw=worldsendonline&ie=utf-8 \"\")"
+        ]
       },
       "你們先走我斷後": {
         "novel": {
@@ -3022,11 +2927,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n3722ev&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[你们先走我断后吧](https": "//tieba.baidu.com/f?kw=%E4%BD%A0%E4%BB%AC%E5%85%88%E8%B5%B0%E6%88%91%E6%96%AD%E5%90%8E&ie=utf-8&tp=0 \"你们先走我断后\")",
-          "[txt by leanboxese](https": "//pan.baidu.com/s/1hPJzBHaK94XNh1wkczb6Jw) - gfhf"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n3722ev&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[你们先走我断后吧](https://tieba.baidu.com/f?kw=%E4%BD%A0%E4%BB%AC%E5%85%88%E8%B5%B0%E6%88%91%E6%96%AD%E5%90%8E&ie=utf-8&tp=0 \"你们先走我断后\")",
+          "[txt by Leanboxese](https://pan.baidu.com/s/1hPJzBHaK94XNh1wkczb6Jw) - gfhf"
+        ]
       },
       "再召喚された勇者は一般人として生きていく？": {
         "novel": {
@@ -3078,10 +2983,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n6022cs&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[再临勇者想当普通人吧](https": "//tieba.baidu.com/f?kw=%E5%86%8D%E4%B8%B4%E5%8B%87%E8%80%85%E6%83%B3%E5%BD%93%E6%99%AE%E9%80%9A%E4%BA%BA&ie=utf-8&tp=0 \"再临勇者想当普通人\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n6022cs&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[再临勇者想当普通人吧](https://tieba.baidu.com/f?kw=%E5%86%8D%E4%B8%B4%E5%8B%87%E8%80%85%E6%83%B3%E5%BD%93%E6%99%AE%E9%80%9A%E4%BA%BA&ie=utf-8&tp=0 \"再临勇者想当普通人\")"
+        ]
       },
       "死憶の異世界傾国姫　～究極の悲劇のヒロインめざしてTS転生～": {
         "novel": {
@@ -3135,10 +3040,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n6266dl&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[死忆的异世界倾国姬吧](https": "//tieba.baidu.com/f?kw=%E6%AD%BB%E5%BF%86%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E5%80%BE%E5%9B%BD%E5%A7%AC&ie=utf-8 \"死忆的异世界倾国姬\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n6266dl&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[死忆的异世界倾国姬吧](https://tieba.baidu.com/f?kw=%E6%AD%BB%E5%BF%86%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E5%80%BE%E5%9B%BD%E5%A7%AC&ie=utf-8 \"死忆的异世界倾国姬\")"
+        ]
       },
       "ロリータ・ガンバレット　～魔弾幼女の異世界戦記～": {
         "novel": {
@@ -3193,11 +3098,11 @@
             "allow_lf2": false
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.nar.jp/search.php?text=n1853cj&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[魔弹萝莉的异世界战记吧](https": "//tieba.baidu.com/f?kw=%E9%AD%94%E5%BC%B9%E8%90%9D%E8%8E%89%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E6%88%98%E8%AE%B0&ie=utf-8 \"魔弹萝莉的异世界战记\")",
-          "[masiro.moe](https": "//masiro.moe/forum.php?mod=forumdisplay&fid=77)"
-        }
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n1853cj&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[魔弹萝莉的异世界战记吧](https://tieba.baidu.com/f?kw=%E9%AD%94%E5%BC%B9%E8%90%9D%E8%8E%89%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E6%88%98%E8%AE%B0&ie=utf-8 \"魔弹萝莉的异世界战记\")",
+          "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=77)"
+        ]
       },
       "チートで賢者な俺は異世界に革命を起こす": {
         "novel": {
@@ -3249,10 +3154,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n0607dl&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[开挂贤者的我在异世界发起改革吧](https": "//tieba.baidu.com/f?kw=%E5%BC%80%E6%8C%82%E8%B4%A4%E8%80%85%E7%9A%84%E6%88%91%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E5%8F%91%E8%B5%B7%E6%94%B9%E9%9D%A9&ie=utf-8 \"开挂贤者的我在异世界发起改革\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n0607dl&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[开挂贤者的我在异世界发起改革吧](https://tieba.baidu.com/f?kw=%E5%BC%80%E6%8C%82%E8%B4%A4%E8%80%85%E7%9A%84%E6%88%91%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E5%8F%91%E8%B5%B7%E6%94%B9%E9%9D%A9&ie=utf-8 \"开挂贤者的我在异世界发起改革\")"
+        ]
       },
       "魔人勇者（自称）サトゥン": {
         "novel": {
@@ -3291,10 +3196,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n2215by&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[魔人勇者撒东吧](https": "//tieba.baidu.com/f?kw=%E9%AD%94%E4%BA%BA%E5%8B%87%E8%80%85%E6%92%92%E4%B8%9C&ie=utf-8 \"魔人勇者撒东\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n2215by&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[魔人勇者撒东吧](https://tieba.baidu.com/f?kw=%E9%AD%94%E4%BA%BA%E5%8B%87%E8%80%85%E6%92%92%E4%B8%9C&ie=utf-8 \"魔人勇者撒东\")"
+        ]
       },
       "稍微去毀滅世界": {
         "novel": {
@@ -3334,10 +3239,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n2125db&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[稍微去毁灭世界](https": "//tieba.baidu.com/f?kw=%E7%A8%8D%E5%BE%AE%E5%8E%BB%E6%AF%81%E7%81%AD%E4%B8%96%E7%95%8C&ie=utf-8 \"稍微去毁灭世界\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n2125db&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[稍微去毁灭世界](https://tieba.baidu.com/f?kw=%E7%A8%8D%E5%BE%AE%E5%8E%BB%E6%AF%81%E7%81%AD%E4%B8%96%E7%95%8C&ie=utf-8 \"稍微去毁灭世界\")"
+        ]
       },
       "紅き血に口づけを　～外れスキルからの逆転人生～": {
         "novel": {
@@ -3392,11 +3297,11 @@
             "allow_lf2": false
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n3668ef&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[轻国](https": "//www.lightnovel.cn/thread-937695-1-1.html) - 冰夜汉化组",
-          "[为鲜血献上吻吧](https": "//tieba.baidu.com/f?kw=%E4%B8%BA%E9%B2%9C%E8%A1%80%E7%8C%AE%E4%B8%8A%E5%90%BB&ie=utf-8 \"为鲜血献上吻\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n3668ef&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[轻国](https://www.lightnovel.cn/thread-937695-1-1.html) - 冰夜汉化组",
+          "[为鲜血献上吻吧](https://tieba.baidu.com/f?kw=%E4%B8%BA%E9%B2%9C%E8%A1%80%E7%8C%AE%E4%B8%8A%E5%90%BB&ie=utf-8 \"为鲜血献上吻\")"
+        ]
       },
       "無口な天使_(n3462bz)": {
         "novel": {
@@ -3452,10 +3357,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n3462bz&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[沉默寡言的天使吧](https": "//tieba.baidu.com/f?kw=%E6%B2%89%E9%BB%98%E5%AF%A1%E8%A8%80%E7%9A%84%E5%A4%A9%E4%BD%BF&ie=utf-8 \"沉默寡言的天使\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n3462bz&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[沉默寡言的天使吧](https://tieba.baidu.com/f?kw=%E6%B2%89%E9%BB%98%E5%AF%A1%E8%A8%80%E7%9A%84%E5%A4%A9%E4%BD%BF&ie=utf-8 \"沉默寡言的天使\")"
+        ]
       },
       "帰ってきた元勇者": {
         "novel": {
@@ -3498,13 +3403,13 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n4701bs&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[归来的原勇者吧](https": "//tieba.baidu.com/f?kw=%E5%BD%92%E6%9D%A5%E7%9A%84%E5%8E%9F%E5%8B%87%E8%80%85&ie=utf-8 \"归来的原勇者\")",
-          "[落花飃雪](https": "//pan.baidu.com/s/1nvqVOKD)",
-          "[懶惰的咸魚](https": "//pan.baidu.com/s/1jImpVvw)",
-          "[人物介紹](https": "//home.gamer.com.tw/creationDetail.php?sn=3023651)"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n4701bs&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[归来的原勇者吧](https://tieba.baidu.com/f?kw=%E5%BD%92%E6%9D%A5%E7%9A%84%E5%8E%9F%E5%8B%87%E8%80%85&ie=utf-8 \"归来的原勇者\")",
+          "[落花飃雪](https://pan.baidu.com/s/1nvqVOKD)",
+          "[懶惰的咸魚](https://pan.baidu.com/s/1jImpVvw)",
+          "[人物介紹](https://home.gamer.com.tw/creationDetail.php?sn=3023651)"
+        ]
       },
       "英雄の隠し子の英雄譚": {
         "novel": {
@@ -3550,10 +3455,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n2880eh&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[英雄私生子的英雄谭吧](https": "//tieba.baidu.com/f?kw=%E8%8B%B1%E9%9B%84%E7%A7%81%E7%94%9F%E5%AD%90%E7%9A%84%E8%8B%B1%E9%9B%84%E8%B0%AD&ie=utf-8 \"英雄私生子的英雄谭\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n2880eh&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[英雄私生子的英雄谭吧](https://tieba.baidu.com/f?kw=%E8%8B%B1%E9%9B%84%E7%A7%81%E7%94%9F%E5%AD%90%E7%9A%84%E8%8B%B1%E9%9B%84%E8%B0%AD&ie=utf-8 \"英雄私生子的英雄谭\")"
+        ]
       },
       "極星から零れた少女": {
         "novel": {
@@ -3591,11 +3496,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n4468cs&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[从极星飘落的少女吧](https": "//tieba.baidu.com/f?kw=%E4%BB%8E%E6%9E%81%E6%98%9F%E9%A3%98%E8%90%BD%E7%9A%84%E5%B0%91%E5%A5%B3&ie=utf-8&tp=0 \"从极星飘落的少女\")",
-          "[未知的阿倾交流地吧](https": "//tieba.baidu.com/p/4436799954?pn=1)"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n4468cs&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[从极星飘落的少女吧](https://tieba.baidu.com/f?kw=%E4%BB%8E%E6%9E%81%E6%98%9F%E9%A3%98%E8%90%BD%E7%9A%84%E5%B0%91%E5%A5%B3&ie=utf-8&tp=0 \"从极星飘落的少女\")",
+          "[未知的阿倾交流地吧](https://tieba.baidu.com/p/4436799954?pn=1)"
+        ]
       },
       "望まぬ不死の冒険者": {
         "novel": {
@@ -3649,14 +3554,14 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n8577dn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[事与愿违的不死冒险者吧](https": "//tieba.baidu.com/f?kw=%E4%BA%8B%E4%B8%8E%E6%84%BF%E8%BF%9D%E7%9A%84%E4%B8%8D%E6%AD%BB%E5%86%92%E9%99%A9%E8%80%85&ie=utf-8 \"事与愿违的不死冒险者\")",
-          "[txr by sdk_c](https": "//tieba.baidu.com/p/5854693784?pid=121650524888&cid=0&red_tag=0833195265#121650524888)",
-          "[txt by 龘實](https": "//pan.baidu.com/s/1dI8KPYu1TdWqRKEUW-tuEg) x1z8 , [tieba](http://tieba.baidu.com/p/5363881548?pid=118578420733#118578420733)",
-          "[txt by f2008zhq](https": "//pan.baidu.com/s/1IERTh8IYNkjPjSsgi3k4vQ) xc8g , [tieba](https://tieba.baidu.com/p/5967895104)",
-          "[alice txt](https": "//pan.baidu.com/s/1Uo-opKhJNwdpRRVPhLwn-Q) 4bzy"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n8577dn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[事与愿违的不死冒险者吧](https://tieba.baidu.com/f?kw=%E4%BA%8B%E4%B8%8E%E6%84%BF%E8%BF%9D%E7%9A%84%E4%B8%8D%E6%AD%BB%E5%86%92%E9%99%A9%E8%80%85&ie=utf-8 \"事与愿违的不死冒险者\")",
+          "[txr by SDK_C](https://tieba.baidu.com/p/5854693784?pid=121650524888&cid=0&red_tag=0833195265#121650524888)",
+          "[txt by 龘實](https://pan.baidu.com/s/1dI8KPYu1TdWqRKEUW-tuEg) x1z8 , [tieba](http://tieba.baidu.com/p/5363881548?pid=118578420733#118578420733)",
+          "[txt by f2008zhq](https://pan.baidu.com/s/1IERTh8IYNkjPjSsgi3k4vQ) xc8g , [tieba](https://tieba.baidu.com/p/5967895104)",
+          "[Alice txt](https://pan.baidu.com/s/1Uo-opKhJNwdpRRVPhLwn-Q) 4bzy"
+        ]
       },
       "無職の英雄　(n6683ej)": {
         "novel": {
@@ -3699,11 +3604,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n6683ej&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[无职的英雄吧](https": "//tieba.baidu.com/f?kw=%E6%97%A0%E8%81%8C%E7%9A%84%E8%8B%B1%E9%9B%84&ie=utf-8 \"\")",
-          "[dajsay](https": "//pan.baidu.com/s/1izbzpbNtAFzJcUeT_PiegA)"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n6683ej&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[无职的英雄吧](https://tieba.baidu.com/f?kw=%E6%97%A0%E8%81%8C%E7%9A%84%E8%8B%B1%E9%9B%84&ie=utf-8 \"\")",
+          "[DAJSAY](https://pan.baidu.com/s/1izbzpbNtAFzJcUeT_PiegA)"
+        ]
       },
       "邪神無双　(n2123do)": {
         "novel": {
@@ -3750,11 +3655,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n2123do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[恶笑行善之邪神无双](https": "//tieba.baidu.com/f?kw=%E6%81%B6%E7%AC%91%E8%A1%8C%E5%96%84%E4%B9%8B%E9%82%AA%E7%A5%9E%E6%97%A0%E5%8F%8C&ie=utf-8 \"恶笑行善之邪神无双\")",
-          "[章魚子](https": "//pan.baidu.com/s/1xOs1KZ4SuEwoXZcgA9rVDQ) wu2f"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n2123do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[恶笑行善之邪神无双](https://tieba.baidu.com/f?kw=%E6%81%B6%E7%AC%91%E8%A1%8C%E5%96%84%E4%B9%8B%E9%82%AA%E7%A5%9E%E6%97%A0%E5%8F%8C&ie=utf-8 \"恶笑行善之邪神无双\")",
+          "[章魚子](https://pan.baidu.com/s/1xOs1KZ4SuEwoXZcgA9rVDQ) wu2f"
+        ]
       },
       "玩了VR工口遊戲轉生到異世界": {
         "novel": {
@@ -3798,12 +3703,12 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou18.dip.jp/search.php?text=n3640eg&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[kakuyomu.jp](https": "//kakuyomu.jp/works/1177354054885380132)",
-          "[章魚子](https": "//pan.baidu.com/s/1xOs1KZ4SuEwoXZcgA9rVDQ) wu2f",
-          "[漫畫](https": "//manhua.dmzj.com/vryouxizhuanshengyishijietiaojiaomowangmeishaonvcl/ \"VR游戏转生异世界调教魔王美少女 clothout·saber\")"
-        }
+        "link": [
+          "[dip.jp](https://narou18.dip.jp/search.php?text=n3640eg&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[kakuyomu.jp](https://kakuyomu.jp/works/1177354054885380132)",
+          "[章魚子](https://pan.baidu.com/s/1xOs1KZ4SuEwoXZcgA9rVDQ) wu2f",
+          "[漫畫](https://manhua.dmzj.com/vryouxizhuanshengyishijietiaojiaomowangmeishaonvcl/ \"VR游戏转生异世界调教魔王美少女 clothout·saber\")"
+        ]
       },
       "吸血姫は薔薇色の夢をみる": {
         "novel": {
@@ -3847,10 +3752,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n1136bt&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[吸血姬做着蔷薇色的梦吧](https": "//tieba.baidu.com/f?kw=%E5%90%B8%E8%A1%80%E5%A7%AC%E5%81%9A%E7%9D%80%E8%94%B7%E8%96%87%E8%89%B2%E7%9A%84%E6%A2%A6&ie=utf-8 \"吸血姬做着蔷薇色的梦\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n1136bt&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[吸血姬做着蔷薇色的梦吧](https://tieba.baidu.com/f?kw=%E5%90%B8%E8%A1%80%E5%A7%AC%E5%81%9A%E7%9D%80%E8%94%B7%E8%96%87%E8%89%B2%E7%9A%84%E6%A2%A6&ie=utf-8 \"吸血姬做着蔷薇色的梦\")"
+        ]
       },
       "得到一半世界後投靠魔王的勇者": {
         "novel": {
@@ -3904,10 +3809,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n6993ds&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[得到一半世界后投靠魔王的勇者](https": "//tieba.baidu.com/f?kw=%E5%BE%97%E5%88%B0%E4%B8%80%E5%8D%8A%E4%B8%96%E7%95%8C%E5%90%8E%E6%8A%95%E9%9D%A0%E9%AD%94%E7%8E%8B%E7%9A%84%E5%8B%87%E8%80%85&ie=utf-8 \"得到一半世界后投靠魔王的勇者\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n6993ds&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[得到一半世界后投靠魔王的勇者](https://tieba.baidu.com/f?kw=%E5%BE%97%E5%88%B0%E4%B8%80%E5%8D%8A%E4%B8%96%E7%95%8C%E5%90%8E%E6%8A%95%E9%9D%A0%E9%AD%94%E7%8E%8B%E7%9A%84%E5%8B%87%E8%80%85&ie=utf-8 \"得到一半世界后投靠魔王的勇者\")"
+        ]
       },
       "異世界で孤児院を開いたけど": {
         "novel": {
@@ -3960,12 +3865,12 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n9759dd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[dmzj 漫画](https": "//manhua.dmzj.com/zaiyishijiekailegueryuandanbuzhiweihemeiyouyigeren/)",
-          "[异世界孤儿院吧](https": "//tieba.baidu.com/f?kw=%E5%BC%82%E4%B8%96%E7%95%8C%E5%AD%A4%E5%84%BF%E9%99%A2&ie=utf-8 \"异世界孤儿院\")",
-          "[小說家毒作：在異世界開了孤兒院可是(略](https": "//www.ptt.cc/bbs/C_Chat/M.1504510592.A.DDD.html) - ptt"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n9759dd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[dmzj 漫画](https://manhua.dmzj.com/zaiyishijiekailegueryuandanbuzhiweihemeiyouyigeren/)",
+          "[异世界孤儿院吧](https://tieba.baidu.com/f?kw=%E5%BC%82%E4%B8%96%E7%95%8C%E5%AD%A4%E5%84%BF%E9%99%A2&ie=utf-8 \"异世界孤儿院\")",
+          "[小說家毒作：在異世界開了孤兒院可是(略](https://www.ptt.cc/bbs/C_Chat/M.1504510592.A.DDD.html) - ptt"
+        ]
       },
       "英雄の中の英雄の物語　〜アレスティア建国記〜": {
         "novel": {
@@ -4013,10 +3918,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n9170dm&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[英雄中的英雄物语吧](https": "//tieba.baidu.com/f?kw=%E8%8B%B1%E9%9B%84%E4%B8%AD%E7%9A%84%E8%8B%B1%E9%9B%84%E7%89%A9%E8%AF%AD&ie=utf-8 \"英雄中的英雄物语\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n9170dm&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[英雄中的英雄物语吧](https://tieba.baidu.com/f?kw=%E8%8B%B1%E9%9B%84%E4%B8%AD%E7%9A%84%E8%8B%B1%E9%9B%84%E7%89%A9%E8%AF%AD&ie=utf-8 \"英雄中的英雄物语\")"
+        ]
       },
       "甜點転生": {
         "novel": {
@@ -4069,10 +3974,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n5864cn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[甜点转生吧](https": "//tieba.baidu.com/f?kw=%E7%94%9C%E7%82%B9%E8%BD%AC%E7%94%9F&ie=utf-8 \"\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n5864cn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[甜点转生吧](https://tieba.baidu.com/f?kw=%E7%94%9C%E7%82%B9%E8%BD%AC%E7%94%9F&ie=utf-8 \"\")"
+        ]
       },
       "カット＆ペーストでこの世界を生きていく": {
         "novel": {
@@ -4126,10 +4031,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n8366dn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[以剪切粘贴在这个世界生活吧](https": "//tieba.baidu.com/f?kw=%E4%BB%A5%E5%89%AA%E5%88%87%E7%B2%98%E8%B4%B4%E5%9C%A8%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB&ie=utf-8 \"以剪切粘贴在这个世界生活\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n8366dn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[以剪切粘贴在这个世界生活吧](https://tieba.baidu.com/f?kw=%E4%BB%A5%E5%89%AA%E5%88%87%E7%B2%98%E8%B4%B4%E5%9C%A8%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB&ie=utf-8 \"以剪切粘贴在这个世界生活\")"
+        ]
       },
       "転生少女の履歴書": {
         "novel": {
@@ -4173,10 +4078,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n4269cp&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[转生少女的履历书](http": "//tieba.baidu.com/f?kw=%E8%BD%AC%E7%94%9F%E5%B0%91%E5%A5%B3%E7%9A%84%E5%B1%A5%E5%8E%86%E4%B9%A6&ie=utf-8 \"转生少女的履历书\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n4269cp&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[转生少女的履历书](http://tieba.baidu.com/f?kw=%E8%BD%AC%E7%94%9F%E5%B0%91%E5%A5%B3%E7%9A%84%E5%B1%A5%E5%8E%86%E4%B9%A6&ie=utf-8 \"转生少女的履历书\")"
+        ]
       },
       "注意到的時候ＴＳ成了精靈": {
         "novel": {
@@ -4225,10 +4130,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n4404ew&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[注意到的时候ts成了精灵吧](https": "//tieba.baidu.com/f?kw=%E6%B3%A8%E6%84%8F%E5%88%B0%E7%9A%84%E6%97%B6%E5%80%99ts%E6%88%90%E4%BA%86%E7%B2%BE%E7%81%B5&ie=utf-8 \"注意到的时候ts成了精灵\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n4404ew&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[注意到的时候ts成了精灵吧](https://tieba.baidu.com/f?kw=%E6%B3%A8%E6%84%8F%E5%88%B0%E7%9A%84%E6%97%B6%E5%80%99ts%E6%88%90%E4%BA%86%E7%B2%BE%E7%81%B5&ie=utf-8 \"注意到的时候ts成了精灵\")"
+        ]
       },
       "異空のレクスオール": {
         "novel": {
@@ -4279,11 +4184,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n3475df&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[异空的雷库斯欧鲁](https": "//www.lightnovel.cn/forum.php?mod=viewthread&tid=889888&extra=&authorid=154731&page=1)",
-          "[kakuyomu.jp](https": "//kakuyomu.jp/works/1177354054884095492) - 作者似乎同時在這個網站也刊登"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n3475df&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[异空的雷库斯欧鲁](https://www.lightnovel.cn/forum.php?mod=viewthread&tid=889888&extra=&authorid=154731&page=1)",
+          "[kakuyomu.jp](https://kakuyomu.jp/works/1177354054884095492) - 作者似乎同時在這個網站也刊登"
+        ]
       },
       "神スキル【呼吸】するだけでレベルアップする僕は、神々のダンジョンへ挑む。": {
         "novel": {
@@ -4333,11 +4238,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n0738ed&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[呼吸神技吧](https": "//tieba.baidu.com/f?kw=%E5%91%BC%E5%90%B8%E7%A5%9E%E6%8A%80&ie=utf-8 \"\")",
-          "[懶惰的咸魚](https": "//pan.baidu.com/s/10-dZVPnA6IpQu76oIu-1yQ)"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n0738ed&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[呼吸神技吧](https://tieba.baidu.com/f?kw=%E5%91%BC%E5%90%B8%E7%A5%9E%E6%8A%80&ie=utf-8 \"\")",
+          "[懶惰的咸魚](https://pan.baidu.com/s/10-dZVPnA6IpQu76oIu-1yQ)"
+        ]
       },
       "アラフォー賢者の異世界生活日記": {
         "novel": {
@@ -4399,12 +4304,12 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n8515dc&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[贤者大叔的异世界生活日记吧](https": "//tieba.baidu.com/f?kw=%E8%B4%A4%E8%80%85%E5%A4%A7%E5%8F%94%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0&ie=utf-8 \"贤者大叔的异世界生活日记\")",
-          "[贤者大叔的 异世界生活日记 ~ 01 \\[台/简繁\\]\\[epub\\]](https": "//tieba.baidu.com/p/5639603644 \"贤者大叔的 异世界生活日记 ~ 01 [台/简繁][epub]\")",
-          "[贤者大叔的异世界生活日记 ~ 02 \\[台/简繁\\]\\[epub\\]](https": "//tieba.baidu.com/p/5883049739 \"贤者大叔的异世界生活日记 ~ 02 [台/简繁][epub]\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n8515dc&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[贤者大叔的异世界生活日记吧](https://tieba.baidu.com/f?kw=%E8%B4%A4%E8%80%85%E5%A4%A7%E5%8F%94%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0&ie=utf-8 \"贤者大叔的异世界生活日记\")",
+          "[贤者大叔的 异世界生活日记 ~ 01 \\[台/简繁\\]\\[epub\\]](https://tieba.baidu.com/p/5639603644 \"贤者大叔的 异世界生活日记 ~ 01 [台/简繁][epub]\")",
+          "[贤者大叔的异世界生活日记 ~ 02 \\[台/简繁\\]\\[epub\\]](https://tieba.baidu.com/p/5883049739 \"贤者大叔的异世界生活日记 ~ 02 [台/简繁][epub]\")"
+        ]
       },
       "病弱少女は自分より強い人に嫁ぎたい": {
         "novel": {
@@ -4445,10 +4350,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n7467er&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[病弱少女想嫁给比自己强大的人吧](https": "//tieba.baidu.com/f?kw=%E7%97%85%E5%BC%B1%E5%B0%91%E5%A5%B3%E6%83%B3%E5%AB%81%E7%BB%99%E6%AF%94%E8%87%AA%E5%B7%B1%E5%BC%BA%E5%A4%A7%E7%9A%84%E4%BA%BA&ie=utf-8 \"病弱少女想嫁给比自己强大的人\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n7467er&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[病弱少女想嫁给比自己强大的人吧](https://tieba.baidu.com/f?kw=%E7%97%85%E5%BC%B1%E5%B0%91%E5%A5%B3%E6%83%B3%E5%AB%81%E7%BB%99%E6%AF%94%E8%87%AA%E5%B7%B1%E5%BC%BA%E5%A4%A7%E7%9A%84%E4%BA%BA&ie=utf-8 \"病弱少女想嫁给比自己强大的人\")"
+        ]
       },
       "被捨棄的勇者的英雄譚_(n0878cb)": {
         "novel": {
@@ -4495,10 +4400,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n0878cb&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[被舍弃的勇者的英雄坛](https": "//tieba.baidu.com/f?kw=%E8%A2%AB%E8%88%8D%E5%BC%83%E7%9A%84%E5%8B%87%E8%80%85%E7%9A%84%E8%8B%B1%E9%9B%84%E5%9D%9B&ie=utf-8&tp=0 \"被舍弃的勇者的英雄坛\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n0878cb&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[被舍弃的勇者的英雄坛](https://tieba.baidu.com/f?kw=%E8%A2%AB%E8%88%8D%E5%BC%83%E7%9A%84%E5%8B%87%E8%80%85%E7%9A%84%E8%8B%B1%E9%9B%84%E5%9D%9B&ie=utf-8&tp=0 \"被舍弃的勇者的英雄坛\")"
+        ]
       },
       "大陸英雄戦記": {
         "novel": {
@@ -4554,10 +4459,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n7105co&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[大陆英雄战记吧](https": "//tieba.baidu.com/f?kw=%E5%A4%A7%E9%99%86%E8%8B%B1%E9%9B%84%E6%88%98%E8%AE%B0&ie=utf-8 \"大陆英雄战记\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n7105co&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[大陆英雄战记吧](https://tieba.baidu.com/f?kw=%E5%A4%A7%E9%99%86%E8%8B%B1%E9%9B%84%E6%88%98%E8%AE%B0&ie=utf-8 \"大陆英雄战记\")"
+        ]
       },
       "隻腕の鉄姫兵団": {
         "novel": {
@@ -4612,10 +4517,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n6673cu&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[独臂的钢姬吧](https": "//tieba.baidu.com/f?kw=%E7%8B%AC%E8%87%82%E7%9A%84%E9%92%A2%E5%A7%AC&ie=utf-8 \"\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n6673cu&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[独臂的钢姬吧](https://tieba.baidu.com/f?kw=%E7%8B%AC%E8%87%82%E7%9A%84%E9%92%A2%E5%A7%AC&ie=utf-8 \"\")"
+        ]
       },
       "討伐魔王後當了公會會長": {
         "novel": {
@@ -4663,12 +4568,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n9565dj&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[讨伐魔王后当了公会会长吧](https": "//tieba.baidu.com/f?kw=%E8%AE%A8%E4%BC%90%E9%AD%94%E7%8E%8B%E5%90%8E%E5%BD%93%E4%BA%86%E5%85%AC%E4%BC%9A%E4%BC%9A%E9%95%BF&ie=utf-8 \"讨伐魔王后当了公会会长\")",
-          "[讨伐魔王后的低调生活吧](https": "//tieba.baidu.com/f?kw=%E8%AE%A8%E4%BC%90%E9%AD%94%E7%8E%8B%E5%90%8E%E7%9A%84%E4%BD%8E%E8%B0%83%E7%94%9F%E6%B4%BB&ie=utf-8&tp=0 \"讨伐魔王后的低调生活\")",
-          "文庫版": "[魔王討伐したあと、目立ちたくないのでギルドマスターになった](http://www.fujimishobo.co.jp/sp/201707guildmaster/)"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n9565dj&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[讨伐魔王后当了公会会长吧](https://tieba.baidu.com/f?kw=%E8%AE%A8%E4%BC%90%E9%AD%94%E7%8E%8B%E5%90%8E%E5%BD%93%E4%BA%86%E5%85%AC%E4%BC%9A%E4%BC%9A%E9%95%BF&ie=utf-8 \"讨伐魔王后当了公会会长\")",
+          "[讨伐魔王后的低调生活吧](https://tieba.baidu.com/f?kw=%E8%AE%A8%E4%BC%90%E9%AD%94%E7%8E%8B%E5%90%8E%E7%9A%84%E4%BD%8E%E8%B0%83%E7%94%9F%E6%B4%BB&ie=utf-8&tp=0 \"讨伐魔王后的低调生活\")"
+        ]
       },
       "堕落の王": {
         "novel": {
@@ -4714,11 +4618,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n4760cl&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[【整合&latina】txt文库2卷以及web后续全集](https": "//tieba.baidu.com/p/5816083869 \"【整合&Latina】TXT文库2卷以及WEB后续全集\")",
-          "[堕落的王吧](https": "//tieba.baidu.com/f?kw=%E5%A0%95%E8%90%BD%E7%9A%84%E7%8E%8B&ie=utf-8&tp=0 \"\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n4760cl&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[【整合&Latina】TXT文库2卷以及WEB后续全集](https://tieba.baidu.com/p/5816083869 \"【整合&Latina】TXT文库2卷以及WEB后续全集\")",
+          "[堕落的王吧](https://tieba.baidu.com/f?kw=%E5%A0%95%E8%90%BD%E7%9A%84%E7%8E%8B&ie=utf-8&tp=0 \"\")"
+        ]
       },
       "想自由生活的魔王默示錄": {
         "novel": {
@@ -4780,12 +4684,12 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.nar.jp/search.php?text=n2671do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[想自由生活的魔王默示录吧](https": "//tieba.baidu.com/f?kw=%E6%83%B3%E8%87%AA%E7%94%B1%E7%94%9F%E6%B4%BB%E7%9A%84%E9%AD%94%E7%8E%8B%E9%BB%98%E7%A4%BA%E5%BD%95&ie=utf-8 \"想自由生活的魔王默示录\")",
-          "[【魔王默示录 - 整合】](https": "//tieba.baidu.com/p/5822195807 \"【魔王默示录 - 整合】\")",
-          "[comic-walker](https": "//comic-walker.com/contents/detail/KDCW_FS01200334010000_68/)"
-        }
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n2671do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[想自由生活的魔王默示录吧](https://tieba.baidu.com/f?kw=%E6%83%B3%E8%87%AA%E7%94%B1%E7%94%9F%E6%B4%BB%E7%9A%84%E9%AD%94%E7%8E%8B%E9%BB%98%E7%A4%BA%E5%BD%95&ie=utf-8 \"想自由生活的魔王默示录\")",
+          "[【魔王默示录 - 整合】](https://tieba.baidu.com/p/5822195807 \"【魔王默示录 - 整合】\")",
+          "[comic-walker](https://comic-walker.com/contents/detail/KDCW_FS01200334010000_68/)"
+        ]
       },
       "俺だけ入れる隠しダンジョン　〜こっそり鍛えて世界最強〜": {
         "novel": {
@@ -4843,12 +4747,12 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n7144ds&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[dmzj](https": "//manhua.dmzj.com/zhiyouwojinrudeyincangdixiachengqiaoqiaoduanlianch/)",
-          "[只属于我的隐藏地下城吧](https": "//tieba.baidu.com/f?kw=%E5%8F%AA%E5%B1%9E%E4%BA%8E%E6%88%91%E7%9A%84%E9%9A%90%E8%97%8F%E5%9C%B0%E4%B8%8B%E5%9F%8E&ie=utf-8 \"只属于我的隐藏地下城\")",
-          "[懶惰的咸魚](https": "//pan.baidu.com/s/1nvijYu1)"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n7144ds&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[dmzj](https://manhua.dmzj.com/zhiyouwojinrudeyincangdixiachengqiaoqiaoduanlianch/)",
+          "[只属于我的隐藏地下城吧](https://tieba.baidu.com/f?kw=%E5%8F%AA%E5%B1%9E%E4%BA%8E%E6%88%91%E7%9A%84%E9%9A%90%E8%97%8F%E5%9C%B0%E4%B8%8B%E5%9F%8E&ie=utf-8 \"只属于我的隐藏地下城\")",
+          "[懶惰的咸魚](https://pan.baidu.com/s/1nvijYu1)"
+        ]
       },
       "最強呪族転生": {
         "novel": {
@@ -4889,14 +4793,14 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n1592db&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[最强咒族吧](https": "//tieba.baidu.com/f?kw=%E6%9C%80%E5%BC%BA%E5%92%92%E6%97%8F&ie=utf-8&tp=0 \"\")",
-          "[1-5卷web epub整合](https": "//tieba.baidu.com/p/5765951643 \"1-5卷web epub整合\")",
-          "[土之女神 整合](https": "//tieba.baidu.com/p/4422629720 \"整合\")",
-          "[kong5sl](http": "//tieba.baidu.com/home/main/?un=kong5sl&ie=utf-8&fr=frs&red_tag=d0474615308)",
-          "[最強呪族転生.ts](https": "//github.com/bluelovers/node-novel/blob/master/lib/locales/%E6%9C%80%E5%BC%B7%E5%91%AA%E6%97%8F%E8%BB%A2%E7%94%9F.ts)"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n1592db&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[最强咒族吧](https://tieba.baidu.com/f?kw=%E6%9C%80%E5%BC%BA%E5%92%92%E6%97%8F&ie=utf-8&tp=0 \"\")",
+          "[1-5卷web epub整合](https://tieba.baidu.com/p/5765951643 \"1-5卷web epub整合\")",
+          "[土之女神 整合](https://tieba.baidu.com/p/4422629720 \"整合\")",
+          "[kong5sl](http://tieba.baidu.com/home/main/?un=kong5sl&ie=utf-8&fr=frs&red_tag=d0474615308)",
+          "[最強呪族転生.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E6%9C%80%E5%BC%B7%E5%91%AA%E6%97%8F%E8%BB%A2%E7%94%9F.ts)"
+        ]
       },
       "魔王学院の不適合者": {
         "novel": {
@@ -4951,12 +4855,12 @@
             "allow_lf2": false
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n1578dx&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[魔王学院的不适合者](https": "//tieba.baidu.com/f?kw=%E9%AD%94%E7%8E%8B%E5%AD%A6%E9%99%A2%E7%9A%84%E4%B8%8D%E9%80%82%E5%90%88%E8%80%85&ie=utf-8 \"魔王学院的不适合者\")",
-          "[漫画](https": "//www.manhuagui.com/comic/28684/)",
-          "[txt by dettle](https": "//tieba.baidu.com/p/5972023609)"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n1578dx&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[魔王学院的不适合者](https://tieba.baidu.com/f?kw=%E9%AD%94%E7%8E%8B%E5%AD%A6%E9%99%A2%E7%9A%84%E4%B8%8D%E9%80%82%E5%90%88%E8%80%85&ie=utf-8 \"魔王学院的不适合者\")",
+          "[漫画](https://www.manhuagui.com/comic/28684/)",
+          "[txt by dettle](https://tieba.baidu.com/p/5972023609)"
+        ]
       },
       "魔王軍最強の魔術師は人間だった": {
         "novel": {
@@ -5005,11 +4909,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n6247dd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[魔王军最强的魔术师是人类吧](https": "//tieba.baidu.com/f?kw=%E9%AD%94%E7%8E%8B%E5%86%9B%E6%9C%80%E5%BC%BA%E7%9A%84%E9%AD%94%E6%9C%AF%E5%B8%88%E6%98%AF%E4%BA%BA%E7%B1%BB&ie=utf-8 \"魔王军最强的魔术师是人类\")",
-          "[第一章登场角色](https": "//tieba.baidu.com/p/5860443910 \"第一章登场角色\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n6247dd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[魔王军最强的魔术师是人类吧](https://tieba.baidu.com/f?kw=%E9%AD%94%E7%8E%8B%E5%86%9B%E6%9C%80%E5%BC%BA%E7%9A%84%E9%AD%94%E6%9C%AF%E5%B8%88%E6%98%AF%E4%BA%BA%E7%B1%BB&ie=utf-8 \"魔王军最强的魔术师是人类\")",
+          "[第一章登场角色](https://tieba.baidu.com/p/5860443910 \"第一章登场角色\")"
+        ]
       },
       "暇人、魔王の姿で異世界へ": {
         "novel": {
@@ -5058,16 +4962,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n2435cr&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[暇人以魔王之姿在异世界吧](https": "//tieba.baidu.com/f?kw=%E6%9A%87%E4%BA%BA%E4%BB%A5%E9%AD%94%E7%8E%8B%E4%B9%8B%E5%A7%BF%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C&ie=utf-8&tp=0 \"暇人以魔王之姿在异世界\")",
-          "[暇人、魔王の姿で異世界へ.ts](https": "//github.com/bluelovers/node-novel/blob/master/lib/locales/%E6%9A%87%E4%BA%BA%E3%80%81%E9%AD%94%E7%8E%8B%E3%81%AE%E5%A7%BF%E3%81%A7%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%B8.ts) - 整合樣式",
-          "file": {
-            "[难找的稀少的绝版的轻小说整合](http": "//lscj.ys168.com/) by [lansechenji](http://tieba.baidu.com/home/main?un=lansechenji&ie=utf-8&fr=pb&red_tag=y2750700121)",
-            "[夜空下之旅途](http": "//tieba.baidu.com/home/main/?un=%E5%A4%9C%E7%A9%BA%E4%B8%8B%E4%B9%8B%E6%97%85%E9%80%94&ie=utf-8&fr=frs&red_tag=b0506494179)",
-            "[夜空下之旅途](https": "//www.jianguoyun.com/p/DTpScpsQxszoBhicn2M) - 堅果"
-          }
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n2435cr&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[暇人以魔王之姿在异世界吧](https://tieba.baidu.com/f?kw=%E6%9A%87%E4%BA%BA%E4%BB%A5%E9%AD%94%E7%8E%8B%E4%B9%8B%E5%A7%BF%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C&ie=utf-8&tp=0 \"暇人以魔王之姿在异世界\")",
+          "[暇人、魔王の姿で異世界へ.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E6%9A%87%E4%BA%BA%E3%80%81%E9%AD%94%E7%8E%8B%E3%81%AE%E5%A7%BF%E3%81%A7%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%B8.ts) - 整合樣式"
+        ]
       },
       "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。_(n5691dd)": {
         "novel": {
@@ -5123,12 +5022,12 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.nar.jp/search.php?text=n5691dd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[comic-earthstar.jp](https": "//comic-earthstar.jp/detail/sokushicheat/)",
-          "[manhuagui](https": "//www.manhuagui.com/comic/28351/)",
-          "[异世界的家伙们完全就不是对手吧](https": "//tieba.baidu.com/f?kw=%E5%BC%82%E4%B8%96%E7%95%8C%E7%9A%84%E5%AE%B6%E4%BC%99%E4%BB%AC%E5%AE%8C%E5%85%A8%E5%B0%B1%E4%B8%8D%E6%98%AF%E5%AF%B9%E6%89%8B&ie=utf-8 \"异世界的家伙们完全就不是对手\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n5691dd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[comic-earthstar.jp](https://comic-earthstar.jp/detail/sokushicheat/)",
+          "[manhuagui](https://www.manhuagui.com/comic/28351/)",
+          "[异世界的家伙们完全就不是对手吧](https://tieba.baidu.com/f?kw=%E5%BC%82%E4%B8%96%E7%95%8C%E7%9A%84%E5%AE%B6%E4%BC%99%E4%BB%AC%E5%AE%8C%E5%85%A8%E5%B0%B1%E4%B8%8D%E6%98%AF%E5%AF%B9%E6%89%8B&ie=utf-8 \"异世界的家伙们完全就不是对手\")"
+        ]
       },
       "賢者の剣": {
         "novel": {
@@ -5175,11 +5074,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n5391ci&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[贤者之剑吧](https": "//tieba.baidu.com/f?kw=%E8%B4%A4%E8%80%85%E4%B9%8B%E5%89%91&ie=utf-8 \"\")",
-          "[epub](https": "//tieba.baidu.com/p/5441926866) by 天空"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n5391ci&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[贤者之剑吧](https://tieba.baidu.com/f?kw=%E8%B4%A4%E8%80%85%E4%B9%8B%E5%89%91&ie=utf-8 \"\")",
+          "[ePub](https://tieba.baidu.com/p/5441926866) by 天空"
+        ]
       }
     },
     "user_out": {
@@ -5216,9 +5115,9 @@
         "options": {
           "textlayout": {}
         },
-        "link": {
-          "[怀抱太阳的少女吧](http": "//c.tieba.baidu.com/f?kw=%E6%80%80%E6%8A%B1%E5%A4%AA%E9%98%B3%E7%9A%84%E5%B0%91%E5%A5%B3&ie=utf-8&tp=0 \"怀抱太阳的少女\")"
-        }
+        "link": [
+          "[怀抱太阳的少女吧](http://c.tieba.baidu.com/f?kw=%E6%80%80%E6%8A%B1%E5%A4%AA%E9%98%B3%E7%9A%84%E5%B0%91%E5%A5%B3&ie=utf-8&tp=0 \"怀抱太阳的少女\")"
+        ]
       },
       "魔王様、リトライ！": {
         "novel": {
@@ -5280,6 +5179,9 @@
           }
         },
         "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n6789do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[重来吧魔王大人](https://tieba.baidu.com/f?kw=%E9%87%8D%E6%9D%A5%E5%90%A7%E9%AD%94%E7%8E%8B%E5%A4%A7%E4%BA%BA)",
+          "[漫畫](http://tieba.baidu.com/home/main/?un=%E9%A3%84%E9%9B%B6leaf&ie=utf-8&id=04e2e9a384e99bb66c656166ae5f&fr=frs&red_tag=c2986950856) - 飄零leaf",
           "http://webaction.jp/Mcomics/"
         ]
       },
@@ -5382,12 +5284,12 @@
             "allow_lf2": false
           }
         },
-        "link": {
-          "[黑之魔王.ts](https": "//github.com/bluelovers/node-novel/blob/master/lib/locales/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B.ts)",
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n2627t&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[黒之魔王吧](https": "//tieba.baidu.com/f?kw=%E9%BB%92%E4%B9%8B%E9%AD%94%E7%8E%8B&ie=utf-8 \"\")",
-          "[灵九条](https": "//pan.baidu.com/s/1pMi5zXT) d3xv"
-        }
+        "link": [
+          "[黑之魔王.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B.ts)",
+          "[dip.jp](https://narou.dip.jp/search.php?text=n2627t&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[黒之魔王吧](https://tieba.baidu.com/f?kw=%E9%BB%92%E4%B9%8B%E9%AD%94%E7%8E%8B&ie=utf-8 \"\")",
+          "[灵九条](https://pan.baidu.com/s/1pMi5zXT) d3xv"
+        ]
       },
       "没落予定なので、鍛治職人を目指す": {
         "novel": {
@@ -5446,11 +5348,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n7940cn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[没落预订吧](https": "//tieba.baidu.com/f?kw=%E6%B2%A1%E8%90%BD%E9%A2%84%E8%AE%A2&ie=utf-8 \"\")",
-          "[没落予定なので、鍛冶職人を目指す](https": "//comic-walker.com/contents/detail/KDCW_FS01000044010000_68/) 漫畫"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n7940cn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[没落预订吧](https://tieba.baidu.com/f?kw=%E6%B2%A1%E8%90%BD%E9%A2%84%E8%AE%A2&ie=utf-8 \"\")",
+          "[没落予定なので、鍛冶職人を目指す](https://comic-walker.com/contents/detail/KDCW_FS01000044010000_68/) 漫畫"
+        ]
       },
       "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～": {
         "novel": {
@@ -5512,15 +5414,15 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n7933eb&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[人喰い転移者の異世界復讐譚～無能はスキル『捕食』で成り上が～](https": "//tieba.baidu.com/p/5322052155 \"人喰い転移者の異世界復讐譚～無能はスキル『捕食』で成り上が～\")",
-          "[千爱的陨石坑吧](https": "//tieba.baidu.com/f?kw=%E5%8D%83%E7%88%B1%E7%9A%84%E9%99%A8%E7%9F%B3%E5%9D%91&ie=utf-8&tp=0 \"千爱的陨石坑\")",
-          "[食人转移者的异世界复仇谭吧](https": "//tieba.baidu.com/f?kw=%E9%A3%9F%E4%BA%BA%E8%BD%AC%E7%A7%BB%E8%80%85%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E5%A4%8D%E4%BB%87%E8%B0%AD&ie=utf-8&tp=0 \"食人转移者的异世界复仇谭\") <= new",
-          "[喰人转移者的异世界复仇谭吧](https": "//tieba.baidu.com/f?kw=%E5%96%B0%E4%BA%BA%E8%BD%AC%E7%A7%BB%E8%80%85%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E5%A4%8D%E4%BB%87%E8%B0%AD&ie=utf-8 \"喰人转移者的异世界复仇谭\") <=廢棄",
-          "[图转文](https": "//mega.nz/#F!hSpEULqA!Fo2HF_TjZFtDnLPb7yx0gQ)",
-          "[1kgcliv3dtk-pxi3rfqgqaa](https": "//pan.baidu.com/s/1kGCLIv3Dtk-Pxi3RfQGQaA) wlne"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n7933eb&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[人喰い転移者の異世界復讐譚～無能はスキル『捕食』で成り上が～](https://tieba.baidu.com/p/5322052155 \"人喰い転移者の異世界復讐譚～無能はスキル『捕食』で成り上が～\")",
+          "[千爱的陨石坑吧](https://tieba.baidu.com/f?kw=%E5%8D%83%E7%88%B1%E7%9A%84%E9%99%A8%E7%9F%B3%E5%9D%91&ie=utf-8&tp=0 \"千爱的陨石坑\")",
+          "[食人转移者的异世界复仇谭吧](https://tieba.baidu.com/f?kw=%E9%A3%9F%E4%BA%BA%E8%BD%AC%E7%A7%BB%E8%80%85%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E5%A4%8D%E4%BB%87%E8%B0%AD&ie=utf-8&tp=0 \"食人转移者的异世界复仇谭\") <= new",
+          "[喰人转移者的异世界复仇谭吧](https://tieba.baidu.com/f?kw=%E5%96%B0%E4%BA%BA%E8%BD%AC%E7%A7%BB%E8%80%85%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E5%A4%8D%E4%BB%87%E8%B0%AD&ie=utf-8 \"喰人转移者的异世界复仇谭\") <=廢棄",
+          "[图转文](https://mega.nz/#F!hSpEULqA!Fo2HF_TjZFtDnLPb7yx0gQ)",
+          "[1kGCLIv3Dtk-Pxi3RfQGQaA](https://pan.baidu.com/s/1kGCLIv3Dtk-Pxi3RfQGQaA) wlne"
+        ]
       },
       "你這種傢伙別想打贏魔王": {
         "novel": {
@@ -5585,16 +5487,16 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n5361em&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[你这种家伙别想打赢魔王吧](https": "//tieba.baidu.com/f?kw=%E4%BD%A0%E8%BF%99%E7%A7%8D%E5%AE%B6%E4%BC%99%E5%88%AB%E6%83%B3%E6%89%93%E8%B5%A2%E9%AD%94%E7%8E%8B&ie=utf-8 \"你这种家伙别想打赢魔王\")",
-          "[bibiyz](https": "//mega.nz/#F!x4JwDAgR!DMz0X522W7WsarvaKbPyhQ)",
-          "[物理盐鱼](https": "//pan.baidu.com/s/1R3f2qxCEQZ61m_x4AYhlVQ) e9vp",
-          "[「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい｜gcノベルズ](http": "//micromagazine.net/gcn/omaegotokiga/)",
-          "[物理盐鱼 文庫](https": "//tieba.baidu.com/p/5853088454)",
-          "[dm5](http": "//www.dm5.com/manhua-jiupingniyexiangdabaimowangma/) 漫畫版",
-          "[masiro.moe](https": "//masiro.moe/forum.php?mod=forumdisplay&fid=90)"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n5361em&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[你这种家伙别想打赢魔王吧](https://tieba.baidu.com/f?kw=%E4%BD%A0%E8%BF%99%E7%A7%8D%E5%AE%B6%E4%BC%99%E5%88%AB%E6%83%B3%E6%89%93%E8%B5%A2%E9%AD%94%E7%8E%8B&ie=utf-8 \"你这种家伙别想打赢魔王\")",
+          "[BIBIYZ](https://mega.nz/#F!x4JwDAgR!DMz0X522W7WsarvaKbPyhQ)",
+          "[物理盐鱼](https://pan.baidu.com/s/1R3f2qxCEQZ61m_x4AYhlVQ) e9vp",
+          "[「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい｜GCノベルズ](http://micromagazine.net/gcn/omaegotokiga/)",
+          "[物理盐鱼 文庫](https://tieba.baidu.com/p/5853088454)",
+          "[dm5](http://www.dm5.com/manhua-jiupingniyexiangdabaimowangma/) 漫畫版",
+          "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=90)"
+        ]
       },
       "奪う者　奪われる者": {
         "novel": {
@@ -5651,7 +5553,11 @@
           }
         },
         "link": [
-          "http://q.dmzj.com/2156/index.shtml"
+          "[dip.jp](https://narou.dip.jp/search.php?text=n4128bn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "http://q.dmzj.com/2156/index.shtml",
+          "[epub / txt 格式整合 譯名統一](https://tieba.baidu.com/p/5569641658 \"以腳本整理的 epub / txt 格式整合 譯名統一\")",
+          "[掠夺者剥夺者吧](https://tieba.baidu.com/f?kw=%E6%8E%A0%E5%A4%BA%E8%80%85%E5%89%A5%E5%A4%BA%E8%80%85&ie=utf-8&tp=0 \"掠夺者剥夺者\")",
+          "[comic-walker](https://comic-walker.com/contents/detail/KDCW_KS11000017010000_68/) - 漫画"
         ]
       },
       "由于世界魔物满载": {
@@ -5736,11 +5642,11 @@
         "options": {
           "textlayout": {}
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n6829bd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[自称贤者弟子的贤者](https": "//tieba.baidu.com/f?kw=%E8%87%AA%E7%A7%B0%E8%B4%A4%E8%80%85%E5%BC%9F%E5%AD%90%E7%9A%84%E8%B4%A4%E8%80%85&ie=utf-8 \"自称贤者弟子的贤者\")",
-          "[epub / txt 持續更新](https": "//tieba.baidu.com/p/5664828470) <== 推薦使用觀看此版本"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n6829bd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[自称贤者弟子的贤者](https://tieba.baidu.com/f?kw=%E8%87%AA%E7%A7%B0%E8%B4%A4%E8%80%85%E5%BC%9F%E5%AD%90%E7%9A%84%E8%B4%A4%E8%80%85&ie=utf-8 \"自称贤者弟子的贤者\")",
+          "[epub / txt 持續更新](https://tieba.baidu.com/p/5664828470) <== 推薦使用觀看此版本"
+        ]
       },
       "四度目は嫌な死属性魔術師": {
         "novel": {
@@ -5815,19 +5721,19 @@
           },
           "textlayout": {}
         },
-        "link": {
-          "[四度目は嫌な死属性魔術師.ts](https": "//github.com/bluelovers/node-novel/blob/master/lib/locales/%E5%9B%9B%E5%BA%A6%E7%9B%AE%E3%81%AF%E5%AB%8C%E3%81%AA%E6%AD%BB%E5%B1%9E%E6%80%A7%E9%AD%94%E8%A1%93%E5%B8%AB.ts)",
-          "[四度目 epub txt 格式整合 譯名統一](http": "//tieba.baidu.com/p/5531952815?pid=117529194602)",
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n1745ct&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[p/4971496357](https": "//tieba.baidu.com/p/4971496357) 參考用 這裏面大多都沒被採用",
-          "[comic-walker](https": "//comic-walker.com/contents/detail/KDCW_MF00000076010000_68/) - 漫畫",
-          "[ニコニコ静画](http": "//seiga.nicovideo.jp/comic/35257) - 漫畫",
-          "[spt草包](https": "//home.gamer.com.tw/creationCategory.php?owner=okinadog&c=417638)",
-          "[讨厌第四次的死属性魔术师吧](https": "//tieba.baidu.com/f?kw=%E8%AE%A8%E5%8E%8C%E7%AC%AC%E5%9B%9B%E6%AC%A1%E7%9A%84%E6%AD%BB%E5%B1%9E%E6%80%A7%E9%AD%94%E6%9C%AF%E5%B8%88&ie=utf-8 \"讨厌第四次的死属性魔术师\")",
-          "[漫畫 中文](https": "//tw.manhuagui.com/comic/28989/)",
-          "[漫畫 raw](https": "//lhscan.net/manga-yondome-wa-iyana-shi-zokusei-majutsushi-raw.html)",
-          "[lightnovel.cn](https": "//www.lightnovel.cn/forum.php?mod=viewthread&tid=876034&extra=&ordertype=1&page=1)"
-        }
+        "link": [
+          "[四度目は嫌な死属性魔術師.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E5%9B%9B%E5%BA%A6%E7%9B%AE%E3%81%AF%E5%AB%8C%E3%81%AA%E6%AD%BB%E5%B1%9E%E6%80%A7%E9%AD%94%E8%A1%93%E5%B8%AB.ts)",
+          "[四度目 epub txt 格式整合 譯名統一](http://tieba.baidu.com/p/5531952815?pid=117529194602)",
+          "[dip.jp](https://narou.dip.jp/search.php?text=n1745ct&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[p/4971496357](https://tieba.baidu.com/p/4971496357) 參考用 這裏面大多都沒被採用",
+          "[comic-walker](https://comic-walker.com/contents/detail/KDCW_MF00000076010000_68/) - 漫畫",
+          "[ニコニコ静画](http://seiga.nicovideo.jp/comic/35257) - 漫畫",
+          "[SPT草包](https://home.gamer.com.tw/creationCategory.php?owner=okinadog&c=417638)",
+          "[讨厌第四次的死属性魔术师吧](https://tieba.baidu.com/f?kw=%E8%AE%A8%E5%8E%8C%E7%AC%AC%E5%9B%9B%E6%AC%A1%E7%9A%84%E6%AD%BB%E5%B1%9E%E6%80%A7%E9%AD%94%E6%9C%AF%E5%B8%88&ie=utf-8 \"讨厌第四次的死属性魔术师\")",
+          "[漫畫 中文](https://tw.manhuagui.com/comic/28989/)",
+          "[漫畫 RAW](https://lhscan.net/manga-yondome-wa-iyana-shi-zokusei-majutsushi-raw.html)",
+          "[lightnovel.cn](https://www.lightnovel.cn/forum.php?mod=viewthread&tid=876034&extra=&ordertype=1&page=1)"
+        ]
       },
       "その者。のちに・・・": {
         "novel": {
@@ -5871,12 +5777,13 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n7971ec&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[その者。のちに・・・](http": "//ncode.syosetu.com/n9442cw/)",
-          "[《書籍版》その者。のちに… 第二部](http": "//ncode.syosetu.com/n7971ec/)",
-          "[文库版 第一卷](https": "//tieba.baidu.com/p/5553476326 \"文库版 第一卷\") #68"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n9442cw&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[dip.jp](https://narou.dip.jp/search.php?text=n7971ec&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[その者。のちに・・・](http://ncode.syosetu.com/n9442cw/)",
+          "[《書籍版》その者。のちに…　第二部](http://ncode.syosetu.com/n7971ec/)",
+          "[文库版 第一卷](https://tieba.baidu.com/p/5553476326 \"文库版 第一卷\") #68"
+        ]
       },
       "ウォルテニア戦記": {
         "novel": {
@@ -5946,14 +5853,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n1898i&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[沃特尼亚战记](https": "//tieba.baidu.com/f?kw=%E6%B2%83%E7%89%B9%E5%B0%BC%E4%BA%9A%E6%88%98%E8%AE%B0&ie=utf-8 \"沃特尼亚战记\")",
-          "譯文網盤": {
-            "[kit1502](https": "//pan.baidu.com/s/1Rw0DHkgVAYNdCuYZfuit6A)",
-            "[kit1502 google](https": "//drive.google.com/drive/folders/1rRQHMrOKhlzlxix-Bdj7mk1oMX3UkHW_)"
-          }
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n1898i&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[沃特尼亚战记](https://tieba.baidu.com/f?kw=%E6%B2%83%E7%89%B9%E5%B0%BC%E4%BA%9A%E6%88%98%E8%AE%B0&ie=utf-8 \"沃特尼亚战记\")"
+        ]
       },
       "２９歳独身は異世界で自由に生きた…かった。": {
         "novel": {
@@ -6017,10 +5920,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n9814bu&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[29岁独身曾想在异世界自由地生活吧](https": "//tieba.baidu.com/f?kw=29%E5%B2%81%E7%8B%AC%E8%BA%AB%E6%9B%BE%E6%83%B3%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E8%87%AA%E7%94%B1%E5%9C%B0%E7%94%9F%E6%B4%BB&ie=utf-8 \"29岁独身曾想在异世界自由地生活\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n9814bu&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[29岁独身曾想在异世界自由地生活吧](https://tieba.baidu.com/f?kw=29%E5%B2%81%E7%8B%AC%E8%BA%AB%E6%9B%BE%E6%83%B3%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E8%87%AA%E7%94%B1%E5%9C%B0%E7%94%9F%E6%B4%BB&ie=utf-8 \"29岁独身曾想在异世界自由地生活\")"
+        ]
       },
       "暴食のベルセルク": {
         "novel": {
@@ -6064,13 +5967,13 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n6887dt&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[暴食のベルセルク - pixivコミック](https": "//comic.pixiv.net/works/4258)",
-          "[暴食のベルセルク～俺だけレベルという概念を突破する～ コミックライド](http": "//comicride.jp/gluttony/)",
-          "[暴食的狂暴](https": "//tieba.baidu.com/f?kw=%E6%9A%B4%E9%A3%9F%E7%9A%84%E7%8B%82%E6%9A%B4&ie=utf-8 \"\")",
-          "[狂怒的暴食 ～只有我突破了等级这概念～](http": "//www.dm5.com/manhua-kuangnudebaoshi--zhiyouwotupoledengjizhegainian/) - 漫畫"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n6887dt&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[暴食のベルセルク - pixivコミック](https://comic.pixiv.net/works/4258)",
+          "[暴食のベルセルク～俺だけレベルという概念を突破する～ コミックライド](http://comicride.jp/gluttony/)",
+          "[暴食的狂暴](https://tieba.baidu.com/f?kw=%E6%9A%B4%E9%A3%9F%E7%9A%84%E7%8B%82%E6%9A%B4&ie=utf-8 \"\")",
+          "[狂怒的暴食 ～只有我突破了等级这概念～](http://www.dm5.com/manhua-kuangnudebaoshi--zhiyouwotupoledengjizhegainian/) - 漫畫"
+        ]
       },
       "最下位職から最強まで成り上がる～地道な努力はチートでした～": {
         "novel": {
@@ -6119,10 +6022,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n0612dm&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[脚踏实地的努力就是开挂吧](https": "//tieba.baidu.com/f?kw=%E8%84%9A%E8%B8%8F%E5%AE%9E%E5%9C%B0%E7%9A%84%E5%8A%AA%E5%8A%9B%E5%B0%B1%E6%98%AF%E5%BC%80%E6%8C%82&ie=utf-8 \"脚踏实地的努力就是开挂\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n0612dm&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[脚踏实地的努力就是开挂吧](https://tieba.baidu.com/f?kw=%E8%84%9A%E8%B8%8F%E5%AE%9E%E5%9C%B0%E7%9A%84%E5%8A%AA%E5%8A%9B%E5%B0%B1%E6%98%AF%E5%BC%80%E6%8C%82&ie=utf-8 \"脚踏实地的努力就是开挂\")"
+        ]
       },
       "蘇りの魔王": {
         "novel": {
@@ -6167,10 +6070,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n8162cb&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[苏生的魔王吧](https": "//tieba.baidu.com/f?kw=%E8%8B%8F%E7%94%9F%E7%9A%84%E9%AD%94%E7%8E%8B&ie=utf-8&tp=0 \"\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n8162cb&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[苏生的魔王吧](https://tieba.baidu.com/f?kw=%E8%8B%8F%E7%94%9F%E7%9A%84%E9%AD%94%E7%8E%8B&ie=utf-8&tp=0 \"\")"
+        ]
       },
       "呼び出された殺戮者": {
         "novel": {
@@ -6214,7 +6117,11 @@
           "textlayout": {}
         },
         "link": [
-          "[よみがえる殺戮者](./00020_第二部：復甦的殺戮者) - 續作(第二部)"
+          "[呼び出された殺戮者.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%95%E3%82%8C%E3%81%9F%E6%AE%BA%E6%88%AE%E8%80%85.ts)",
+          "[よみがえる殺戮者](./00020_第二部：復甦的殺戮者) - 續作(第二部)",
+          "[dip.jp](https://narou.dip.jp/search.php?text=n4399ci&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[召唤出的杀戮者吧](https://tieba.baidu.com/f?kw=%E5%8F%AC%E5%94%A4%E5%87%BA%E7%9A%84%E6%9D%80%E6%88%AE%E8%80%85&ie=utf-8 \"召唤出的杀戮者\")",
+          "[漆黑的部长吧](https://tieba.baidu.com/f?kw=%E6%BC%86%E9%BB%91%E7%9A%84%E9%83%A8%E9%95%BF&ie=utf-8 \"\")"
         ]
       },
       "異世界迷宮の最深部を目指そう": {
@@ -6290,15 +6197,15 @@
           },
           "textlayout": {}
         },
-        "link": {
-          "[译文整合下载word/txt版](https": "//tieba.baidu.com/p/5339797046)",
-          "[異世界迷宮の最深部を目指そう.ts](https": "//github.com/bluelovers/node-novel/blob/master/lib/locales/%E7%95%B0%E4%B8%96%E7%95%8C%E8%BF%B7%E5%AE%AE%E3%81%AE%E6%9C%80%E6%B7%B1%E9%83%A8%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%9D%E3%81%86.ts)",
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n0089bk&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[异世界迷宫最深部为目标吧](https": "//tieba.baidu.com/f?kw=%E5%BC%82%E4%B8%96%E7%95%8C%E8%BF%B7%E5%AE%AB%E6%9C%80%E6%B7%B1%E9%83%A8%E4%B8%BA%E7%9B%AE%E6%A0%87&ie=utf-8 \"异世界迷宫最深部为目标\")",
-          "[外傳空間2 諾文](https": "//mega.nz/#!kRUkiSxJ!wKCxPYC33egz4HLFe4b_5OKddBUEpfZlAgXCcDNrvng) - 冷粥傳奇",
-          "[小说插图集合](https": "//tieba.baidu.com/p/4647529889)",
-          "[轻之国度](https": "//www.lightnovel.cn/home.php?mod=space&uid=987726&do=thread&view=me&from=space) - 落地死的流星"
-        }
+        "link": [
+          "[译文整合下载word/txt版](https://tieba.baidu.com/p/5339797046)",
+          "[異世界迷宮の最深部を目指そう.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E7%95%B0%E4%B8%96%E7%95%8C%E8%BF%B7%E5%AE%AE%E3%81%AE%E6%9C%80%E6%B7%B1%E9%83%A8%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%9D%E3%81%86.ts)",
+          "[dip.jp](https://narou.dip.jp/search.php?text=n0089bk&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[异世界迷宫最深部为目标吧](https://tieba.baidu.com/f?kw=%E5%BC%82%E4%B8%96%E7%95%8C%E8%BF%B7%E5%AE%AB%E6%9C%80%E6%B7%B1%E9%83%A8%E4%B8%BA%E7%9B%AE%E6%A0%87&ie=utf-8 \"异世界迷宫最深部为目标\")",
+          "[外傳空間2 諾文](https://mega.nz/#!kRUkiSxJ!wKCxPYC33egz4HLFe4b_5OKddBUEpfZlAgXCcDNrvng) - 冷粥傳奇",
+          "[小说插图集合](https://tieba.baidu.com/p/4647529889)",
+          "[轻之国度](https://www.lightnovel.cn/home.php?mod=space&uid=987726&do=thread&view=me&from=space) - 落地死的流星"
+        ]
       },
       "豚公爵に転生したから、今度は君に好きと言いたい": {
         "novel": {
@@ -6349,11 +6256,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[豚猪公爵吧](http": "//tieba.baidu.com/f?kw=%E8%B1%9A%E7%8C%AA%E5%85%AC%E7%88%B5 \"豚猪公爵吧\")",
-          "[【整合】轉生豚公爵、今次想要說出喜歡你](https": "//tieba.baidu.com/p/5525554645 \"【整合】轉生豚公爵、今次想要說出喜歡你\")",
-          "[masiro.moe](https": "//masiro.moe/forum.php?mod=forumdisplay&fid=80&page=1) ›"
-        }
+        "link": [
+          "[豚猪公爵吧](http://tieba.baidu.com/f?kw=%E8%B1%9A%E7%8C%AA%E5%85%AC%E7%88%B5 \"豚猪公爵吧\")",
+          "[【整合】轉生豚公爵、今次想要說出喜歡你](https://tieba.baidu.com/p/5525554645 \"【整合】轉生豚公爵、今次想要說出喜歡你\")",
+          "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=80&page=1) ›"
+        ]
       },
       "悠久の愚者アズリーの、賢者のすゝめ": {
         "novel": {
@@ -6397,10 +6304,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n9055cl&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[悠久的愚者阿兹利的贤者的推荐吧](https": "//tieba.baidu.com/f?kw=%E6%82%A0%E4%B9%85%E7%9A%84%E6%84%9A%E8%80%85%E9%98%BF%E5%85%B9%E5%88%A9%E7%9A%84%E8%B4%A4%E8%80%85%E7%9A%84%E6%8E%A8%E8%8D%90&ie=utf-8 \"悠久的愚者阿兹利的贤者的推荐\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n9055cl&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[悠久的愚者阿兹利的贤者的推荐吧](https://tieba.baidu.com/f?kw=%E6%82%A0%E4%B9%85%E7%9A%84%E6%84%9A%E8%80%85%E9%98%BF%E5%85%B9%E5%88%A9%E7%9A%84%E8%B4%A4%E8%80%85%E7%9A%84%E6%8E%A8%E8%8D%90&ie=utf-8 \"悠久的愚者阿兹利的贤者的推荐\")"
+        ]
       },
       "再臨勇者の復讐譚　～失望しました、勇者やめて元魔王と組みます～": {
         "novel": {
@@ -6457,10 +6364,10 @@
           },
           "textlayout": {}
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n1678cx&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[再临勇者的复仇谭吧](https": "//tieba.baidu.com/f?kw=%E5%86%8D%E4%B8%B4%E5%8B%87%E8%80%85%E7%9A%84%E5%A4%8D%E4%BB%87%E8%B0%AD&ie=utf-8 \"再临勇者的复仇谭\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n1678cx&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[再临勇者的复仇谭吧](https://tieba.baidu.com/f?kw=%E5%86%8D%E4%B8%B4%E5%8B%87%E8%80%85%E7%9A%84%E5%A4%8D%E4%BB%87%E8%B0%AD&ie=utf-8 \"再临勇者的复仇谭\")"
+        ]
       },
       "NO FATIGUE 24時間戦える男の転生譚": {
         "novel": {
@@ -6508,10 +6415,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n6990ch&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[nofatigue吧](https": "//tieba.baidu.com/f?kw=nofatigue&ie=utf-8 \"\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n6990ch&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[nofatigue吧](https://tieba.baidu.com/f?kw=nofatigue&ie=utf-8 \"\")"
+        ]
       },
       "カルマの塔": {
         "novel": {
@@ -6557,12 +6464,12 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n6337cb&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[业之塔吧](https": "//tieba.baidu.com/f?kw=%E4%B8%9A%E4%B9%8B%E5%A1%94&ie=utf-8 \"\")",
-          "[kakuyomu](https": "//kakuyomu.jp/works/1177354054886943247) - 帳號被封後的新小說地址",
-          "[海市蜃楼谁不识](https": "//pan.baidu.com/s/1TTBqYxhDke49hyePdmxOFQ) - t2aa"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n6337cb&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[业之塔吧](https://tieba.baidu.com/f?kw=%E4%B8%9A%E4%B9%8B%E5%A1%94&ie=utf-8 \"\")",
+          "[kakuyomu](https://kakuyomu.jp/works/1177354054886943247) - 帳號被封後的新小說地址",
+          "[海市蜃楼谁不识](https://pan.baidu.com/s/1TTBqYxhDke49hyePdmxOFQ) - t2aa"
+        ]
       },
       "神竜転生 ～普通の人間SSS～": {
         "novel": {
@@ -6599,10 +6506,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n5963et&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[神龙转生为人_sss参数很普通呢](https": "//tieba.baidu.com/f?kw=%E7%A5%9E%E9%BE%99%E8%BD%AC%E7%94%9F%E4%B8%BA%E4%BA%BA_sss%E5%8F%82%E6%95%B0%E5%BE%88%E6%99%AE%E9%80%9A%E5%91%A2&ie=utf-8 \"神龙转生为人_sss参数很普通呢\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n5963et&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[神龙转生为人_sss参数很普通呢](https://tieba.baidu.com/f?kw=%E7%A5%9E%E9%BE%99%E8%BD%AC%E7%94%9F%E4%B8%BA%E4%BA%BA_sss%E5%8F%82%E6%95%B0%E5%BE%88%E6%99%AE%E9%80%9A%E5%91%A2&ie=utf-8 \"神龙转生为人_sss参数很普通呢\")"
+        ]
       },
       "黒の創造召喚師": {
         "novel": {
@@ -6618,7 +6525,6 @@
           },
           "preface": "以想像力來召喚怪物、以唯一無二的最強獨特魔法在暗黑世界中生存下去！由於神明錯誤而意外死亡的普通高校生、佐伯繼那，作為補償而持有「特典」轉生到充滿魔法和怪物的異世界中。開啟了異世界之門的黑暗狂想開幕！\n\n佐伯継那（さえき つぐな）16歳。彼は偶然とも奇跡的ともいえる確率と原因により死亡してしまう。しかも、神様の「手違い」によって。\nそんな継那は神様から転生の権利を得、地球とは異なる異世界で第二の人生を歩む。神様からの「お詫び」にもらった（というよりぶんどった）「創造召喚魔法」というオリジナルでユニーク過ぎる魔法を引っ提げて。",
           "tags": [
-            "-",
             "R15",
             "node-novel",
             "syosetu",
@@ -6639,7 +6545,8 @@
         },
         "link": [
           "https://www.alphapolis.co.jp/novel/65142395/53069496",
-          "https://www.alphapolis.co.jp/manga/official/416000120"
+          "https://www.alphapolis.co.jp/manga/official/416000120",
+          "[黑之创造召唤师吧](https://tieba.baidu.com/f?kw=%E9%BB%91%E4%B9%8B%E5%88%9B%E9%80%A0%E5%8F%AC%E5%94%A4%E5%B8%88&ie=utf-8 \"黑之创造召唤师\")"
         ]
       },
       "物語の中の銀の髪": {
@@ -6677,9 +6584,9 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n6778x&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n6778x&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
+        ]
       },
       "自分が異世界に転移するなら": {
         "novel": {
@@ -6723,11 +6630,11 @@
           },
           "textlayout": {}
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n5645ci&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[1~131txt](https": "//tieba.baidu.com/p/4747288886 \"1~131TXT\")",
-          "[轮到自己转移去异世界](https": "//tieba.baidu.com/f?kw=%E8%BD%AE%E5%88%B0%E8%87%AA%E5%B7%B1%E8%BD%AC%E7%A7%BB%E5%8E%BB%E5%BC%82%E4%B8%96%E7%95%8C)"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n5645ci&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[1~131TXT](https://tieba.baidu.com/p/4747288886 \"1~131TXT\")",
+          "[轮到自己转移去异世界](https://tieba.baidu.com/f?kw=%E8%BD%AE%E5%88%B0%E8%87%AA%E5%B7%B1%E8%BD%AC%E7%A7%BB%E5%8E%BB%E5%BC%82%E4%B8%96%E7%95%8C)"
+        ]
       },
       "エルフ転生からのチート建国記": {
         "novel": {
@@ -6805,10 +6712,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou18.dip.jp/search.php?text=n9119ci&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[【整合txt下载】不定期更新，只收录web版小说](https": "//tieba.baidu.com/p/4100310325 \"【整合TXT下载】不定期更新，只收录web版小说\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n5705ch&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[dip.jp](https://narou18.dip.jp/search.php?text=n9119ci&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[【整合TXT下载】不定期更新，只收录web版小说](https://tieba.baidu.com/p/4100310325 \"【整合TXT下载】不定期更新，只收录web版小说\")"
+        ]
       },
       "回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～": {
         "novel": {
@@ -6879,13 +6787,13 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～.ts](https": "//github.com/bluelovers/node-novel/blob/master/lib/locales/%E5%9B%9E%E5%BE%A9%E8%A1%93%E5%A3%AB%E3%81%AE%E3%82%84%E3%82%8A%E7%9B%B4%E3%81%97%EF%BD%9E%E5%8D%B3%E6%AD%BB%E9%AD%94%E6%B3%95%E3%81%A8%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%B3%E3%83%94%E3%83%BC%E3%81%AE%E8%B6%85%E8%B6%8A%E3%83%92%E3%83%BC%E3%83%AB%EF%BD%9E.ts \"回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～.ts\")",
-          "[回复术士重来人生吧](https": "//tieba.baidu.com/f?kw=%E5%9B%9E%E5%A4%8D%E6%9C%AF%E5%A3%AB%E9%87%8D%E6%9D%A5%E4%BA%BA%E7%94%9F&ie=utf-8 \"回复术士重来人生\")",
-          "[公主殿下dc epub 潤色版](https": "//tieba.baidu.com/p/5769494425 \"【EPUB整合】《回复术士的重来人生》WEB小说（章更新）\") 結果看起來似乎沒做",
-          "[以腳本整理的 epub / txt 格式整合 譯名統一](https": "//tieba.baidu.com/p/5546046593 \"以腳本整理的 epub / txt 格式整合 譯名統一\")",
-          "[伊尔格尔](https": "//pan.baidu.com/s/12s7pitOzNAXTiNB5xT0WNQ) - kna9"
-        }
+        "link": [
+          "[回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E5%9B%9E%E5%BE%A9%E8%A1%93%E5%A3%AB%E3%81%AE%E3%82%84%E3%82%8A%E7%9B%B4%E3%81%97%EF%BD%9E%E5%8D%B3%E6%AD%BB%E9%AD%94%E6%B3%95%E3%81%A8%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%B3%E3%83%94%E3%83%BC%E3%81%AE%E8%B6%85%E8%B6%8A%E3%83%92%E3%83%BC%E3%83%AB%EF%BD%9E.ts \"回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～.ts\")",
+          "[回复术士重来人生吧](https://tieba.baidu.com/f?kw=%E5%9B%9E%E5%A4%8D%E6%9C%AF%E5%A3%AB%E9%87%8D%E6%9D%A5%E4%BA%BA%E7%94%9F&ie=utf-8 \"回复术士重来人生\")",
+          "[公主殿下DC epub 潤色版](https://tieba.baidu.com/p/5769494425 \"【EPUB整合】《回复术士的重来人生》WEB小说（章更新）\") 結果看起來似乎沒做",
+          "[以腳本整理的 epub / txt 格式整合 譯名統一](https://tieba.baidu.com/p/5546046593 \"以腳本整理的 epub / txt 格式整合 譯名統一\")",
+          "[伊尔格尔](https://pan.baidu.com/s/12s7pitOzNAXTiNB5xT0WNQ) - kna9"
+        ]
       },
       "帰ってきてもファンタジー！？": {
         "novel": {
@@ -6933,10 +6841,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n8514bp&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[回来也是异世界](https": "//tieba.baidu.com/f?kw=%E5%9B%9E%E6%9D%A5%E4%B9%9F%E6%98%AF%E5%BC%82%E4%B8%96%E7%95%8C&ie=utf-8&tp=0)"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n8514bp&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[回来也是异世界](https://tieba.baidu.com/f?kw=%E5%9B%9E%E6%9D%A5%E4%B9%9F%E6%98%AF%E5%BC%82%E4%B8%96%E7%95%8C&ie=utf-8&tp=0)"
+        ]
       },
       "在這個世界排行第九的我": {
         "novel": {
@@ -6983,11 +6891,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n1075eh&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[我在这个世界排行第九](https": "//tieba.baidu.com/f?kw=%E6%88%91%E5%9C%A8%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E6%8E%92%E8%A1%8C%E7%AC%AC%E4%B9%9D&ie=utf-8 \"我在这个世界排行第九\")",
-          "[在这个世界排行第9左右的我](https": "//tieba.baidu.com/f?kw=%E5%9C%A8%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E6%8E%92%E8%A1%8C%E7%AC%AC9%E5%B7%A6%E5%8F%B3%E7%9A%84%E6%88%91&ie=utf-8 \"在这个世界排行第9左右的我\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n1075eh&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[我在这个世界排行第九](https://tieba.baidu.com/f?kw=%E6%88%91%E5%9C%A8%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E6%8E%92%E8%A1%8C%E7%AC%AC%E4%B9%9D&ie=utf-8 \"我在这个世界排行第九\")",
+          "[在这个世界排行第9左右的我](https://tieba.baidu.com/f?kw=%E5%9C%A8%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E6%8E%92%E8%A1%8C%E7%AC%AC9%E5%B7%A6%E5%8F%B3%E7%9A%84%E6%88%91&ie=utf-8 \"在这个世界排行第9左右的我\")"
+        ]
       },
       "異世界支配のスキルテイカー　～　ゼロから始める奴隷ハーレム　～": {
         "novel": {
@@ -7038,11 +6946,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n0822cl&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[异世界支配的skilltake吧](https": "//tieba.baidu.com/f?kw=%E5%BC%82%E4%B8%96%E7%95%8C%E6%94%AF%E9%85%8D%E7%9A%84skilltake&ie=utf-8 \"异世界支配的skilltake\")",
-          "[異世界支配のスキルテイカー ゼロから始める奴隷ハーレム / 漫画](http": "//seiga.nicovideo.jp/comic/21881)"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n0822cl&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[异世界支配的skilltake吧](https://tieba.baidu.com/f?kw=%E5%BC%82%E4%B8%96%E7%95%8C%E6%94%AF%E9%85%8D%E7%9A%84skilltake&ie=utf-8 \"异世界支配的skilltake\")",
+          "[異世界支配のスキルテイカー ゼロから始める奴隷ハーレム / 漫画](http://seiga.nicovideo.jp/comic/21881)"
+        ]
       },
       "雪色エトランゼ": {
         "novel": {
@@ -7111,13 +7019,13 @@
         "options": {
           "textlayout": {}
         },
-        "link": {
-          "[暗黒騎士物語 ～勇者を倒すために魔王に召喚されました～.ts](https": "//github.com/bluelovers/node-novel/blob/master/lib/locales/%E6%9A%97%E9%BB%92%E9%A8%8E%E5%A3%AB%E7%89%A9%E8%AA%9E%E3%80%80%EF%BD%9E%E5%8B%87%E8%80%85%E3%82%92%E5%80%92%E3%81%99%E3%81%9F%E3%82%81%E3%81%AB%E9%AD%94%E7%8E%8B%E3%81%AB%E5%8F%AC%E5%96%9A%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%EF%BD%9E.ts) - 腳本樣式",
-          "[整合贴](https": "//tieba.baidu.com/p/5473361593 \"整合贴\") - 貼吧目錄",
-          "[epub](https": "//tieba.baidu.com/p/5515573122 \"以整合txt為基礎的整合epub 與 txt分割\")",
-          "[kakuyomu.jp](https": "//kakuyomu.jp/works/1177354054885318680)",
-          "[magnet-novels](https": "//www.magnet-novels.com/novels/56184)"
-        }
+        "link": [
+          "[暗黒騎士物語　～勇者を倒すために魔王に召喚されました～.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E6%9A%97%E9%BB%92%E9%A8%8E%E5%A3%AB%E7%89%A9%E8%AA%9E%E3%80%80%EF%BD%9E%E5%8B%87%E8%80%85%E3%82%92%E5%80%92%E3%81%99%E3%81%9F%E3%82%81%E3%81%AB%E9%AD%94%E7%8E%8B%E3%81%AB%E5%8F%AC%E5%96%9A%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%EF%BD%9E.ts) - 腳本樣式",
+          "[整合贴](https://tieba.baidu.com/p/5473361593 \"整合贴\") - 貼吧目錄",
+          "[epub](https://tieba.baidu.com/p/5515573122 \"以整合txt為基礎的整合epub 與 txt分割\")",
+          "[kakuyomu.jp](https://kakuyomu.jp/works/1177354054885318680)",
+          "[magnet-novels](https://www.magnet-novels.com/novels/56184)"
+        ]
       },
       "転生したら剣でした": {
         "novel": {
@@ -7169,11 +7077,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n6006cw&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[epub 个人化的版本](https": "//tieba.baidu.com/p/5513371170 \"epub 个人化的版本\")",
-          "[转生成为魔剑吧](https": "//tieba.baidu.com/f?kw=%E8%BD%AC%E7%94%9F%E6%88%90%E4%B8%BA%E9%AD%94%E5%89%91&ie=utf-8 \"转生成为魔剑\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n6006cw&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[epub 个人化的版本](https://tieba.baidu.com/p/5513371170 \"epub 个人化的版本\")",
+          "[转生成为魔剑吧](https://tieba.baidu.com/f?kw=%E8%BD%AC%E7%94%9F%E6%88%90%E4%B8%BA%E9%AD%94%E5%89%91&ie=utf-8 \"转生成为魔剑\")"
+        ]
       },
       "誰にでもできる影から助ける魔王討伐": {
         "novel": {
@@ -7213,11 +7121,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[谁都能做到的暗中协助魔王讨伐](https": "//tieba.baidu.com/f?kw=%E8%B0%81%E9%83%BD%E8%83%BD%E5%81%9A%E5%88%B0%E7%9A%84%E6%9A%97%E4%B8%AD%E5%8D%8F%E5%8A%A9%E9%AD%94%E7%8E%8B%E8%AE%A8%E4%BC%90&ie=utf-8 \"谁都能做到的暗中协助魔王讨伐\")",
-          "[我异世界的姐妹很不自重吧](https": "//tieba.baidu.com/f?kw=%E6%88%91%E5%BC%82%E4%B8%96%E7%95%8C%E7%9A%84%E5%A7%90%E5%A6%B9%E5%BE%88%E4%B8%8D%E8%87%AA%E9%87%8D&ie=utf-8 \"我异世界的姐妹很不自重\")",
-          "[masiro.moe](http": "//masiro.moe/forum.php?mod=forumdisplay&fid=61&page=1)"
-        }
+        "link": [
+          "[谁都能做到的暗中协助魔王讨伐](https://tieba.baidu.com/f?kw=%E8%B0%81%E9%83%BD%E8%83%BD%E5%81%9A%E5%88%B0%E7%9A%84%E6%9A%97%E4%B8%AD%E5%8D%8F%E5%8A%A9%E9%AD%94%E7%8E%8B%E8%AE%A8%E4%BC%90&ie=utf-8 \"谁都能做到的暗中协助魔王讨伐\")",
+          "[我异世界的姐妹很不自重吧](https://tieba.baidu.com/f?kw=%E6%88%91%E5%BC%82%E4%B8%96%E7%95%8C%E7%9A%84%E5%A7%90%E5%A6%B9%E5%BE%88%E4%B8%8D%E8%87%AA%E9%87%8D&ie=utf-8 \"我异世界的姐妹很不自重\")",
+          "[masiro.moe](http://masiro.moe/forum.php?mod=forumdisplay&fid=61&page=1)"
+        ]
       },
       "俺の死亡フラグが留まるところを知らない": {
         "novel": {
@@ -7271,10 +7179,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n4449cj&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[不知我的死亡flag将于何处停止](https": "//tieba.baidu.com/f?kw=%E4%B8%8D%E7%9F%A5%E6%88%91%E7%9A%84%E6%AD%BB%E4%BA%A1flag%E5%B0%86%E4%BA%8E%E4%BD%95%E5%A4%84%E5%81%9C%E6%AD%A2&ie=utf-8 \"不知我的死亡flag将于何处停止\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n4449cj&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[不知我的死亡flag将于何处停止](https://tieba.baidu.com/f?kw=%E4%B8%8D%E7%9F%A5%E6%88%91%E7%9A%84%E6%AD%BB%E4%BA%A1flag%E5%B0%86%E4%BA%8E%E4%BD%95%E5%A4%84%E5%81%9C%E6%AD%A2&ie=utf-8 \"不知我的死亡flag将于何处停止\")"
+        ]
       },
       "破壊の御子": {
         "novel": {
@@ -7332,10 +7240,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n1980bm&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[破坏之御子吧](https": "//tieba.baidu.com/f?kw=%E7%A0%B4%E5%9D%8F%E4%B9%8B%E5%BE%A1%E5%AD%90&ie=utf-8 \"\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n1980bm&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[破坏之御子吧](https://tieba.baidu.com/f?kw=%E7%A0%B4%E5%9D%8F%E4%B9%8B%E5%BE%A1%E5%AD%90&ie=utf-8 \"\")"
+        ]
       },
       "元将軍のアンデッドナイト": {
         "novel": {
@@ -7375,11 +7283,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n1354dw&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[原将军的不死骑士](https": "//tieba.baidu.com/f?kw=%E5%8E%9F%E5%B0%86%E5%86%9B%E7%9A%84%E4%B8%8D%E6%AD%BB%E9%AA%91%E5%A3%AB&ie=utf-8 \"原将军的不死骑士\")",
-          "[masiro.moe](http": "//masiro.moe/forum.php?mod=forumdisplay&fid=63&page=1)"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n1354dw&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[原将军的不死骑士](https://tieba.baidu.com/f?kw=%E5%8E%9F%E5%B0%86%E5%86%9B%E7%9A%84%E4%B8%8D%E6%AD%BB%E9%AA%91%E5%A3%AB&ie=utf-8 \"原将军的不死骑士\")",
+          "[masiro.moe](http://masiro.moe/forum.php?mod=forumdisplay&fid=63&page=1)"
+        ]
       },
       "強欲の花": {
         "novel": {
@@ -7427,10 +7335,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n3701cp&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[贪婪之花吧](https": "//tieba.baidu.com/f?kw=%E8%B4%AA%E5%A9%AA%E4%B9%8B%E8%8A%B1&ie=utf-8&tp=0 \"\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n3701cp&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[贪婪之花吧](https://tieba.baidu.com/f?kw=%E8%B4%AA%E5%A9%AA%E4%B9%8B%E8%8A%B1&ie=utf-8&tp=0 \"\")"
+        ]
       },
       "天才魔法使與原娼婦新娘": {
         "novel": {
@@ -7474,7 +7382,9 @@
           }
         },
         "link": [
-          "http://q.dmzj.com/2461/index.shtml"
+          "[dip.jp](https://narou.dip.jp/search.php?text=n2027de&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "http://q.dmzj.com/2461/index.shtml",
+          "[天才魔法使与原娼妇新娘吧](https://tieba.baidu.com/f?kw=%E5%A4%A9%E6%89%8D%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B8%8E%E5%8E%9F%E5%A8%BC%E5%A6%87%E6%96%B0%E5%A8%98&ie=utf-8 \"天才魔法使与原娼妇新娘\")"
         ]
       },
       "乙女ゲームの悪（中略）ヒロインが鬼畜女装野郎だったので、助けて下さい": {
@@ -7524,10 +7434,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n1721cj&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[转生恶役遇上鬼畜女装混账女主吧](https": "//tieba.baidu.com/f?kw=%E8%BD%AC%E7%94%9F%E6%81%B6%E5%BD%B9%E9%81%87%E4%B8%8A%E9%AC%BC%E7%95%9C%E5%A5%B3%E8%A3%85%E6%B7%B7%E8%B4%A6%E5%A5%B3%E4%B8%BB&ie=utf-8 \"转生恶役遇上鬼畜女装混账女主\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n1721cj&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[转生恶役遇上鬼畜女装混账女主吧](https://tieba.baidu.com/f?kw=%E8%BD%AC%E7%94%9F%E6%81%B6%E5%BD%B9%E9%81%87%E4%B8%8A%E9%AC%BC%E7%95%9C%E5%A5%B3%E8%A3%85%E6%B7%B7%E8%B4%A6%E5%A5%B3%E4%B8%BB&ie=utf-8 \"转生恶役遇上鬼畜女装混账女主\")"
+        ]
       },
       "俺の異世界姉妹が自重しない！": {
         "novel": {
@@ -7580,10 +7490,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n4696dd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[我异世界的姐妹很不自重吧](https": "//tieba.baidu.com/f?kw=%E6%88%91%E5%BC%82%E4%B8%96%E7%95%8C%E7%9A%84%E5%A7%90%E5%A6%B9%E5%BE%88%E4%B8%8D%E8%87%AA%E9%87%8D&ie=utf-8 \"我异世界的姐妹很不自重\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n4696dd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[我异世界的姐妹很不自重吧](https://tieba.baidu.com/f?kw=%E6%88%91%E5%BC%82%E4%B8%96%E7%95%8C%E7%9A%84%E5%A7%90%E5%A6%B9%E5%BE%88%E4%B8%8D%E8%87%AA%E9%87%8D&ie=utf-8 \"我异世界的姐妹很不自重\")"
+        ]
       },
       "病娇女神の箱庭": {
         "novel": {
@@ -7635,13 +7545,14 @@
         "options": {
           "textlayout": {}
         },
-        "link": {
-          "[病娇女神の箱庭.ts](https": "//github.com/bluelovers/node-novel/blob/master/lib/locales/%E7%97%85%E5%A8%87%E5%A5%B3%E7%A5%9E%E3%81%AE%E7%AE%B1%E5%BA%AD.ts)",
-          "[整合](https": "//tieba.baidu.com/p/5495131378)",
-          "[txt整合](https": "//tieba.baidu.com/p/5514473131)",
-          "[ノクタ版](http": "//novel18.syosetu.com/n2794ec/)",
-          "[dip.jp](https": "//narou18.dip.jp/search.php?text=n2794ec&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
-        }
+        "link": [
+          "[病娇女神の箱庭.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E7%97%85%E5%A8%87%E5%A5%B3%E7%A5%9E%E3%81%AE%E7%AE%B1%E5%BA%AD.ts)",
+          "[整合](https://tieba.baidu.com/p/5495131378)",
+          "[TXT整合](https://tieba.baidu.com/p/5514473131)",
+          "[ノクタ版](http://novel18.syosetu.com/n2794ec/)",
+          "[dip.jp](https://narou.dip.jp/search.php?text=n1110eb&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[dip.jp](https://narou18.dip.jp/search.php?text=n2794ec&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
+        ]
       },
       "呪術師は勇者になれない": {
         "novel": {
@@ -7682,11 +7593,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n1132dk&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[咒术师无法成为勇者吧](https": "//tieba.baidu.com/f?kw=%E5%92%92%E6%9C%AF%E5%B8%88%E6%97%A0%E6%B3%95%E6%88%90%E4%B8%BA%E5%8B%87%E8%80%85&ie=utf-8 \"咒术师无法成为勇者\")",
-          "[acg之神上吧](https": "//tieba.baidu.com/f?kw=acg%E4%B9%8B%E7%A5%9E%E4%B8%8A&ie=utf-8 \"\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n1132dk&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[咒术师无法成为勇者吧](https://tieba.baidu.com/f?kw=%E5%92%92%E6%9C%AF%E5%B8%88%E6%97%A0%E6%B3%95%E6%88%90%E4%B8%BA%E5%8B%87%E8%80%85&ie=utf-8 \"咒术师无法成为勇者\")",
+          "[acg之神上吧](https://tieba.baidu.com/f?kw=acg%E4%B9%8B%E7%A5%9E%E4%B8%8A&ie=utf-8 \"\")"
+        ]
       },
       "百魔の主": {
         "novel": {
@@ -7742,9 +7653,9 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n8125cd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n8125cd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
+        ]
       }
     },
     "wenku8_out": {
@@ -7798,9 +7709,9 @@
             "novel_id": "2115"
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.nar.jp/search.php?text=n7551bn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
-        }
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n7551bn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
+        ]
       },
       "OVERLORD不死者之王": {
         "novel": {
@@ -7826,9 +7737,9 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[overlord不死者之王吧](https": "//tieba.baidu.com/f?kw=overlord%E4%B8%8D%E6%AD%BB%E8%80%85%E4%B9%8B%E7%8E%8B&ie=utf-8 \"overlord不死者之王\")"
-        }
+        "link": [
+          "[overlord不死者之王吧](https://tieba.baidu.com/f?kw=overlord%E4%B8%8D%E6%AD%BB%E8%80%85%E4%B9%8B%E7%8E%8B&ie=utf-8 \"overlord不死者之王\")"
+        ]
       },
       "瀆神之主": {
         "novel": {
@@ -7854,11 +7765,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[ja.wikipedia](https": "//ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B3%E3%83%8E%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%88!)",
-          "[渎神之主吧](https": "//tieba.baidu.com/f?kw=%E6%B8%8E%E7%A5%9E%E4%B9%8B%E4%B8%BB&ie=utf-8 \"\")",
-          "[【心得】瀆神之主](https": "//home.gamer.com.tw/creationDetail.php?sn=1459097)"
-        }
+        "link": [
+          "[ja.wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B3%E3%83%8E%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%88!)",
+          "[渎神之主吧](https://tieba.baidu.com/f?kw=%E6%B8%8E%E7%A5%9E%E4%B9%8B%E4%B8%BB&ie=utf-8 \"\")",
+          "[【心得】瀆神之主](https://home.gamer.com.tw/creationDetail.php?sn=1459097)"
+        ]
       }
     },
     "epub_out": {
@@ -7915,10 +7826,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou18.dip.jp/search.php?text=%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%A7%E9%AD%85%E5%8A%9B%E3%83%81%E3%83%BC%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E5%A5%B4%E9%9A%B7%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%A0%E3%82%92%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[在异世界使用魅力开了奴隶后宫吧](https": "//tieba.baidu.com/f?kw=%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E4%BD%BF%E7%94%A8%E9%AD%85%E5%8A%9B%E5%BC%80%E4%BA%86%E5%A5%B4%E9%9A%B6%E5%90%8E%E5%AE%AB&ie=utf-8 \"在异世界使用魅力开了奴隶后宫\")"
-        }
+        "link": [
+          "[dip.jp](https://narou18.dip.jp/search.php?text=%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%A7%E9%AD%85%E5%8A%9B%E3%83%81%E3%83%BC%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E5%A5%B4%E9%9A%B7%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%A0%E3%82%92%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[在异世界使用魅力开了奴隶后宫吧](https://tieba.baidu.com/f?kw=%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E4%BD%BF%E7%94%A8%E9%AD%85%E5%8A%9B%E5%BC%80%E4%BA%86%E5%A5%B4%E9%9A%B6%E5%90%8E%E5%AE%AB&ie=utf-8 \"在异世界使用魅力开了奴隶后宫\")"
+        ]
       }
     },
     "cm": {
@@ -7977,6 +7888,9 @@
           }
         },
         "link": [
+          "[dip.jp](https://narou18.dip.jp/search.php?text=n0153ce&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[我的同学是姬骑士吧](https://tieba.baidu.com/f?kw=%E6%88%91%E7%9A%84%E5%90%8C%E5%AD%A6%E6%98%AF%E5%A7%AC%E9%AA%91%E5%A3%AB&ie=utf-8 \"我的同学是姬骑士\")",
+          "[姫騎士がクラスメート！　THE COMIC](http://www.comic-valkyrie.com/modules/web_valkyrie/classmate/)",
           "https://www.lightnovel.cn/forum.php?mod=viewthread&tid=922044"
         ]
       },
@@ -8030,9 +7944,9 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n5943db&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n5943db&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
+        ]
       },
       "現実主義勇者の大国建造記": {
         "novel": {
@@ -8125,10 +8039,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.nar.jp/search.php?text=n2031cu&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[在异世界转移从女...吧](https": "//tieba.baidu.com/f?kw=%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E8%BD%AC%E7%A7%BB%E4%BB%8E%E5%A5%B3%E7%A5%9E%E9%82%A3%E5%BE%97%E5%88%B0%E7%A5%9D%E7%A6%8F&ie=utf-8 \"在异世界转移从女神那得到祝福\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n2031cu&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[在异世界转移从女...吧](https://tieba.baidu.com/f?kw=%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E8%BD%AC%E7%A7%BB%E4%BB%8E%E5%A5%B3%E7%A5%9E%E9%82%A3%E5%BE%97%E5%88%B0%E7%A5%9D%E7%A6%8F&ie=utf-8 \"在异世界转移从女神那得到祝福\")"
+        ]
       },
       "聖者無双　～サラリーマン、異世界で生き残るために歩む道～": {
         "novel": {
@@ -8175,9 +8089,9 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n8697cx&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n8697cx&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
+        ]
       },
       "最強ギルドマスターの一週間建国記": {
         "novel": {
@@ -8223,9 +8137,9 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n9795dx&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n9795dx&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
+        ]
       },
       "捨てられた勇者は魔王となりて死に戻る（旧題：捨てられた勇者の英雄譚）": {
         "novel": {
@@ -8272,10 +8186,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n0878cb&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[被舍弃的勇者的英雄坛](https": "//tieba.baidu.com/f?kw=%E8%A2%AB%E8%88%8D%E5%BC%83%E7%9A%84%E5%8B%87%E8%80%85%E7%9A%84%E8%8B%B1%E9%9B%84%E5%9D%9B&ie=utf-8&tp=0 \"被舍弃的勇者的英雄坛\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n0878cb&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[被舍弃的勇者的英雄坛](https://tieba.baidu.com/f?kw=%E8%A2%AB%E8%88%8D%E5%BC%83%E7%9A%84%E5%8B%87%E8%80%85%E7%9A%84%E8%8B%B1%E9%9B%84%E5%9D%9B&ie=utf-8&tp=0 \"被舍弃的勇者的英雄坛\")"
+        ]
       },
       "魔王の始め方": {
         "novel": {
@@ -8312,11 +8226,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou18.dip.jp/search.php?text=n6426w&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[笑うヤカン](https": "//narou18.dip.jp/search.php?text=%E7%AC%91%E3%81%86%E3%83%A4%E3%82%AB%E3%83%B3&novel=all&genre=all&length=0&down=0&up=100)",
-          "[成为魔王的方法吧](https": "//tieba.baidu.com/f?kw=%E6%88%90%E4%B8%BA%E9%AD%94%E7%8E%8B%E7%9A%84%E6%96%B9%E6%B3%95&ie=utf-8 \"成为魔王的方法\")"
-        }
+        "link": [
+          "[dip.jp](https://narou18.dip.jp/search.php?text=n6426w&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[笑うヤカン](https://narou18.dip.jp/search.php?text=%E7%AC%91%E3%81%86%E3%83%A4%E3%82%AB%E3%83%B3&novel=all&genre=all&length=0&down=0&up=100)",
+          "[成为魔王的方法吧](https://tieba.baidu.com/f?kw=%E6%88%90%E4%B8%BA%E9%AD%94%E7%8E%8B%E7%9A%84%E6%96%B9%E6%B3%95&ie=utf-8 \"成为魔王的方法\")"
+        ]
       },
       "異世界の気象予報士～世界最強の天属性魔法術師～": {
         "novel": {
@@ -8464,10 +8378,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.nar.jp/search.php?text=n4045ed&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[轻之国度](https": "//www.lightnovel.cn/forum.php?mod=viewthread&tid=919749&extra=&authorid=989041)"
-        }
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n4045ed&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[轻之国度](https://www.lightnovel.cn/forum.php?mod=viewthread&tid=919749&extra=&authorid=989041)"
+        ]
       },
       "自称！平凡魔族の英雄ライフ": {
         "novel": {
@@ -8512,10 +8426,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n4679do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[自称平凡魔族的英雄生活吧](https": "//tieba.baidu.com/f?kw=%E8%87%AA%E7%A7%B0%E5%B9%B3%E5%87%A1%E9%AD%94%E6%97%8F%E7%9A%84%E8%8B%B1%E9%9B%84%E7%94%9F%E6%B4%BB&ie=utf-8 \"自称平凡魔族的英雄生活\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n4679do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[自称平凡魔族的英雄生活吧](https://tieba.baidu.com/f?kw=%E8%87%AA%E7%A7%B0%E5%B9%B3%E5%87%A1%E9%AD%94%E6%97%8F%E7%9A%84%E8%8B%B1%E9%9B%84%E7%94%9F%E6%B4%BB&ie=utf-8 \"自称平凡魔族的英雄生活\")"
+        ]
       },
       "世界最強の後衛　～迷宮国の新人探索者～": {
         "novel": {
@@ -8570,10 +8484,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.nar.jp/search.php?text=n4344dy&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[世界最强后卫吧](https": "//tieba.baidu.com/f?kw=%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%BA%E5%90%8E%E5%8D%AB&ie=utf-8 \"世界最强后卫\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n4344dy&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[世界最强后卫吧](https://tieba.baidu.com/f?kw=%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%BA%E5%90%8E%E5%8D%AB&ie=utf-8 \"世界最强后卫\")"
+        ]
       },
       "婚約者は、私の妹に恋をする": {
         "novel": {
@@ -8614,10 +8528,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n8109cq&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[婚约者恋上我的妹妹吧](https": "//tieba.baidu.com/f?kw=%E5%A9%9A%E7%BA%A6%E8%80%85%E6%81%8B%E4%B8%8A%E6%88%91%E7%9A%84%E5%A6%B9%E5%A6%B9&ie=utf-8 \"婚约者恋上我的妹妹\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n8109cq&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[婚约者恋上我的妹妹吧](https://tieba.baidu.com/f?kw=%E5%A9%9A%E7%BA%A6%E8%80%85%E6%81%8B%E4%B8%8A%E6%88%91%E7%9A%84%E5%A6%B9%E5%A6%B9&ie=utf-8 \"婚约者恋上我的妹妹\")"
+        ]
       },
       "乙女ゲー世界はモブに厳しい世界です": {
         "novel": {
@@ -8676,12 +8590,12 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.nar.jp/search.php?text=n3191eh&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[乙女游戏世界对路人角色太严厉吧](https": "//tieba.baidu.com/f?kw=%E4%B9%99%E5%A5%B3%E6%B8%B8%E6%88%8F%E4%B8%96%E7%95%8C%E5%AF%B9%E8%B7%AF%E4%BA%BA%E8%A7%92%E8%89%B2%E5%A4%AA%E4%B8%A5%E5%8E%89&ie=utf-8&tp=0 \"乙女游戏世界对路人角色太严厉\")",
-          "[dmzj](https": "//manhua.dmzj.com/yinvyouxishijieduilurenjuesehenbuyouhao/)",
-          "[comic-walker](https": "//comic-walker.com/contents/detail/KDCW_FS01200541010000_68/)"
-        }
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n3191eh&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[乙女游戏世界对路人角色太严厉吧](https://tieba.baidu.com/f?kw=%E4%B9%99%E5%A5%B3%E6%B8%B8%E6%88%8F%E4%B8%96%E7%95%8C%E5%AF%B9%E8%B7%AF%E4%BA%BA%E8%A7%92%E8%89%B2%E5%A4%AA%E4%B8%A5%E5%8E%89&ie=utf-8&tp=0 \"乙女游戏世界对路人角色太严厉\")",
+          "[dmzj](https://manhua.dmzj.com/yinvyouxishijieduilurenjuesehenbuyouhao/)",
+          "[comic-walker](https://comic-walker.com/contents/detail/KDCW_FS01200541010000_68/)"
+        ]
       },
       "大叔撿到了勇者和魔王": {
         "novel": {
@@ -8721,10 +8635,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n8756en&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[大叔捡到了勇者和魔王吧](https": "//tieba.baidu.com/f?kw=%E5%A4%A7%E5%8F%94%E6%8D%A1%E5%88%B0%E4%BA%86%E5%8B%87%E8%80%85%E5%92%8C%E9%AD%94%E7%8E%8B&ie=utf-8 \"大叔捡到了勇者和魔王\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n8756en&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[大叔捡到了勇者和魔王吧](https://tieba.baidu.com/f?kw=%E5%A4%A7%E5%8F%94%E6%8D%A1%E5%88%B0%E4%BA%86%E5%8B%87%E8%80%85%E5%92%8C%E9%AD%94%E7%8E%8B&ie=utf-8 \"大叔捡到了勇者和魔王\")"
+        ]
       },
       "父は英雄、母は精霊、娘の私は転生者。": {
         "novel": {
@@ -8776,11 +8690,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.nar.jp/search.php?text=n2056dn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[父为英雄母为精灵女儿为转生者吧](https": "//tieba.baidu.com/f?kw=%E7%88%B6%E4%B8%BA%E8%8B%B1%E9%9B%84%E6%AF%8D%E4%B8%BA%E7%B2%BE%E7%81%B5%E5%A5%B3%E5%84%BF%E4%B8%BA%E8%BD%AC%E7%94%9F%E8%80%85&ie=utf-8 \"父为英雄母为精灵女儿为转生者\")",
-          "[dmzj](https": "//manhua.dmzj.com/dieqiangmamengwowudi/)"
-        }
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n2056dn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[父为英雄母为精灵女儿为转生者吧](https://tieba.baidu.com/f?kw=%E7%88%B6%E4%B8%BA%E8%8B%B1%E9%9B%84%E6%AF%8D%E4%B8%BA%E7%B2%BE%E7%81%B5%E5%A5%B3%E5%84%BF%E4%B8%BA%E8%BD%AC%E7%94%9F%E8%80%85&ie=utf-8 \"父为英雄母为精灵女儿为转生者\")",
+          "[dmzj](https://manhua.dmzj.com/dieqiangmamengwowudi/)"
+        ]
       },
       "身為暗殺者的我明顯比勇者還強": {
         "novel": {
@@ -8832,13 +8746,13 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.nar.jp/search.php?text=n7707dt&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[over-lap.co.jp](https": "//over-lap.co.jp/Form/Product/ProductDetail.aspx?shop=0&pid=ZG0022&vid=&cat=CGS&swrd=)",
-          "[我的数值明显比勇者强吧](https": "//tieba.baidu.com/f?kw=%E6%88%91%E7%9A%84%E6%95%B0%E5%80%BC%E6%98%8E%E6%98%BE%E6%AF%94%E5%8B%87%E8%80%85%E5%BC%BA&ie=utf-8&tp=0 \"我的数值明显比勇者强\")",
-          "[dmzj](https": "//manhua.dmzj.com/shenweianshazhedewomingxianbiyongzhehaiqiang/)",
-          "[身为阿萨辛的我明显比勇者还强吧](https": "//tieba.baidu.com/f?kw=%E8%BA%AB%E4%B8%BA%E9%98%BF%E8%90%A8%E8%BE%9B%E7%9A%84%E6%88%91%E6%98%8E%E6%98%BE%E6%AF%94%E5%8B%87%E8%80%85%E8%BF%98%E5%BC%BA&ie=utf-8&tp=0 \"身为阿萨辛的我明显比勇者还强\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n7707dt&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[over-lap.co.jp](https://over-lap.co.jp/Form/Product/ProductDetail.aspx?shop=0&pid=ZG0022&vid=&cat=CGS&swrd=)",
+          "[我的数值明显比勇者强吧](https://tieba.baidu.com/f?kw=%E6%88%91%E7%9A%84%E6%95%B0%E5%80%BC%E6%98%8E%E6%98%BE%E6%AF%94%E5%8B%87%E8%80%85%E5%BC%BA&ie=utf-8&tp=0 \"我的数值明显比勇者强\")",
+          "[dmzj](https://manhua.dmzj.com/shenweianshazhedewomingxianbiyongzhehaiqiang/)",
+          "[身为阿萨辛的我明显比勇者还强吧](https://tieba.baidu.com/f?kw=%E8%BA%AB%E4%B8%BA%E9%98%BF%E8%90%A8%E8%BE%9B%E7%9A%84%E6%88%91%E6%98%8E%E6%98%BE%E6%AF%94%E5%8B%87%E8%80%85%E8%BF%98%E5%BC%BA&ie=utf-8&tp=0 \"身为阿萨辛的我明显比勇者还强\")"
+        ]
       },
       "ニトの怠惰な異世界症候群～最弱職〈ヒーラー〉なのに最強はチートですか？～": {
         "novel": {
@@ -8885,10 +8799,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n1489eq&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[尼特的慵懒异世界吧](https": "//tieba.baidu.com/f?kw=%E5%B0%BC%E7%89%B9%E7%9A%84%E6%85%B5%E6%87%92%E5%BC%82%E4%B8%96%E7%95%8C&ie=utf-8 \"尼特的慵懒异世界\")"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n1489eq&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[尼特的慵懒异世界吧](https://tieba.baidu.com/f?kw=%E5%B0%BC%E7%89%B9%E7%9A%84%E6%85%B5%E6%87%92%E5%BC%82%E4%B8%96%E7%95%8C&ie=utf-8 \"尼特的慵懒异世界\")"
+        ]
       }
     },
     "h_out": {
@@ -8942,6 +8856,7 @@
           }
         },
         "link": [
+          "[dip.jp](https://narou18.nar.jp/search.php?text=n7623br&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "http://lscj.ys168.com/",
           "https://tieba.baidu.com/p/4254108193?red_tag=0127070180"
         ]
@@ -8984,9 +8899,9 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[【恶魔支配者 - 整合】](https": "//tieba.baidu.com/p/5708760030 \"【恶魔支配者 - 整合】\")"
-        }
+        "link": [
+          "[【恶魔支配者 - 整合】](https://tieba.baidu.com/p/5708760030 \"【恶魔支配者 - 整合】\")"
+        ]
       },
       "辺境都市の育成者": {
         "novel": {
@@ -9023,9 +8938,9 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[【 边境都市的培养者 - 整/合】](https": "//tieba.baidu.com/p/5745282743 \"【 边境都市的培养者 - 整/合】\")"
-        }
+        "link": [
+          "[【 边境都市的培养者 - 整/合】](https://tieba.baidu.com/p/5745282743 \"【 边境都市的培养者 - 整/合】\")"
+        ]
       },
       "この勇者が俺ＴＵＥＥＥくせに慎重すぎる": {
         "novel": {
@@ -9072,11 +8987,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[lightnovel.cn](https": "//www.lightnovel.cn/thread-945037-1-1.html)",
-          "[这个勇者明明超强却过分慎重吧](https": "//tieba.baidu.com/f?kw=%E8%BF%99%E4%B8%AA%E5%8B%87%E8%80%85%E6%98%8E%E6%98%8E%E8%B6%85%E5%BC%BA%E5%8D%B4%E8%BF%87%E5%88%86%E6%85%8E%E9%87%8D&ie=utf-8 \"这个勇者明明超强却过分慎重\")",
-          "[manhuagui](https": "//tw.manhuagui.com/comic/30064/)"
-        }
+        "link": [
+          "[lightnovel.cn](https://www.lightnovel.cn/thread-945037-1-1.html)",
+          "[这个勇者明明超强却过分慎重吧](https://tieba.baidu.com/f?kw=%E8%BF%99%E4%B8%AA%E5%8B%87%E8%80%85%E6%98%8E%E6%98%8E%E8%B6%85%E5%BC%BA%E5%8D%B4%E8%BF%87%E5%88%86%E6%85%8E%E9%87%8D&ie=utf-8 \"这个勇者明明超强却过分慎重\")",
+          "[manhuagui](https://tw.manhuagui.com/comic/30064/)"
+        ]
       }
     },
     "webqxs_out": {
@@ -9141,9 +9056,9 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n5991bu&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n5991bu&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
+        ]
       }
     },
     "uukanshu_out": {
@@ -9207,13 +9122,14 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[新注音新聞](http": "//shouhei-blog.blogspot.com/2013/05/blog-post_28.html)",
-          "[ptt](https": "//www.ptt.cc/bbs/C_Chat/M.1332596760.A.E56.html)",
-          "[巴哈姆特](https": "//forum.gamer.com.tw/Co.php?bsn=60084&sn=2082898)",
-          "[nicovideo](http": "//www.nicovideo.jp/mylist/30197350)",
-          "[yywu0831](http": "//yywu0831.pixnet.net/blog/post/103444561-%5B%E7%BF%BB%E8%AD%AF%5D-%E5%A5%B9%E7%9A%84%E8%A8%98%E9%8C%84-%28%E5%BD%BC%E5%A5%B3%E3%81%AE%E8%A8%98%E9%8C%B2%29)"
-        }
+        "link": [
+          "[新注音新聞](http://shouhei-blog.blogspot.com/2013/05/blog-post_28.html)",
+          "[ptt](https://www.ptt.cc/bbs/C_Chat/M.1332312892.A.9B3.html)",
+          "[ptt](https://www.ptt.cc/bbs/C_Chat/M.1332596760.A.E56.html)",
+          "[巴哈姆特](https://forum.gamer.com.tw/Co.php?bsn=60084&sn=2082898)",
+          "[nicovideo](http://www.nicovideo.jp/mylist/30197350)",
+          "[yywu0831](http://yywu0831.pixnet.net/blog/post/103444561-%5B%E7%BF%BB%E8%AD%AF%5D-%E5%A5%B9%E7%9A%84%E8%A8%98%E9%8C%84-%28%E5%BD%BC%E5%A5%B3%E3%81%AE%E8%A8%98%E9%8C%B2%29)"
+        ]
       }
     },
     "user": {
@@ -9276,11 +9192,11 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou18.dip.jp/search.php?text=n6426w&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[笑うヤカン](https": "//narou18.dip.jp/search.php?text=%E7%AC%91%E3%81%86%E3%83%A4%E3%82%AB%E3%83%B3&novel=all&genre=all&length=0&down=0&up=100)",
-          "[成为魔王的方法吧](https": "//tieba.baidu.com/f?kw=%E6%88%90%E4%B8%BA%E9%AD%94%E7%8E%8B%E7%9A%84%E6%96%B9%E6%B3%95&ie=utf-8 \"成为魔王的方法\")"
-        }
+        "link": [
+          "[dip.jp](https://narou18.dip.jp/search.php?text=n6426w&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[笑うヤカン](https://narou18.dip.jp/search.php?text=%E7%AC%91%E3%81%86%E3%83%A4%E3%82%AB%E3%83%B3&novel=all&genre=all&length=0&down=0&up=100)",
+          "[成为魔王的方法吧](https://tieba.baidu.com/f?kw=%E6%88%90%E4%B8%BA%E9%AD%94%E7%8E%8B%E7%9A%84%E6%96%B9%E6%B3%95&ie=utf-8 \"成为魔王的方法\")"
+        ]
       },
       "駆除人": {
         "novel": {
@@ -9330,10 +9246,10 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[dip.jp](https": "//narou.dip.jp/search.php?text=n1406cr&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[驅除人 漫畫](http": "//tw.manhuagui.com/comic/24528/)"
-        }
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n1406cr&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[驅除人 漫畫](http://tw.manhuagui.com/comic/24528/)"
+        ]
       },
       "魔拳のデイドリーマー": {
         "novel": {
@@ -9377,9 +9293,9 @@
             "allow_lf2": true
           }
         },
-        "link": {
-          "[邪龙转生就算在异世界我还是我吧](https": "//tieba.baidu.com/f?kw=%E9%82%AA%E9%BE%99%E8%BD%AC%E7%94%9F%E5%B0%B1%E7%AE%97%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E6%88%91%E8%BF%98%E6%98%AF%E6%88%91&ie=utf-8 \"邪龙转生就算在异世界我还是我\")"
-        }
+        "link": [
+          "[邪龙转生就算在异世界我还是我吧](https://tieba.baidu.com/f?kw=%E9%82%AA%E9%BE%99%E8%BD%AC%E7%94%9F%E5%B0%B1%E7%AE%97%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E6%88%91%E8%BF%98%E6%98%AF%E6%88%91&ie=utf-8 \"邪龙转生就算在异世界我还是我\")"
+        ]
       }
     },
     "zh": {
