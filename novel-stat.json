@@ -1,219 +1,5 @@
 {
   "history": {
-    "1545840000000": {
-      "segment_count": 7,
-      "segment": [
-        [
-          "dmzj",
-          "蜘蛛ですが、なにか？",
-          {
-            "segment_date": 1545876325059,
-            "segment_old": 54,
-            "segment": 6,
-            "init_date": 1545779972577,
-            "update_date": 1545876325059,
-            "update_count": 3
-          }
-        ],
-        [
-          "syosetu",
-          "望まぬ不死の冒険者",
-          {
-            "segment_date": 1545867719408,
-            "segment_old": 4,
-            "segment": 4,
-            "init_date": 1545607102002,
-            "update_date": 1545867719408,
-            "update_count": 4
-          }
-        ],
-        [
-          "syosetu",
-          "用務員さんは勇者じゃありませんので",
-          {
-            "segment_date": 1545876430133,
-            "segment_old": 54,
-            "segment": 14,
-            "init_date": 1545521263591,
-            "update_date": 1545876430133,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "異常狀態是絕望",
-          {
-            "segment_date": 1545867724522,
-            "segment_old": 1,
-            "segment": 1,
-            "init_date": 1545607138342,
-            "update_date": 1545867724522,
-            "update_count": 4
-          }
-        ],
-        [
-          "user",
-          "自称贤者弟子的贤者",
-          {
-            "segment_date": 1545876626768,
-            "segment_old": 0,
-            "segment": 231,
-            "init_date": 1545876626768,
-            "update_date": 1545876626768,
-            "update_count": 1
-          }
-        ],
-        [
-          "user",
-          "黑之魔王",
-          {
-            "segment_date": 1545876824265,
-            "segment_old": 5,
-            "segment": 4,
-            "init_date": 1545261427757,
-            "update_date": 1545876824265,
-            "update_count": 5
-          }
-        ],
-        [
-          "zh",
-          "如何在異世界殺死一個死宅",
-          {
-            "segment_date": 1545867753596,
-            "segment_old": 28,
-            "segment": 28,
-            "init_date": 1545780337964,
-            "epub_date": 1545876925866,
-            "volume_old": 3,
-            "chapter_old": 28,
-            "volume": 3,
-            "chapter": 28,
-            "epub_basename": "如何在異世界殺死一個死宅.epub",
-            "update_date": 1545876925866,
-            "update_count": 3
-          }
-        ]
-      ],
-      "epub_count": 7,
-      "epub": [
-        [
-          "dmzj_out",
-          "蜘蛛ですが、なにか？",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "轉生成蜘蛛又怎樣！.out.txt",
-            "epub_date": 1545876901729,
-            "volume_old": 14,
-            "chapter_old": 728,
-            "volume": 14,
-            "chapter": 733,
-            "epub_basename": "轉生成蜘蛛又怎樣！.epub",
-            "update_date": 1545876901729,
-            "update_count": 3
-          }
-        ],
-        [
-          "syosetu",
-          "身為暗殺者的我明顯比勇者還強",
-          {
-            "epub_date": 1545876902555,
-            "volume_old": 1,
-            "chapter_old": 16,
-            "volume": 1,
-            "chapter": 16,
-            "init_date": 1545347808133,
-            "segment_date": 1545780109238,
-            "segment_old": 0,
-            "segment": 3,
-            "epub_basename": "身為暗殺者的我明顯比勇者還強.epub",
-            "update_date": 1545876902555,
-            "update_count": 3
-          }
-        ],
-        [
-          "syosetu_out",
-          "望まぬ不死の冒険者",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "事與願違的不死冒險者.out.txt",
-            "epub_date": 1545876905538,
-            "volume_old": 10,
-            "chapter_old": 172,
-            "volume": 10,
-            "chapter": 172,
-            "epub_basename": "事與願違的不死冒險者.epub",
-            "update_date": 1545876905538,
-            "update_count": 4
-          }
-        ],
-        [
-          "syosetu_out",
-          "用務員さんは勇者じゃありませんので",
-          {
-            "epub_date": 1545876907181,
-            "volume_old": 3,
-            "chapter_old": 60,
-            "volume": 4,
-            "chapter": 63,
-            "epub_basename": "因為校工桑並不是勇者.epub",
-            "init_date": 1545548930185,
-            "txt_basename": "因為校工桑並不是勇者.out.txt",
-            "update_date": 1545876907181,
-            "update_count": 1
-          }
-        ],
-        [
-          "user_out",
-          "自称贤者弟子的贤者",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "自称贤者弟子的贤者.out.txt",
-            "epub_date": 1545876912969,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 6,
-            "chapter": 293,
-            "epub_basename": "自称贤者弟子的贤者.epub",
-            "update_date": 1545876912969,
-            "update_count": 1
-          }
-        ],
-        [
-          "user_out",
-          "黑之魔王",
-          {
-            "epub_date": 1545876922336,
-            "volume_old": 29,
-            "chapter_old": 547,
-            "volume": 29,
-            "chapter": 547,
-            "init_date": 1545261469203,
-            "epub_basename": "黑之魔王.epub",
-            "txt_basename": "黑之魔王.out.txt",
-            "update_date": 1545876922336,
-            "update_count": 5
-          }
-        ],
-        [
-          "zh",
-          "如何在異世界殺死一個死宅",
-          {
-            "segment_date": 1545867753596,
-            "segment_old": 28,
-            "segment": 28,
-            "init_date": 1545780337964,
-            "epub_date": 1545876925866,
-            "volume_old": 3,
-            "chapter_old": 28,
-            "volume": 3,
-            "chapter": 28,
-            "epub_basename": "如何在異世界殺死一個死宅.epub",
-            "update_date": 1545876925866,
-            "update_count": 3
-          }
-        ]
-      ]
-    },
     "1545926400000": {
       "segment_count": 5,
       "segment": [
@@ -1219,6 +1005,45 @@
           }
         ]
       ]
+    },
+    "1546444800000": {
+      "epub_count": 2,
+      "epub": [
+        [
+          "cm",
+          "姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜",
+          {
+            "init_date": 1545494400000,
+            "segment_date": 1546393553093,
+            "segment_old": 0,
+            "segment": 13,
+            "epub_date": 1546475293509,
+            "volume_old": 3,
+            "chapter_old": 72,
+            "volume": 3,
+            "chapter": 72,
+            "epub_basename": "我的同學是姬騎士.epub",
+            "update_date": 1546444800000,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu_out",
+          "死憶の異世界傾国姫　～究極の悲劇のヒロインめざしてTS転生～",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "死憶の異世界傾国姫.out.txt",
+            "epub_date": 1546475295798,
+            "volume_old": 3,
+            "chapter_old": 45,
+            "volume": 3,
+            "chapter": 45,
+            "epub_basename": "死憶の異世界傾国姫.epub",
+            "update_date": 1546444800000,
+            "update_count": 3
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1335,7 +1160,7 @@
         "segment_date": 1546388330951,
         "segment_old": 0,
         "segment": 20,
-        "init_date": 1546388330951,
+        "init_date": 1546358400000,
         "update_date": 1546358400000,
         "update_count": 2
       },
@@ -1449,7 +1274,7 @@
         "segment_date": 1546388791522,
         "segment_old": 0,
         "segment": 1,
-        "init_date": 1546388791522,
+        "init_date": 1546358400000,
         "update_date": 1546358400000,
         "update_count": 2
       }
@@ -1791,14 +1616,14 @@
       "死憶の異世界傾国姫　～究極の悲劇のヒロインめざしてTS転生～": {
         "init_date": 1545494400000,
         "txt_basename": "死憶の異世界傾国姫.out.txt",
-        "epub_date": 1546389029994,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1546475295798,
+        "volume_old": 3,
+        "chapter_old": 45,
         "volume": 3,
         "chapter": 45,
         "epub_basename": "死憶の異世界傾国姫.epub",
-        "update_date": 1546358400000,
-        "update_count": 2
+        "update_date": 1546444800000,
+        "update_count": 3
       },
       "チートで賢者な俺は異世界に革命を起こす": {
         "init_date": 1545494400000
@@ -1962,14 +1787,14 @@
         "segment_date": 1546393553093,
         "segment_old": 0,
         "segment": 13,
-        "epub_date": 1546393635207,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1546475293509,
+        "volume_old": 3,
+        "chapter_old": 72,
         "volume": 3,
         "chapter": 72,
         "epub_basename": "我的同學是姬騎士.epub",
-        "update_date": 1546358400000,
-        "update_count": 1
+        "update_date": 1546444800000,
+        "update_count": 2
       },
       "異世界人の手引き書": {
         "init_date": 1545494400000
