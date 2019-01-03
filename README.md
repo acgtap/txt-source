@@ -1028,7 +1028,7 @@
 > 魔王になったので、ダンジョン造って人外娘とほのぼのする
 
 - [想自由生活的魔王默示錄](syosetu_out/%E6%83%B3%E8%87%AA%E7%94%B1%E7%94%9F%E6%B4%BB%E7%9A%84%E9%AD%94%E7%8E%8B%E9%BB%98%E7%A4%BA%E9%8C%84/%E5%B0%8E%E8%88%AA%E7%9B%AE%E9%8C%84.md) - *syosetu_out*
-  <br/>build: 2019-01-01  chapter: 52  
+  <br/>build: 2019-01-04  chapter: 54  add: 2  
 
 
 ### 湯葉
