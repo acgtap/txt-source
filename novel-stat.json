@@ -949,6 +949,27 @@
           }
         ]
       ]
+    },
+    "1546790400000": {
+      "epub_count": 1,
+      "epub": [
+        [
+          "cm_out",
+          "リビティウム皇国のブタクサ姫",
+          {
+            "epub_date": 1546816959985,
+            "volume_old": 7,
+            "chapter_old": 206,
+            "volume": 7,
+            "chapter": 207,
+            "epub_basename": "利貝提姆皇國的豚草姫.epub",
+            "init_date": 1545548908164,
+            "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
+            "update_date": 1546790400000,
+            "update_count": 8
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1759,16 +1780,16 @@
     },
     "cm_out": {
       "リビティウム皇国のブタクサ姫": {
-        "epub_date": 1546389019101,
+        "epub_date": 1546816959985,
         "volume_old": 7,
-        "chapter_old": 205,
+        "chapter_old": 206,
         "volume": 7,
-        "chapter": 206,
+        "chapter": 207,
         "epub_basename": "利貝提姆皇國的豚草姫.epub",
         "init_date": 1545548908164,
         "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-        "update_date": 1546358400000,
-        "update_count": 7
+        "update_date": 1546790400000,
+        "update_count": 8
       }
     },
     "dmzj_out": {
