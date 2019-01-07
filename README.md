@@ -426,7 +426,7 @@
 #### 四度目は嫌な死属性魔術師
 
 - [四度目は嫌な死属性魔術師](user_out/%E5%9B%9B%E5%BA%A6%E7%9B%AE%E3%81%AF%E5%AB%8C%E3%81%AA%E6%AD%BB%E5%B1%9E%E6%80%A7%E9%AD%94%E8%A1%93%E5%B8%AB/%E5%B0%8E%E8%88%AA%E7%9B%AE%E9%8C%84.md) - *user_out*
-  <br/>build: 2019-01-01  chapter: 278  
+  <br/>build: 2019-01-08  chapter: 278  add: 0  
 
 
 ### ナハァト
@@ -470,7 +470,7 @@
 > 沃特尼亞戰記
 
 - [ウォルテニア戦記](user_out/%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%86%E3%83%8B%E3%82%A2%E6%88%A6%E8%A8%98/%E5%B0%8E%E8%88%AA%E7%9B%AE%E9%8C%84.md) - *user_out*
-  <br/>build: 2018-12-31  chapter: 171  add: 5  
+  <br/>build: 2019-01-08  chapter: 174  add: 3  
 
 
 ### リュート
@@ -1009,7 +1009,7 @@
 > 誰都能做到的暗中協助魔王討伐
 
 - [誰にでもできる影から助ける魔王討伐](user_out/%E8%AA%B0%E3%81%AB%E3%81%A7%E3%82%82%E3%81%A7%E3%81%8D%E3%82%8B%E5%BD%B1%E3%81%8B%E3%82%89%E5%8A%A9%E3%81%91%E3%82%8B%E9%AD%94%E7%8E%8B%E8%A8%8E%E4%BC%90/%E5%B0%8E%E8%88%AA%E7%9B%AE%E9%8C%84.md) - *user_out*
-  <br/>build: 2019-01-01  chapter: 34  
+  <br/>build: 2019-01-08  chapter: 40  add: 6  
 
 
 ### 泉
@@ -1199,7 +1199,7 @@
 > 黒の魔王
 
 - [黑之魔王](user_out/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B/%E5%B0%8E%E8%88%AA%E7%9B%AE%E9%8C%84.md) - *user_out*
-  <br/>build: 2018-12-30  chapter: 547  add: 0  
+  <br/>build: 2019-01-08  chapter: 547  add: 0  
 
 
 ### 葵 大和
