@@ -970,6 +970,114 @@
           }
         ]
       ]
+    },
+    "1546876800000": {
+      "segment_count": 3,
+      "segment": [
+        [
+          "user",
+          "ウォルテニア戦記",
+          {
+            "segment_date": 1546903346610,
+            "segment_old": 1,
+            "segment": 2,
+            "init_date": 1546044567479,
+            "update_date": 1546876800000,
+            "update_count": 7
+          }
+        ],
+        [
+          "user",
+          "四度目は嫌な死属性魔術師",
+          {
+            "segment_date": 1546903652830,
+            "segment_old": 5,
+            "segment": 5,
+            "init_date": 1546302039608,
+            "update_date": 1546876800000,
+            "update_count": 4
+          }
+        ],
+        [
+          "user",
+          "黑之魔王",
+          {
+            "segment_date": 1546903825189,
+            "segment_old": 10,
+            "segment": 26,
+            "init_date": 1545261427757,
+            "update_date": 1546876800000,
+            "update_count": 8
+          }
+        ]
+      ],
+      "epub_count": 4,
+      "epub": [
+        [
+          "user_out",
+          "ウォルテニア戦記",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "沃特尼亞戰記.out.txt",
+            "epub_date": 1546903870937,
+            "volume_old": 5,
+            "chapter_old": 171,
+            "volume": 5,
+            "chapter": 174,
+            "epub_basename": "沃特尼亞戰記.epub",
+            "update_date": 1546876800000,
+            "update_count": 5
+          }
+        ],
+        [
+          "user_out",
+          "四度目は嫌な死属性魔術師",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "四度目は嫌な死属性魔術師.out.txt",
+            "epub_date": 1546903880509,
+            "volume_old": 17,
+            "chapter_old": 278,
+            "volume": 17,
+            "chapter": 278,
+            "epub_basename": "四度目は嫌な死属性魔術師.epub",
+            "update_date": 1546876800000,
+            "update_count": 2
+          }
+        ],
+        [
+          "user_out",
+          "誰にでもできる影から助ける魔王討伐",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "誰都能做到的暗中協助魔王討伐.out.txt",
+            "epub_date": 1546903882033,
+            "volume_old": 10,
+            "chapter_old": 34,
+            "volume": 10,
+            "chapter": 40,
+            "epub_basename": "誰都能做到的暗中協助魔王討伐.epub",
+            "update_date": 1546876800000,
+            "update_count": 2
+          }
+        ],
+        [
+          "user_out",
+          "黑之魔王",
+          {
+            "epub_date": 1546903891735,
+            "volume_old": 29,
+            "chapter_old": 547,
+            "volume": 29,
+            "chapter": 547,
+            "init_date": 1545261469203,
+            "epub_basename": "黑之魔王.epub",
+            "txt_basename": "黑之魔王.out.txt",
+            "update_date": 1546876800000,
+            "update_count": 11
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1096,12 +1204,12 @@
     },
     "user": {
       "黑之魔王": {
-        "segment_date": 1546040435347,
-        "segment_old": 5,
-        "segment": 10,
+        "segment_date": 1546903825189,
+        "segment_old": 10,
+        "segment": 26,
         "init_date": 1545261427757,
-        "update_date": 1546040435347,
-        "update_count": 7
+        "update_date": 1546876800000,
+        "update_count": 8
       },
       "火輪を抱いた少女": {
         "segment_date": 1545548707385,
@@ -1154,12 +1262,12 @@
         "update_count": 4
       },
       "ウォルテニア戦記": {
-        "segment_date": 1546388437441,
-        "segment_old": 6,
-        "segment": 1,
+        "segment_date": 1546903346610,
+        "segment_old": 1,
+        "segment": 2,
         "init_date": 1546044567479,
-        "update_date": 1546358400000,
-        "update_count": 6
+        "update_date": 1546876800000,
+        "update_count": 7
       },
       "你這種傢伙別想打贏魔王": {
         "segment_date": 1546126246577,
@@ -1181,12 +1289,12 @@
         "update_count": 1
       },
       "四度目は嫌な死属性魔術師": {
-        "segment_date": 1546388765188,
-        "segment_old": 183,
+        "segment_date": 1546903652830,
+        "segment_old": 5,
         "segment": 5,
         "init_date": 1546302039608,
-        "update_date": 1546358400000,
-        "update_count": 3
+        "update_date": 1546876800000,
+        "update_count": 4
       },
       "誰にでもできる影から助ける魔王討伐": {
         "segment_date": 1546302072698,
@@ -1207,7 +1315,7 @@
     },
     "user_out": {
       "黑之魔王": {
-        "epub_date": 1546130746525,
+        "epub_date": 1546903891735,
         "volume_old": 29,
         "chapter_old": 547,
         "volume": 29,
@@ -1215,8 +1323,8 @@
         "init_date": 1545261469203,
         "epub_basename": "黑之魔王.epub",
         "txt_basename": "黑之魔王.out.txt",
-        "update_date": 1546130746525,
-        "update_count": 10
+        "update_date": 1546876800000,
+        "update_count": 11
       },
       "火輪を抱いた少女": {
         "epub_date": 1545548942271,
@@ -1306,14 +1414,14 @@
       "四度目は嫌な死属性魔術師": {
         "init_date": 1545494400000,
         "txt_basename": "四度目は嫌な死属性魔術師.out.txt",
-        "epub_date": 1546302341477,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1546903880509,
+        "volume_old": 17,
+        "chapter_old": 278,
         "volume": 17,
         "chapter": 278,
         "epub_basename": "四度目は嫌な死属性魔術師.epub",
-        "update_date": 1546302341477,
-        "update_count": 1
+        "update_date": 1546876800000,
+        "update_count": 2
       },
       "その者。のちに・・・": {
         "init_date": 1545494400000
@@ -1321,14 +1429,14 @@
       "ウォルテニア戦記": {
         "init_date": 1545494400000,
         "txt_basename": "沃特尼亞戰記.out.txt",
-        "epub_date": 1546216738962,
+        "epub_date": 1546903870937,
         "volume_old": 5,
-        "chapter_old": 166,
+        "chapter_old": 171,
         "volume": 5,
-        "chapter": 171,
+        "chapter": 174,
         "epub_basename": "沃特尼亞戰記.epub",
-        "update_date": 1546216738962,
-        "update_count": 4
+        "update_date": 1546876800000,
+        "update_count": 5
       },
       "２９歳独身は異世界で自由に生きた…かった。": {
         "init_date": 1545494400000
@@ -1420,14 +1528,14 @@
       "誰にでもできる影から助ける魔王討伐": {
         "init_date": 1545494400000,
         "txt_basename": "誰都能做到的暗中協助魔王討伐.out.txt",
-        "epub_date": 1546302343180,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1546903882033,
+        "volume_old": 10,
+        "chapter_old": 34,
         "volume": 10,
-        "chapter": 34,
+        "chapter": 40,
         "epub_basename": "誰都能做到的暗中協助魔王討伐.epub",
-        "update_date": 1546302343180,
-        "update_count": 1
+        "update_date": 1546876800000,
+        "update_count": 2
       },
       "俺の死亡フラグが留まるところを知らない": {
         "init_date": 1545494400000
@@ -2058,10 +2166,10 @@
           "dmzj": {
             "novel_id": "1837"
           },
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 4,
-            "startindex": 1
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 4,
+            "startIndex": 1
           },
           "syosetu": {
             "txtdownload_id": "undefined",
@@ -2109,10 +2217,10 @@
           "dmzj": {
             "novel_id": "2534"
           },
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 4,
-            "startindex": 1
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 4,
+            "startIndex": 1
           },
           "textlayout": {
             "allow_lf2": true
@@ -2191,10 +2299,10 @@
           "dmzj": {
             "novel_id": "2563"
           },
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 4,
-            "startindex": 1
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 4,
+            "startIndex": 1
           },
           "textlayout": {
             "allow_lf2": true
@@ -2361,10 +2469,10 @@
           "dmzj": {
             "novel_id": "2012"
           },
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 4,
-            "startindex": 1
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 4,
+            "startIndex": 1
           },
           "syosetu": {
             "txtdownload_id": "697906",
@@ -2466,10 +2574,10 @@
           "mirronight"
         ],
         "options": {
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 1,
-            "startindex": 0
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 0
           },
           "syosetu": {
             "txtdownload_id": "877550",
@@ -2533,10 +2641,10 @@
           "飄零leaf"
         ],
         "options": {
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 1,
-            "startindex": 1
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
           },
           "syosetu": {
             "txtdownload_id": "undefined",
@@ -2591,10 +2699,10 @@
           "聞人織也"
         ],
         "options": {
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 1,
-            "startindex": 1
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
           },
           "syosetu": {
             "txtdownload_id": "undefined",
@@ -2724,10 +2832,10 @@
           "駒"
         ],
         "options": {
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 1,
-            "startindex": 0
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 0
           },
           "syosetu": {
             "txtdownload_id": "1088999",
@@ -2787,10 +2895,10 @@
           "烧着hdcsb"
         ],
         "options": {
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 3,
-            "startindex": 0
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 3,
+            "startIndex": 0
           },
           "syosetu": {
             "txtdownload_id": "1160495",
@@ -3106,10 +3214,10 @@
           "碳十三sky"
         ],
         "options": {
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 1,
-            "startindex": 0
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 0
           },
           "syosetu": {
             "txtdownload_id": "611792",
@@ -4692,10 +4800,10 @@
           "萌與幻想"
         ],
         "options": {
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 4,
-            "startindex": 1
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 4,
+            "startIndex": 1
           },
           "syosetu": {
             "txtdownload_id": "922579",
@@ -5030,10 +5138,10 @@
           "嘻嘻花火"
         ],
         "options": {
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 1,
-            "startindex": 1
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
           },
           "syosetu": {
             "txtdownload_id": "815610",
@@ -7714,10 +7822,10 @@
           "MA四区啥时候开"
         ],
         "options": {
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 4,
-            "startindex": 1
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 4,
+            "startIndex": 1
           },
           "syosetu": {
             "txtdownload_id": "undefined",
@@ -8386,10 +8494,10 @@
           "飛奔中的喵"
         ],
         "options": {
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 1,
-            "startindex": 1
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
           },
           "syosetu": {
             "txtdownload_id": "1073938",
@@ -8492,10 +8600,10 @@
           "飛"
         ],
         "options": {
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 3,
-            "startindex": 0
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 3,
+            "startIndex": 0
           },
           "syosetu": {
             "txtdownload_id": "1024242",
@@ -8598,10 +8706,10 @@
           "灰常瞴语"
         ],
         "options": {
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 1,
-            "startindex": 1
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
           },
           "syosetu": {
             "txtdownload_id": "1113080",
@@ -8698,10 +8806,10 @@
           "傻酱o-o"
         ],
         "options": {
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 1,
-            "startindex": 1
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
           },
           "syosetu": {
             "txtdownload_id": "911965",
@@ -8754,10 +8862,10 @@
           "路西法"
         ],
         "options": {
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 1,
-            "startindex": 0
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 0
           },
           "syosetu": {
             "txtdownload_id": "977610",
@@ -8863,10 +8971,10 @@
           "聯盟冠軍"
         ],
         "options": {
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 1,
-            "startindex": 1
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
           },
           "syosetu": {
             "txtdownload_id": "437580",
@@ -8996,10 +9104,10 @@
           "拱白菜的萌豚"
         ],
         "options": {
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 1,
-            "startindex": 0
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 0
           },
           "kakuyomu": {
             "novel_id": "1177354054881165840"
@@ -9346,10 +9454,10 @@
           "dmzj": {
             "novel_id": "2560"
           },
-          "downloadoptions": {
-            "nofilepadend": true,
-            "fileprefixmode": 4,
-            "startindex": 1
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 4,
+            "startIndex": 1
           },
           "textlayout": {
             "allow_lf2": true
