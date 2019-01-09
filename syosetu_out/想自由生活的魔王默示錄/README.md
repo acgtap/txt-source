@@ -2,6 +2,7 @@
 
 - title: 魔王になったので、ダンジョン造って人外娘とほのぼのする
 - title_zh: 想自由生活的魔王默示錄
+- title_zh2: 魔王建造地下城转生到异世界建造人外娘
 - author: 流優
 - source: http://ncode.syosetu.com/n2671do/
 - cover: https://images-na.ssl-images-amazon.com/images/I/91r6R0%2B9L5L.jpg
@@ -86,6 +87,8 @@
 - [想自由生活的魔王默示录吧](https://tieba.baidu.com/f?kw=%E6%83%B3%E8%87%AA%E7%94%B1%E7%94%9F%E6%B4%BB%E7%9A%84%E9%AD%94%E7%8E%8B%E9%BB%98%E7%A4%BA%E5%BD%95&ie=utf-8 "想自由生活的魔王默示录")
 - [【魔王默示录 - 整合】](https://tieba.baidu.com/p/5822195807 "【魔王默示录 - 整合】")
 - [comic-walker](https://comic-walker.com/contents/detail/KDCW_FS01200334010000_68/)
+- [译名整合](https://tieba.baidu.com/p/5979908922 "译名整合")
+- [dm5](http://www.dm5.com/manhua-mowangjianzaodixiachengzhuanshengdaoyishijiejianzaorenwainiang/) - 漫画
 - 
 
 
