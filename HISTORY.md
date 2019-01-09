@@ -1,5 +1,16 @@
 # HISTORY
 
+## 2019-01-09
+
+### Epub
+
+- [最強呪族転生](syosetu_out/%E6%9C%80%E5%BC%B7%E5%91%AA%E6%97%8F%E8%BB%A2%E7%94%9F) - syosetu_out
+  <br/>( v: 6 , c: 217, add: 217 )
+- [你這種傢伙別想打贏魔王](user_out/%E4%BD%A0%E9%80%99%E7%A8%AE%E5%82%A2%E4%BC%99%E5%88%A5%E6%83%B3%E6%89%93%E8%B4%8F%E9%AD%94%E7%8E%8B) - user_out
+  <br/>( v: 9 , c: 83, add: 1 )
+- [異世界迷宮の最深部を目指そう](user_out/%E7%95%B0%E4%B8%96%E7%95%8C%E8%BF%B7%E5%AE%AE%E3%81%AE%E6%9C%80%E6%B7%B1%E9%83%A8%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%9D%E3%81%86) - user_out
+  <br/>( v: 26 , c: 382, add: 382 )
+
 ## 2019-01-08
 
 ### Epub
