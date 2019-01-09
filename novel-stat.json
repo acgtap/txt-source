@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1546963200000,
-    "timestamp": 1546990500441
+    "todayTimestamp": 1547049600000,
+    "timestamp": 1547076322292
   },
   "history": {
     "1546012800000": {
@@ -1135,6 +1135,58 @@
           }
         ]
       ]
+    },
+    "1547049600000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "syosetu",
+          "想自由生活的魔王默示錄",
+          {
+            "init_date": 1546272000000,
+            "segment_date": 1547076202823,
+            "segment_old": 0,
+            "segment": 6,
+            "update_date": 1547049600000,
+            "update_count": 1
+          }
+        ]
+      ],
+      "epub_count": 2,
+      "epub": [
+        [
+          "syosetu_out",
+          "想自由生活的魔王默示錄",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "想自由生活的魔王默示錄.out.txt",
+            "epub_date": 1547076305202,
+            "volume_old": 6,
+            "chapter_old": 54,
+            "volume": 7,
+            "chapter": 71,
+            "epub_basename": "想自由生活的魔王默示錄.epub",
+            "update_date": 1547049600000,
+            "update_count": 3
+          }
+        ],
+        [
+          "syosetu_out",
+          "紅き血に口づけを　～外れスキルからの逆転人生～",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "為鮮血獻上吻　～從沒用技能開始的逆轉人生.out.txt",
+            "epub_date": 1547076306155,
+            "volume_old": 1,
+            "chapter_old": 19,
+            "volume": 1,
+            "chapter": 21,
+            "epub_basename": "為鮮血獻上吻　～從沒用技能開始的逆轉人生～.epub",
+            "update_date": 1547049600000,
+            "update_count": 2
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1245,7 +1297,12 @@
         "init_date": 1545926400000
       },
       "想自由生活的魔王默示錄": {
-        "init_date": 1546272000000
+        "init_date": 1546272000000,
+        "segment_date": 1547076202823,
+        "segment_old": 0,
+        "segment": 6,
+        "update_date": 1547049600000,
+        "update_count": 1
       },
       "暇人、魔王の姿で異世界へ": {
         "segment_date": 1546388330951,
@@ -1743,14 +1800,14 @@
       "紅き血に口づけを　～外れスキルからの逆転人生～": {
         "init_date": 1545494400000,
         "txt_basename": "為鮮血獻上吻　～從沒用技能開始的逆轉人生.out.txt",
-        "epub_date": 1545607422693,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1547076306155,
+        "volume_old": 1,
+        "chapter_old": 19,
         "volume": 1,
-        "chapter": 19,
+        "chapter": 21,
         "epub_basename": "為鮮血獻上吻　～從沒用技能開始的逆轉人生～.epub",
-        "update_date": 1545607422693,
-        "update_count": 1
+        "update_date": 1547049600000,
+        "update_count": 2
       },
       "無口な天使_(n3462bz)": {
         "init_date": 1545494400000
@@ -1839,14 +1896,14 @@
       "想自由生活的魔王默示錄": {
         "init_date": 1545494400000,
         "txt_basename": "想自由生活的魔王默示錄.out.txt",
-        "epub_date": 1546557929531,
-        "volume_old": 5,
-        "chapter_old": 52,
-        "volume": 6,
-        "chapter": 54,
+        "epub_date": 1547076305202,
+        "volume_old": 6,
+        "chapter_old": 54,
+        "volume": 7,
+        "chapter": 71,
         "epub_basename": "想自由生活的魔王默示錄.epub",
-        "update_date": 1546531200000,
-        "update_count": 2
+        "update_date": 1547049600000,
+        "update_count": 3
       },
       "俺だけ入れる隠しダンジョン　〜こっそり鍛えて世界最強〜": {
         "init_date": 1545494400000
@@ -4838,6 +4895,7 @@
         "novel": {
           "title": "魔王になったので、ダンジョン造って人外娘とほのぼのする",
           "title_zh": "想自由生活的魔王默示錄",
+          "title_zh2": "魔王建造地下城转生到异世界建造人外娘",
           "author": "流優",
           "source": "http://ncode.syosetu.com/n2671do/",
           "cover": "https://images-na.ssl-images-amazon.com/images/I/91r6R0%2B9L5L.jpg",
@@ -4898,7 +4956,9 @@
           "[dip.jp](https://narou.nar.jp/search.php?text=n2671do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[想自由生活的魔王默示录吧](https://tieba.baidu.com/f?kw=%E6%83%B3%E8%87%AA%E7%94%B1%E7%94%9F%E6%B4%BB%E7%9A%84%E9%AD%94%E7%8E%8B%E9%BB%98%E7%A4%BA%E5%BD%95&ie=utf-8 \"想自由生活的魔王默示录\")",
           "[【魔王默示录 - 整合】](https://tieba.baidu.com/p/5822195807 \"【魔王默示录 - 整合】\")",
-          "[comic-walker](https://comic-walker.com/contents/detail/KDCW_FS01200334010000_68/)"
+          "[comic-walker](https://comic-walker.com/contents/detail/KDCW_FS01200334010000_68/)",
+          "[译名整合](https://tieba.baidu.com/p/5979908922 \"译名整合\")",
+          "[dm5](http://www.dm5.com/manhua-mowangjianzaodixiachengzhuanshengdaoyishijiejianzaorenwainiang/) - 漫画"
         ]
       },
       "俺だけ入れる隠しダンジョン　〜こっそり鍛えて世界最強〜": {

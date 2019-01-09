@@ -1,5 +1,19 @@
 # HISTORY
 
+## 2019-01-10
+
+### Epub
+
+- [想自由生活的魔王默示錄](syosetu_out/%E6%83%B3%E8%87%AA%E7%94%B1%E7%94%9F%E6%B4%BB%E7%9A%84%E9%AD%94%E7%8E%8B%E9%BB%98%E7%A4%BA%E9%8C%84) - syosetu_out
+  <br/>( v: 7 , c: 71, add: 17 )
+- [紅き血に口づけを　～外れスキルからの逆転人生～](syosetu_out/%E7%B4%85%E3%81%8D%E8%A1%80%E3%81%AB%E5%8F%A3%E3%81%A5%E3%81%91%E3%82%92%E3%80%80%EF%BD%9E%E5%A4%96%E3%82%8C%E3%82%B9%E3%82%AD%E3%83%AB%E3%81%8B%E3%82%89%E3%81%AE%E9%80%86%E8%BB%A2%E4%BA%BA%E7%94%9F%EF%BD%9E) - syosetu_out
+  <br/>( v: 1 , c: 21, add: 2 )
+
+### Segment
+
+- [想自由生活的魔王默示錄](syosetu/%E6%83%B3%E8%87%AA%E7%94%B1%E7%94%9F%E6%B4%BB%E7%9A%84%E9%AD%94%E7%8E%8B%E9%BB%98%E7%A4%BA%E9%8C%84) - syosetu
+  <br/>( s: 6 )
+
 ## 2019-01-09
 
 ### Epub
