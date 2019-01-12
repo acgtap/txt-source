@@ -88,6 +88,7 @@
 - gnh07
 - predatorwzy
 - 沛之暗影
+- celestia173
 - 
 
 # options
@@ -116,4 +117,5 @@
 - [dip.jp](https://narou.dip.jp/search.php?text=n2627t&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [黒之魔王吧](https://tieba.baidu.com/f?kw=%E9%BB%92%E4%B9%8B%E9%AD%94%E7%8E%8B&ie=utf-8 "")
 - [灵九条](https://pan.baidu.com/s/1pMi5zXT) d3xv
+- [masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=53&page=1)
 - 
