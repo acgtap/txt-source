@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1547049600000,
-    "timestamp": 1547076322292
+    "todayTimestamp": 1547308800000,
+    "timestamp": 1547335816237
   },
   "history": {
     "1546012800000": {
@@ -1187,6 +1187,102 @@
           }
         ]
       ]
+    },
+    "1547308800000": {
+      "segment_count": 2,
+      "segment": [
+        [
+          "user",
+          "你這種傢伙別想打贏魔王",
+          {
+            "segment_date": 1547335522000,
+            "segment_old": 47,
+            "segment": 6,
+            "init_date": 1546044596562,
+            "update_date": 1547308800000,
+            "update_count": 3
+          }
+        ],
+        [
+          "user",
+          "黑之魔王",
+          {
+            "segment_date": 1547335747872,
+            "segment_old": 26,
+            "segment": 1,
+            "init_date": 1545261427757,
+            "update_date": 1547308800000,
+            "update_count": 9
+          }
+        ]
+      ],
+      "epub_count": 4,
+      "epub": [
+        [
+          "syosetu_out",
+          "用務員さんは勇者じゃありませんので",
+          {
+            "epub_date": 1547335778959,
+            "volume_old": 4,
+            "chapter_old": 63,
+            "volume": 4,
+            "chapter": 63,
+            "epub_basename": "因為校工桑並不是勇者.epub",
+            "init_date": 1545548930185,
+            "txt_basename": "因為校工桑並不是勇者.out.txt",
+            "update_date": 1547308800000,
+            "update_count": 2
+          }
+        ],
+        [
+          "user_out",
+          "你這種傢伙別想打贏魔王",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
+            "epub_date": 1547335781928,
+            "volume_old": 9,
+            "chapter_old": 83,
+            "volume": 9,
+            "chapter": 86,
+            "epub_basename": "你這種傢伙別想打贏魔王.epub",
+            "update_date": 1547308800000,
+            "update_count": 6
+          }
+        ],
+        [
+          "user_out",
+          "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "暗黒騎士物語　～勇者を倒すために魔王に召.out.txt",
+            "epub_date": 1547335787847,
+            "volume_old": 9,
+            "chapter_old": 177,
+            "volume": 9,
+            "chapter": 178,
+            "epub_basename": "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～.epub",
+            "update_date": 1547308800000,
+            "update_count": 6
+          }
+        ],
+        [
+          "user_out",
+          "黑之魔王",
+          {
+            "epub_date": 1547335798254,
+            "volume_old": 29,
+            "chapter_old": 547,
+            "volume": 29,
+            "chapter": 549,
+            "init_date": 1545261469203,
+            "epub_basename": "黑之魔王.epub",
+            "txt_basename": "黑之魔王.out.txt",
+            "update_date": 1547308800000,
+            "update_count": 12
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1321,12 +1417,12 @@
     },
     "user": {
       "黑之魔王": {
-        "segment_date": 1546903825189,
-        "segment_old": 10,
-        "segment": 26,
+        "segment_date": 1547335747872,
+        "segment_old": 26,
+        "segment": 1,
         "init_date": 1545261427757,
-        "update_date": 1546876800000,
-        "update_count": 8
+        "update_date": 1547308800000,
+        "update_count": 9
       },
       "火輪を抱いた少女": {
         "segment_date": 1545548707385,
@@ -1387,12 +1483,12 @@
         "update_count": 7
       },
       "你這種傢伙別想打贏魔王": {
-        "segment_date": 1546126246577,
+        "segment_date": 1547335522000,
         "segment_old": 47,
-        "segment": 47,
+        "segment": 6,
         "init_date": 1546044596562,
-        "update_date": 1546126246577,
-        "update_count": 2
+        "update_date": 1547308800000,
+        "update_count": 3
       },
       "奪う者　奪われる者": {
         "init_date": 1546099200000
@@ -1435,16 +1531,16 @@
     },
     "user_out": {
       "黑之魔王": {
-        "epub_date": 1546903891735,
+        "epub_date": 1547335798254,
         "volume_old": 29,
         "chapter_old": 547,
         "volume": 29,
-        "chapter": 547,
+        "chapter": 549,
         "init_date": 1545261469203,
         "epub_basename": "黑之魔王.epub",
         "txt_basename": "黑之魔王.out.txt",
-        "update_date": 1546876800000,
-        "update_count": 11
+        "update_date": 1547308800000,
+        "update_count": 12
       },
       "火輪を抱いた少女": {
         "epub_date": 1545548942271,
@@ -1495,14 +1591,14 @@
       "你這種傢伙別想打贏魔王": {
         "init_date": 1545494400000,
         "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
-        "epub_date": 1546990438433,
+        "epub_date": 1547335781928,
         "volume_old": 9,
-        "chapter_old": 82,
+        "chapter_old": 83,
         "volume": 9,
-        "chapter": 83,
+        "chapter": 86,
         "epub_basename": "你這種傢伙別想打贏魔王.epub",
-        "update_date": 1546963200000,
-        "update_count": 5
+        "update_date": 1547308800000,
+        "update_count": 6
       },
       "奪う者　奪われる者": {
         "init_date": 1545494400000,
@@ -1642,14 +1738,14 @@
       "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～": {
         "init_date": 1545494400000,
         "txt_basename": "暗黒騎士物語　～勇者を倒すために魔王に召.out.txt",
-        "epub_date": 1546130737586,
+        "epub_date": 1547335787847,
         "volume_old": 9,
         "chapter_old": 177,
         "volume": 9,
-        "chapter": 177,
+        "chapter": 178,
         "epub_basename": "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～.epub",
-        "update_date": 1546130737586,
-        "update_count": 5
+        "update_date": 1547308800000,
+        "update_count": 6
       },
       "転生したら剣でした": {
         "init_date": 1545494400000
@@ -1720,16 +1816,16 @@
         "update_count": 2
       },
       "用務員さんは勇者じゃありませんので": {
-        "epub_date": 1545876907181,
-        "volume_old": 3,
-        "chapter_old": 60,
+        "epub_date": 1547335778959,
+        "volume_old": 4,
+        "chapter_old": 63,
         "volume": 4,
         "chapter": 63,
         "epub_basename": "因為校工桑並不是勇者.epub",
         "init_date": 1545548930185,
         "txt_basename": "因為校工桑並不是勇者.out.txt",
-        "update_date": 1545876907181,
-        "update_count": 1
+        "update_date": 1547308800000,
+        "update_count": 2
       },
       "異常狀態是絕望": {
         "epub_date": 1545607422008,
@@ -5501,6 +5597,7 @@
           "ScarletFlash",
           "SenpaiSugar",
           "arqrwrer",
+          "celestia173",
           "cfws00",
           "daohaocao4",
           "fhqwerty乐园",
@@ -5561,7 +5658,8 @@
           "[黑之魔王.ts](https://github.com/bluelovers/node-novel/blob/master/lib/locales/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B.ts)",
           "[dip.jp](https://narou.dip.jp/search.php?text=n2627t&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[黒之魔王吧](https://tieba.baidu.com/f?kw=%E9%BB%92%E4%B9%8B%E9%AD%94%E7%8E%8B&ie=utf-8 \"\")",
-          "[灵九条](https://pan.baidu.com/s/1pMi5zXT) d3xv"
+          "[灵九条](https://pan.baidu.com/s/1pMi5zXT) d3xv",
+          "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=53&page=1)"
         ]
       },
       "没落予定なので、鍛治職人を目指す": {
@@ -7288,7 +7386,8 @@
           "残念兔",
           "物理盐鱼",
           "綠茶一級棒",
-          "蕾丝缔亞"
+          "蕾丝缔亞",
+          "鬼之幻魔"
         ],
         "options": {
           "textlayout": {}
