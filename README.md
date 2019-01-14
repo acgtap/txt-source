@@ -656,7 +656,7 @@
 > 異世界迷宮最深部為目標
 
 - [異世界迷宮の最深部を目指そう](user_out/%E7%95%B0%E4%B8%96%E7%95%8C%E8%BF%B7%E5%AE%AE%E3%81%AE%E6%9C%80%E6%B7%B1%E9%83%A8%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%9D%E3%81%86/%E5%B0%8E%E8%88%AA%E7%9B%AE%E9%8C%84.md) - *user_out*
-  <br/>build: 2019-01-09  chapter: 382  
+  <br/>build: 2019-01-14  chapter: 384  add: 2  
 
 
 ### 力水
