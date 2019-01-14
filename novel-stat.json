@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1547308800000,
-    "timestamp": 1547335816237
+    "todayTimestamp": 1547395200000,
+    "timestamp": 1547426027597
   },
   "history": {
     "1546012800000": {
@@ -1283,6 +1283,42 @@
           }
         ]
       ]
+    },
+    "1547395200000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "user",
+          "異世界迷宮の最深部を目指そう",
+          {
+            "init_date": 1546963200000,
+            "segment_date": 1547425836759,
+            "segment_old": 2,
+            "segment": 2,
+            "update_date": 1547395200000,
+            "update_count": 1
+          }
+        ]
+      ],
+      "epub_count": 1,
+      "epub": [
+        [
+          "user_out",
+          "異世界迷宮の最深部を目指そう",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "異世界迷宮の最深部を目指そう.out.txt",
+            "epub_date": 1547426012096,
+            "volume_old": 26,
+            "chapter_old": 382,
+            "volume": 26,
+            "chapter": 384,
+            "epub_basename": "異世界迷宮の最深部を目指そう.epub",
+            "update_date": 1547395200000,
+            "update_count": 2
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1526,7 +1562,12 @@
         "update_count": 2
       },
       "異世界迷宮の最深部を目指そう": {
-        "init_date": 1546963200000
+        "init_date": 1546963200000,
+        "segment_date": 1547425836759,
+        "segment_old": 2,
+        "segment": 2,
+        "update_date": 1547395200000,
+        "update_count": 1
       }
     },
     "user_out": {
@@ -1672,14 +1713,14 @@
       "異世界迷宮の最深部を目指そう": {
         "init_date": 1545494400000,
         "txt_basename": "異世界迷宮の最深部を目指そう.out.txt",
-        "epub_date": 1546990454153,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1547426012096,
+        "volume_old": 26,
+        "chapter_old": 382,
         "volume": 26,
-        "chapter": 382,
+        "chapter": 384,
         "epub_basename": "異世界迷宮の最深部を目指そう.epub",
-        "update_date": 1546963200000,
-        "update_count": 1
+        "update_date": 1547395200000,
+        "update_count": 2
       },
       "豚公爵に転生したから、今度は君に好きと言いたい": {
         "init_date": 1545494400000,
