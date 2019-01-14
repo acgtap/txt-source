@@ -118,4 +118,5 @@
 - [黒之魔王吧](https://tieba.baidu.com/f?kw=%E9%BB%92%E4%B9%8B%E9%AD%94%E7%8E%8B&ie=utf-8 "")
 - [灵九条](https://pan.baidu.com/s/1pMi5zXT) d3xv
 - [masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=53&page=1)
+- [黒の魔王・裏](http://novel18.syosetu.com/n9884df/)
 - 
