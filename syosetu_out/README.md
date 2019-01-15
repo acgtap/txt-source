@@ -196,7 +196,7 @@
 
 - link: [最強呪族転生](%E6%9C%80%E5%BC%B7%E5%91%AA%E6%97%8F%E8%BB%A2%E7%94%9F/)
 - link_source: [最強呪族転生](../syosetu/%E6%9C%80%E5%BC%B7%E5%91%AA%E6%97%8F%E8%BB%A2%E7%94%9F/)
-- tags: 猫子 , node-novel , syosetu , ラブコメ , 木偶人形無双 , 異世界転生
+- tags: 猫子 , node-novel , syosetu , ラブコメ , 木偶人形無双 , 民族 , 異世界転生 , 魔術
 
 ### titles
 
