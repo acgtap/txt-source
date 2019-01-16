@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1547568000000,
-    "timestamp": 1547634740295,
+    "todayTimestamp": 1547654400000,
+    "timestamp": 1547681378120,
     "sourceUrl": "https://gitee.com/bluelovers/novel/tree/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -612,6 +612,188 @@
           }
         ]
       ]
+    },
+    "1547654400000": {
+      "segment_count": 5,
+      "segment": [
+        [
+          "mirronight",
+          "在異世界轉移從女人大人那兒得到祝福",
+          {
+            "epub_date": 1547681357071,
+            "volume_old": 1,
+            "chapter_old": 20,
+            "volume": 2,
+            "chapter": 40,
+            "epub_basename": "在異世界轉移從女人大人那兒得到祝福.epub",
+            "init_date": 1547481600000,
+            "update_date": 1547654400000,
+            "update_count": 3,
+            "segment_date": 1547681270369,
+            "segment_old": 6,
+            "segment": 9
+          }
+        ],
+        [
+          "syosetu",
+          "アラフォー賢者の異世界生活日記",
+          {
+            "segment_date": 1547681298709,
+            "segment_old": 26,
+            "segment": 6,
+            "init_date": 1547568000000,
+            "update_date": 1547654400000,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu",
+          "月桂樹の唄",
+          {
+            "segment_date": 1547681305369,
+            "segment_old": 0,
+            "segment": 14,
+            "init_date": 1547681305369,
+            "epub_date": 1547681357763,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 3,
+            "chapter": 14,
+            "epub_basename": "月桂樹の唄.epub",
+            "update_date": 1547654400000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "變成了美少女、但也成了網游廢人。",
+          {
+            "segment_date": 1547681311766,
+            "segment_old": 0,
+            "segment": 9,
+            "init_date": 1547681311766,
+            "epub_date": 1547681360307,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 9,
+            "epub_basename": "變成了美少女、但也成了網游廢人。.epub",
+            "update_date": 1547654400000,
+            "update_count": 1
+          }
+        ],
+        [
+          "wenku8",
+          "打倒女神勇者的下流手段",
+          {
+            "segment_date": 1547681318768,
+            "segment_old": 0,
+            "segment": 2,
+            "init_date": 1547681318768,
+            "epub_date": 1547681363689,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 9,
+            "epub_basename": "打倒女神勇者的下流手段.epub",
+            "novel_status": 1,
+            "update_date": 1547654400000,
+            "update_count": 1
+          }
+        ]
+      ],
+      "epub_count": 5,
+      "epub": [
+        [
+          "cm_out",
+          "リビティウム皇国のブタクサ姫",
+          {
+            "epub_date": 1547681355074,
+            "volume_old": 7,
+            "chapter_old": 207,
+            "volume": 7,
+            "chapter": 208,
+            "epub_basename": "利貝提姆皇國的豚草姫.epub",
+            "init_date": 1545548908164,
+            "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
+            "update_date": 1547654400000,
+            "update_count": 9
+          }
+        ],
+        [
+          "mirronight",
+          "在異世界轉移從女人大人那兒得到祝福",
+          {
+            "epub_date": 1547681357071,
+            "volume_old": 1,
+            "chapter_old": 20,
+            "volume": 2,
+            "chapter": 40,
+            "epub_basename": "在異世界轉移從女人大人那兒得到祝福.epub",
+            "init_date": 1547481600000,
+            "update_date": 1547654400000,
+            "update_count": 3,
+            "segment_date": 1547681270369,
+            "segment_old": 6,
+            "segment": 9
+          }
+        ],
+        [
+          "syosetu",
+          "月桂樹の唄",
+          {
+            "segment_date": 1547681305369,
+            "segment_old": 0,
+            "segment": 14,
+            "init_date": 1547681305369,
+            "epub_date": 1547681357763,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 3,
+            "chapter": 14,
+            "epub_basename": "月桂樹の唄.epub",
+            "update_date": 1547654400000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "變成了美少女、但也成了網游廢人。",
+          {
+            "segment_date": 1547681311766,
+            "segment_old": 0,
+            "segment": 9,
+            "init_date": 1547681311766,
+            "epub_date": 1547681360307,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 9,
+            "epub_basename": "變成了美少女、但也成了網游廢人。.epub",
+            "update_date": 1547654400000,
+            "update_count": 1
+          }
+        ],
+        [
+          "wenku8",
+          "打倒女神勇者的下流手段",
+          {
+            "segment_date": 1547681318768,
+            "segment_old": 0,
+            "segment": 2,
+            "init_date": 1547681318768,
+            "epub_date": 1547681363689,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 9,
+            "epub_basename": "打倒女神勇者的下流手段.epub",
+            "novel_status": 1,
+            "update_date": 1547654400000,
+            "update_count": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -747,11 +929,39 @@
         "init_date": 1547481600000
       },
       "アラフォー賢者の異世界生活日記": {
-        "segment_date": 1547631024201,
-        "segment_old": 0,
-        "segment": 26,
+        "segment_date": 1547681298709,
+        "segment_old": 26,
+        "segment": 6,
         "init_date": 1547568000000,
-        "update_date": 1547568000000,
+        "update_date": 1547654400000,
+        "update_count": 2
+      },
+      "月桂樹の唄": {
+        "segment_date": 1547681305369,
+        "segment_old": 0,
+        "segment": 14,
+        "init_date": 1547681305369,
+        "epub_date": 1547681357763,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 3,
+        "chapter": 14,
+        "epub_basename": "月桂樹の唄.epub",
+        "update_date": 1547654400000,
+        "update_count": 1
+      },
+      "變成了美少女、但也成了網游廢人。": {
+        "segment_date": 1547681311766,
+        "segment_old": 0,
+        "segment": 9,
+        "init_date": 1547681311766,
+        "epub_date": 1547681360307,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 9,
+        "epub_basename": "變成了美少女、但也成了網游廢人。.epub",
+        "update_date": 1547654400000,
         "update_count": 1
       }
     },
@@ -1483,18 +1693,18 @@
         "epub_basename": "打造魔王大人的城鎮（魔王築城記）"
       },
       "在異世界轉移從女人大人那兒得到祝福": {
-        "epub_date": 1547631096538,
+        "epub_date": 1547681357071,
         "volume_old": 1,
         "chapter_old": 20,
-        "volume": 1,
-        "chapter": 20,
+        "volume": 2,
+        "chapter": 40,
         "epub_basename": "在異世界轉移從女人大人那兒得到祝福.epub",
         "init_date": 1547481600000,
-        "update_date": 1547568000000,
-        "update_count": 2,
-        "segment_date": 1547527532985,
-        "segment_old": 0,
-        "segment": 6
+        "update_date": 1547654400000,
+        "update_count": 3,
+        "segment_date": 1547681270369,
+        "segment_old": 6,
+        "segment": 9
       }
     },
     "wenku8": {
@@ -1506,20 +1716,35 @@
       },
       "钱进战国雄霸天下": {
         "init_date": 1545494400000
+      },
+      "打倒女神勇者的下流手段": {
+        "segment_date": 1547681318768,
+        "segment_old": 0,
+        "segment": 2,
+        "init_date": 1547681318768,
+        "epub_date": 1547681363689,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 9,
+        "epub_basename": "打倒女神勇者的下流手段.epub",
+        "novel_status": 1,
+        "update_date": 1547654400000,
+        "update_count": 1
       }
     },
     "cm_out": {
       "リビティウム皇国のブタクサ姫": {
-        "epub_date": 1546816959985,
+        "epub_date": 1547681355074,
         "volume_old": 7,
-        "chapter_old": 206,
+        "chapter_old": 207,
         "volume": 7,
-        "chapter": 207,
+        "chapter": 208,
         "epub_basename": "利貝提姆皇國的豚草姫.epub",
         "init_date": 1545548908164,
         "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-        "update_date": 1546790400000,
-        "update_count": 8
+        "update_date": 1547654400000,
+        "update_count": 9
       }
     },
     "dmzj_out": {
@@ -8142,6 +8367,62 @@
             "allow_lf2": true
           }
         }
+      },
+      "打倒女神勇者的下流手段": {
+        "novel": {
+          "title": "打倒女神勇者的下流手段",
+          "title_jp": "女神の勇者を倒すゲスな方法・おまけ",
+          "author": "笹木さくま（夏希のたね）",
+          "source": "http://www.wenku8.com/book/2519.htm",
+          "cover": "https://cdn.kdkw.jp/cover_1000/321610/321610000327.jpg",
+          "publisher": "Fami通文库",
+          "date": "2019-01-16T00:00:00+08:00",
+          "status": "完結済",
+          "novel_status": 1,
+          "series": {
+            "name": "女神の勇者を倒すゲスな方法"
+          },
+          "preface": "「想办法摆平那些勇者！」突然被召唤到剑与魔法世界的外山真一，受到召唤主「苍蓝魔王」下跪恳求。魔王似乎只是为了可爱的女儿才会来到人界追求美食，没打算危害人类。尽管如此，杀掉也会复活的勇者们却每天来袭，让他很困扰。反正难得来到异世界，于是真一主动表示要负责击退勇者，但他的策略却都是连魔族也会吓一跳的阴招──！魔王参谋的勇者攻略记，登场！\n\n「勇者共をどうにかしてくれ！」いきなり剣と魔法の世界に召喚された外山真一に召喚主の\"蒼の魔王\"は土下座で頼み込んできた。魔王は可愛い娘のために、美味しい食料を求め人間界に来ただけで、人類に危害を加える気はないらしい。なのに殺しても蘇える勇者達に毎日襲撃され困っていたのだ。せっかく異世界に来たんだし、と真一は勇者撃退に乗り出すが、彼の策略は魔族すらドン引きするものばかりで――!!　第18回えんため大賞特別賞受賞作、魔王の参謀となった少年の勇者攻略譚、登場！",
+          "tags": [
+            "node-novel",
+            "syosetu",
+            "wenku8",
+            "ギャグ",
+            "シリアス",
+            "ハッピーエンド",
+            "ラブコメ",
+            "中世",
+            "勇者",
+            "残酷な描写あり",
+            "男主人公",
+            "異世界転移",
+            "西洋",
+            "魔法",
+            "魔王"
+          ]
+        },
+        "contribute": [
+          "尤巴連結體",
+          "深夜讀書會",
+          "讀書群：714435342"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 4,
+            "startIndex": 1
+          },
+          "textlayout": {
+            "allow_lf2": true
+          },
+          "wenku8": {
+            "novel_id": "2519"
+          }
+        },
+        "link": [
+          "[kakuyomu](https://kakuyomu.jp/works/1177354054887566690)",
+          "[syosetu](https://ncode.syosetu.com/n3670fe/)"
+        ]
       }
     },
     "syosetu": {
@@ -8624,6 +8905,134 @@
         "link": [
           "[dip.jp](https://narou.dip.jp/search.php?text=n1489eq&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[尼特的慵懒异世界吧](https://tieba.baidu.com/f?kw=%E5%B0%BC%E7%89%B9%E7%9A%84%E6%85%B5%E6%87%92%E5%BC%82%E4%B8%96%E7%95%8C&ie=utf-8 \"尼特的慵懒异世界\")"
+        ]
+      },
+      "月桂樹の唄": {
+        "novel": {
+          "title": "月桂樹の唄",
+          "title_zh1": "月桂树之歌",
+          "author": "松山 京平",
+          "source": "http://ncode.syosetu.com/n1828cs/",
+          "cover": "http://gmom04-res.cloudinary.com/image/upload/v1491893744/dlynaizfnjybuo87uotj.jpg",
+          "publisher": "syosetu",
+          "date": "2018-10-29T01:16:00+08:00",
+          "status": "連載",
+          "series": {
+            "name": "月桂樹の唄"
+          },
+          "preface": "淩川琉璃，是位如彗星一般橫空出世的人氣聲優。\n但是，她有一個不為人知的秘密。那就是、她有著“本是名男生”這樣令人難以相信的過去。\n因臨近高考的、十四歲左右時的、身體異常的變化而痛苦掙扎、並陷入絕望深淵的琉璃，於平安夜夜晚、在公園中與既是劇作家、又是“七色團”劇團團長的奈良屋義春相遇，決心走上演員的道路。\n擁有著非凡的姿容與表演技藝、以及如天性一般的美聲與歌唱力的琉璃，不久，就在聲優界獲得了頂尖的人氣。\n然後，再一次造訪的平安夜。\n欺騙群眾、背叛朋友、不斷對自己的內心說謊的琉璃，被捲入了事故之中……。\n\n　彗星の如く現われた人気声優「澪川瑠璃（みおかわ　るり）」。\n　しかし、１年前の彼女はロックシンガーを夢見るひねくれた中学生３年生の男子、「宮川瑠伊（みやかわ　るい）」だった。\n\n　高校受験を控えた１４歳の秋、男だった瑠伊の身体は少しずつ変化していく……。\n　身体の異常をひた隠しにしながら、瑠伊は原因不明の激痛にもがき苦しむ日々を過ごした。\n　身体の変化に限界を感じ、明日にでも命尽き果てる不安と絶望の底で、ついに瑠伊の身体は完全な女性へと変貌する。\n\n　季節は冬。\n　クリスマス・イヴの夜の公園で劇作家であり俳優でもある劇団七色座の座長「奈良屋義春」と出会い、瑠伊は役者の道を志す決意をする。\n　天使のような容姿と美声に演技力と歌唱力が加わった瑠伊は瑠璃となり、天の悪戯か声優デビューを果たして一躍世間の注目を浴びる存在となる。\n\n\n　　──そして１年後。再び訪れたクリスマス・イヴの夜。\n\n\n　初のライブで観客を熱狂させた帰りの夜、瑠璃は交通事故に巻き込まれた。\n　その刹那、懐かしい思い出が走馬灯のように駆け巡る……。\n\n\n　　この物語は女へと変わってしまった男子中学生の記憶であり、\n　　芸能界へ挑戦する一人の少女の秘密の記録である。\n\n\n　大衆を誑（たぶら）かし、友を騙し、自らの心をも偽り続ける瑠璃は……。\n\n\n※本作品はPixiv様でも掲載しております。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "ご都合主義",
+            "ガールズラブ",
+            "シリアス",
+            "スクールラブ",
+            "ネット小説大賞六感想",
+            "ボーイズラブ",
+            "ラブコメ",
+            "中学生",
+            "劇団",
+            "声優",
+            "少しずつＴＳ",
+            "性転換",
+            "日常",
+            "現代(モダン)",
+            "舞台",
+            "青春",
+            "高校生",
+            "ＴＳ"
+          ]
+        },
+        "contribute": [
+          "土之女神",
+          "寂夜空雪",
+          "星宫濑奈",
+          "興國物語",
+          "阿拉斯加巨企鹅",
+          "随便取的名字82"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "undefined",
+            "novel_id": "n1828cs"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n1828cs&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[月桂树之歌吧](https://tieba.baidu.com/f?kw=%E6%9C%88%E6%A1%82%E6%A0%91%E4%B9%8B%E6%AD%8C&ie=utf-8 \"\")",
+          "[pixiv](https://www.pixiv.net/novel/series/882076)"
+        ]
+      },
+      "變成了美少女、但也成了網游廢人。": {
+        "novel": {
+          "title": "美少女になったけど、ネトゲ廃人やってます。",
+          "title_zh": "變成了美少女、但也成了網游廢人。",
+          "title_zh2": "变成了美少女但也成了网游废人",
+          "author": "星屑ぽんぽん",
+          "source": "http://ncode.syosetu.com/n0170db/",
+          "cover": "https://21485.mitemin.net/userpageimage/viewimagebig/icode/i246294/",
+          "publisher": "syosetu",
+          "date": "2019-01-15T13:29:00+08:00",
+          "status": "連載",
+          "series": {
+            "name": "美少女になったけど、ネトゲ廃人やってます。"
+          },
+          "preface": "【講談社、Kラノベブックス様より書籍化いたします】\n　愛の告白に大失敗した高校生、訊太郎。\n　彼の災難は続き、ニュースで話題の性転化病を発症してしまう。性別が逆転し、銀髪美少女に変貌した彼は、ショックのあまりVRゲームで現実逃避を計ることにした……。\n\n　現実と同じ少女姿でプレイしてしまい、他のプレイヤーからはゴミスキルと言われている錬金術を、ひたすら極めていく訊太郎(じんたろう)。\n\n『傭兵となって、戦う、奪う、支配する、探索する、開拓する、生産する、その生き方は自由』と謳われたクラン・クランのゲーム世界で、彼は様々な傭兵(プレイヤー)と出会い、ほっこりと成長していく。\n　そんな訊太郎は、一緒にゲーム内で遊ぶリア友たちに自分の姿をバグだと言い張り、現実で美少女になってしまったことを秘密にしながら冒険するのであった。\n\n　夏休みが終われば、学校で顔を合わせることになるのに。\n\n　これは、いずれ軍閣クラスや国家クラスの傭兵団を相手に、一歩も引けを取らない『戦争』をやり遂げてみせる、錬金術士のお話。\n\n　一介の男子高校生が突如、美少女化してしまうと果たしてどうなるのだろうか。\n　答えはヒキコモリ、廃ネトゲーマー。\n　\n【★マークの話は、読者さまから頂いたイラスト付きです】\n【祝　PV2000万突破。ユニーク320万人突破】",
+          "tags": [
+            "TS",
+            "VRMMO",
+            "VRゲーム",
+            "node-novel",
+            "syosetu",
+            "ほのぼの",
+            "アイテム無双",
+            "チート",
+            "ファンタジー",
+            "主人公最強",
+            "性転換",
+            "戦術",
+            "書籍化",
+            "次元の観測者な娘",
+            "網游",
+            "美少女",
+            "銀髪ようじょ",
+            "錬金術"
+          ]
+        },
+        "contribute": [
+          "lulala61",
+          "秋葉怜",
+          "紫月的夜梦"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "undefined",
+            "novel_id": "n0170db"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n0170db&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[变成了美少女但也成了网游废人吧](https://tieba.baidu.com/f?kw=%E5%8F%98%E6%88%90%E4%BA%86%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%BD%86%E4%B9%9F%E6%88%90%E4%BA%86%E7%BD%91%E6%B8%B8%E5%BA%9F%E4%BA%BA&ie=utf-8 \"变成了美少女但也成了网游废人\")",
+          "[地名装备名技能名人名等简单整合（不含角色介绍有的人名）](https://tieba.baidu.com/p/5603770798 \"地名装备名技能名人名等简单整合（不含角色介绍有的人名）\")",
+          "[twitter](https://twitter.com/hosikuzuponpon)"
         ]
       }
     },
