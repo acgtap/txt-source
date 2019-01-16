@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1547481600000,
-    "timestamp": 1547528042629,
+    "todayTimestamp": 1547568000000,
+    "timestamp": 1547634740295,
     "sourceUrl": "https://gitee.com/bluelovers/novel/tree/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -544,6 +544,74 @@
           }
         ]
       ]
+    },
+    "1547568000000": {
+      "segment_count": 2,
+      "segment": [
+        [
+          "syosetu",
+          "アラフォー賢者の異世界生活日記",
+          {
+            "segment_date": 1547631024201,
+            "segment_old": 0,
+            "segment": 26,
+            "init_date": 1547568000000,
+            "update_date": 1547568000000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "魔王様、リトライ！",
+          {
+            "segment_date": 1547631054002,
+            "segment_old": 1,
+            "segment": 7,
+            "init_date": 1545521369284,
+            "update_date": 1547568000000,
+            "update_count": 3
+          }
+        ]
+      ],
+      "epub_count": 2,
+      "epub": [
+        [
+          "cm",
+          "異世界転移で女神様から祝福を！　～いえ、手持ちの異能があるので結構です～",
+          {
+            "init_date": 1545494400000,
+            "epub_date": 1547631095349,
+            "volume_old": 5,
+            "chapter_old": 102,
+            "volume": 5,
+            "chapter": 102,
+            "epub_basename": "異世界転移で女神様から祝福を！　～いえ、手持ちの異能があるので結構です～.epub",
+            "update_date": 1547568000000,
+            "update_count": 2,
+            "segment_date": 1547527524592,
+            "segment_old": 0,
+            "segment": 35
+          }
+        ],
+        [
+          "mirronight",
+          "在異世界轉移從女人大人那兒得到祝福",
+          {
+            "epub_date": 1547631096538,
+            "volume_old": 1,
+            "chapter_old": 20,
+            "volume": 1,
+            "chapter": 20,
+            "epub_basename": "在異世界轉移從女人大人那兒得到祝福.epub",
+            "init_date": 1547481600000,
+            "update_date": 1547568000000,
+            "update_count": 2,
+            "segment_date": 1547527532985,
+            "segment_old": 0,
+            "segment": 6
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -677,6 +745,14 @@
       },
       "注意到的時候ＴＳ成了精靈": {
         "init_date": 1547481600000
+      },
+      "アラフォー賢者の異世界生活日記": {
+        "segment_date": 1547631024201,
+        "segment_old": 0,
+        "segment": 26,
+        "init_date": 1547568000000,
+        "update_date": 1547568000000,
+        "update_count": 1
       }
     },
     "user": {
@@ -695,12 +771,12 @@
         "init_date": 1545521341885
       },
       "魔王様、リトライ！": {
-        "segment_date": 1546388945830,
+        "segment_date": 1547631054002,
         "segment_old": 1,
-        "segment": 1,
+        "segment": 7,
         "init_date": 1545521369284,
-        "update_date": 1546358400000,
-        "update_count": 2
+        "update_date": 1547568000000,
+        "update_count": 3
       },
       "虫虫酱むいむいたん": {
         "init_date": 1545494400000
@@ -1362,14 +1438,14 @@
       },
       "異世界転移で女神様から祝福を！　～いえ、手持ちの異能があるので結構です～": {
         "init_date": 1545494400000,
-        "epub_date": 1547527999035,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1547631095349,
+        "volume_old": 5,
+        "chapter_old": 102,
         "volume": 5,
         "chapter": 102,
         "epub_basename": "異世界転移で女神様から祝福を！　～いえ、手持ちの異能があるので結構です～.epub",
-        "update_date": 1547481600000,
-        "update_count": 1,
+        "update_date": 1547568000000,
+        "update_count": 2,
         "segment_date": 1547527524592,
         "segment_old": 0,
         "segment": 35
@@ -1407,15 +1483,15 @@
         "epub_basename": "打造魔王大人的城鎮（魔王築城記）"
       },
       "在異世界轉移從女人大人那兒得到祝福": {
-        "epub_date": 1547528000126,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1547631096538,
+        "volume_old": 1,
+        "chapter_old": 20,
         "volume": 1,
         "chapter": 20,
         "epub_basename": "在異世界轉移從女人大人那兒得到祝福.epub",
         "init_date": 1547481600000,
-        "update_date": 1547481600000,
-        "update_count": 1,
+        "update_date": 1547568000000,
+        "update_count": 2,
         "segment_date": 1547527532985,
         "segment_old": 0,
         "segment": 6
