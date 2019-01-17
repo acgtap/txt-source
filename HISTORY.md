@@ -1,5 +1,33 @@
 # HISTORY
 
+## 2019-01-17
+
+### Epub
+
+- [リビティウム皇国のブタクサ姫](cm_out/%E3%83%AA%E3%83%93%E3%83%86%E3%82%A3%E3%82%A6%E3%83%A0%E7%9A%87%E5%9B%BD%E3%81%AE%E3%83%96%E3%82%BF%E3%82%AF%E3%82%B5%E5%A7%AB) - cm_out
+  <br/>( v: 7 , c: 208, add: 1 )
+- [在異世界轉移從女人大人那兒得到祝福](mirronight/%E5%9C%A8%E7%95%B0%E4%B8%96%E7%95%8C%E8%BD%89%E7%A7%BB%E5%BE%9E%E5%A5%B3%E4%BA%BA%E5%A4%A7%E4%BA%BA%E9%82%A3%E5%85%92%E5%BE%97%E5%88%B0%E7%A5%9D%E7%A6%8F) - mirronight
+  <br/>( v: 2 , c: 40, add: 20 )
+- [月桂樹の唄](syosetu/%E6%9C%88%E6%A1%82%E6%A8%B9%E3%81%AE%E5%94%84) - syosetu
+  <br/>( v: 3 , c: 14, add: 14 )
+- [變成了美少女、但也成了網游廢人。](syosetu/%E8%AE%8A%E6%88%90%E4%BA%86%E7%BE%8E%E5%B0%91%E5%A5%B3%E3%80%81%E4%BD%86%E4%B9%9F%E6%88%90%E4%BA%86%E7%B6%B2%E6%B8%B8%E5%BB%A2%E4%BA%BA%E3%80%82) - syosetu
+  <br/>( v: 1 , c: 9, add: 9 )
+- [打倒女神勇者的下流手段](wenku8/%E6%89%93%E5%80%92%E5%A5%B3%E7%A5%9E%E5%8B%87%E8%80%85%E7%9A%84%E4%B8%8B%E6%B5%81%E6%89%8B%E6%AE%B5) - wenku8
+  <br/>( v: 1 , c: 9, add: 9 )
+
+### Segment
+
+- [在異世界轉移從女人大人那兒得到祝福](mirronight/%E5%9C%A8%E7%95%B0%E4%B8%96%E7%95%8C%E8%BD%89%E7%A7%BB%E5%BE%9E%E5%A5%B3%E4%BA%BA%E5%A4%A7%E4%BA%BA%E9%82%A3%E5%85%92%E5%BE%97%E5%88%B0%E7%A5%9D%E7%A6%8F) - mirronight
+  <br/>( s: 9 )
+- [アラフォー賢者の異世界生活日記](syosetu/%E3%82%A2%E3%83%A9%E3%83%95%E3%82%A9%E3%83%BC%E8%B3%A2%E8%80%85%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB%E6%97%A5%E8%A8%98) - syosetu
+  <br/>( s: 6 )
+- [月桂樹の唄](syosetu/%E6%9C%88%E6%A1%82%E6%A8%B9%E3%81%AE%E5%94%84) - syosetu
+  <br/>( s: 14 )
+- [變成了美少女、但也成了網游廢人。](syosetu/%E8%AE%8A%E6%88%90%E4%BA%86%E7%BE%8E%E5%B0%91%E5%A5%B3%E3%80%81%E4%BD%86%E4%B9%9F%E6%88%90%E4%BA%86%E7%B6%B2%E6%B8%B8%E5%BB%A2%E4%BA%BA%E3%80%82) - syosetu
+  <br/>( s: 9 )
+- [打倒女神勇者的下流手段](wenku8/%E6%89%93%E5%80%92%E5%A5%B3%E7%A5%9E%E5%8B%87%E8%80%85%E7%9A%84%E4%B8%8B%E6%B5%81%E6%89%8B%E6%AE%B5) - wenku8
+  <br/>( s: 2 )
+
 ## 2019-01-16
 
 ### Epub
