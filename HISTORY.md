@@ -1,5 +1,18 @@
 # HISTORY
 
+## 2019-01-18
+
+### Epub
+
+- [在異世界轉移從女人大人那兒得到祝福](mirronight/%E5%9C%A8%E7%95%B0%E4%B8%96%E7%95%8C%E8%BD%89%E7%A7%BB%E5%BE%9E%E5%A5%B3%E4%BA%BA%E5%A4%A7%E4%BA%BA%E9%82%A3%E5%85%92%E5%BE%97%E5%88%B0%E7%A5%9D%E7%A6%8F) - mirronight
+  <br/>( v: 2 , c: 40, add: 0 )
+- [月桂樹の唄](syosetu/%E6%9C%88%E6%A1%82%E6%A8%B9%E3%81%AE%E5%94%84) - syosetu
+  <br/>( v: 3 , c: 14, add: 0 )
+- [變成了美少女、但也成了網游廢人。](syosetu/%E8%AE%8A%E6%88%90%E4%BA%86%E7%BE%8E%E5%B0%91%E5%A5%B3%E3%80%81%E4%BD%86%E4%B9%9F%E6%88%90%E4%BA%86%E7%B6%B2%E6%B8%B8%E5%BB%A2%E4%BA%BA%E3%80%82) - syosetu
+  <br/>( v: 1 , c: 9, add: 0 )
+- [打倒女神勇者的下流手段](wenku8/%E6%89%93%E5%80%92%E5%A5%B3%E7%A5%9E%E5%8B%87%E8%80%85%E7%9A%84%E4%B8%8B%E6%B5%81%E6%89%8B%E6%AE%B5) - wenku8
+  <br/>( v: 1 , c: 9, add: 0 )
+
 ## 2019-01-17
 
 ### Epub
