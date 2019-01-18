@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1547654400000,
-    "timestamp": 1547681378120,
+    "todayTimestamp": 1547740800000,
+    "timestamp": 1547767658469,
     "sourceUrl": "https://gitee.com/bluelovers/novel/tree/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -794,6 +794,84 @@
           }
         ]
       ]
+    },
+    "1547740800000": {
+      "epub_count": 4,
+      "epub": [
+        [
+          "mirronight",
+          "在異世界轉移從女人大人那兒得到祝福",
+          {
+            "epub_date": 1547767632259,
+            "volume_old": 2,
+            "chapter_old": 40,
+            "volume": 2,
+            "chapter": 40,
+            "epub_basename": "在異世界轉移從女人大人那兒得到祝福.epub",
+            "init_date": 1547481600000,
+            "update_date": 1547740800000,
+            "update_count": 4,
+            "segment_date": 1547681270369,
+            "segment_old": 6,
+            "segment": 9
+          }
+        ],
+        [
+          "syosetu",
+          "月桂樹の唄",
+          {
+            "segment_date": 1547681305369,
+            "segment_old": 0,
+            "segment": 14,
+            "init_date": 1547654400000,
+            "epub_date": 1547767632976,
+            "volume_old": 3,
+            "chapter_old": 14,
+            "volume": 3,
+            "chapter": 14,
+            "epub_basename": "月桂樹の唄.epub",
+            "update_date": 1547740800000,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu",
+          "變成了美少女、但也成了網游廢人。",
+          {
+            "segment_date": 1547681311766,
+            "segment_old": 0,
+            "segment": 9,
+            "init_date": 1547654400000,
+            "epub_date": 1547767635704,
+            "volume_old": 1,
+            "chapter_old": 9,
+            "volume": 1,
+            "chapter": 9,
+            "epub_basename": "變成了美少女、但也成了網游廢人。.epub",
+            "update_date": 1547740800000,
+            "update_count": 2
+          }
+        ],
+        [
+          "wenku8",
+          "打倒女神勇者的下流手段",
+          {
+            "segment_date": 1547681318768,
+            "segment_old": 0,
+            "segment": 2,
+            "init_date": 1547654400000,
+            "epub_date": 1547767639011,
+            "volume_old": 1,
+            "chapter_old": 9,
+            "volume": 1,
+            "chapter": 9,
+            "epub_basename": "打倒女神勇者的下流手段.epub",
+            "novel_status": 1,
+            "update_date": 1547740800000,
+            "update_count": 2
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -940,29 +1018,29 @@
         "segment_date": 1547681305369,
         "segment_old": 0,
         "segment": 14,
-        "init_date": 1547681305369,
-        "epub_date": 1547681357763,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "init_date": 1547654400000,
+        "epub_date": 1547767632976,
+        "volume_old": 3,
+        "chapter_old": 14,
         "volume": 3,
         "chapter": 14,
         "epub_basename": "月桂樹の唄.epub",
-        "update_date": 1547654400000,
-        "update_count": 1
+        "update_date": 1547740800000,
+        "update_count": 2
       },
       "變成了美少女、但也成了網游廢人。": {
         "segment_date": 1547681311766,
         "segment_old": 0,
         "segment": 9,
-        "init_date": 1547681311766,
-        "epub_date": 1547681360307,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "init_date": 1547654400000,
+        "epub_date": 1547767635704,
+        "volume_old": 1,
+        "chapter_old": 9,
         "volume": 1,
         "chapter": 9,
         "epub_basename": "變成了美少女、但也成了網游廢人。.epub",
-        "update_date": 1547654400000,
-        "update_count": 1
+        "update_date": 1547740800000,
+        "update_count": 2
       }
     },
     "user": {
@@ -1693,15 +1771,15 @@
         "epub_basename": "打造魔王大人的城鎮（魔王築城記）"
       },
       "在異世界轉移從女人大人那兒得到祝福": {
-        "epub_date": 1547681357071,
-        "volume_old": 1,
-        "chapter_old": 20,
+        "epub_date": 1547767632259,
+        "volume_old": 2,
+        "chapter_old": 40,
         "volume": 2,
         "chapter": 40,
         "epub_basename": "在異世界轉移從女人大人那兒得到祝福.epub",
         "init_date": 1547481600000,
-        "update_date": 1547654400000,
-        "update_count": 3,
+        "update_date": 1547740800000,
+        "update_count": 4,
         "segment_date": 1547681270369,
         "segment_old": 6,
         "segment": 9
@@ -1721,16 +1799,16 @@
         "segment_date": 1547681318768,
         "segment_old": 0,
         "segment": 2,
-        "init_date": 1547681318768,
-        "epub_date": 1547681363689,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "init_date": 1547654400000,
+        "epub_date": 1547767639011,
+        "volume_old": 1,
+        "chapter_old": 9,
         "volume": 1,
         "chapter": 9,
         "epub_basename": "打倒女神勇者的下流手段.epub",
         "novel_status": 1,
-        "update_date": 1547654400000,
-        "update_count": 1
+        "update_date": 1547740800000,
+        "update_count": 2
       }
     },
     "cm_out": {
