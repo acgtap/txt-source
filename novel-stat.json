@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1547740800000,
-    "timestamp": 1547767658469,
+    "todayTimestamp": 1547827200000,
+    "timestamp": 1547854391829,
     "sourceUrl": "https://gitee.com/bluelovers/novel/tree/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -872,6 +872,102 @@
           }
         ]
       ]
+    },
+    "1547827200000": {
+      "segment_count": 2,
+      "segment": [
+        [
+          "user",
+          "豚公爵に転生したから、今度は君に好きと言いたい",
+          {
+            "segment_date": 1547854179724,
+            "segment_old": 1,
+            "segment": 2,
+            "init_date": 1545607228123,
+            "update_date": 1547827200000,
+            "update_count": 6
+          }
+        ],
+        [
+          "user",
+          "黑之魔王",
+          {
+            "segment_date": 1547854324220,
+            "segment_old": 1,
+            "segment": 5,
+            "init_date": 1545261427757,
+            "update_date": 1547827200000,
+            "update_count": 11
+          }
+        ]
+      ],
+      "epub_count": 4,
+      "epub": [
+        [
+          "syosetu_out",
+          "暇人、魔王の姿で異世界へ",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "暇人、魔王の姿で異世界へ.out.txt",
+            "epub_date": 1547854355602,
+            "volume_old": 10,
+            "chapter_old": 224,
+            "volume": 10,
+            "chapter": 225,
+            "epub_basename": "暇人、魔王の姿で異世界へ.epub",
+            "update_date": 1547827200000,
+            "update_count": 3
+          }
+        ],
+        [
+          "syosetu_out",
+          "陰の実力者になりたくて！_(n0611em)",
+          {
+            "epub_date": 1547854358908,
+            "volume_old": 8,
+            "chapter_old": 166,
+            "volume": 9,
+            "chapter": 170,
+            "epub_basename": "想要成為影之實力者.epub",
+            "init_date": 1545548940691,
+            "txt_basename": "想要成為影之實力者.out.txt",
+            "update_date": 1547827200000,
+            "update_count": 4
+          }
+        ],
+        [
+          "user_out",
+          "豚公爵に転生したから、今度は君に好きと言いたい",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "豚公爵に転生したから、今度は君に好きと言.out.txt",
+            "epub_date": 1547854362010,
+            "volume_old": 7,
+            "chapter_old": 167,
+            "volume": 7,
+            "chapter": 169,
+            "epub_basename": "豚公爵に転生したから、今度は君に好きと言いたい.epub",
+            "update_date": 1547827200000,
+            "update_count": 3
+          }
+        ],
+        [
+          "user_out",
+          "黑之魔王",
+          {
+            "epub_date": 1547854372306,
+            "volume_old": 29,
+            "chapter_old": 552,
+            "volume": 29,
+            "chapter": 556,
+            "init_date": 1545261469203,
+            "epub_basename": "黑之魔王.epub",
+            "txt_basename": "黑之魔王.out.txt",
+            "update_date": 1547827200000,
+            "update_count": 14
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1045,12 +1141,12 @@
     },
     "user": {
       "黑之魔王": {
-        "segment_date": 1547527963887,
+        "segment_date": 1547854324220,
         "segment_old": 1,
-        "segment": 1,
+        "segment": 5,
         "init_date": 1545261427757,
-        "update_date": 1547481600000,
-        "update_count": 10
+        "update_date": 1547827200000,
+        "update_count": 11
       },
       "火輪を抱いた少女": {
         "segment_date": 1545548707385,
@@ -1079,12 +1175,12 @@
         "init_date": 1545494400000
       },
       "豚公爵に転生したから、今度は君に好きと言いたい": {
-        "segment_date": 1546388917107,
-        "segment_old": 2,
-        "segment": 1,
+        "segment_date": 1547854179724,
+        "segment_old": 1,
+        "segment": 2,
         "init_date": 1545607228123,
-        "update_date": 1546358400000,
-        "update_count": 5
+        "update_date": 1547827200000,
+        "update_count": 6
       },
       "自称贤者弟子的贤者": {
         "segment_date": 1546040276246,
@@ -1164,16 +1260,16 @@
     },
     "user_out": {
       "黑之魔王": {
-        "epub_date": 1547528021611,
+        "epub_date": 1547854372306,
         "volume_old": 29,
-        "chapter_old": 549,
+        "chapter_old": 552,
         "volume": 29,
-        "chapter": 552,
+        "chapter": 556,
         "init_date": 1545261469203,
         "epub_basename": "黑之魔王.epub",
         "txt_basename": "黑之魔王.out.txt",
-        "update_date": 1547481600000,
-        "update_count": 13
+        "update_date": 1547827200000,
+        "update_count": 14
       },
       "火輪を抱いた少女": {
         "epub_date": 1545548942271,
@@ -1317,14 +1413,14 @@
       "豚公爵に転生したから、今度は君に好きと言いたい": {
         "init_date": 1545494400000,
         "txt_basename": "豚公爵に転生したから、今度は君に好きと言.out.txt",
-        "epub_date": 1546302346119,
+        "epub_date": 1547854362010,
         "volume_old": 7,
-        "chapter_old": 166,
+        "chapter_old": 167,
         "volume": 7,
-        "chapter": 167,
+        "chapter": 169,
         "epub_basename": "豚公爵に転生したから、今度は君に好きと言いたい.epub",
-        "update_date": 1546302346119,
-        "update_count": 2
+        "update_date": 1547827200000,
+        "update_count": 3
       },
       "悠久の愚者アズリーの、賢者のすゝめ": {
         "init_date": 1545494400000
@@ -1482,16 +1578,16 @@
         "init_date": 1545548938005
       },
       "陰の実力者になりたくて！_(n0611em)": {
-        "epub_date": 1546389033825,
+        "epub_date": 1547854358908,
         "volume_old": 8,
-        "chapter_old": 164,
-        "volume": 8,
-        "chapter": 166,
+        "chapter_old": 166,
+        "volume": 9,
+        "chapter": 170,
         "epub_basename": "想要成為影之實力者.epub",
         "init_date": 1545548940691,
         "txt_basename": "想要成為影之實力者.out.txt",
-        "update_date": 1546358400000,
-        "update_count": 3
+        "update_date": 1547827200000,
+        "update_count": 4
       },
       "勇者的活躍從現在才開始！": {
         "init_date": 1545494400000
@@ -1667,14 +1763,14 @@
       "暇人、魔王の姿で異世界へ": {
         "init_date": 1545494400000,
         "txt_basename": "暇人、魔王の姿で異世界へ.out.txt",
-        "epub_date": 1546389024329,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1547854355602,
+        "volume_old": 10,
+        "chapter_old": 224,
         "volume": 10,
-        "chapter": 224,
+        "chapter": 225,
         "epub_basename": "暇人、魔王の姿で異世界へ.epub",
-        "update_date": 1546358400000,
-        "update_count": 2
+        "update_date": 1547827200000,
+        "update_count": 3
       },
       "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。_(n5691dd)": {
         "init_date": 1545494400000,
@@ -5065,6 +5161,7 @@
           "WW6549876",
           "lansechenji",
           "linpop",
+          "siumonmon",
           "养老驴",
           "喵到飞机",
           "夜空下之旅途",
