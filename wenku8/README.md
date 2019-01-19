@@ -50,3 +50,14 @@
 
 - link: [钱进战国雄霸天下](%E9%92%B1%E8%BF%9B%E6%88%98%E5%9B%BD%E9%9B%84%E9%9C%B8%E5%A4%A9%E4%B8%8B/)
 - tags: Y.A , node-novel , wenku8
+
+## 關於人類是最強種族這件事
+
+- link: [關於人類是最強種族這件事](%E9%97%9C%E6%96%BC%E4%BA%BA%E9%A1%9E%E6%98%AF%E6%9C%80%E5%BC%B7%E7%A8%AE%E6%97%8F%E9%80%99%E4%BB%B6%E4%BA%8B/)
+- tags: 柑橘ゆすら , node-novel , wenku8
+
+### titles
+
+- 關於人類是最強種族這件事
+- 最強の種族が人間だった件
+- 最强的种族是人类
