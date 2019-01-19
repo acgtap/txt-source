@@ -6,7 +6,7 @@
 - title_zh2: 在遍地都是喪屍的世界裡唯獨我不被襲擊
 - author: 裏路地
 - source: http://novel18.syosetu.com/n3271bm/
-- cover:
+- cover: https://images-na.ssl-images-amazon.com/images/I/91mMNbCEqcL.jpg
 - publisher: syosetu
 - date: 2017-02-02T19:00:00+08:00
 - status: 連載
@@ -52,6 +52,7 @@
 # contribute
 
 - 我只是一個紳士
+- Kiara_Yume
 - 
 
 # options
@@ -76,6 +77,7 @@
 - [dip.jp](https://narou18.nar.jp/search.php?text=%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [末世孤雄吧](https://tieba.baidu.com/f?kw=%E6%9C%AB%E4%B8%96%E5%AD%A4%E9%9B%84&ie=utf-8&tp=0 "")
 - [『ゾンビのあふれた世界で俺だけが襲われない』ノベルゲーム公式サイトです](http://www.spermation.net/seacoxx/zombie/index.html)
+- [pixiv](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=48715598)
 - 
 
 
