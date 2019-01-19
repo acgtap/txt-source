@@ -1,6 +1,8 @@
 # novel
 
 - title: 呪術師は勇者になれない
+- title_zh1: 咒術師無法成為勇者
+- title_zh2: 咒術師不能當勇者
 - author: 菱影代理
 - source: http://ncode.syosetu.com/n1132dk/
 - cover: https://images-na.ssl-images-amazon.com/images/I/91yzBCP%2BeUL.jpg
