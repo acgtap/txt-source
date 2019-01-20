@@ -1,5 +1,21 @@
 # HISTORY
 
+## 2019-01-21
+
+### Epub
+
+- [リビティウム皇国のブタクサ姫](cm_out/%E3%83%AA%E3%83%93%E3%83%86%E3%82%A3%E3%82%A6%E3%83%A0%E7%9A%87%E5%9B%BD%E3%81%AE%E3%83%96%E3%82%BF%E3%82%AF%E3%82%B5%E5%A7%AB) - cm_out
+  <br/>( v: 7 , c: 209, add: 1 )
+- [只有無職是不會辭掉的](mirronight/%E5%8F%AA%E6%9C%89%E7%84%A1%E8%81%B7%E6%98%AF%E4%B8%8D%E6%9C%83%E8%BE%AD%E6%8E%89%E7%9A%84) - mirronight
+  <br/>( v: 8 , c: 190, add: 190 )
+- [ウォルテニア戦記](user_out/%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%86%E3%83%8B%E3%82%A2%E6%88%A6%E8%A8%98) - user_out
+  <br/>( v: 5 , c: 177, add: 3 )
+
+### Segment
+
+- [只有無職是不會辭掉的](mirronight/%E5%8F%AA%E6%9C%89%E7%84%A1%E8%81%B7%E6%98%AF%E4%B8%8D%E6%9C%83%E8%BE%AD%E6%8E%89%E7%9A%84) - mirronight
+  <br/>( s: 189 )
+
 ## 2019-01-20
 
 ### Epub

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1547913600000,
-    "timestamp": 1547975268345,
+    "todayTimestamp": 1548000000000,
+    "timestamp": 1548028540558,
     "sourceUrl": "https://gitee.com/bluelovers/novel/tree/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -980,7 +980,7 @@
             "segment_old": 35,
             "segment": 1,
             "init_date": 1547913600000,
-            "epub_date": 1547975246438,
+            "epub_date": 1547976781000,
             "volume_old": 0,
             "chapter_old": 0,
             "volume": 1,
@@ -1085,7 +1085,7 @@
             "segment_old": 35,
             "segment": 1,
             "init_date": 1547913600000,
-            "epub_date": 1547975246438,
+            "epub_date": 1547976781000,
             "volume_old": 0,
             "chapter_old": 0,
             "volume": 1,
@@ -1260,6 +1260,82 @@
             "epub_basename": "關於人類是最強種族這件事.epub",
             "update_date": 1547913600000,
             "update_count": 1
+          }
+        ]
+      ]
+    },
+    "1548000000000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "mirronight",
+          "只有無職是不會辭掉的",
+          {
+            "segment_date": 1548028433021,
+            "segment_old": 0,
+            "segment": 189,
+            "init_date": 1548028433021,
+            "epub_date": 1548028522088,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 8,
+            "chapter": 190,
+            "epub_basename": "只有無職是不會辭掉的.epub",
+            "update_date": 1548000000000,
+            "update_count": 1
+          }
+        ]
+      ],
+      "epub_count": 3,
+      "epub": [
+        [
+          "cm_out",
+          "リビティウム皇国のブタクサ姫",
+          {
+            "epub_date": 1548028518761,
+            "volume_old": 7,
+            "chapter_old": 208,
+            "volume": 7,
+            "chapter": 209,
+            "epub_basename": "利貝提姆皇國的豚草姫.epub",
+            "init_date": 1545548908164,
+            "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
+            "update_date": 1548000000000,
+            "update_count": 10
+          }
+        ],
+        [
+          "mirronight",
+          "只有無職是不會辭掉的",
+          {
+            "segment_date": 1548028433021,
+            "segment_old": 0,
+            "segment": 189,
+            "init_date": 1548028433021,
+            "epub_date": 1548028522088,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 8,
+            "chapter": 190,
+            "epub_basename": "只有無職是不會辭掉的.epub",
+            "update_date": 1548000000000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user_out",
+          "ウォルテニア戦記",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "沃特尼亞戰記.out.txt",
+            "epub_date": 1548028525607,
+            "volume_old": 5,
+            "chapter_old": 174,
+            "volume": 5,
+            "chapter": 177,
+            "epub_basename": "沃特尼亞戰記.epub",
+            "update_date": 1548000000000,
+            "update_count": 6
           }
         ]
       ]
@@ -1718,14 +1794,14 @@
       "ウォルテニア戦記": {
         "init_date": 1545494400000,
         "txt_basename": "沃特尼亞戰記.out.txt",
-        "epub_date": 1546903870937,
+        "epub_date": 1548028525607,
         "volume_old": 5,
-        "chapter_old": 171,
+        "chapter_old": 174,
         "volume": 5,
-        "chapter": 174,
+        "chapter": 177,
         "epub_basename": "沃特尼亞戰記.epub",
-        "update_date": 1546876800000,
-        "update_count": 5
+        "update_date": 1548000000000,
+        "update_count": 6
       },
       "２９歳独身は異世界で自由に生きた…かった。": {
         "init_date": 1545494400000,
@@ -2401,6 +2477,20 @@
         "epub_basename": "在異世界轉移從女神大人那兒得到祝福.epub",
         "update_date": 1547913600000,
         "update_count": 1
+      },
+      "只有無職是不會辭掉的": {
+        "segment_date": 1548028433021,
+        "segment_old": 0,
+        "segment": 189,
+        "init_date": 1548028433021,
+        "epub_date": 1548028522088,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 8,
+        "chapter": 190,
+        "epub_basename": "只有無職是不會辭掉的.epub",
+        "update_date": 1548000000000,
+        "update_count": 1
       }
     },
     "wenku8": {
@@ -2447,16 +2537,16 @@
     },
     "cm_out": {
       "リビティウム皇国のブタクサ姫": {
-        "epub_date": 1547681355074,
+        "epub_date": 1548028518761,
         "volume_old": 7,
-        "chapter_old": 207,
+        "chapter_old": 208,
         "volume": 7,
-        "chapter": 208,
+        "chapter": 209,
         "epub_basename": "利貝提姆皇國的豚草姫.epub",
         "init_date": 1545548908164,
         "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-        "update_date": 1547654400000,
-        "update_count": 9
+        "update_date": 1548000000000,
+        "update_count": 10
       }
     },
     "dmzj_out": {
@@ -2644,7 +2734,7 @@
         "segment_old": 35,
         "segment": 1,
         "init_date": 1547913600000,
-        "epub_date": 1547975246438,
+        "epub_date": 1547976781000,
         "volume_old": 0,
         "chapter_old": 0,
         "volume": 1,
@@ -3341,6 +3431,62 @@
         "link": [
           "[dip.jp](https://narou.nar.jp/search.php?text=n2031cu&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[在异世界转移从女...吧](https://tieba.baidu.com/f?kw=%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E8%BD%AC%E7%A7%BB%E4%BB%8E%E5%A5%B3%E7%A5%9E%E9%82%A3%E5%BE%97%E5%88%B0%E7%A5%9D%E7%A6%8F&ie=utf-8 \"在异世界转移从女神那得到祝福\")"
+        ]
+      },
+      "只有無職是不會辭掉的": {
+        "novel": {
+          "title": "成長チートでなんでもできるようになったが、無職だけは辞められないようです",
+          "title_zh": "只有無職是不會辭掉的",
+          "title_zh1": "只有無職是不會辭去的",
+          "title_zh2": "雖然用成長開掛變得什麼都做得到了、可是只有無職是不會辭掉的",
+          "author": "時野洋輔",
+          "source": "http://ncode.syosetu.com/n9863da/",
+          "cover": "",
+          "publisher": "syosetu",
+          "date": "2019-01-20T20:53:00+08:00",
+          "status": "連載",
+          "series": {
+            "name": "成長チートでなんでもできるようになったが、無職だけは辞められないようです"
+          },
+          "preface": "我、一之丞已经就职100连败、并且无职的记录还在更新中. 在去面试的途中卷进了卡车事故而死亡了. 然后、从女神那里被授予了比起常人还要强的400倍速度的成长能力、接着前往仿佛是游戏的异世界.  但是、我知道了以无职的状态就这样成长也变强不了这件事而以专职为目标、可是由于某种因果而知道了无职的强大.在异世界用成长开挂跟无职开挂来成名、被职业介绍所认定为有害图书这件事、毫无疑问的冒险谭就在这里开幕了.\n\n　俺、一之丞は就職１００連敗、さらに記録更新中の無職だった。\n　面接に向かう途中、トラック事故に巻き込まれ、あえなく死亡。\n　そして、女神から常人よりも４００倍のスピードで成長する能力を授かり、まるでゲームのような異世界へ。\n　だけれども、無職のままだと成長しても強くなれないことを知り、転職を目指した俺だったが、何の因果か無職の凄さを知る。\n　成長チートと無職チートで異世界を駆け上がる、ハローワークから有害図書認定されること間違いなしの冒険譚、ここに開幕。\n\n※2016/5/21　ネット小説大賞最終選考通過しました。\n新紀元社さまより書籍化しています。\n1～7巻発売中　8巻は2019/2/22発売予定。\nコミカライズ版1～3巻発売中、コミックウォーカーにて連載中です。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "スキル多数",
+            "チーレム",
+            "ネット小説大賞受賞作",
+            "ハローワークの敵",
+            "働けない主人公",
+            "奴隷ハーレム",
+            "幸運チート",
+            "成長チート",
+            "残酷な描写あり",
+            "無職のまま",
+            "獣人もふもふ",
+            "異世界トリップ",
+            "異世界転移",
+            "転移者多数",
+            "迷宮入り浸り"
+          ]
+        },
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "undefined",
+            "novel_id": "n9863da"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n9863da&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[只有无职是不会辞掉吧](https://tieba.baidu.com/f?kw=%E5%8F%AA%E6%9C%89%E6%97%A0%E8%81%8C%E6%98%AF%E4%B8%8D%E4%BC%9A%E8%BE%9E%E6%8E%89&ie=utf-8 \"只有无职是不会辞掉\")"
         ]
       }
     },
