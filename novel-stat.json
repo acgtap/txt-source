@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1547827200000,
-    "timestamp": 1547854391829,
+    "todayTimestamp": 1547913600000,
+    "timestamp": 1547940801622,
     "sourceUrl": "https://gitee.com/bluelovers/novel/tree/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -968,6 +968,301 @@
           }
         ]
       ]
+    },
+    "1547913600000": {
+      "segment_count": 6,
+      "segment": [
+        [
+          "h",
+          "侯爵嫡男好色物語",
+          {
+            "segment_date": 1547940476850,
+            "segment_old": 0,
+            "segment": 35,
+            "init_date": 1547940476850,
+            "epub_date": 1547940762223,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 47,
+            "epub_basename": "侯爵嫡男好色物語.epub",
+            "update_date": 1547913600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "h",
+          "在喪屍橫行的世界裡唯獨我不被襲擊",
+          {
+            "segment_date": 1547940550044,
+            "segment_old": 0,
+            "segment": 60,
+            "init_date": 1547940550044,
+            "epub_date": 1547940764036,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 3,
+            "chapter": 62,
+            "epub_basename": "在喪屍橫行的世界裡唯獨我不被襲擊.epub",
+            "update_date": 1547913600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "h",
+          "異世界の男は全滅したようです",
+          {
+            "segment_date": 1547940565173,
+            "segment_old": 0,
+            "segment": 32,
+            "init_date": 1547940565173,
+            "epub_date": 1547940764983,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 2,
+            "chapter": 33,
+            "epub_basename": "異世界の男は全滅したようです.epub",
+            "update_date": 1547913600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "kakuyomu",
+          "勇者、辞めます　～次の職場は魔王城～",
+          {
+            "segment_date": 1547940570765,
+            "segment_old": 0,
+            "segment": 9,
+            "init_date": 1547940570765,
+            "epub_date": 1547940767308,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 4,
+            "chapter": 10,
+            "epub_basename": "勇者，不幹了　～下一個職場是魔王城～.epub",
+            "update_date": 1547913600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "黑之魔王",
+          {
+            "segment_date": 1547940710903,
+            "segment_old": 5,
+            "segment": 1,
+            "init_date": 1545261427757,
+            "update_date": 1547913600000,
+            "update_count": 12
+          }
+        ],
+        [
+          "wenku8",
+          "關於人類是最強種族這件事",
+          {
+            "segment_date": 1547940721492,
+            "segment_old": 0,
+            "segment": 52,
+            "init_date": 1547940721492,
+            "epub_date": 1547940780539,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 4,
+            "chapter": 52,
+            "epub_basename": "關於人類是最強種族這件事.epub",
+            "update_date": 1547913600000,
+            "update_count": 1
+          }
+        ]
+      ],
+      "epub_count": 11,
+      "epub": [
+        [
+          "h",
+          "侯爵嫡男好色物語",
+          {
+            "segment_date": 1547940476850,
+            "segment_old": 0,
+            "segment": 35,
+            "init_date": 1547940476850,
+            "epub_date": 1547940762223,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 47,
+            "epub_basename": "侯爵嫡男好色物語.epub",
+            "update_date": 1547913600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "h",
+          "在喪屍橫行的世界裡唯獨我不被襲擊",
+          {
+            "segment_date": 1547940550044,
+            "segment_old": 0,
+            "segment": 60,
+            "init_date": 1547940550044,
+            "epub_date": 1547940764036,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 3,
+            "chapter": 62,
+            "epub_basename": "在喪屍橫行的世界裡唯獨我不被襲擊.epub",
+            "update_date": 1547913600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "h",
+          "異世界の男は全滅したようです",
+          {
+            "segment_date": 1547940565173,
+            "segment_old": 0,
+            "segment": 32,
+            "init_date": 1547940565173,
+            "epub_date": 1547940764983,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 2,
+            "chapter": 33,
+            "epub_basename": "異世界の男は全滅したようです.epub",
+            "update_date": 1547913600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "kakuyomu",
+          "勇者、辞めます　～次の職場は魔王城～",
+          {
+            "segment_date": 1547940570765,
+            "segment_old": 0,
+            "segment": 9,
+            "init_date": 1547940570765,
+            "epub_date": 1547940767308,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 4,
+            "chapter": 10,
+            "epub_basename": "勇者，不幹了　～下一個職場是魔王城～.epub",
+            "update_date": 1547913600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "mirronight",
+          "在異世界轉移從女神大人那兒得到祝福",
+          {
+            "init_date": 1547913600000,
+            "epub_date": 1547940769136,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 2,
+            "chapter": 40,
+            "epub_basename": "在異世界轉移從女神大人那兒得到祝福.epub",
+            "update_date": 1547913600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～",
+          {
+            "init_date": 1547913600000,
+            "epub_date": 1547940769808,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 1,
+            "epub_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？那好吃嗎？.epub",
+            "novel_status": 1,
+            "update_date": 1547913600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu_out",
+          "望まぬ不死の冒険者",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "事與願違的不死冒險者.out.txt",
+            "epub_date": 1547940773159,
+            "volume_old": 10,
+            "chapter_old": 177,
+            "volume": 10,
+            "chapter": 188,
+            "epub_basename": "事與願違的不死冒險者.epub",
+            "update_date": 1547913600000,
+            "update_count": 7
+          }
+        ],
+        [
+          "user_out",
+          "俺の死亡フラグが留まるところを知らない",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "不知我的死亡flag将于何处停止.out.txt",
+            "epub_date": 1547940775517,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 5,
+            "chapter": 104,
+            "epub_basename": "不知我的死亡flag将于何处停止.epub",
+            "update_date": 1547913600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user_out",
+          "呪術師は勇者になれない",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "呪術師は勇者になれない.out.txt",
+            "epub_date": 1547940776291,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 2,
+            "chapter": 10,
+            "epub_basename": "呪術師は勇者になれない.epub",
+            "update_date": 1547913600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user_out",
+          "破壊の御子",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "破壊の御子.out.txt",
+            "epub_date": 1547940777904,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 71,
+            "epub_basename": "破壊の御子.epub",
+            "update_date": 1547913600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "wenku8",
+          "關於人類是最強種族這件事",
+          {
+            "segment_date": 1547940721492,
+            "segment_old": 0,
+            "segment": 52,
+            "init_date": 1547940721492,
+            "epub_date": 1547940780539,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 4,
+            "chapter": 52,
+            "epub_basename": "關於人類是最強種族這件事.epub",
+            "update_date": 1547913600000,
+            "update_count": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1137,16 +1432,28 @@
         "epub_basename": "變成了美少女、但也成了網游廢人。.epub",
         "update_date": 1547740800000,
         "update_count": 2
+      },
+      "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～": {
+        "init_date": 1547913600000,
+        "epub_date": 1547940769808,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 1,
+        "epub_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？那好吃嗎？.epub",
+        "novel_status": 1,
+        "update_date": 1547913600000,
+        "update_count": 1
       }
     },
     "user": {
       "黑之魔王": {
-        "segment_date": 1547854324220,
-        "segment_old": 1,
-        "segment": 5,
+        "segment_date": 1547940710903,
+        "segment_old": 5,
+        "segment": 1,
         "init_date": 1545261427757,
-        "update_date": 1547827200000,
-        "update_count": 11
+        "update_date": 1547913600000,
+        "update_count": 12
       },
       "火輪を抱いた少女": {
         "segment_date": 1545548707385,
@@ -1256,6 +1563,15 @@
         "segment": 2,
         "update_date": 1547395200000,
         "update_count": 1
+      },
+      "俺の死亡フラグが留まるところを知らない": {
+        "init_date": 1547913600000
+      },
+      "呪術師は勇者になれない": {
+        "init_date": 1547913600000
+      },
+      "破壊の御子": {
+        "init_date": 1547913600000
       }
     },
     "user_out": {
@@ -1492,10 +1808,28 @@
         "update_count": 2
       },
       "俺の死亡フラグが留まるところを知らない": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "txt_basename": "不知我的死亡flag将于何处停止.out.txt",
+        "epub_date": 1547940775517,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 5,
+        "chapter": 104,
+        "epub_basename": "不知我的死亡flag将于何处停止.epub",
+        "update_date": 1547913600000,
+        "update_count": 1
       },
       "破壊の御子": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "txt_basename": "破壊の御子.out.txt",
+        "epub_date": 1547940777904,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 71,
+        "epub_basename": "破壊の御子.epub",
+        "update_date": 1547913600000,
+        "update_count": 1
       },
       "元将軍のアンデッドナイト": {
         "init_date": 1545494400000
@@ -1516,7 +1850,16 @@
         "init_date": 1545494400000
       },
       "呪術師は勇者になれない": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "txt_basename": "呪術師は勇者になれない.out.txt",
+        "epub_date": 1547940776291,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 2,
+        "chapter": 10,
+        "epub_basename": "呪術師は勇者になれない.epub",
+        "update_date": 1547913600000,
+        "update_count": 1
       },
       "百魔の主": {
         "init_date": 1545494400000
@@ -1649,14 +1992,14 @@
       "望まぬ不死の冒険者": {
         "init_date": 1545494400000,
         "txt_basename": "事與願違的不死冒險者.out.txt",
-        "epub_date": 1546389027716,
+        "epub_date": 1547940773159,
         "volume_old": 10,
-        "chapter_old": 172,
+        "chapter_old": 177,
         "volume": 10,
-        "chapter": 177,
+        "chapter": 188,
         "epub_basename": "事與願違的不死冒險者.epub",
-        "update_date": 1546358400000,
-        "update_count": 6
+        "update_date": 1547913600000,
+        "update_count": 7
       },
       "無職の英雄　(n6683ej)": {
         "init_date": 1545494400000
@@ -1879,6 +2222,17 @@
         "segment_date": 1547681270369,
         "segment_old": 6,
         "segment": 9
+      },
+      "在異世界轉移從女神大人那兒得到祝福": {
+        "init_date": 1547913600000,
+        "epub_date": 1547940769136,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 2,
+        "chapter": 40,
+        "epub_basename": "在異世界轉移從女神大人那兒得到祝福.epub",
+        "update_date": 1547913600000,
+        "update_count": 1
       }
     },
     "wenku8": {
@@ -1905,6 +2259,20 @@
         "novel_status": 1,
         "update_date": 1547740800000,
         "update_count": 2
+      },
+      "關於人類是最強種族這件事": {
+        "segment_date": 1547940721492,
+        "segment_old": 0,
+        "segment": 52,
+        "init_date": 1547940721492,
+        "epub_date": 1547940780539,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 4,
+        "chapter": 52,
+        "epub_basename": "關於人類是最強種族這件事.epub",
+        "update_date": 1547913600000,
+        "update_count": 1
       }
     },
     "cm_out": {
@@ -2066,6 +2434,66 @@
         "epub_basename": "如何在異世界殺死一個死宅.epub",
         "update_date": 1545876925866,
         "update_count": 3
+      }
+    },
+    "h": {
+      "侯爵嫡男好色物語": {
+        "segment_date": 1547940476850,
+        "segment_old": 0,
+        "segment": 35,
+        "init_date": 1547940476850,
+        "epub_date": 1547940762223,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 47,
+        "epub_basename": "侯爵嫡男好色物語.epub",
+        "update_date": 1547913600000,
+        "update_count": 1
+      },
+      "在喪屍橫行的世界裡唯獨我不被襲擊": {
+        "segment_date": 1547940550044,
+        "segment_old": 0,
+        "segment": 60,
+        "init_date": 1547940550044,
+        "epub_date": 1547940764036,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 3,
+        "chapter": 62,
+        "epub_basename": "在喪屍橫行的世界裡唯獨我不被襲擊.epub",
+        "update_date": 1547913600000,
+        "update_count": 1
+      },
+      "異世界の男は全滅したようです": {
+        "segment_date": 1547940565173,
+        "segment_old": 0,
+        "segment": 32,
+        "init_date": 1547940565173,
+        "epub_date": 1547940764983,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 2,
+        "chapter": 33,
+        "epub_basename": "異世界の男は全滅したようです.epub",
+        "update_date": 1547913600000,
+        "update_count": 1
+      }
+    },
+    "kakuyomu": {
+      "勇者、辞めます　～次の職場は魔王城～": {
+        "segment_date": 1547940570765,
+        "segment_old": 0,
+        "segment": 9,
+        "init_date": 1547940570765,
+        "epub_date": 1547940767308,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 4,
+        "chapter": 10,
+        "epub_basename": "勇者，不幹了　～下一個職場是魔王城～.epub",
+        "update_date": 1547913600000,
+        "update_count": 1
       }
     }
   },
@@ -2614,6 +3042,56 @@
         ]
       },
       "在異世界轉移從女人大人那兒得到祝福": {
+        "novel": {
+          "title": "異世界転移で女神様から祝福を！　～いえ、手持ちの異能があるので結構です～",
+          "title_zh1": "在異世界轉移從女神那得到祝福",
+          "title_zh2": "在異世界轉移從女人大人那兒得到祝福",
+          "author": "コーダ",
+          "source": "http://ncode.syosetu.com/n2031cu/",
+          "cover": "https://raikou2.donmai.us/2d/1d/__aqua_emilia_puck_and_satou_kazuma_kono_subarashii_sekai_ni_shukufuku_wo_and_etc_drawn_by_imaizumi_naoko_and_sakai_kyuuta__2d1d0c38a46465bc531720f40bb568c4.jpg",
+          "publisher": "syosetu",
+          "date": "2018-11-10T00:00:00+08:00",
+          "status": "連載",
+          "series": {
+            "name": "異世界転移で女神様から祝福を！　～いえ、手持ちの異能があるので結構です～"
+          },
+          "preface": "放學後還留在學校的人成了轉移到異世界的事。被傳喚出來的是王宮，好像說了打倒魔王。轉移的時候，1人被給予1個祝福理應被稱為勇者，主人公和另1人的少女沒有得到祝福。為什麼周圍的人眼睛也這麼冷漠，士兵抓住2人並且趕出去。\n2人出王都後旅行著。走的時候順便奪走了士兵技能和狀態。\n\n這個作品是主人公被召喚到異世界，收集（大概是手下）夥伴那樣吧收一邊觀光一邊戰鬥的故事。\n第1章：從王國的逃出。\n第2章：作為冒險者活動。\n第3章：迷宮蒐索。←現在這裡\n預定每週周日0點預定更新。有餘力的時候，在每週的途中投稿短篇。\n\n　放課後の学校に残っていた人がまとめて異世界に転移することになった。\n　呼び出されたのは王宮で、魔王を倒してほしいと言われる。転移の際に1人1つギフトを貰い勇者と呼ばれるはずだが、主人公ともう1人の少女にはギフトがなかった。なぜか周りの人の目も冷たく、兵士によって2人は追い出されてしまう。\n　2人で王都を出て旅をする。行きがけの駄賃は兵士より奪ったスキルとステータス。\n\n　この作品は異世界に召喚された主人公が、仲間（概ね配下）を集めながら、観光したり戦闘したりする物語です。\n　第1章：王国からの脱出。\n　第2章：冒険者として活動。\n　第3章：迷宮探索。\n　第4章：魔物と戯れる。\n　第5章：ドーラの里帰り\n　第6章：和風の国を観光(戦争は導入だけ)\n　第7章：エルディアと戦争？\n　第8章：地元でゆっくり\n　第9章：首脳会議の見学\n　第10章：獣人の国にご招待←いまここ\n\n　毎週日曜午前0時に更新予定です。余力がある場合は週の途中で短編を投稿いたします。\n　ちょっと予定が変わって、0の付く日の0時更新中(月3回)です。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "ご都合主義",
+            "チート",
+            "ハーレム？",
+            "ファンタジー",
+            "主人公最強？",
+            "奴隷",
+            "残酷な描写あり",
+            "異世界",
+            "異世界転生",
+            "異世界転移"
+          ],
+          "title_zh3": "在異世界轉移從女神那得到祝福!不~手持異能就足夠"
+        },
+        "contribute": [
+          "nice天夜月@tieba",
+          "神様四夕@tieba"
+        ],
+        "options": {
+          "syosetu": {
+            "txtdownload_id": "721959",
+            "novel_id": "n2031cu"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n2031cu&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[在异世界转移从女...吧](https://tieba.baidu.com/f?kw=%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E8%BD%AC%E7%A7%BB%E4%BB%8E%E5%A5%B3%E7%A5%9E%E9%82%A3%E5%BE%97%E5%88%B0%E7%A5%9D%E7%A6%8F&ie=utf-8 \"在异世界转移从女神那得到祝福\")"
+        ]
+      },
+      "在異世界轉移從女神大人那兒得到祝福": {
         "novel": {
           "title": "異世界転移で女神様から祝福を！　～いえ、手持ちの異能があるので結構です～",
           "title_zh1": "在異世界轉移從女神那得到祝福",
@@ -3730,6 +4208,7 @@
         "contribute": [
           "Alice",
           "SDK_C",
+          "billy7645",
           "celestia173",
           "cyfung1031",
           "f2008zhq",
@@ -3744,6 +4223,7 @@
           "眼前的飞碟",
           "禾缗",
           "草库金会",
+          "长衫造纸笼",
           "龘實"
         ],
         "options": {
@@ -7776,6 +8256,8 @@
       "呪術師は勇者になれない": {
         "novel": {
           "title": "呪術師は勇者になれない",
+          "title_zh1": "咒術師無法成為勇者",
+          "title_zh2": "咒術師不能當勇者",
           "author": "菱影代理",
           "source": "http://ncode.syosetu.com/n1132dk/",
           "cover": "https://images-na.ssl-images-amazon.com/images/I/91yzBCP%2BeUL.jpg",
@@ -8598,6 +9080,51 @@
           "[kakuyomu](https://kakuyomu.jp/works/1177354054887566690)",
           "[syosetu](https://ncode.syosetu.com/n3670fe/)"
         ]
+      },
+      "關於人類是最強種族這件事": {
+        "novel": {
+          "title": "關於人類是最強種族這件事",
+          "title_zh1": "最强的种族是人类",
+          "title_jp": "最強の種族が人間だった件",
+          "author": "柑橘ゆすら",
+          "source": "http://www.wenku8.com/book/2284.htm",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/A1NudsJloDL.jpg",
+          "publisher": "集英社",
+          "date": "2018-08-11T00:00:00+08:00",
+          "status": "已完成",
+          "series": {
+            "name": "最強の種族が人間だった件"
+          },
+          "preface": "最强的条件是身为人类这件事！\n　　某天，我突然被召唤到剑与魔法的世界《艾特尔菲亚》。不知道为什么，眼前的精灵美少女•莉亚称呼只是平凡上班族的我为「人类大人」，还超级崇拜我!?\n　　没想到，在召唤我的异世界中，人类竟然是『最古老且最强大的种族』！听说，连我的一根头发都含有超规格的魔力，为了避免人们争夺我的力量而发生纷争，我决定跟莉亚一起打造可以安居的地方！\n　　在自家的地底下发现温泉、用我的人类力量把史莱姆变成可爱的小女孩，靠著不管什么愿望都能实现的无敌人类力量，我决定要尽情享受无忧无虑的异世界生活！",
+          "tags": [
+            "node-novel",
+            "wenku8"
+          ]
+        },
+        "contribute": [
+          "Jackdaw",
+          "輕之國度",
+          "輕國錄入組",
+          "風",
+          "養老驢"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 4,
+            "startIndex": 1
+          },
+          "textlayout": {
+            "allow_lf2": true
+          },
+          "wenku8": {
+            "novel_id": "2284"
+          }
+        },
+        "link": [
+          "[最强的种族是人类吧](https://tieba.baidu.com/f?kw=%E6%9C%80%E5%BC%BA%E7%9A%84%E7%A7%8D%E6%97%8F%E6%98%AF%E4%BA%BA%E7%B1%BB&ie=utf-8 \"最强的种族是人类\")",
+          "[dm5](http://www.dm5.com/manhua-guanyurenleishizuiqiangzhongzuzhejianshi/)"
+        ]
       }
     },
     "syosetu": {
@@ -9209,6 +9736,71 @@
           "[地名装备名技能名人名等简单整合（不含角色介绍有的人名）](https://tieba.baidu.com/p/5603770798 \"地名装备名技能名人名等简单整合（不含角色介绍有的人名）\")",
           "[twitter](https://twitter.com/hosikuzuponpon)"
         ]
+      },
+      "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～": {
+        "novel": {
+          "title": "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～",
+          "title_zh": "除了成為奴隸商人以外別無選擇喲？～後宮？那好吃嗎？",
+          "author": "カラユミ",
+          "source": "http://ncode.syosetu.com/n8567do/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/91sSsOf1oqL.jpg",
+          "publisher": "syosetu",
+          "date": "2019-01-18T10:35:00+08:00",
+          "status": "完結済",
+          "novel_status": 1,
+          "series": {
+            "name": "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～"
+          },
+          "preface": "塞奧利斯遵循村中的慣例一到十五歲就去職業學校。從那裡得到的稱號將會決定人生的大致方向,但是他所得到的稱號是【勇者】【魔帝】【大賢者】【奴隸商人】、無論哪一個都是見不得人的。他從中選了最不引人注目的、能輕鬆活下去的最差的稱號【奴隸商人】。開啟了被青梅竹馬的毒舌美少女、同是奴隸商人的精靈、貓耳冒險者、蘿莉魔王等各式各樣的女性折騰的後宮苦勞傳\n\n村の決まりで十五歳から職業学校に通うことになったゼオリス。そこで得られる称号で人生がほぼ決まるのだが、得られた称号は【勇者】【魔帝】【大賢者】【奴隷商人】と、どれも人目を憚る称号ばかりだった。その中で一番注目されず、生きていくのが楽そうな最低の称号【奴隷商人】を選ぶことに。幼馴染の毒舌美少女から同じ奴隷商人のエルフ、猫耳冒険者、ロリ魔王と多種多様な女性に振り回されるハーレム苦労譚。\n■コミカライズは書籍をベースとしていますので、WEB版とは途中から大きく異なる予定です。\n\n\n■2018.1.26完結\n■只今3巻まで発売中\n■書籍は一巻後半部分でweb版から分岐ルート\n■幻冬舎コミックスのコミックブーストでコミカライズ中\n◆アルファポリス外部サイト登録中\n【今日の一冊】で紹介されました。2016.11.22【http://syosetu.com/issatu/archive/no/25/】",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "エルフ",
+            "ギャグ",
+            "ゲイネタ有",
+            "コミカライズ",
+            "コメディ",
+            "ハッピーエンド",
+            "ヒロイン問題有",
+            "ラブコメ",
+            "主人公最強？",
+            "勘違いされ系",
+            "変態主人公",
+            "後半",
+            "徐々に下ネタ増",
+            "書籍化",
+            "残酷な描写あり",
+            "獣人",
+            "結婚",
+            "苦労ハーレム",
+            "魔王"
+          ]
+        },
+        "contribute": [
+          "Yuki",
+          "忍野忍"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "undefined",
+            "novel_id": "n8567do"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n8567do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[除了成为奴隶商人以外别无选择吧](https://tieba.baidu.com/f?kw=%E9%99%A4%E4%BA%86%E6%88%90%E4%B8%BA%E5%A5%B4%E9%9A%B6%E5%95%86%E4%BA%BA%E4%BB%A5%E5%A4%96%E5%88%AB%E6%97%A0%E9%80%89%E6%8B%A9&ie=utf-8 \"除了成为奴隶商人以外别无选择\")",
+          "[dm5](http://www.dm5.com/manhua-chulechengweinulishangrenyiwaibiewuxuanzeyo-hougong-nahaochima/)",
+          "[over-lap.co.jp](https://over-lap.co.jp/narou/865542509/)"
+        ]
       }
     },
     "h_out": {
@@ -9740,6 +10332,237 @@
             "allow_lf2": true
           }
         }
+      }
+    },
+    "h": {
+      "侯爵嫡男好色物語": {
+        "novel": {
+          "title": "侯爵嫡男好色物語",
+          "author": "AL",
+          "source": "http://novel18.syosetu.com/n9598df/",
+          "cover": "",
+          "publisher": "syosetu",
+          "date": "2019-01-06T17:19:00+08:00",
+          "status": "連載",
+          "series": {
+            "name": "侯爵嫡男好色物語"
+          },
+          "preface": "在現代霓虹做著低薪員工的某男人、不知為何轉生到了幻想中世紀的異世界去了。  \n並且轉生到了國家裏少有的某個大貴族的侯爵家中。  \n\n在進入12歲的那天生日、他被其父親庫沃路丁奇侯爵叫了過去。  \n\n「城裏的女孩或者自家的女僕都沒關係。去體味一下女性吧」  \n\n從父親那等到允許使用貴族之力去隨意脅迫女性的權限之後、他・威尔克開始了為下半身而行動的生活。  \n\n※  \n主人公是人渣。對於強迫他人這樣的事是沒有任何抵觸。  \n而因此、也最喜歡那種有愛的h。  \n※\n\n現代日本でサラリーマンをしていた男は、なぜかファンタジー中世っぽい異世界に転生した。\n転生先は国でも有数の大貴族の侯爵家。\n\n１２歳になったある日、彼は父親であるクオルデンツェ侯爵に呼び出される。\n\n「城下の娘でも我が家のメイドでも構わない。女を知りなさい」\n\n貴族の力で女性を脅し好き放題にできる権限を父から得た彼・ウィルクは下半身の赴くままに生活をすることになった。\n\n\n※\n主人公はクズです。無理矢理ヤってしまうことに何の抵抗もありません。\nそのくせ、らぶえっち大好きです。\n※",
+          "tags": [
+            "node-novel",
+            "novel18",
+            "syosetu",
+            "いちゃらぶ",
+            "ファンタジー",
+            "メイド",
+            "ロリ",
+            "中出し",
+            "令嬢",
+            "奴隷",
+            "孕ませ",
+            "寝取り",
+            "平民",
+            "権力を背景にした強姦",
+            "残酷な描写あり",
+            "男性視点"
+          ]
+        },
+        "contribute": [
+          "loipio999",
+          "子猫",
+          "我只是一個紳士"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "undefined",
+            "novel_id": "n9598df"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou18.nar.jp/search.php?text=n9598df&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[侯爵嫡男好色物语吧](https://tieba.baidu.com/f?kw=%E4%BE%AF%E7%88%B5%E5%AB%A1%E7%94%B7%E5%A5%BD%E8%89%B2%E7%89%A9%E8%AF%AD&ie=utf-8 \"侯爵嫡男好色物语\")"
+        ]
+      },
+      "在喪屍橫行的世界裡唯獨我不被襲擊": {
+        "novel": {
+          "title": "ゾンビのあふれた世界で俺だけが襲われない",
+          "title_zh": "在喪屍橫行的世界裡唯獨我不被襲擊",
+          "title_zh1": "末世孤雄",
+          "title_zh2": "在遍地都是喪屍的世界裡唯獨我不被襲擊",
+          "author": "裏路地",
+          "source": "http://novel18.syosetu.com/n3271bm/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/91mMNbCEqcL.jpg",
+          "publisher": "syosetu",
+          "date": "2017-02-02T19:00:00+08:00",
+          "status": "連載",
+          "series": {
+            "name": "ゾンビのあふれた世界で俺だけが襲われない"
+          },
+          "preface": "主角某一天被喪屍襲擊，１０天後蘇醒重生。\n結果世界被喪屍攻占％喪屍因為主角之前被襲擊產生了抗體而不襲擊他。\n第一天，順手救下來被喪屍圍在門內的一個人妻和小蘿莉。\n卻由於不知道自己有抗體的緣故，以為身邊少數喪屍不會襲擊人類，貿然上街。\n導致那對妻女成為了犧牲品被吃。從而發現自己身上帶有抗體而不被喪屍襲擊。\n在超市搜刮物資之後回家，嘿咻了喪屍化的女鄰居。\n在接下來幾天裡，發現了被困在寫字樓的女主帶著兩個弟弟，以食物要挾逼迫女主就範，女主卻因此喜歡男主。\n而後主角發現了喪屍的智力會隨著進食人類的數量而提高，卻在停電準備轉移之前發生意外使得女主的一名弟弟死亡，最後在以凶手為誘餌的行動中帶著女主和另一弟弟開始向山中轉移。\n\n※ゲーム版Vol.2が発売されました(2018/03/30)\n※ノクスノベルス様より書籍化されました\n\nゾンビによって壊滅した現代社会で、一人だけゾンビに襲われない男が、好き勝手する話です。\n主人公は善人ではありません。\n最近は好き勝手していないかもしれません。\n四章予定です。",
+          "tags": [
+            "node-novel",
+            "novel18",
+            "syosetu",
+            "ゾンビ",
+            "ネクロフィリア",
+            "和姦",
+            "女子高生",
+            "残酷な描写あり",
+            "陵辱"
+          ]
+        },
+        "contribute": [
+          "Kiara_Yume",
+          "我只是一個紳士"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "undefined",
+            "novel_id": "n3271bm"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou18.nar.jp/search.php?text=%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[末世孤雄吧](https://tieba.baidu.com/f?kw=%E6%9C%AB%E4%B8%96%E5%AD%A4%E9%9B%84&ie=utf-8&tp=0 \"\")",
+          "[『ゾンビのあふれた世界で俺だけが襲われない』ノベルゲーム公式サイトです](http://www.spermation.net/seacoxx/zombie/index.html)",
+          "[pixiv](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=48715598)"
+        ]
+      },
+      "異世界の男は全滅したようです": {
+        "novel": {
+          "title": "異世界の男は全滅したようです",
+          "title_zh1": "異世界的男人們貌似全滅了",
+          "author": "夢路屋",
+          "source": "http://novel18.syosetu.com/n4233bh/",
+          "cover": "",
+          "publisher": "syosetu",
+          "date": "2015-08-13T00:52:00+08:00",
+          "status": "連載",
+          "series": {
+            "name": "異世界の男は全滅したようです"
+          },
+          "preface": "俺こと向坂博牟は大学に入り表面上はアニメやゲームが好きな善良な学生を演じながら、裏では喧嘩は日常茶飯事、恐喝やレイプなどいろいろな悪事に手を染めていた。それでも俺はどこか退屈さを感じながらも楽しく過ごしていた。\nしかしあるとき、友人とラーメンを食べていると俺は突然森の中にいた。\n訳が分からないが、どこか非日常に憧れていた俺は好き勝手に生きていくことに決めた。",
+          "tags": [
+            "node-novel",
+            "novel18",
+            "syosetu",
+            "チート",
+            "ハーレム",
+            "ファンタジー",
+            "レイプ",
+            "ロリババア",
+            "ロリータ",
+            "奴隷",
+            "姫",
+            "幼女",
+            "強姦",
+            "残酷な描写あり",
+            "異世界転移",
+            "美少女",
+            "調教",
+            "鬼畜"
+          ]
+        },
+        "contribute": [
+          "812843924",
+          "dyxdsgdsg",
+          "sss7112240",
+          "幻火_兴风",
+          "我只是一個紳士",
+          "无妄天",
+          "殉鸢",
+          "駝背老翁"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "undefined",
+            "novel_id": "n4233bh"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou18.nar.jp/search.php?text=n4233bh&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[异世界的男人们貌似全灭了吧](https://tieba.baidu.com/f?kw=%E5%BC%82%E4%B8%96%E7%95%8C%E7%9A%84%E7%94%B7%E4%BA%BA%E4%BB%AC%E8%B2%8C%E4%BC%BC%E5%85%A8%E7%81%AD%E4%BA%86&ie=utf-8 \"异世界的男人们貌似全灭了\")"
+        ]
+      }
+    },
+    "kakuyomu": {
+      "勇者、辞めます　～次の職場は魔王城～": {
+        "novel": {
+          "title": "勇者、辞めます　～次の職場は魔王城～",
+          "title_zh": "勇者，不幹了　～下一個職場是魔王城～",
+          "title_zh1": "勇者辭職不幹了",
+          "author": "クオンタム",
+          "source": "https://kakuyomu.jp/works/1177354054882385011",
+          "cover": "https://cdn.kdkw.jp/cover_1000/321708/321708000583.jpg",
+          "publisher": "kakuyomu",
+          "date": "2018-10-27T15:41:27+08:00",
+          "status": "連載中",
+          "series": {
+            "name": "勇者、辞めます　～次の職場は魔王城～"
+          },
+          "preface": "靠一己之力，獨自擊敗了魔王軍四天王的勇者雷歐・德蒙哈德。在成功討伐魔王之後，加入了魔王軍......\n\n「愚かな人間どもを滅ぼすべく、魔王軍への入団を希望する！」\nクオンタム\n\n◆書籍化済み。1～3巻、電子版/紙書籍で好評発売中◆\nhttps://kadokawabooks.jp/product/yusyayamemasu/\n\n◆ヤングエースUP様でコミカライズ決定。連載中！◆\nhttps://web-ace.jp/youngaceup/contents/1000091/\n\n----\n\n世界を救った後、どこにも行き場が無くなった最強勇者・レオ。\n彼が行き着いた就職先は――かつての敵、魔王軍だった！\n\n第二回カクヨムコン・異世界ファンタジー大賞。\n新たな職場で（元）勇者が奮闘する、異世界社会科ファンタジー。",
+          "tags": [
+            "kakuyomu",
+            "node-novel",
+            "お仕事",
+            "カクヨムオンリー",
+            "勇者",
+            "四天王",
+            "最強もの",
+            "異世界ファンタジー",
+            "社会科",
+            "魔王"
+          ]
+        },
+        "contribute": [
+          "ondrydock",
+          "懶惰的鹹魚",
+          "拾夕似何年"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFirePrefix": false,
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 0
+          },
+          "kakuyomu": {
+            "novel_id": "1177354054882385011"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[勇者辞职不干了吧](https://tieba.baidu.com/f?kw=%E5%8B%87%E8%80%85%E8%BE%9E%E8%81%8C%E4%B8%8D%E5%B9%B2%E4%BA%86&ie=utf-8 \"勇者辞职不干了\")",
+          "[dm5](http://www.dm5.com/manhua-yongzhecizhibuganle/)",
+          "[kadokawabooks.jp](https://kadokawabooks.jp/product/yusyayamemasu/)",
+          "[web-ace.jp](https://web-ace.jp/youngaceup/contents/1000091/)"
+        ]
       }
     }
   }
