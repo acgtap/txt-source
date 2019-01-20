@@ -1,7 +1,7 @@
 {
   "meta": {
     "todayTimestamp": 1547913600000,
-    "timestamp": 1547940801622,
+    "timestamp": 1547975268345,
     "sourceUrl": "https://gitee.com/bluelovers/novel/tree/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -976,11 +976,11 @@
           "h",
           "侯爵嫡男好色物語",
           {
-            "segment_date": 1547940476850,
-            "segment_old": 0,
-            "segment": 35,
-            "init_date": 1547940476850,
-            "epub_date": 1547940762223,
+            "segment_date": 1547975112385,
+            "segment_old": 35,
+            "segment": 1,
+            "init_date": 1547913600000,
+            "epub_date": 1547975246438,
             "volume_old": 0,
             "chapter_old": 0,
             "volume": 1,
@@ -997,8 +997,8 @@
             "segment_date": 1547940550044,
             "segment_old": 0,
             "segment": 60,
-            "init_date": 1547940550044,
-            "epub_date": 1547940764036,
+            "init_date": 1547913600000,
+            "epub_date": 1547975248178,
             "volume_old": 0,
             "chapter_old": 0,
             "volume": 3,
@@ -1015,8 +1015,8 @@
             "segment_date": 1547940565173,
             "segment_old": 0,
             "segment": 32,
-            "init_date": 1547940565173,
-            "epub_date": 1547940764983,
+            "init_date": 1547913600000,
+            "epub_date": 1547975249131,
             "volume_old": 0,
             "chapter_old": 0,
             "volume": 2,
@@ -1033,8 +1033,8 @@
             "segment_date": 1547940570765,
             "segment_old": 0,
             "segment": 9,
-            "init_date": 1547940570765,
-            "epub_date": 1547940767308,
+            "init_date": 1547913600000,
+            "epub_date": 1547975250953,
             "volume_old": 0,
             "chapter_old": 0,
             "volume": 4,
@@ -1063,8 +1063,8 @@
             "segment_date": 1547940721492,
             "segment_old": 0,
             "segment": 52,
-            "init_date": 1547940721492,
-            "epub_date": 1547940780539,
+            "init_date": 1547913600000,
+            "epub_date": 1547975253224,
             "volume_old": 0,
             "chapter_old": 0,
             "volume": 4,
@@ -1081,11 +1081,11 @@
           "h",
           "侯爵嫡男好色物語",
           {
-            "segment_date": 1547940476850,
-            "segment_old": 0,
-            "segment": 35,
-            "init_date": 1547940476850,
-            "epub_date": 1547940762223,
+            "segment_date": 1547975112385,
+            "segment_old": 35,
+            "segment": 1,
+            "init_date": 1547913600000,
+            "epub_date": 1547975246438,
             "volume_old": 0,
             "chapter_old": 0,
             "volume": 1,
@@ -1102,8 +1102,8 @@
             "segment_date": 1547940550044,
             "segment_old": 0,
             "segment": 60,
-            "init_date": 1547940550044,
-            "epub_date": 1547940764036,
+            "init_date": 1547913600000,
+            "epub_date": 1547975248178,
             "volume_old": 0,
             "chapter_old": 0,
             "volume": 3,
@@ -1120,8 +1120,8 @@
             "segment_date": 1547940565173,
             "segment_old": 0,
             "segment": 32,
-            "init_date": 1547940565173,
-            "epub_date": 1547940764983,
+            "init_date": 1547913600000,
+            "epub_date": 1547975249131,
             "volume_old": 0,
             "chapter_old": 0,
             "volume": 2,
@@ -1138,8 +1138,8 @@
             "segment_date": 1547940570765,
             "segment_old": 0,
             "segment": 9,
-            "init_date": 1547940570765,
-            "epub_date": 1547940767308,
+            "init_date": 1547913600000,
+            "epub_date": 1547975250953,
             "volume_old": 0,
             "chapter_old": 0,
             "volume": 4,
@@ -1251,8 +1251,8 @@
             "segment_date": 1547940721492,
             "segment_old": 0,
             "segment": 52,
-            "init_date": 1547940721492,
-            "epub_date": 1547940780539,
+            "init_date": 1547913600000,
+            "epub_date": 1547975253224,
             "volume_old": 0,
             "chapter_old": 0,
             "volume": 4,
@@ -1322,28 +1322,44 @@
         "update_count": 4
       },
       "最強職《竜騎士》から初級職《運び屋》": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 82
       },
       "自称！平凡魔族の英雄ライフ": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 10
       },
       "世界最強の後衛　～迷宮国の新人探索者～": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 2
       },
       "婚約者は、私の妹に恋をする": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 5
       },
       "乙女ゲー世界はモブに厳しい世界です": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 18
       },
       "大叔撿到了勇者和魔王": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 2
       },
       "父は英雄、母は精霊、娘の私は転生者。": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 5
       },
       "ニトの怠惰な異世界症候群～最弱職〈ヒーラー〉なのに最強はチートですか？～": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 1
       },
       "望まぬ不死の冒険者": {
         "segment_date": 1546388358471,
@@ -1470,16 +1486,24 @@
         "update_count": 3
       },
       "虫虫酱むいむいたん": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 2
       },
       "魔王の始め方": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 2
       },
       "駆除人": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 20
       },
       "魔拳のデイドリーマー": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 34
       },
       "豚公爵に転生したから、今度は君に好きと言いたい": {
         "segment_date": 1547854179724,
@@ -1658,7 +1682,9 @@
         "update_count": 1
       },
       "由于世界魔物满载": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 45
       },
       "自称贤者弟子的贤者": {
         "init_date": 1545494400000,
@@ -1685,7 +1711,9 @@
         "update_count": 2
       },
       "その者。のちに・・・": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 2
       },
       "ウォルテニア戦記": {
         "init_date": 1545494400000,
@@ -1700,19 +1728,29 @@
         "update_count": 5
       },
       "２９歳独身は異世界で自由に生きた…かった。": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 110
       },
       "暴食のベルセルク": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 11
       },
       "最下位職から最強まで成り上がる～地道な努力はチートでした～": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 57
       },
       "蘇りの魔王": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 82
       },
       "呼び出された殺戮者": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 246
       },
       "異世界迷宮の最深部を目指そう": {
         "init_date": 1545494400000,
@@ -1739,46 +1777,74 @@
         "update_count": 3
       },
       "悠久の愚者アズリーの、賢者のすゝめ": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 31
       },
       "再臨勇者の復讐譚　～失望しました、勇者やめて元魔王と組みます～": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 62
       },
       "NO FATIGUE 24時間戦える男の転生譚": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 67
       },
       "カルマの塔": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 234
       },
       "神竜転生 ～普通の人間SSS～": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 8
       },
       "黒の創造召喚師": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 82
       },
       "物語の中の銀の髪": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 80
       },
       "自分が異世界に転移するなら": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 131
       },
       "エルフ転生からのチート建国記": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 77
       },
       "回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 143
       },
       "帰ってきてもファンタジー！？": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 18
       },
       "在這個世界排行第九的我": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 29
       },
       "異世界支配のスキルテイカー　～　ゼロから始める奴隷ハーレム　～": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 187
       },
       "雪色エトランゼ": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 115
       },
       "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～": {
         "init_date": 1545494400000,
@@ -1793,7 +1859,9 @@
         "update_count": 6
       },
       "転生したら剣でした": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 453
       },
       "誰にでもできる影から助ける魔王討伐": {
         "init_date": 1545494400000,
@@ -1832,22 +1900,34 @@
         "update_count": 1
       },
       "元将軍のアンデッドナイト": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 114
       },
       "強欲の花": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 116
       },
       "天才魔法使與原娼婦新娘": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 61
       },
       "乙女ゲームの悪（中略）ヒロインが鬼畜女装野郎だったので、助けて下さい": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 70
       },
       "俺の異世界姉妹が自重しない！": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 141
       },
       "病娇女神の箱庭": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 24
       },
       "呪術師は勇者になれない": {
         "init_date": 1545494400000,
@@ -1862,7 +1942,9 @@
         "update_count": 1
       },
       "百魔の主": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 54
       }
     },
     "syosetu_out": {
@@ -1933,16 +2015,24 @@
         "update_count": 4
       },
       "勇者的活躍從現在才開始！": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 17
       },
       "World's End Online": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 30
       },
       "你們先走我斷後": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 24
       },
       "再召喚された勇者は一般人として生きていく？": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 78
       },
       "死憶の異世界傾国姫　～究極の悲劇のヒロインめざしてTS転生～": {
         "init_date": 1545494400000,
@@ -1957,13 +2047,19 @@
         "update_count": 3
       },
       "チートで賢者な俺は異世界に革命を起こす": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 6
       },
       "魔人勇者（自称）サトゥン": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 31
       },
       "稍微去毀滅世界": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 40
       },
       "紅き血に口づけを　～外れスキルからの逆転人生～": {
         "init_date": 1545494400000,
@@ -1978,16 +2074,24 @@
         "update_count": 2
       },
       "無口な天使_(n3462bz)": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 38
       },
       "帰ってきた元勇者": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 240
       },
       "英雄の隠し子の英雄譚": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 23
       },
       "極星から零れた少女": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 18
       },
       "望まぬ不死の冒険者": {
         "init_date": 1545494400000,
@@ -2002,34 +2106,54 @@
         "update_count": 7
       },
       "無職の英雄　(n6683ej)": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 134
       },
       "邪神無双　(n2123do)": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 77
       },
       "玩了VR工口遊戲轉生到異世界": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 9
       },
       "吸血姫は薔薇色の夢をみる": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 160
       },
       "得到一半世界後投靠魔王的勇者": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 39
       },
       "異世界で孤児院を開いたけど": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 28
       },
       "英雄の中の英雄の物語　〜アレスティア建国記〜": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 5
       },
       "甜點転生": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 12
       },
       "カット＆ペーストでこの世界を生きていく": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 9
       },
       "転生少女の履歴書": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 154
       },
       "注意到的時候ＴＳ成了精靈": {
         "init_date": 1545494400000,
@@ -2044,31 +2168,49 @@
         "update_count": 1
       },
       "異空のレクスオール": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 74
       },
       "神スキル【呼吸】するだけでレベルアップする僕は、神々のダンジョンへ挑む。": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 16
       },
       "アラフォー賢者の異世界生活日記": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 42
       },
       "病弱少女は自分より強い人に嫁ぎたい": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 14
       },
       "被捨棄的勇者的英雄譚_(n0878cb)": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 73
       },
       "大陸英雄戦記": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 35
       },
       "隻腕の鉄姫兵団": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 66
       },
       "討伐魔王後當了公會會長": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 2
       },
       "堕落の王": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 73
       },
       "想自由生活的魔王默示錄": {
         "init_date": 1545494400000,
@@ -2083,7 +2225,9 @@
         "update_count": 3
       },
       "俺だけ入れる隠しダンジョン　〜こっそり鍛えて世界最強〜": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 60
       },
       "最強呪族転生": {
         "init_date": 1545494400000,
@@ -2098,10 +2242,14 @@
         "update_count": 2
       },
       "魔王学院の不適合者": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 45
       },
       "魔王軍最強の魔術師は人間だった": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 31
       },
       "暇人、魔王の姿で異世界へ": {
         "init_date": 1545494400000,
@@ -2128,7 +2276,9 @@
         "update_count": 1
       },
       "賢者の剣": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 261
       }
     },
     "cm": {
@@ -2155,13 +2305,19 @@
         "update_count": 2
       },
       "異世界人の手引き書": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 30
       },
       "現実主義勇者の大国建造記": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 1
       },
       "モンスターがあふれる世界になったので、好きに生きたいと思います": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 54
       },
       "異世界転移で女神様から祝福を！　～いえ、手持ちの異能があるので結構です～": {
         "init_date": 1545494400000,
@@ -2178,22 +2334,34 @@
         "segment": 35
       },
       "聖者無双　～サラリーマン、異世界で生き残るために歩む道～": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 73
       },
       "最強ギルドマスターの一週間建国記": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 40
       },
       "捨てられた勇者は魔王となりて死に戻る（旧題：捨てられた勇者の英雄譚）": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 15
       },
       "魔王の始め方": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 8
       },
       "異世界の気象予報士～世界最強の天属性魔法術師～": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 9
       },
       "英雄の娘として生まれ変わった英雄は再び英雄を目指す": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 112
       }
     },
     "mirronight": {
@@ -2243,7 +2411,9 @@
         "init_date": 1545521509007
       },
       "钱进战国雄霸天下": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 44
       },
       "打倒女神勇者的下流手段": {
         "segment_date": 1547681318768,
@@ -2264,8 +2434,8 @@
         "segment_date": 1547940721492,
         "segment_old": 0,
         "segment": 52,
-        "init_date": 1547940721492,
-        "epub_date": 1547940780539,
+        "init_date": 1547913600000,
+        "epub_date": 1547975253224,
         "volume_old": 0,
         "chapter_old": 0,
         "volume": 4,
@@ -2300,19 +2470,29 @@
         "init_date": 1545548909747
       },
       "不是真正同伴的我被逐出了勇者隊伍，因此決定在邊境過上慢生活": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 17
       },
       "努力過頭的世界最強武鬥家": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 10
       },
       "虛弱的高中生的異世界修行日記": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 31
       },
       "幻想世界的愛麗絲緹露": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 151
       },
       "哥布林殺手": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 124
       },
       "蜘蛛ですが、なにか？": {
         "init_date": 1545494400000,
@@ -2349,10 +2529,14 @@
         "init_date": 1545548957577
       },
       "OVERLORD不死者之王": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 107
       },
       "瀆神之主": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 46
       }
     },
     "epub": {
@@ -2373,41 +2557,59 @@
     },
     "h_out": {
       "勇者は犯されたい": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 49
       }
     },
     "kakuyomu_out": {
       "惡魔支配者　～想定時回家的男人之瘋狂升級～": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 21
       },
       "辺境都市の育成者": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 21
       },
       "この勇者が俺ＴＵＥＥＥくせに慎重すぎる": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 10
       }
     },
     "webqxs_out": {
       "公会的开挂接待小姐_(20)": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 53
       },
       "かみがみ〜最も弱き反逆者〜": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 14
       }
     },
     "uukanshu_out": {
       "炎之魔女的守序信仰": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 262
       }
     },
     "other": {
       "勇者「都打倒魔王了來回家吧」": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 3
       }
     },
     "z.abandon_out": {
       "邪竜転生": {
-        "init_date": 1545494400000
+        "init_date": 1545494400000,
+        "chapter_old": 0,
+        "chapter": 52
       }
     },
     "dmzj": {
@@ -2438,11 +2640,11 @@
     },
     "h": {
       "侯爵嫡男好色物語": {
-        "segment_date": 1547940476850,
-        "segment_old": 0,
-        "segment": 35,
-        "init_date": 1547940476850,
-        "epub_date": 1547940762223,
+        "segment_date": 1547975112385,
+        "segment_old": 35,
+        "segment": 1,
+        "init_date": 1547913600000,
+        "epub_date": 1547975246438,
         "volume_old": 0,
         "chapter_old": 0,
         "volume": 1,
@@ -2455,8 +2657,8 @@
         "segment_date": 1547940550044,
         "segment_old": 0,
         "segment": 60,
-        "init_date": 1547940550044,
-        "epub_date": 1547940764036,
+        "init_date": 1547913600000,
+        "epub_date": 1547975248178,
         "volume_old": 0,
         "chapter_old": 0,
         "volume": 3,
@@ -2469,8 +2671,8 @@
         "segment_date": 1547940565173,
         "segment_old": 0,
         "segment": 32,
-        "init_date": 1547940565173,
-        "epub_date": 1547940764983,
+        "init_date": 1547913600000,
+        "epub_date": 1547975249131,
         "volume_old": 0,
         "chapter_old": 0,
         "volume": 2,
@@ -2485,8 +2687,8 @@
         "segment_date": 1547940570765,
         "segment_old": 0,
         "segment": 9,
-        "init_date": 1547940570765,
-        "epub_date": 1547940767308,
+        "init_date": 1547913600000,
+        "epub_date": 1547975250953,
         "volume_old": 0,
         "chapter_old": 0,
         "volume": 4,
