@@ -14,7 +14,7 @@
 ### Segment
 
 - [只有無職是不會辭掉的](mirronight/%E5%8F%AA%E6%9C%89%E7%84%A1%E8%81%B7%E6%98%AF%E4%B8%8D%E6%9C%83%E8%BE%AD%E6%8E%89%E7%9A%84) - mirronight
-  <br/>( s: 189 )
+  <br/>( s: 1 )
 
 ## 2019-01-20
 
