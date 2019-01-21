@@ -69,6 +69,7 @@
 - ak47kevinhunga
 - 上大学的新世界
 - 隔壁帅小伙
+- 喵Kuma
 - 
 
 # options
@@ -93,6 +94,7 @@
 - [dip.jp](https://narou.nar.jp/search.php?text=n9107ee&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [重生的猫骑士与精灵娘的日常吧](https://tieba.baidu.com/f?kw=%E9%87%8D%E7%94%9F%E7%9A%84%E7%8C%AB%E9%AA%91%E5%A3%AB%E4%B8%8E%E7%B2%BE%E7%81%B5%E5%A8%98%E7%9A%84%E6%97%A5%E5%B8%B8&ie=utf-8 "重生的猫骑士与精灵娘的日常")
 - [dm5](http://www.dm5.com/manhua-chongshengdemaoqishiyujinglingniangderichang/)
+- [喵Kuma](https://pan.baidu.com/s/18P36Do0zcme_stcDmV2xpg)
 - 
 
 
