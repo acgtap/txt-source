@@ -1,550 +1,11 @@
 {
   "meta": {
-    "todayTimestamp": 1548000000000,
-    "timestamp": 1548043666180,
+    "todayTimestamp": 1548086400000,
+    "timestamp": 1548127734700,
     "sourceUrl": "https://gitee.com/bluelovers/novel/tree/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
   "history": {
-    "1546790400000": {
-      "epub_count": 1,
-      "epub": [
-        [
-          "cm_out",
-          "リビティウム皇国のブタクサ姫",
-          {
-            "epub_date": 1546816959985,
-            "volume_old": 7,
-            "chapter_old": 206,
-            "volume": 7,
-            "chapter": 207,
-            "epub_basename": "利貝提姆皇國的豚草姫.epub",
-            "init_date": 1545548908164,
-            "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-            "update_date": 1546790400000,
-            "update_count": 8
-          }
-        ]
-      ]
-    },
-    "1546876800000": {
-      "segment_count": 3,
-      "segment": [
-        [
-          "user",
-          "ウォルテニア戦記",
-          {
-            "segment_date": 1546903346610,
-            "segment_old": 1,
-            "segment": 2,
-            "init_date": 1546044567479,
-            "update_date": 1546876800000,
-            "update_count": 7
-          }
-        ],
-        [
-          "user",
-          "四度目は嫌な死属性魔術師",
-          {
-            "segment_date": 1546903652830,
-            "segment_old": 5,
-            "segment": 5,
-            "init_date": 1546302039608,
-            "update_date": 1546876800000,
-            "update_count": 4
-          }
-        ],
-        [
-          "user",
-          "黑之魔王",
-          {
-            "segment_date": 1546903825189,
-            "segment_old": 10,
-            "segment": 26,
-            "init_date": 1545261427757,
-            "update_date": 1546876800000,
-            "update_count": 8
-          }
-        ]
-      ],
-      "epub_count": 4,
-      "epub": [
-        [
-          "user_out",
-          "ウォルテニア戦記",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "沃特尼亞戰記.out.txt",
-            "epub_date": 1546903870937,
-            "volume_old": 5,
-            "chapter_old": 171,
-            "volume": 5,
-            "chapter": 174,
-            "epub_basename": "沃特尼亞戰記.epub",
-            "update_date": 1546876800000,
-            "update_count": 5
-          }
-        ],
-        [
-          "user_out",
-          "四度目は嫌な死属性魔術師",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "四度目は嫌な死属性魔術師.out.txt",
-            "epub_date": 1546903880509,
-            "volume_old": 17,
-            "chapter_old": 278,
-            "volume": 17,
-            "chapter": 278,
-            "epub_basename": "四度目は嫌な死属性魔術師.epub",
-            "update_date": 1546876800000,
-            "update_count": 2
-          }
-        ],
-        [
-          "user_out",
-          "誰にでもできる影から助ける魔王討伐",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "誰都能做到的暗中協助魔王討伐.out.txt",
-            "epub_date": 1546903882033,
-            "volume_old": 10,
-            "chapter_old": 34,
-            "volume": 10,
-            "chapter": 40,
-            "epub_basename": "誰都能做到的暗中協助魔王討伐.epub",
-            "update_date": 1546876800000,
-            "update_count": 2
-          }
-        ],
-        [
-          "user_out",
-          "黑之魔王",
-          {
-            "epub_date": 1546903891735,
-            "volume_old": 29,
-            "chapter_old": 547,
-            "volume": 29,
-            "chapter": 547,
-            "init_date": 1545261469203,
-            "epub_basename": "黑之魔王.epub",
-            "txt_basename": "黑之魔王.out.txt",
-            "update_date": 1546876800000,
-            "update_count": 11
-          }
-        ]
-      ]
-    },
-    "1546963200000": {
-      "epub_count": 3,
-      "epub": [
-        [
-          "syosetu_out",
-          "最強呪族転生",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "最強呪族転生.out.txt",
-            "epub_date": 1546990435445,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 6,
-            "chapter": 217,
-            "epub_basename": "最強呪族転生.epub",
-            "update_date": 1546963200000,
-            "update_count": 1
-          }
-        ],
-        [
-          "user_out",
-          "你這種傢伙別想打贏魔王",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
-            "epub_date": 1546990438433,
-            "volume_old": 9,
-            "chapter_old": 82,
-            "volume": 9,
-            "chapter": 83,
-            "epub_basename": "你這種傢伙別想打贏魔王.epub",
-            "update_date": 1546963200000,
-            "update_count": 5
-          }
-        ],
-        [
-          "user_out",
-          "異世界迷宮の最深部を目指そう",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "異世界迷宮の最深部を目指そう.out.txt",
-            "epub_date": 1546990454153,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 26,
-            "chapter": 382,
-            "epub_basename": "異世界迷宮の最深部を目指そう.epub",
-            "update_date": 1546963200000,
-            "update_count": 1
-          }
-        ]
-      ]
-    },
-    "1547049600000": {
-      "segment_count": 1,
-      "segment": [
-        [
-          "syosetu",
-          "想自由生活的魔王默示錄",
-          {
-            "init_date": 1546272000000,
-            "segment_date": 1547076202823,
-            "segment_old": 0,
-            "segment": 6,
-            "update_date": 1547049600000,
-            "update_count": 1
-          }
-        ]
-      ],
-      "epub_count": 2,
-      "epub": [
-        [
-          "syosetu_out",
-          "想自由生活的魔王默示錄",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "想自由生活的魔王默示錄.out.txt",
-            "epub_date": 1547076305202,
-            "volume_old": 6,
-            "chapter_old": 54,
-            "volume": 7,
-            "chapter": 71,
-            "epub_basename": "想自由生活的魔王默示錄.epub",
-            "update_date": 1547049600000,
-            "update_count": 3
-          }
-        ],
-        [
-          "syosetu_out",
-          "紅き血に口づけを　～外れスキルからの逆転人生～",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "為鮮血獻上吻　～從沒用技能開始的逆轉人生.out.txt",
-            "epub_date": 1547076306155,
-            "volume_old": 1,
-            "chapter_old": 19,
-            "volume": 1,
-            "chapter": 21,
-            "epub_basename": "為鮮血獻上吻　～從沒用技能開始的逆轉人生～.epub",
-            "update_date": 1547049600000,
-            "update_count": 2
-          }
-        ]
-      ]
-    },
-    "1547308800000": {
-      "segment_count": 2,
-      "segment": [
-        [
-          "user",
-          "你這種傢伙別想打贏魔王",
-          {
-            "segment_date": 1547335522000,
-            "segment_old": 47,
-            "segment": 6,
-            "init_date": 1546044596562,
-            "update_date": 1547308800000,
-            "update_count": 3
-          }
-        ],
-        [
-          "user",
-          "黑之魔王",
-          {
-            "segment_date": 1547335747872,
-            "segment_old": 26,
-            "segment": 1,
-            "init_date": 1545261427757,
-            "update_date": 1547308800000,
-            "update_count": 9
-          }
-        ]
-      ],
-      "epub_count": 4,
-      "epub": [
-        [
-          "syosetu_out",
-          "用務員さんは勇者じゃありませんので",
-          {
-            "epub_date": 1547335778959,
-            "volume_old": 4,
-            "chapter_old": 63,
-            "volume": 4,
-            "chapter": 63,
-            "epub_basename": "因為校工桑並不是勇者.epub",
-            "init_date": 1545548930185,
-            "txt_basename": "因為校工桑並不是勇者.out.txt",
-            "update_date": 1547308800000,
-            "update_count": 2
-          }
-        ],
-        [
-          "user_out",
-          "你這種傢伙別想打贏魔王",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
-            "epub_date": 1547335781928,
-            "volume_old": 9,
-            "chapter_old": 83,
-            "volume": 9,
-            "chapter": 86,
-            "epub_basename": "你這種傢伙別想打贏魔王.epub",
-            "update_date": 1547308800000,
-            "update_count": 6
-          }
-        ],
-        [
-          "user_out",
-          "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "暗黒騎士物語　～勇者を倒すために魔王に召.out.txt",
-            "epub_date": 1547335787847,
-            "volume_old": 9,
-            "chapter_old": 177,
-            "volume": 9,
-            "chapter": 178,
-            "epub_basename": "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～.epub",
-            "update_date": 1547308800000,
-            "update_count": 6
-          }
-        ],
-        [
-          "user_out",
-          "黑之魔王",
-          {
-            "epub_date": 1547335798254,
-            "volume_old": 29,
-            "chapter_old": 547,
-            "volume": 29,
-            "chapter": 549,
-            "init_date": 1545261469203,
-            "epub_basename": "黑之魔王.epub",
-            "txt_basename": "黑之魔王.out.txt",
-            "update_date": 1547308800000,
-            "update_count": 12
-          }
-        ]
-      ]
-    },
-    "1547395200000": {
-      "segment_count": 1,
-      "segment": [
-        [
-          "user",
-          "異世界迷宮の最深部を目指そう",
-          {
-            "init_date": 1546963200000,
-            "segment_date": 1547425836759,
-            "segment_old": 2,
-            "segment": 2,
-            "update_date": 1547395200000,
-            "update_count": 1
-          }
-        ]
-      ],
-      "epub_count": 1,
-      "epub": [
-        [
-          "user_out",
-          "異世界迷宮の最深部を目指そう",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "異世界迷宮の最深部を目指そう.out.txt",
-            "epub_date": 1547426012096,
-            "volume_old": 26,
-            "chapter_old": 382,
-            "volume": 26,
-            "chapter": 384,
-            "epub_basename": "異世界迷宮の最深部を目指そう.epub",
-            "update_date": 1547395200000,
-            "update_count": 2
-          }
-        ]
-      ]
-    },
-    "1547481600000": {
-      "epub_count": 7,
-      "epub": [
-        [
-          "cm",
-          "異世界転移で女神様から祝福を！　～いえ、手持ちの異能があるので結構です～",
-          {
-            "init_date": 1545494400000,
-            "epub_date": 1547527999035,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 5,
-            "chapter": 102,
-            "epub_basename": "異世界転移で女神様から祝福を！　～いえ、手持ちの異能があるので結構です～.epub",
-            "update_date": 1547481600000,
-            "update_count": 1,
-            "segment_date": 1547527524592,
-            "segment_old": 0,
-            "segment": 35
-          }
-        ],
-        [
-          "mirronight",
-          "在異世界轉移從女人大人那兒得到祝福",
-          {
-            "epub_date": 1547528000126,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 20,
-            "epub_basename": "在異世界轉移從女人大人那兒得到祝福.epub",
-            "init_date": 1547481600000,
-            "update_date": 1547481600000,
-            "update_count": 1,
-            "segment_date": 1547527532985,
-            "segment_old": 0,
-            "segment": 6
-          }
-        ],
-        [
-          "syosetu_out",
-          "俺　VS　人類　～アンデッドを使役して王国を襲う俺～",
-          {
-            "epub_date": 1547528004839,
-            "volume_old": 4,
-            "chapter_old": 116,
-            "volume": 4,
-            "chapter": 120,
-            "epub_basename": "俺　VS　人類　～使役不死者去襲擊王國的俺～.epub",
-            "novel_status": 1,
-            "init_date": 1545548928688,
-            "txt_basename": "俺　VS　人類　～使役不死者去襲擊王國的.out.txt",
-            "update_date": 1547481600000,
-            "update_count": 3
-          }
-        ],
-        [
-          "syosetu_out",
-          "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。_(n5691dd)",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "秒殺外掛太強了，異世界的家伙們根本就不是.out.txt",
-            "epub_date": 1547528005636,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 2,
-            "chapter": 21,
-            "epub_basename": "秒殺外掛太強了，異世界的家伙們根本就不是對手.epub",
-            "update_date": 1547481600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu_out",
-          "最強呪族転生",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "最強呪族転生.out.txt",
-            "epub_date": 1547528009518,
-            "volume_old": 6,
-            "chapter_old": 217,
-            "volume": 6,
-            "chapter": 221,
-            "epub_basename": "最強呪族転生.epub",
-            "update_date": 1547481600000,
-            "update_count": 2
-          }
-        ],
-        [
-          "syosetu_out",
-          "注意到的時候ＴＳ成了精靈",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "注意到的時候ＴＳ成了精靈.out.txt",
-            "epub_date": 1547528011428,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 26,
-            "epub_basename": "注意到的時候ＴＳ成了精靈.epub",
-            "update_date": 1547481600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "user_out",
-          "黑之魔王",
-          {
-            "epub_date": 1547528021611,
-            "volume_old": 29,
-            "chapter_old": 549,
-            "volume": 29,
-            "chapter": 552,
-            "init_date": 1545261469203,
-            "epub_basename": "黑之魔王.epub",
-            "txt_basename": "黑之魔王.out.txt",
-            "update_date": 1547481600000,
-            "update_count": 13
-          }
-        ]
-      ],
-      "segment_count": 3,
-      "segment": [
-        [
-          "cm",
-          "異世界転移で女神様から祝福を！　～いえ、手持ちの異能があるので結構です～",
-          {
-            "init_date": 1545494400000,
-            "epub_date": 1547527999035,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 5,
-            "chapter": 102,
-            "epub_basename": "異世界転移で女神様から祝福を！　～いえ、手持ちの異能があるので結構です～.epub",
-            "update_date": 1547481600000,
-            "update_count": 1,
-            "segment_date": 1547527524592,
-            "segment_old": 0,
-            "segment": 35
-          }
-        ],
-        [
-          "mirronight",
-          "在異世界轉移從女人大人那兒得到祝福",
-          {
-            "epub_date": 1547528000126,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 20,
-            "epub_basename": "在異世界轉移從女人大人那兒得到祝福.epub",
-            "init_date": 1547481600000,
-            "update_date": 1547481600000,
-            "update_count": 1,
-            "segment_date": 1547527532985,
-            "segment_old": 0,
-            "segment": 6
-          }
-        ],
-        [
-          "user",
-          "黑之魔王",
-          {
-            "segment_date": 1547527963887,
-            "segment_old": 1,
-            "segment": 1,
-            "init_date": 1545261427757,
-            "update_date": 1547481600000,
-            "update_count": 10
-          }
-        ]
-      ]
-    },
     "1547568000000": {
       "segment_count": 2,
       "segment": [
@@ -1339,6 +800,43 @@
           }
         ]
       ]
+    },
+    "1548086400000": {
+      "epub_count": 2,
+      "epub": [
+        [
+          "syosetu_out",
+          "帰ってきた元勇者",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 240,
+            "chapter": 240,
+            "txt_basename": "歸來的原勇者.out.txt",
+            "epub_date": 1548127690530,
+            "volume_old": 0,
+            "volume": 36,
+            "epub_basename": "歸來的原勇者.epub",
+            "update_date": 1548086400000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu_out",
+          "重生的貓騎士與精靈娘的日常",
+          {
+            "epub_date": 1548127693356,
+            "volume_old": 3,
+            "chapter_old": 48,
+            "volume": 3,
+            "chapter": 62,
+            "epub_basename": "重生的貓騎士與精靈娘的日常.epub",
+            "init_date": 1545548938005,
+            "txt_basename": "重生的貓騎士與精靈娘的日常.out.txt",
+            "update_date": 1548086400000,
+            "update_count": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1536,6 +1034,9 @@
         "novel_status": 1,
         "update_date": 1547913600000,
         "update_count": 1
+      },
+      "帰ってきた元勇者": {
+        "init_date": 1548086400000
       }
     },
     "user": {
@@ -2070,13 +1571,16 @@
         "update_count": 1
       },
       "重生的貓騎士與精靈娘的日常": {
-        "epub_date": 1545548938005,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1548127693356,
+        "volume_old": 3,
+        "chapter_old": 48,
         "volume": 3,
-        "chapter": 48,
-        "epub_basename": "重生的貓騎士與精靈娘的日常",
-        "init_date": 1545548938005
+        "chapter": 62,
+        "epub_basename": "重生的貓騎士與精靈娘的日常.epub",
+        "init_date": 1545548938005,
+        "txt_basename": "重生的貓騎士與精靈娘的日常.out.txt",
+        "update_date": 1548086400000,
+        "update_count": 1
       },
       "陰の実力者になりたくて！_(n0611em)": {
         "epub_date": 1547854358908,
@@ -2156,8 +1660,15 @@
       },
       "帰ってきた元勇者": {
         "init_date": 1545494400000,
-        "chapter_old": 0,
-        "chapter": 240
+        "chapter_old": 240,
+        "chapter": 240,
+        "txt_basename": "歸來的原勇者.out.txt",
+        "epub_date": 1548127690530,
+        "volume_old": 0,
+        "volume": 36,
+        "epub_basename": "歸來的原勇者.epub",
+        "update_date": 1548086400000,
+        "update_count": 1
       },
       "英雄の隠し子の英雄譚": {
         "init_date": 1545494400000,
@@ -6753,6 +6264,7 @@
           "一团糊日子",
           "上大学的新世界",
           "侠影初现",
+          "喵Kuma",
           "懶惰的咸魚",
           "星梦幻羽",
           "星辰亚特兰蒂斯",
@@ -6781,7 +6293,8 @@
         "link": [
           "[dip.jp](https://narou.nar.jp/search.php?text=n9107ee&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[重生的猫骑士与精灵娘的日常吧](https://tieba.baidu.com/f?kw=%E9%87%8D%E7%94%9F%E7%9A%84%E7%8C%AB%E9%AA%91%E5%A3%AB%E4%B8%8E%E7%B2%BE%E7%81%B5%E5%A8%98%E7%9A%84%E6%97%A5%E5%B8%B8&ie=utf-8 \"重生的猫骑士与精灵娘的日常\")",
-          "[dm5](http://www.dm5.com/manhua-chongshengdemaoqishiyujinglingniangderichang/)"
+          "[dm5](http://www.dm5.com/manhua-chongshengdemaoqishiyujinglingniangderichang/)",
+          "[喵Kuma](https://pan.baidu.com/s/18P36Do0zcme_stcDmV2xpg)"
         ]
       },
       "陰の実力者になりたくて！_(n0611em)": {
@@ -7387,53 +6900,6 @@
         "link": [
           "[dip.jp](https://narou.dip.jp/search.php?text=n8109cq&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[婚约者恋上我的妹妹吧](https://tieba.baidu.com/f?kw=%E5%A9%9A%E7%BA%A6%E8%80%85%E6%81%8B%E4%B8%8A%E6%88%91%E7%9A%84%E5%A6%B9%E5%A6%B9&ie=utf-8 \"婚约者恋上我的妹妹\")"
-        ]
-      },
-      "想當冒險者的女兒到首都當了等級Ｓ的冒險者": {
-        "novel": {
-          "title": "冒険者になりたいと都に出て行った娘がＳランクになってた",
-          "title_zh": "想當冒險者的女兒到首都當了等級Ｓ的冒險者",
-          "author": "門司柿家",
-          "source": "http://ncode.syosetu.com/n5947eg/",
-          "cover": "https://images-na.ssl-images-amazon.com/images/I/9127aY6%2ByvL.jpg",
-          "publisher": "syosetu",
-          "date": "2018-08-04T21:18:00+08:00",
-          "status": "連載",
-          "series": {
-            "name": "冒険者になりたいと都に出て行った娘がＳランクになってた"
-          },
-          "preface": "想當冒險者的女兒到首都當了等級S的冒險者漫畫 ，來看父控女兒的冒險故事\n\n　駆け出し冒険者の頃に片足を失い、故郷のド田舎に引っ込んで、薬草を集めたり魔獣や野獣を退治したり、畑仕事を手伝ったり、冒険者だか便利屋だか分からないような生活をしていた主人公。気が付けば三十も間近。\n　そんな時、薬草取りで入った山の中で捨て子を見つける。放っておくわけにもいかずに拾って育て、気づけば四十も間近。\n　父の背中を見て育ったせいか、すっかり大きくなった娘も冒険者になりたいと言う。自衛の為に小さな時から剣は教えていたが、確かに筋は悪くない。こんな田舎で燻らせているのも可哀想だ、と主人公は娘に都の冒険者ギルドへ向かわせる。\n　晴れて冒険者になった娘。\n　そんなこんなで五年、四十を超えた主人公は相変わらず田舎の冒険者モドキ。だが娘はギルドでも有数のＳランク冒険者になっていて中々帰って来ず……。\n「一体わたしはいつになったらお父さんに会えるんだ……！」\n\n※基本的に感想の返信は行いません。悪しからずご了承ください。また、他の方の感想へのコメントはトラブルの元になりますのでお控えください。",
-          "tags": [
-            "R15",
-            "node-novel",
-            "syosetu",
-            "おっさん",
-            "ほのぼの",
-            "ファザコン",
-            "冒険",
-            "剣士",
-            "勘違い",
-            "娘",
-            "残酷な描写あり",
-            "父親",
-            "魔法"
-          ]
-        },
-        "options": {
-          "syosetu": {
-            "txtdownload_id": "1105837"
-          },
-          "textlayout": {
-            "allow_lf2": true
-          }
-        },
-        "link": [
-          "[dip.jp](https://narou.dip.jp/search.php?text=n5947eg&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[等级s的冒险者吧](https://tieba.baidu.com/f?kw=%E7%AD%89%E7%BA%A7s%E7%9A%84%E5%86%92%E9%99%A9%E8%80%85&ie=utf-8&tp=0 \"等级s的冒险者\")",
-          "[comic-earthstar.jp](https://comic-earthstar.jp/detail/srank/) - 漫畫",
-          "[www.es-novel.jp](https://www.es-novel.jp/booktitle/54srank.php)",
-          "[dmzj](https://manhua.dmzj.com/dengjisdemaoxianzhe/) - 漫畫",
-          "[lightnovel.cn](https://www.lightnovel.cn/forum.php?mod=viewthread&tid=934740&page=1&authorid=1007858)"
         ]
       },
       "最強職《竜騎士》から初級職《運び屋》": {
@@ -10925,6 +10391,156 @@
           "[dip.jp](https://narou.nar.jp/search.php?text=n9543bw&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[我的怪物眷族吧](https://tieba.baidu.com/f?kw=%E6%88%91%E7%9A%84%E6%80%AA%E7%89%A9%E7%9C%B7%E6%97%8F&ie=utf-8&tp=0 \"我的怪物眷族\")",
           "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=101)"
+        ]
+      },
+      "想當冒險者的女兒到首都當了等級Ｓ的冒險者": {
+        "novel": {
+          "title": "冒険者になりたいと都に出て行った娘がＳランクになってた",
+          "title_zh": "想當冒險者的女兒到首都當了等級Ｓ的冒險者",
+          "author": "門司柿家",
+          "source": "http://ncode.syosetu.com/n5947eg/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/9127aY6%2ByvL.jpg",
+          "publisher": "syosetu",
+          "date": "2018-08-04T21:18:00+08:00",
+          "status": "連載",
+          "series": {
+            "name": "冒険者になりたいと都に出て行った娘がＳランクになってた"
+          },
+          "preface": "想當冒險者的女兒到首都當了等級S的冒險者漫畫 ，來看父控女兒的冒險故事\n\n　駆け出し冒険者の頃に片足を失い、故郷のド田舎に引っ込んで、薬草を集めたり魔獣や野獣を退治したり、畑仕事を手伝ったり、冒険者だか便利屋だか分からないような生活をしていた主人公。気が付けば三十も間近。\n　そんな時、薬草取りで入った山の中で捨て子を見つける。放っておくわけにもいかずに拾って育て、気づけば四十も間近。\n　父の背中を見て育ったせいか、すっかり大きくなった娘も冒険者になりたいと言う。自衛の為に小さな時から剣は教えていたが、確かに筋は悪くない。こんな田舎で燻らせているのも可哀想だ、と主人公は娘に都の冒険者ギルドへ向かわせる。\n　晴れて冒険者になった娘。\n　そんなこんなで五年、四十を超えた主人公は相変わらず田舎の冒険者モドキ。だが娘はギルドでも有数のＳランク冒険者になっていて中々帰って来ず……。\n「一体わたしはいつになったらお父さんに会えるんだ……！」\n\n※基本的に感想の返信は行いません。悪しからずご了承ください。また、他の方の感想へのコメントはトラブルの元になりますのでお控えください。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "おっさん",
+            "ほのぼの",
+            "ファザコン",
+            "冒険",
+            "剣士",
+            "勘違い",
+            "娘",
+            "残酷な描写あり",
+            "父親",
+            "魔法"
+          ]
+        },
+        "options": {
+          "syosetu": {
+            "txtdownload_id": "1105837"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n5947eg&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[等级s的冒险者吧](https://tieba.baidu.com/f?kw=%E7%AD%89%E7%BA%A7s%E7%9A%84%E5%86%92%E9%99%A9%E8%80%85&ie=utf-8&tp=0 \"等级s的冒险者\")",
+          "[comic-earthstar.jp](https://comic-earthstar.jp/detail/srank/) - 漫畫",
+          "[www.es-novel.jp](https://www.es-novel.jp/booktitle/54srank.php)",
+          "[dmzj](https://manhua.dmzj.com/dengjisdemaoxianzhe/) - 漫畫",
+          "[lightnovel.cn](https://www.lightnovel.cn/forum.php?mod=viewthread&tid=934740&page=1&authorid=1007858)"
+        ]
+      },
+      "最強の鑑定士って誰のこと？～満腹ごはんで異世界生活": {
+        "novel": {
+          "title": "最強の鑑定士って誰のこと？～満腹ごはんで異世界生活～",
+          "title_zh": "最強鑒定師在說誰呢",
+          "author": "港瀬つかさ",
+          "source": "http://ncode.syosetu.com/n7216dr/",
+          "cover": "",
+          "publisher": "syosetu",
+          "date": "2019-01-16T00:44:00+08:00",
+          "status": "連載",
+          "series": {
+            "name": "最強の鑑定士って誰のこと？～満腹ごはんで異世界生活～"
+          },
+          "preface": "乙男男子高中生钉宫悠利，某天唐突地被召唤到了异世界，而且还是在地下城里。幸好悠利被家族[真红的山猫]捡到开始了异世界的生活。\n诶？有着超稀有的[神之瞳]技能？所以职业就是探求者？也就是说是最强的鉴定系？确实乙男在异世界获得了这些东西……但还是自顾自的开始了轻松的慢速生活（主夫生活）。\n\n\n这是明明转移到异世界获得作弊技能却完全不在意直线向乙男生活直进享受着主夫生活的少年的故事。\n\n★カドカワＢＯＯＫＳさんより、１～５巻発売中。電子書籍もあります。よろしくお願いします。\n★コミカライズ『B's-LOG COMIC』さんで連載中。『ComicWalker』さん、『ニコニコ静画』さん、『pixivコミック』さんでも連載中。コミックス１巻発売中。\n★クロスオーバー始めました。「異世界満腹おもてなしご飯～最強の鑑定士サイド～ （https://ncode.syosetu.com/n6555em/）」\n\n乙男（オトメン）である男子高校生、釘宮悠利（くぎみやゆうり）は、ある日唐突に異世界に召喚されてしまった。しかもダンジョンの中に。幸いにもクラン《真紅の山猫（スカーレット・リンクス）》に拾われた悠利の異世界での生活が始まった。\nえ？所持技能（スキル）【神の瞳】が超レア？そのせいで職業（ジョブ）が探求者？つまり、鑑定系の最強？確かにそういったものは所持しているが、乙男（オトメン）が異世界で手に入れたのは、……気ままに気楽なスローライフ（主夫生活）でした。\n\nこれは、異世界転移したのに、チートも貰ったのに、全然気にせずに、乙男（オトメン）街道を突き進み、主夫っぽい生活を満喫する少年のお話。\n\n※サブタイトル変更しました。旧題：最強の鑑定士って誰のこと？～乙男の異世界生活～\n※なろう、カクヨムで掲載中。\n\n※注意！※\n書いている人間が「異世界でのほほんスローライフ読みたい」という思いだけでやらかしているので、真面目に時代、文化、文明などの考証をしておりません。基本行き当たりばったりのなんちゃっての、伝家の宝刀「ご都合主義！」を発動させます。\nそれでも宜しい方のみお読み下さい。お気に召さない方は、速やかにブラウザバックぷりーず！",
+          "tags": [
+            "node-novel",
+            "syosetu",
+            "ご都合主義",
+            "だけど無双しない",
+            "ほのぼの",
+            "オカン的な意味で",
+            "コミカライズ",
+            "チート持ち",
+            "モテモテ",
+            "主人公は乙男",
+            "日常",
+            "書籍化",
+            "異世界転移",
+            "鑑定要素は１割以下？",
+            "飯テロ"
+          ]
+        },
+        "contribute": [
+          "LIFEOUT323"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "undefined",
+            "novel_id": "n7216dr"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n7216dr&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[最强鉴定师在说谁呢吧](https://tieba.baidu.com/f?kw=%E6%9C%80%E5%BC%BA%E9%89%B4%E5%AE%9A%E5%B8%88%E5%9C%A8%E8%AF%B4%E8%B0%81%E5%91%A2&ie=utf-8 \"最强鉴定师在说谁呢\")"
+        ]
+      },
+      "破滅の魔導王とゴーレムの蛮妃": {
+        "novel": {
+          "title": "破滅の魔導王とゴーレムの蛮妃",
+          "title_zh": "破滅之魔導王與魔偶蠻妃",
+          "author": "北下路 来名",
+          "source": "http://ncode.syosetu.com/n0406dr/",
+          "cover": "",
+          "publisher": "syosetu",
+          "date": "2018-12-25T21:53:00+08:00",
+          "status": "連載",
+          "series": {
+            "name": "破滅の魔導王とゴーレムの蛮妃"
+          },
+          "preface": "◆書籍化しました。2018年12月27日、第2巻が発売いたします！\n\n世界を滅ぼす『破滅の魔導王』として、ダサいパジャマ姿のまま、異なる世界に召喚された一人の青年。\nしかし、彼はわりと理性的な人間であり、破滅的なのはネーミングセンスくらいのものだった。\n世界を滅ぼすつもりなどは、特にない。\nさらには、召喚直後に予想外のアクシデントが発生する。これにより青年は召喚主のコントロール下を離れ、完全な独自行動を取りはじめた。\n\nそして遂に、彼は生み出してしまうことになるのだ。……その、おそるべき相棒を。\n滅びに向かうはずだった世界の運命が、今大きく変わりはじめていた。\n\n※ヒロインの愛が、重いです。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "ほのぼのヤンデレ",
+            "エルフ(?)",
+            "ゴーレム",
+            "タッグバトル",
+            "土属性主人公",
+            "旅",
+            "残酷な描写あり",
+            "異世界転移",
+            "異類婚姻譚",
+            "魔王"
+          ]
+        },
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "undefined",
+            "novel_id": "n0406dr"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n0406dr&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[破灭之魔导王与魔偶蛮妃吧](https://tieba.baidu.com/f?kw=%E7%A0%B4%E7%81%AD%E4%B9%8B%E9%AD%94%E5%AF%BC%E7%8E%8B%E4%B8%8E%E9%AD%94%E5%81%B6%E8%9B%AE%E5%A6%83&ie=utf-8 \"破灭之魔导王与魔偶蛮妃\")"
         ]
       }
     },
