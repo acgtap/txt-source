@@ -3,15 +3,15 @@
 - title: 不是真正同伴的我被逐出了勇者隊伍，因此決定在邊境過上慢生活
 - title_jp: 真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました
 - author: ざっぽん
-- source: http://q.dmzj.com/2534/index.shtml
-- cover: https://xs.dmzj.com/img/webpic/13/bj0812l.jpg
+- source: http://ncode.syosetu.com/n3527ei/
+- cover: https://images-na.ssl-images-amazon.com/images/I/81ATStI2v8L.jpg
 - publisher: 角川文库
 - date: 2018-10-24T12:58:43+08:00
 - status: 连载中
 
 ## series
 
-- name: 不是真正同伴的我被逐出了勇者队伍，因此决定在边境过上慢生活
+- name: 真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました
 
 ## preface
 
@@ -46,6 +46,12 @@ http://seiga.nicovideo.jp/comic/34533?track=verticalwatch_epinfo2
 - 异界
 - 日本
 - 穿越
+- スローライフ
+- ファンタジー
+- 不遇スタート
+- 主人公はそこそこ強い
+- 恋愛
+- 書籍化
 
 # contribute
 
@@ -65,6 +71,11 @@ http://seiga.nicovideo.jp/comic/34533?track=verticalwatch_epinfo2
 
 - novel_id: 2449
 
+## syosetu
+
+- txtdownload_id: undefined
+- novel_id: n3527ei
+
 ## downloadOptions
 
 - noFilePadend: true
@@ -76,5 +87,7 @@ http://seiga.nicovideo.jp/comic/34533?track=verticalwatch_epinfo2
 - allow_lf2: true
 
 # link
+
+- [dip.jp](https://narou.nar.jp/search.php?text=n3527ei&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 
 
