@@ -1,6 +1,7 @@
 # novel
 
 - title: 四度目は嫌な死属性魔術師
+- title_zh1: 討厭第四次的死屬性魔術師
 - author: デンスケ
 - source: http://ncode.syosetu.com/n1745ct/
 - cover: http://www.hifumi.co.jp/books/lineup/images/view/9784891994082.jpg
