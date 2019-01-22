@@ -1,7 +1,7 @@
 # novel
 
 - title: 勇者「魔王倒したし帰るか」
-- title: 勇者「都打倒魔王了來回家吧」
+- title_zh: 勇者「都打倒魔王了來回家吧」
 - author: 湯葉
 - source: http://yuba.roheisen.net/tag/yuusha
 - cover: http://yuba.roheisen.net/wp-content/uploads/2011/09/1.jpg
