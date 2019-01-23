@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1548172800000,
-    "timestamp": 1548200271700,
+    "todayTimestamp": 1548259200000,
+    "timestamp": 1548286828559,
     "sourceUrl": "https://gitee.com/bluelovers/novel/tree/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1030,6 +1030,198 @@
           }
         ]
       ]
+    },
+    "1548259200000": {
+      "segment_count": 5,
+      "segment": [
+        [
+          "syosetu",
+          "航宙軍士官、冒険者になる",
+          {
+            "segment_date": 1548286318239,
+            "segment_old": 0,
+            "segment": 9,
+            "init_date": 1548286318239,
+            "epub_date": 1548286803788,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 9,
+            "epub_basename": "宇宙軍士官，成為冒險者.epub",
+            "update_date": 1548259200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "四度目は嫌な死属性魔術師",
+          {
+            "segment_date": 1548286646052,
+            "segment_old": 1,
+            "segment": 18,
+            "init_date": 1546302039608,
+            "update_date": 1548259200000,
+            "update_count": 6
+          }
+        ],
+        [
+          "user",
+          "豚公爵に転生したから、今度は君に好きと言いたい",
+          {
+            "segment_date": 1548286743488,
+            "segment_old": 2,
+            "segment": 2,
+            "init_date": 1545607228123,
+            "update_date": 1548259200000,
+            "update_count": 7
+          }
+        ],
+        [
+          "wenku8",
+          "不吉波普系列",
+          {
+            "segment_date": 1548286756801,
+            "segment_old": 25,
+            "segment": 2,
+            "init_date": 1548172800000,
+            "epub_date": 1548286809136,
+            "volume_old": 3,
+            "chapter_old": 25,
+            "volume": 3,
+            "chapter": 25,
+            "epub_basename": "不吉波普系列.epub",
+            "update_date": 1548259200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "wenku8",
+          "打倒女神勇者的下流手段",
+          {
+            "segment_date": 1548286763879,
+            "segment_old": 7,
+            "segment": 3,
+            "init_date": 1547654400000,
+            "epub_date": 1548286812657,
+            "volume_old": 1,
+            "chapter_old": 9,
+            "volume": 1,
+            "chapter": 9,
+            "epub_basename": "打倒女神勇者的下流手段.epub",
+            "novel_status": 1,
+            "update_date": 1548259200000,
+            "update_count": 4
+          }
+        ]
+      ],
+      "epub_count": 6,
+      "epub": [
+        [
+          "dmzj_out",
+          "不是真正同伴的我被逐出了勇者隊伍，因此決定在邊境過上慢生活",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 20,
+            "chapter": 21,
+            "txt_basename": "不是真正同伴的我被逐出了勇者隊伍，因此決.out.txt",
+            "epub_date": 1548286802896,
+            "volume_old": 2,
+            "volume": 2,
+            "epub_basename": "不是真正同伴的我被逐出了勇者隊伍，因此決定在邊境過上慢生活.epub",
+            "update_date": 1548259200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "other",
+          "絕對想被打倒的魔王＆絕對不想戰鬥的勇者",
+          {
+            "segment_date": 1548199819662,
+            "segment_old": 0,
+            "segment": 2,
+            "init_date": 1548172800000,
+            "epub_date": 1548286803257,
+            "volume_old": 1,
+            "chapter_old": 4,
+            "volume": 1,
+            "chapter": 4,
+            "epub_basename": "絕對想被打倒的魔王＆絕對不想戰鬥的勇者.epub",
+            "update_date": 1548259200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu",
+          "航宙軍士官、冒険者になる",
+          {
+            "segment_date": 1548286318239,
+            "segment_old": 0,
+            "segment": 9,
+            "init_date": 1548286318239,
+            "epub_date": 1548286803788,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 9,
+            "epub_basename": "宇宙軍士官，成為冒險者.epub",
+            "update_date": 1548259200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user_out",
+          "豚公爵に転生したから、今度は君に好きと言いたい",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "豚公爵に転生したから、今度は君に好きと言.out.txt",
+            "epub_date": 1548286807184,
+            "volume_old": 7,
+            "chapter_old": 169,
+            "volume": 7,
+            "chapter": 170,
+            "epub_basename": "豚公爵に転生したから、今度は君に好きと言いたい.epub",
+            "update_date": 1548259200000,
+            "update_count": 4
+          }
+        ],
+        [
+          "wenku8",
+          "不吉波普系列",
+          {
+            "segment_date": 1548286756801,
+            "segment_old": 25,
+            "segment": 2,
+            "init_date": 1548172800000,
+            "epub_date": 1548286809136,
+            "volume_old": 3,
+            "chapter_old": 25,
+            "volume": 3,
+            "chapter": 25,
+            "epub_basename": "不吉波普系列.epub",
+            "update_date": 1548259200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "wenku8",
+          "打倒女神勇者的下流手段",
+          {
+            "segment_date": 1548286763879,
+            "segment_old": 7,
+            "segment": 3,
+            "init_date": 1547654400000,
+            "epub_date": 1548286812657,
+            "volume_old": 1,
+            "chapter_old": 9,
+            "volume": 1,
+            "chapter": 9,
+            "epub_basename": "打倒女神勇者的下流手段.epub",
+            "novel_status": 1,
+            "update_date": 1548259200000,
+            "update_count": 4
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1230,6 +1422,20 @@
       },
       "帰ってきた元勇者": {
         "init_date": 1548086400000
+      },
+      "航宙軍士官、冒険者になる": {
+        "segment_date": 1548286318239,
+        "segment_old": 0,
+        "segment": 9,
+        "init_date": 1548286318239,
+        "epub_date": 1548286803788,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 9,
+        "epub_basename": "宇宙軍士官，成為冒險者.epub",
+        "update_date": 1548259200000,
+        "update_count": 1
       }
     },
     "user": {
@@ -1276,12 +1482,12 @@
         "chapter": 34
       },
       "豚公爵に転生したから、今度は君に好きと言いたい": {
-        "segment_date": 1547854179724,
-        "segment_old": 1,
+        "segment_date": 1548286743488,
+        "segment_old": 2,
         "segment": 2,
         "init_date": 1545607228123,
-        "update_date": 1547827200000,
-        "update_count": 6
+        "update_date": 1548259200000,
+        "update_count": 7
       },
       "自称贤者弟子的贤者": {
         "segment_date": 1546040276246,
@@ -1327,12 +1533,12 @@
         "update_count": 1
       },
       "四度目は嫌な死属性魔術師": {
-        "segment_date": 1548200136281,
-        "segment_old": 5,
-        "segment": 1,
+        "segment_date": 1548286646052,
+        "segment_old": 1,
+        "segment": 18,
         "init_date": 1546302039608,
-        "update_date": 1548172800000,
-        "update_count": 5
+        "update_date": 1548259200000,
+        "update_count": 6
       },
       "誰にでもできる影から助ける魔王討伐": {
         "segment_date": 1546302072698,
@@ -1540,14 +1746,14 @@
       "豚公爵に転生したから、今度は君に好きと言いたい": {
         "init_date": 1545494400000,
         "txt_basename": "豚公爵に転生したから、今度は君に好きと言.out.txt",
-        "epub_date": 1547854362010,
+        "epub_date": 1548286807184,
         "volume_old": 7,
-        "chapter_old": 167,
+        "chapter_old": 169,
         "volume": 7,
-        "chapter": 169,
+        "chapter": 170,
         "epub_basename": "豚公爵に転生したから、今度は君に好きと言いたい.epub",
-        "update_date": 1547827200000,
-        "update_count": 3
+        "update_date": 1548259200000,
+        "update_count": 4
       },
       "悠久の愚者アズリーの、賢者のすゝめ": {
         "init_date": 1545494400000,
@@ -2220,19 +2426,19 @@
         "chapter": 44
       },
       "打倒女神勇者的下流手段": {
-        "segment_date": 1548200199365,
-        "segment_old": 2,
-        "segment": 7,
+        "segment_date": 1548286763879,
+        "segment_old": 7,
+        "segment": 3,
         "init_date": 1547654400000,
-        "epub_date": 1548200254364,
+        "epub_date": 1548286812657,
         "volume_old": 1,
         "chapter_old": 9,
         "volume": 1,
         "chapter": 9,
         "epub_basename": "打倒女神勇者的下流手段.epub",
         "novel_status": 1,
-        "update_date": 1548172800000,
-        "update_count": 3
+        "update_date": 1548259200000,
+        "update_count": 4
       },
       "關於人類是最強種族這件事": {
         "segment_date": 1547940721492,
@@ -2249,18 +2455,18 @@
         "update_count": 1
       },
       "不吉波普系列": {
-        "segment_date": 1548200192219,
-        "segment_old": 0,
-        "segment": 25,
-        "init_date": 1548200192219,
-        "epub_date": 1548200251261,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "segment_date": 1548286756801,
+        "segment_old": 25,
+        "segment": 2,
+        "init_date": 1548172800000,
+        "epub_date": 1548286809136,
+        "volume_old": 3,
+        "chapter_old": 25,
         "volume": 3,
         "chapter": 25,
         "epub_basename": "不吉波普系列.epub",
-        "update_date": 1548172800000,
-        "update_count": 1
+        "update_date": 1548259200000,
+        "update_count": 2
       }
     },
     "cm_out": {
@@ -2289,15 +2495,15 @@
       },
       "不是真正同伴的我被逐出了勇者隊伍，因此決定在邊境過上慢生活": {
         "init_date": 1545494400000,
-        "chapter_old": 17,
-        "chapter": 20,
+        "chapter_old": 20,
+        "chapter": 21,
         "txt_basename": "不是真正同伴的我被逐出了勇者隊伍，因此決.out.txt",
-        "epub_date": 1548200232533,
-        "volume_old": 0,
+        "epub_date": 1548286802896,
+        "volume_old": 2,
         "volume": 2,
         "epub_basename": "不是真正同伴的我被逐出了勇者隊伍，因此決定在邊境過上慢生活.epub",
-        "update_date": 1548172800000,
-        "update_count": 1
+        "update_date": 1548259200000,
+        "update_count": 2
       },
       "努力過頭的世界最強武鬥家": {
         "init_date": 1545494400000,
@@ -2439,15 +2645,15 @@
         "segment_date": 1548199819662,
         "segment_old": 0,
         "segment": 2,
-        "init_date": 1548199819662,
-        "epub_date": 1548200235603,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "init_date": 1548172800000,
+        "epub_date": 1548286803257,
+        "volume_old": 1,
+        "chapter_old": 4,
         "volume": 1,
         "chapter": 4,
         "epub_basename": "絕對想被打倒的魔王＆絕對不想戰鬥的勇者.epub",
-        "update_date": 1548172800000,
-        "update_count": 1
+        "update_date": 1548259200000,
+        "update_count": 2
       }
     },
     "z.abandon_out": {
@@ -3118,7 +3324,8 @@
             "日本",
             "書籍化",
             "穿越"
-          ]
+          ],
+          "title_tieba": "在边境悠闲的度日"
         },
         "contribute": [
           "某A（LKID：涟漪）",
@@ -3148,7 +3355,8 @@
           }
         },
         "link": [
-          "[dip.jp](https://narou.nar.jp/search.php?text=n3527ei&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
+          "[dip.jp](https://narou.nar.jp/search.php?text=n3527ei&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[在边境悠闲的度日吧](https://tieba.baidu.com/f?kw=%E5%9C%A8%E8%BE%B9%E5%A2%83%E6%82%A0%E9%97%B2%E7%9A%84%E5%BA%A6%E6%97%A5&ie=utf-8 \"在边境悠闲的度日\")"
         ]
       },
       "努力過頭的世界最強武鬥家": {
@@ -7434,6 +7642,64 @@
           "[自称平凡魔族的英雄生活吧](https://tieba.baidu.com/f?kw=%E8%87%AA%E7%A7%B0%E5%B9%B3%E5%87%A1%E9%AD%94%E6%97%8F%E7%9A%84%E8%8B%B1%E9%9B%84%E7%94%9F%E6%B4%BB&ie=utf-8 \"自称平凡魔族的英雄生活\")"
         ]
       },
+      "航宙軍士官、冒険者になる": {
+        "novel": {
+          "title": "航宙軍士官、冒険者になる",
+          "title_zh": "宇宙軍士官，成為冒險者",
+          "author": "a_itoh（伊藤 暖彦）",
+          "source": "http://ncode.syosetu.com/n3490ee/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/71VwAWPbp3L.jpg",
+          "publisher": "syosetu",
+          "date": "2019-01-14T07:04:00+08:00",
+          "status": "連載",
+          "series": {
+            "name": "航宙軍士官、冒険者になる"
+          },
+          "preface": "帝國航宙軍士兵艾倫・柯林特所乘坐的航宙艦，在超空間航行中遭受到未知的攻擊。\n\n艾倫是偶然在艦上，成為了唯一的倖存者。\n\n嚴重損壞的航宙艦無法繼續航行，只好降落於附近的星球。\n\n艾倫藉由船上的逃生艙一人獨自來到了星球之上。\n\n航宙軍士官艾倫帶著他的奈米機器［納姆］打算在未開發星球中賭上性命生存下去。\n\n然而降落行星的當地居民，竟然是與艾倫的遺傳基因系譜緊緊相連的人類。\n\n艾倫雖然對劍與魔法的世界不知所措，但仍會竭盡全力與同伴一起活下去。\n\n艾倫究竟會在這顆行星上有什麼作為呢\n\n以中世紀舞台的SF幻想小說，就此開幕。\n\n書籍が2018年11月30日に、KADOKAWA / エンターブレイン（ファミ通文庫）様より発売されました！\nこれも皆様のおかげです。ありがとうござます！\n\n帝国航宙軍兵士アラン・コリントの乗艦する航宙艦は、超空間航行中の未知の攻撃により大破してしまう。\n\nアランは全くの偶然から艦上で、たった一人の生存者となってしまった。\n\n大破した航宙艦は航行不能で、目前の惑星に落下中だった。\nアランは脱出ポッドで一人惑星に逃れる。\n\n未開の惑星に放り出された航宙軍士官アランとアランに共生しているナノマシン［ナノム］の生存を賭けたサバイバルが始まった。\n\n降り立った惑星には、驚くべきことにアランの遺伝子の系譜に連なる人類が繁栄していた。\n\nアランは、剣と魔法のファンタジーな世界に戸惑いつつも、仲間と共に精一杯生きていく。\n\nアランは、この惑星で何を成すのか。\n中世を舞台にしたSFファンタジー、ここに開幕。\n\n\n途中、料理の話で暴走している箇所がありますが、時間ができしだい修正するつもりでいます。大変申し訳ありませんが更新を優先していきたいので、それがいつになるか分かりません。しかし料理話は読み飛ばしても問題ないと考えています。",
+          "tags": [
+            "R15",
+            "SF",
+            "node-novel",
+            "syosetu",
+            "オリジナル戦記",
+            "サバイバル",
+            "チート",
+            "ドラゴン",
+            "ハーレム",
+            "内政",
+            "冒険者",
+            "剣",
+            "料理",
+            "異世界",
+            "貴族",
+            "魔法",
+            "魔道具"
+          ]
+        },
+        "contribute": [
+          "波凹凸战士",
+          "章魚子"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "undefined",
+            "novel_id": "n3490ee"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n3490ee&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[宇宙军士官成为冒险者吧](https://tieba.baidu.com/f?kw=%E5%AE%87%E5%AE%99%E5%86%9B%E5%A3%AB%E5%AE%98%E6%88%90%E4%B8%BA%E5%86%92%E9%99%A9%E8%80%85&ie=utf-8 \"宇宙军士官成为冒险者\")",
+          "[dm5](http://www.dm5.com/manhua-yuzhoujunshiguan-chengweimaoxianzhe/)"
+        ]
+      },
       "變成了美少女、但也成了網游廢人。": {
         "novel": {
           "title": "美少女になったけど、ネトゲ廃人やってます。",
@@ -9803,6 +10069,8 @@
       "豚公爵に転生したから、今度は君に好きと言いたい": {
         "novel": {
           "title": "豚公爵に転生したから、今度は君に好きと言いたい",
+          "title_zh1": "轉生豬公爵，這次想說喜歡你",
+          "title_zh2": "轉生豚公爵、今次想要說出喜歡你",
           "author": "合田拍子（グルグル魔）",
           "source": "https://kakuyomu.jp/works/4852201425154898215#table-of-contents",
           "cover": "https://images-na.ssl-images-amazon.com/images/I/81fy9B30leL.jpg",
@@ -9852,7 +10120,8 @@
         "link": [
           "[豚猪公爵吧](http://tieba.baidu.com/f?kw=%E8%B1%9A%E7%8C%AA%E5%85%AC%E7%88%B5 \"豚猪公爵吧\")",
           "[【整合】轉生豚公爵、今次想要說出喜歡你](https://tieba.baidu.com/p/5525554645 \"【整合】轉生豚公爵、今次想要說出喜歡你\")",
-          "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=80&page=1) ›"
+          "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=80&page=1) ›",
+          "[dm5](https://www.dm5.com/manhua-zhuanshengzhugongjue-zhecixiangshuoxihuanni/)"
         ]
       },
       "転生したら剣でした": {
