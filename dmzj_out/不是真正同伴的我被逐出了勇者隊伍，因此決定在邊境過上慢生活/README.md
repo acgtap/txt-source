@@ -2,6 +2,7 @@
 
 - title: 不是真正同伴的我被逐出了勇者隊伍，因此決定在邊境過上慢生活
 - title_jp: 真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました
+- title_tieba: 在边境悠闲的度日
 - author: ざっぽん
 - source: http://ncode.syosetu.com/n3527ei/
 - cover: https://images-na.ssl-images-amazon.com/images/I/81ATStI2v8L.jpg
@@ -89,5 +90,7 @@ http://seiga.nicovideo.jp/comic/34533?track=verticalwatch_epinfo2
 # link
 
 - [dip.jp](https://narou.nar.jp/search.php?text=n3527ei&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
+- [在边境悠闲的度日吧](https://tieba.baidu.com/f?kw=%E5%9C%A8%E8%BE%B9%E5%A2%83%E6%82%A0%E9%97%B2%E7%9A%84%E5%BA%A6%E6%97%A5&ie=utf-8 "在边境悠闲的度日")
+
 
 
