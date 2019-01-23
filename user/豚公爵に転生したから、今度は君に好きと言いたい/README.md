@@ -1,6 +1,8 @@
 # novel
 
 - title: 豚公爵に転生したから、今度は君に好きと言いたい
+- title_zh1: 轉生豬公爵，這次想說喜歡你
+- title_zh2: 轉生豚公爵、今次想要說出喜歡你
 - author: 合田拍子（グルグル魔）
 - source: https://kakuyomu.jp/works/4852201425154898215#table-of-contents
 - cover: https://images-na.ssl-images-amazon.com/images/I/81fy9B30leL.jpg
@@ -92,4 +94,5 @@
 - [豚猪公爵吧](http://tieba.baidu.com/f?kw=%E8%B1%9A%E7%8C%AA%E5%85%AC%E7%88%B5 "豚猪公爵吧")
 - [【整合】轉生豚公爵、今次想要說出喜歡你](https://tieba.baidu.com/p/5525554645 "【整合】轉生豚公爵、今次想要說出喜歡你")
 - [masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=80&page=1) ›
+- [dm5](https://www.dm5.com/manhua-zhuanshengzhugongjue-zhecixiangshuoxihuanni/)
 - 
