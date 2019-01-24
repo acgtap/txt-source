@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1548259200000,
-    "timestamp": 1548286828559,
+    "todayTimestamp": 1548345600000,
+    "timestamp": 1548373258349,
     "sourceUrl": "https://gitee.com/bluelovers/novel/tree/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1222,6 +1222,244 @@
           }
         ]
       ]
+    },
+    "1548345600000": {
+      "segment_count": 7,
+      "segment": [
+        [
+          "h",
+          "在喪屍橫行的世界裡唯獨我不被襲擊",
+          {
+            "segment_date": 1548372660965,
+            "segment_old": 60,
+            "segment": 13,
+            "init_date": 1547913600000,
+            "epub_date": 1548373228950,
+            "volume_old": 3,
+            "chapter_old": 62,
+            "volume": 3,
+            "chapter": 62,
+            "epub_basename": "在喪屍橫行的世界裡唯獨我不被襲擊.epub",
+            "update_date": 1548345600000,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu",
+          "航宙軍士官、冒険者になる",
+          {
+            "segment_date": 1548372668433,
+            "segment_old": 9,
+            "segment": 2,
+            "init_date": 1548259200000,
+            "epub_date": 1548373229526,
+            "volume_old": 1,
+            "chapter_old": 9,
+            "volume": 1,
+            "chapter": 9,
+            "epub_basename": "宇宙軍士官，成為冒險者.epub",
+            "update_date": 1548345600000,
+            "update_count": 2
+          }
+        ],
+        [
+          "user",
+          "四度目は嫌な死属性魔術師",
+          {
+            "segment_date": 1548372995628,
+            "segment_old": 18,
+            "segment": 14,
+            "init_date": 1546302039608,
+            "update_date": 1548345600000,
+            "update_count": 7
+          }
+        ],
+        [
+          "wenku8",
+          "不吉波普系列",
+          {
+            "segment_date": 1548373108569,
+            "segment_old": 2,
+            "segment": 2,
+            "init_date": 1548172800000,
+            "epub_date": 1548373231284,
+            "volume_old": 3,
+            "chapter_old": 25,
+            "volume": 3,
+            "chapter": 25,
+            "epub_basename": "不吉波普系列.epub",
+            "update_date": 1548345600000,
+            "update_count": 3
+          }
+        ],
+        [
+          "wenku8",
+          "平凡職業造就世界最強",
+          {
+            "segment_date": 1548373165519,
+            "segment_old": 0,
+            "segment": 97,
+            "init_date": 1548373165519,
+            "epub_date": 1548373237066,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 11,
+            "chapter": 97,
+            "epub_basename": "平凡職業造就世界最強.epub",
+            "update_date": 1548345600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "wenku8",
+          "打倒女神勇者的下流手段",
+          {
+            "segment_date": 1548373172774,
+            "segment_old": 3,
+            "segment": 1,
+            "init_date": 1547654400000,
+            "epub_date": 1548373240715,
+            "volume_old": 1,
+            "chapter_old": 9,
+            "volume": 1,
+            "chapter": 9,
+            "epub_basename": "打倒女神勇者的下流手段.epub",
+            "novel_status": 1,
+            "update_date": 1548345600000,
+            "update_count": 5
+          }
+        ],
+        [
+          "wenku8",
+          "被死神撫養的少女懷抱漆黑之劍",
+          {
+            "segment_date": 1548373186562,
+            "segment_old": 0,
+            "segment": 9,
+            "init_date": 1548373186562,
+            "epub_date": 1548373242126,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 3,
+            "chapter": 19,
+            "epub_basename": "被死神撫養的少女懷抱漆黑之劍.epub",
+            "update_date": 1548345600000,
+            "update_count": 1
+          }
+        ]
+      ],
+      "epub_count": 6,
+      "epub": [
+        [
+          "h",
+          "在喪屍橫行的世界裡唯獨我不被襲擊",
+          {
+            "segment_date": 1548372660965,
+            "segment_old": 60,
+            "segment": 13,
+            "init_date": 1547913600000,
+            "epub_date": 1548373228950,
+            "volume_old": 3,
+            "chapter_old": 62,
+            "volume": 3,
+            "chapter": 62,
+            "epub_basename": "在喪屍橫行的世界裡唯獨我不被襲擊.epub",
+            "update_date": 1548345600000,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu",
+          "航宙軍士官、冒険者になる",
+          {
+            "segment_date": 1548372668433,
+            "segment_old": 9,
+            "segment": 2,
+            "init_date": 1548259200000,
+            "epub_date": 1548373229526,
+            "volume_old": 1,
+            "chapter_old": 9,
+            "volume": 1,
+            "chapter": 9,
+            "epub_basename": "宇宙軍士官，成為冒險者.epub",
+            "update_date": 1548345600000,
+            "update_count": 2
+          }
+        ],
+        [
+          "wenku8",
+          "不吉波普系列",
+          {
+            "segment_date": 1548373108569,
+            "segment_old": 2,
+            "segment": 2,
+            "init_date": 1548172800000,
+            "epub_date": 1548373231284,
+            "volume_old": 3,
+            "chapter_old": 25,
+            "volume": 3,
+            "chapter": 25,
+            "epub_basename": "不吉波普系列.epub",
+            "update_date": 1548345600000,
+            "update_count": 3
+          }
+        ],
+        [
+          "wenku8",
+          "平凡職業造就世界最強",
+          {
+            "segment_date": 1548373165519,
+            "segment_old": 0,
+            "segment": 97,
+            "init_date": 1548373165519,
+            "epub_date": 1548373237066,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 11,
+            "chapter": 97,
+            "epub_basename": "平凡職業造就世界最強.epub",
+            "update_date": 1548345600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "wenku8",
+          "打倒女神勇者的下流手段",
+          {
+            "segment_date": 1548373172774,
+            "segment_old": 3,
+            "segment": 1,
+            "init_date": 1547654400000,
+            "epub_date": 1548373240715,
+            "volume_old": 1,
+            "chapter_old": 9,
+            "volume": 1,
+            "chapter": 9,
+            "epub_basename": "打倒女神勇者的下流手段.epub",
+            "novel_status": 1,
+            "update_date": 1548345600000,
+            "update_count": 5
+          }
+        ],
+        [
+          "wenku8",
+          "被死神撫養的少女懷抱漆黑之劍",
+          {
+            "segment_date": 1548373186562,
+            "segment_old": 0,
+            "segment": 9,
+            "init_date": 1548373186562,
+            "epub_date": 1548373242126,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 3,
+            "chapter": 19,
+            "epub_basename": "被死神撫養的少女懷抱漆黑之劍.epub",
+            "update_date": 1548345600000,
+            "update_count": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1424,18 +1662,18 @@
         "init_date": 1548086400000
       },
       "航宙軍士官、冒険者になる": {
-        "segment_date": 1548286318239,
-        "segment_old": 0,
-        "segment": 9,
-        "init_date": 1548286318239,
-        "epub_date": 1548286803788,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "segment_date": 1548372668433,
+        "segment_old": 9,
+        "segment": 2,
+        "init_date": 1548259200000,
+        "epub_date": 1548373229526,
+        "volume_old": 1,
+        "chapter_old": 9,
         "volume": 1,
         "chapter": 9,
         "epub_basename": "宇宙軍士官，成為冒險者.epub",
-        "update_date": 1548259200000,
-        "update_count": 1
+        "update_date": 1548345600000,
+        "update_count": 2
       }
     },
     "user": {
@@ -1533,12 +1771,12 @@
         "update_count": 1
       },
       "四度目は嫌な死属性魔術師": {
-        "segment_date": 1548286646052,
-        "segment_old": 1,
-        "segment": 18,
+        "segment_date": 1548372995628,
+        "segment_old": 18,
+        "segment": 14,
         "init_date": 1546302039608,
-        "update_date": 1548259200000,
-        "update_count": 6
+        "update_date": 1548345600000,
+        "update_count": 7
       },
       "誰にでもできる影から助ける魔王討伐": {
         "segment_date": 1546302072698,
@@ -2426,19 +2664,19 @@
         "chapter": 44
       },
       "打倒女神勇者的下流手段": {
-        "segment_date": 1548286763879,
-        "segment_old": 7,
-        "segment": 3,
+        "segment_date": 1548373172774,
+        "segment_old": 3,
+        "segment": 1,
         "init_date": 1547654400000,
-        "epub_date": 1548286812657,
+        "epub_date": 1548373240715,
         "volume_old": 1,
         "chapter_old": 9,
         "volume": 1,
         "chapter": 9,
         "epub_basename": "打倒女神勇者的下流手段.epub",
         "novel_status": 1,
-        "update_date": 1548259200000,
-        "update_count": 4
+        "update_date": 1548345600000,
+        "update_count": 5
       },
       "關於人類是最強種族這件事": {
         "segment_date": 1547940721492,
@@ -2455,18 +2693,46 @@
         "update_count": 1
       },
       "不吉波普系列": {
-        "segment_date": 1548286756801,
-        "segment_old": 25,
+        "segment_date": 1548373108569,
+        "segment_old": 2,
         "segment": 2,
         "init_date": 1548172800000,
-        "epub_date": 1548286809136,
+        "epub_date": 1548373231284,
         "volume_old": 3,
         "chapter_old": 25,
         "volume": 3,
         "chapter": 25,
         "epub_basename": "不吉波普系列.epub",
-        "update_date": 1548259200000,
-        "update_count": 2
+        "update_date": 1548345600000,
+        "update_count": 3
+      },
+      "平凡職業造就世界最強": {
+        "segment_date": 1548373165519,
+        "segment_old": 0,
+        "segment": 97,
+        "init_date": 1548373165519,
+        "epub_date": 1548373237066,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 11,
+        "chapter": 97,
+        "epub_basename": "平凡職業造就世界最強.epub",
+        "update_date": 1548345600000,
+        "update_count": 1
+      },
+      "被死神撫養的少女懷抱漆黑之劍": {
+        "segment_date": 1548373186562,
+        "segment_old": 0,
+        "segment": 9,
+        "init_date": 1548373186562,
+        "epub_date": 1548373242126,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 3,
+        "chapter": 19,
+        "epub_basename": "被死神撫養的少女懷抱漆黑之劍.epub",
+        "update_date": 1548345600000,
+        "update_count": 1
       }
     },
     "cm_out": {
@@ -2708,18 +2974,18 @@
         "update_count": 1
       },
       "在喪屍橫行的世界裡唯獨我不被襲擊": {
-        "segment_date": 1547940550044,
-        "segment_old": 0,
-        "segment": 60,
+        "segment_date": 1548372660965,
+        "segment_old": 60,
+        "segment": 13,
         "init_date": 1547913600000,
-        "epub_date": 1547975248178,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1548373228950,
+        "volume_old": 3,
+        "chapter_old": 62,
         "volume": 3,
         "chapter": 62,
         "epub_basename": "在喪屍橫行的世界裡唯獨我不被襲擊.epub",
-        "update_date": 1547913600000,
-        "update_count": 1
+        "update_date": 1548345600000,
+        "update_count": 2
       },
       "異世界の男は全滅したようです": {
         "segment_date": 1547940565173,
@@ -3829,7 +4095,8 @@
         },
         "contribute": [
           "Kiara_Yume",
-          "我只是一個紳士"
+          "我只是一個紳士",
+          "未来与初音"
         ],
         "options": {
           "downloadOptions": {
@@ -3849,7 +4116,8 @@
           "[dip.jp](https://narou18.nar.jp/search.php?text=%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[末世孤雄吧](https://tieba.baidu.com/f?kw=%E6%9C%AB%E4%B8%96%E5%AD%A4%E9%9B%84&ie=utf-8&tp=0 \"\")",
           "[『ゾンビのあふれた世界で俺だけが襲われない』ノベルゲーム公式サイトです](http://www.spermation.net/seacoxx/zombie/index.html)",
-          "[pixiv](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=48715598)"
+          "[pixiv](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=48715598)",
+          "[未来与初音](https://pan.baidu.com/s/1kWDMduv) qw4u"
         ]
       },
       "異世界の男は全滅したようです": {
@@ -10799,6 +11067,79 @@
           "[不吉波普不笑](https://share.dmhy.org/topics/list?keyword=%E4%B8%8D%E5%90%89%E6%B3%A2%E6%99%AE%E4%B8%8D%E7%AC%91&sort_id=2&team_id=0&order=date-desc)"
         ]
       },
+      "平凡職業造就世界最強": {
+        "novel": {
+          "title": "平凡職業造就世界最強",
+          "title_zh1": "平凡职业成就世界最强",
+          "title_jp": "ありふれた職業で世界最強",
+          "author": "厨二好き/白米良",
+          "source": "http://www.wenku8.com/book/2080.htm",
+          "cover": "http://img.wkcdn.com/image/2/2080/2080s.jpg",
+          "publisher": "其他文库",
+          "date": "2018-09-21T00:00:00+08:00",
+          "status": "连载中",
+          "series": {
+            "name": "ありふれた職業で世界最強"
+          },
+          "preface": "『被霸凌的孩子』南云始，与同班同学一起被召唤至异世界。虽然同学们接连显现战斗取向的特殊能力，但始却只拥有炼成师这种平凡的能力。而且在异世界仍为最弱的他，竟被某位同学恶意推落了迷宫深谷──！？\n　　在找不到方法逃脱的绝望深渊中，始像是命中注定般地邂逅吸血鬼月，寻得了以炼成师的身分造就最强的道路──\n　　「我保护月，月也保护我。这样我就是最强的。我要扫荡一切，超越全世界。」\n　　坠落深渊的少年与隐居最深处的吸血鬼，两人联手打造的『最强』异世界奇幻故事，正式揭开序幕！\n\nクラスごと異世界に召喚され、他のクラスメイトがチートなスペックと“天職”を有する中、一人平凡を地で行く主人公南雲ハジメ。彼の“天職”は“錬成師”、言い換えればただの鍛治職だった。最弱の彼は、クラスメイトにより奈落の底に落とされる。必死に生き足掻き、気がつけば世界最強・・・というありがちストーリー。最強物を書きたくて書きました。テンプレを多分に含みます//本編完結しました//書籍版９巻、外伝零２巻、漫画版４巻、日常版２巻、漫画版零２巻発売中です//コミックガルドにて各コミック無料配信中//アフターストーリー投稿中です",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "wenku8",
+            "ご都合主義",
+            "そのうち主人公最強",
+            "オリジナル兵器",
+            "テンプレ要素多数",
+            "ハーレム",
+            "残酷な描写あり",
+            "異世界召喚",
+            "異世界転移",
+            "豹変する主人公",
+            "鬼畜"
+          ],
+          "illust": "たかやＫｉ"
+        },
+        "contribute": [
+          "a8901566",
+          "kerorokun",
+          "kid",
+          "kyou95134",
+          "saxmax",
+          "伊织",
+          "化物语",
+          "水色loli控",
+          "求艹",
+          "理子",
+          "米可",
+          "轻之国度录入组",
+          "音无",
+          "风"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 4,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "novel_id": "n8611bv"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          },
+          "wenku8": {
+            "novel_id": "2080"
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n8611bv&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[平凡职业成就世界最强吧](https://tieba.baidu.com/f?kw=%E5%B9%B3%E5%87%A1%E8%81%8C%E4%B8%9A%E6%88%90%E5%B0%B1%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%BA&ie=utf-8 \"平凡职业成就世界最强\")",
+          "[dm5](http://www.dm5.com/manhua-pingfanzhiyechengjiushijiezuiqiang/)",
+          "[dm5 零](http://www.dm5.com/manhua-pingfanzhiyechengjiushijiezuiqiang-ling/)",
+          "[平凡日常成就世界最强](http://www.dm5.com/manhua-pingfanrichangchengjiushijiezuiqiang/)"
+        ]
+      },
       "打倒女神勇者的下流手段": {
         "novel": {
           "title": "打倒女神勇者的下流手段",
@@ -10853,6 +11194,76 @@
         "link": [
           "[kakuyomu](https://kakuyomu.jp/works/1177354054887566690)",
           "[syosetu](https://ncode.syosetu.com/n3670fe/)"
+        ]
+      },
+      "被死神撫養的少女懷抱漆黑之劍": {
+        "novel": {
+          "title": "被死神撫養的少女懷抱漆黑之劍",
+          "title_jp": "死神に育てられた少女は漆黒の剣を胸に抱く",
+          "author": "彩峰舞人",
+          "source": "http://www.wenku8.com/book/2467.htm",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/913bXPDjrFL.jpg",
+          "publisher": "其他文库",
+          "date": "2019-01-23T00:00:00+08:00",
+          "status": "连载中",
+          "series": {
+            "name": "被死神撫養的少女懷抱漆黑之劍"
+          },
+          "preface": "——她是在战场上笑得天真烂漫的少女。\n银发飘扬、眼瞳乌黑的少女在战场上驰骋。少女名叫奥莉薇娅，脸上总是洋溢着纯真的笑容，手上则总是沾染无数敌人的鲜血。\n自称死神的存在将渊博的知识与高超的战斗技术烙印在了少女的身上。但在奥莉薇娅刚满十五岁的那一天，死神突然从她面前消失了。为了寻获线索，奥莉薇娅决定作为王国军队的志愿兵投身战火。\n时值光阴历九九八年。王国在一意称霸大陆的帝国面前苦战连连。缺乏常识的天真少女此时将作为王国军队“最强的棋子”踏入愈演愈烈的战场，迈上成为英雄的路途——！\n\n「死神に育てられた少女は漆黒の剣を胸に抱くⅠ・Ⅱ」好評発売中！  \n\n無垢なる少女は戦場を駆け、血飛沫に舞う──  \n\n深い森の神殿で偶然死神に拾われた少女。観察と称して様々な知識と戦闘技術を叩きこまれたが、何の前触れもなく死神は姿を消してしまう。悲しみに暮れる少女の手には、死神が残していった漆黒の剣が握られていた。  \n「絶対にもう一度会って話をするんだ」  \n確固たる決意を胸に世界へと足を踏み出した少女は、情報を得るため王国軍に志願する。やがて圧倒的武力を背景に、少女は死神と恐れられていく・・・！",
+          "tags": [
+            "OVL大賞4",
+            "R15",
+            "node-novel",
+            "syosetu",
+            "wenku8",
+            "オド",
+            "化物",
+            "基本剣での戦い",
+            "女主人公",
+            "少女戦記",
+            "战争",
+            "戦争",
+            "戦略",
+            "戦術",
+            "日本",
+            "書籍化",
+            "死神",
+            "残酷な描写あり",
+            "群像劇",
+            "英雄",
+            "軍隊",
+            "騎士",
+            "魔法",
+            "魔術"
+          ],
+          "illust": "シエラ"
+        },
+        "contribute": [
+          "落地死的流星"
+        ],
+        "options": {
+          "dmzj": {
+            "novel_id": "2559"
+          },
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 4,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "undefined",
+            "novel_id": "n2682dy"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          },
+          "wenku8": {
+            "novel_id": "2467"
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n2682dy&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[被死神抚养的少女怀抱漆黑之剑吧](https://tieba.baidu.com/f?kw=%E8%A2%AB%E6%AD%BB%E7%A5%9E%E6%8A%9A%E5%85%BB%E7%9A%84%E5%B0%91%E5%A5%B3%E6%80%80%E6%8A%B1%E6%BC%86%E9%BB%91%E4%B9%8B%E5%89%91&ie=utf-8&tp=0 \"被死神抚养的少女怀抱漆黑之剑\")"
         ]
       },
       "钱进战国雄霸天下": {
