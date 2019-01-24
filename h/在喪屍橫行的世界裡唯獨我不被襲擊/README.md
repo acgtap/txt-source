@@ -53,6 +53,7 @@
 
 - 我只是一個紳士
 - Kiara_Yume
+- 未来与初音
 - 
 
 # options
@@ -78,6 +79,7 @@
 - [末世孤雄吧](https://tieba.baidu.com/f?kw=%E6%9C%AB%E4%B8%96%E5%AD%A4%E9%9B%84&ie=utf-8&tp=0 "")
 - [『ゾンビのあふれた世界で俺だけが襲われない』ノベルゲーム公式サイトです](http://www.spermation.net/seacoxx/zombie/index.html)
 - [pixiv](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=48715598)
+- [未来与初音](https://pan.baidu.com/s/1kWDMduv) qw4u
 - 
 
 
