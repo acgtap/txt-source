@@ -6,6 +6,7 @@
 - title_zh: 「你這種傢伙別想打贏魔王」被攻略廚踢出了勇者隊伍，想在王都過上平靜的生活
 - title_zh2: 就凭你也想打败魔王吗
 - author: kiki
+- illust: キンタ
 - source: http://ncode.syosetu.com/n5361em/
 - cover: https://images-na.ssl-images-amazon.com/images/I/91A8RvS10uL.jpg
 - publisher: syosetu
