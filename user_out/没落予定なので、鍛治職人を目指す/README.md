@@ -2,7 +2,9 @@
 
 - title: 没落予定なので、鍛治職人を目指す
 - title_zh1: 没落预定，以锻治工匠为目标
+- title_zh2: 為了扭轉沒落命運，邁向鍛冶工匠之路
 - author: CK
+- illust: かわく
 - source: http://ncode.syosetu.com/n7940cn/
 - cover: https://shop.r10s.jp/book/cabinet/0142/9784040720142.jpg
 - publisher: syosetu
@@ -83,6 +85,7 @@
 - [dip.jp](https://narou.dip.jp/search.php?text=n7940cn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [没落预订吧](https://tieba.baidu.com/f?kw=%E6%B2%A1%E8%90%BD%E9%A2%84%E8%AE%A2&ie=utf-8 "")
 - [没落予定なので、鍛冶職人を目指す](https://comic-walker.com/contents/detail/KDCW_FS01000044010000_68/) 漫畫
+- [dm5](http://www.dm5.com/manhua-weileniuzhuanmeiluomingyun-maixiangduanyegongjiangzhilu/)
 - 
 
 
