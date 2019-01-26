@@ -1,5 +1,45 @@
 # HISTORY
 
+## 2019-01-26
+
+### Epub
+
+- [在喪屍橫行的世界裡唯獨我不被襲擊](h/%E5%9C%A8%E5%96%AA%E5%B1%8D%E6%A9%AB%E8%A1%8C%E7%9A%84%E4%B8%96%E7%95%8C%E8%A3%A1%E5%94%AF%E7%8D%A8%E6%88%91%E4%B8%8D%E8%A2%AB%E8%A5%B2%E6%93%8A) - h
+  <br/>( v: 3 , c: 62, add: 0 )
+- [航宙軍士官、冒険者になる](syosetu/%E8%88%AA%E5%AE%99%E8%BB%8D%E5%A3%AB%E5%AE%98%E3%80%81%E5%86%92%E9%99%BA%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8B) - syosetu
+  <br/>( v: 1 , c: 9, add: 0 )
+- [注意到的時候ＴＳ成了精靈](syosetu_out/%E6%B3%A8%E6%84%8F%E5%88%B0%E7%9A%84%E6%99%82%E5%80%99%EF%BC%B4%EF%BC%B3%E6%88%90%E4%BA%86%E7%B2%BE%E9%9D%88) - syosetu_out
+  <br/>( v: 1 , c: 26, add: 0 )
+- [你這種傢伙別想打贏魔王](user_out/%E4%BD%A0%E9%80%99%E7%A8%AE%E5%82%A2%E4%BC%99%E5%88%A5%E6%83%B3%E6%89%93%E8%B4%8F%E9%AD%94%E7%8E%8B) - user_out
+  <br/>( v: 9 , c: 87, add: 1 )
+- [没落予定なので、鍛治職人を目指す](user_out/%E6%B2%A1%E8%90%BD%E4%BA%88%E5%AE%9A%E3%81%AA%E3%81%AE%E3%81%A7%E3%80%81%E9%8D%9B%E6%B2%BB%E8%81%B7%E4%BA%BA%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99) - user_out
+  <br/>( v: 8 , c: 147, add: 3 )
+- [異世界迷宮の最深部を目指そう](user_out/%E7%95%B0%E4%B8%96%E7%95%8C%E8%BF%B7%E5%AE%AE%E3%81%AE%E6%9C%80%E6%B7%B1%E9%83%A8%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%9D%E3%81%86) - user_out
+  <br/>( v: 27 , c: 386, add: 2 )
+- [不吉波普系列](wenku8/%E4%B8%8D%E5%90%89%E6%B3%A2%E6%99%AE%E7%B3%BB%E5%88%97) - wenku8
+  <br/>( v: 3 , c: 25, add: 0 )
+- [平凡職業造就世界最強](wenku8/%E5%B9%B3%E5%87%A1%E8%81%B7%E6%A5%AD%E9%80%A0%E5%B0%B1%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7) - wenku8
+  <br/>( v: 11 , c: 97, add: 0 )
+- [打倒女神勇者的下流手段](wenku8/%E6%89%93%E5%80%92%E5%A5%B3%E7%A5%9E%E5%8B%87%E8%80%85%E7%9A%84%E4%B8%8B%E6%B5%81%E6%89%8B%E6%AE%B5) - wenku8
+  <br/>( v: 1 , c: 9, add: 0 )
+- [被死神撫養的少女懷抱漆黑之劍](wenku8/%E8%A2%AB%E6%AD%BB%E7%A5%9E%E6%92%AB%E9%A4%8A%E7%9A%84%E5%B0%91%E5%A5%B3%E6%87%B7%E6%8A%B1%E6%BC%86%E9%BB%91%E4%B9%8B%E5%8A%8D) - wenku8
+  <br/>( v: 3 , c: 19, add: 0 )
+
+### Segment
+
+- [在喪屍橫行的世界裡唯獨我不被襲擊](h/%E5%9C%A8%E5%96%AA%E5%B1%8D%E6%A9%AB%E8%A1%8C%E7%9A%84%E4%B8%96%E7%95%8C%E8%A3%A1%E5%94%AF%E7%8D%A8%E6%88%91%E4%B8%8D%E8%A2%AB%E8%A5%B2%E6%93%8A) - h
+  <br/>( s: 1 )
+- [四度目は嫌な死属性魔術師](user/%E5%9B%9B%E5%BA%A6%E7%9B%AE%E3%81%AF%E5%AB%8C%E3%81%AA%E6%AD%BB%E5%B1%9E%E6%80%A7%E9%AD%94%E8%A1%93%E5%B8%AB) - user
+  <br/>( s: 2 )
+- [異世界迷宮の最深部を目指そう](user/%E7%95%B0%E4%B8%96%E7%95%8C%E8%BF%B7%E5%AE%AE%E3%81%AE%E6%9C%80%E6%B7%B1%E9%83%A8%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%9D%E3%81%86) - user
+  <br/>( s: 3 )
+- [平凡職業造就世界最強](wenku8/%E5%B9%B3%E5%87%A1%E8%81%B7%E6%A5%AD%E9%80%A0%E5%B0%B1%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7) - wenku8
+  <br/>( s: 13 )
+- [打倒女神勇者的下流手段](wenku8/%E6%89%93%E5%80%92%E5%A5%B3%E7%A5%9E%E5%8B%87%E8%80%85%E7%9A%84%E4%B8%8B%E6%B5%81%E6%89%8B%E6%AE%B5) - wenku8
+  <br/>( s: 2 )
+- [被死神撫養的少女懷抱漆黑之劍](wenku8/%E8%A2%AB%E6%AD%BB%E7%A5%9E%E6%92%AB%E9%A4%8A%E7%9A%84%E5%B0%91%E5%A5%B3%E6%87%B7%E6%8A%B1%E6%BC%86%E9%BB%91%E4%B9%8B%E5%8A%8D) - wenku8
+  <br/>( s: 2 )
+
 ## 2019-01-25
 
 ### Epub
