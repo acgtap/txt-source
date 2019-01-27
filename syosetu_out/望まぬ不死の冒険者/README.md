@@ -52,6 +52,7 @@
 - joseph261059
 - 长衫造纸笼
 - billy7645
+- 碱式盐
 - 
 
 # options
@@ -73,8 +74,3 @@
 - [txt by f2008zhq](https://pan.baidu.com/s/1IERTh8IYNkjPjSsgi3k4vQ) xc8g , [tieba](https://tieba.baidu.com/p/5967895104)
 - [Alice txt](https://pan.baidu.com/s/1Uo-opKhJNwdpRRVPhLwn-Q) 4bzy
 - 
-- 
-
-
-
-
