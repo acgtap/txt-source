@@ -800,7 +800,7 @@
 > ありふれた職業で世界最強 , 平凡职业成就世界最强
 
 - [平凡職業造就世界最強](wenku8/%E5%B9%B3%E5%87%A1%E8%81%B7%E6%A5%AD%E9%80%A0%E5%B0%B1%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7/%E5%B0%8E%E8%88%AA%E7%9B%AE%E9%8C%84.md) - *wenku8*
-  <br/>build: 2019-01-26  chapter: 97  add: 0  
+  <br/>build: 2019-01-27  chapter: 97  add: 0  
 
 
 ### 古流　望
@@ -994,7 +994,7 @@
 > 死神に育てられた少女は漆黒の剣を胸に抱く
 
 - [被死神撫養的少女懷抱漆黑之劍](wenku8/%E8%A2%AB%E6%AD%BB%E7%A5%9E%E6%92%AB%E9%A4%8A%E7%9A%84%E5%B0%91%E5%A5%B3%E6%87%B7%E6%8A%B1%E6%BC%86%E9%BB%91%E4%B9%8B%E5%8A%8D/%E5%B0%8E%E8%88%AA%E7%9B%AE%E9%8C%84.md) - *wenku8*
-  <br/>build: 2019-01-26  chapter: 19  add: 0  
+  <br/>build: 2019-01-27  chapter: 19  add: 0  
 
 
 ### 悠島　蘭
