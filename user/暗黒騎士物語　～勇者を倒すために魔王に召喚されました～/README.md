@@ -72,4 +72,6 @@
 * [epub](https://tieba.baidu.com/p/5515573122 "以整合txt為基礎的整合epub 與 txt分割")
 * [kakuyomu.jp](https://kakuyomu.jp/works/1177354054885318680)
 * [magnet-novels](https://www.magnet-novels.com/novels/56184)
+* [masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=75&page=1)
+* 
 
