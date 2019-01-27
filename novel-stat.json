@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1548432000000,
-    "timestamp": 1548511796629,
+    "todayTimestamp": 1548518400000,
+    "timestamp": 1548550439090,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1738,6 +1738,47 @@
           }
         ]
       ]
+    },
+    "1548518400000": {
+      "epub_count": 2,
+      "epub": [
+        [
+          "wenku8",
+          "平凡職業造就世界最強",
+          {
+            "segment_date": 1548511717740,
+            "segment_old": 13,
+            "segment": 13,
+            "init_date": 1548345600000,
+            "epub_date": 1548546974101,
+            "volume_old": 11,
+            "chapter_old": 97,
+            "volume": 11,
+            "chapter": 97,
+            "epub_basename": "平凡職業造就世界最強.epub",
+            "update_date": 1548518400000,
+            "update_count": 3
+          }
+        ],
+        [
+          "wenku8",
+          "被死神撫養的少女懷抱漆黑之劍",
+          {
+            "segment_date": 1548511732856,
+            "segment_old": 2,
+            "segment": 2,
+            "init_date": 1548345600000,
+            "epub_date": 1548546975850,
+            "volume_old": 3,
+            "chapter_old": 19,
+            "volume": 3,
+            "chapter": 19,
+            "epub_basename": "被死神撫養的少女懷抱漆黑之劍.epub",
+            "update_date": 1548518400000,
+            "update_count": 3
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -2989,28 +3030,28 @@
         "segment_old": 13,
         "segment": 13,
         "init_date": 1548345600000,
-        "epub_date": 1548511779259,
+        "epub_date": 1548546974101,
         "volume_old": 11,
         "chapter_old": 97,
         "volume": 11,
         "chapter": 97,
         "epub_basename": "平凡職業造就世界最強.epub",
-        "update_date": 1548432000000,
-        "update_count": 2
+        "update_date": 1548518400000,
+        "update_count": 3
       },
       "被死神撫養的少女懷抱漆黑之劍": {
         "segment_date": 1548511732856,
         "segment_old": 2,
         "segment": 2,
         "init_date": 1548345600000,
-        "epub_date": 1548511783881,
+        "epub_date": 1548546975850,
         "volume_old": 3,
         "chapter_old": 19,
         "volume": 3,
         "chapter": 19,
         "epub_basename": "被死神撫養的少女懷抱漆黑之劍.epub",
-        "update_date": 1548432000000,
-        "update_count": 2
+        "update_date": 1548518400000,
+        "update_count": 3
       }
     },
     "cm_out": {
