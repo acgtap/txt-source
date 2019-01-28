@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1548518400000,
-    "timestamp": 1548550439090,
+    "todayTimestamp": 1548604800000,
+    "timestamp": 1548649072911,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1779,6 +1779,198 @@
           }
         ]
       ]
+    },
+    "1548604800000": {
+      "segment_count": 5,
+      "segment": [
+        [
+          "syosetu",
+          "望まぬ不死の冒険者",
+          {
+            "segment_date": 1548648709265,
+            "segment_old": 2,
+            "segment": 3,
+            "init_date": 1545607102002,
+            "update_date": 1548604800000,
+            "update_count": 7
+          }
+        ],
+        [
+          "user",
+          "異世界迷宮の最深部を目指そう",
+          {
+            "init_date": 1546963200000,
+            "segment_date": 1548632838239,
+            "segment_old": 3,
+            "segment": 7,
+            "update_date": 1548604800000,
+            "update_count": 3
+          }
+        ],
+        [
+          "user",
+          "魔王様、リトライ！",
+          {
+            "segment_date": 1548648829568,
+            "segment_old": 7,
+            "segment": 3,
+            "init_date": 1545521369284,
+            "update_date": 1548604800000,
+            "update_count": 4
+          }
+        ],
+        [
+          "user",
+          "黑之魔王",
+          {
+            "segment_date": 1548648975243,
+            "segment_old": 1,
+            "segment": 50,
+            "init_date": 1545261427757,
+            "update_date": 1548604800000,
+            "update_count": 13
+          }
+        ],
+        [
+          "yandere",
+          "転生ごときで逃げられるとでも、兄さん？",
+          {
+            "segment_date": 1548649016176,
+            "segment_old": 0,
+            "segment": 69,
+            "init_date": 1548649016176,
+            "epub_date": 1548649058311,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 5,
+            "chapter": 79,
+            "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
+            "update_date": 1548604800000,
+            "update_count": 1
+          }
+        ]
+      ],
+      "epub_count": 7,
+      "epub": [
+        [
+          "cm_out",
+          "リビティウム皇国のブタクサ姫",
+          {
+            "epub_date": 1548649036838,
+            "volume_old": 7,
+            "chapter_old": 209,
+            "volume": 7,
+            "chapter": 211,
+            "epub_basename": "利貝提姆皇國的豚草姫.epub",
+            "init_date": 1545548908164,
+            "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
+            "update_date": 1548604800000,
+            "update_count": 11
+          }
+        ],
+        [
+          "syosetu_out",
+          "望まぬ不死の冒険者",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "事與願違的不死冒險者.out.txt",
+            "epub_date": 1548649040615,
+            "volume_old": 10,
+            "chapter_old": 188,
+            "volume": 11,
+            "chapter": 197,
+            "epub_basename": "事與願違的不死冒險者.epub",
+            "update_date": 1548604800000,
+            "update_count": 8
+          }
+        ],
+        [
+          "user_out",
+          "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "暗黒騎士物語　～勇者を倒すために魔王に召.out.txt",
+            "epub_date": 1548649046324,
+            "volume_old": 9,
+            "chapter_old": 178,
+            "volume": 9,
+            "chapter": 180,
+            "epub_basename": "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～.epub",
+            "update_date": 1548604800000,
+            "update_count": 7
+          }
+        ],
+        [
+          "user_out",
+          "魔王様、リトライ！",
+          {
+            "epub_date": 1548649049124,
+            "volume_old": 9,
+            "chapter_old": 112,
+            "volume": 9,
+            "chapter": 116,
+            "epub_basename": "魔王様、リトライ！.epub",
+            "init_date": 1545548944955,
+            "txt_basename": "魔王様、リトライ！.out.txt",
+            "update_date": 1548604800000,
+            "update_count": 3
+          }
+        ],
+        [
+          "wenku8",
+          "平凡職業造就世界最強",
+          {
+            "segment_date": 1548511717740,
+            "segment_old": 13,
+            "segment": 13,
+            "init_date": 1548345600000,
+            "epub_date": 1548649055131,
+            "volume_old": 11,
+            "chapter_old": 97,
+            "volume": 11,
+            "chapter": 97,
+            "epub_basename": "平凡職業造就世界最強.epub",
+            "update_date": 1548604800000,
+            "update_count": 4
+          }
+        ],
+        [
+          "wenku8",
+          "被死神撫養的少女懷抱漆黑之劍",
+          {
+            "segment_date": 1548511732856,
+            "segment_old": 2,
+            "segment": 2,
+            "init_date": 1548345600000,
+            "epub_date": 1548649056516,
+            "volume_old": 3,
+            "chapter_old": 19,
+            "volume": 3,
+            "chapter": 19,
+            "epub_basename": "被死神撫養的少女懷抱漆黑之劍.epub",
+            "update_date": 1548604800000,
+            "update_count": 4
+          }
+        ],
+        [
+          "yandere",
+          "転生ごときで逃げられるとでも、兄さん？",
+          {
+            "segment_date": 1548649016176,
+            "segment_old": 0,
+            "segment": 69,
+            "init_date": 1548649016176,
+            "epub_date": 1548649058311,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 5,
+            "chapter": 79,
+            "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
+            "update_date": 1548604800000,
+            "update_count": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1878,12 +2070,12 @@
         "chapter": 1
       },
       "望まぬ不死の冒険者": {
-        "segment_date": 1546388358471,
-        "segment_old": 4,
-        "segment": 2,
+        "segment_date": 1548648709265,
+        "segment_old": 2,
+        "segment": 3,
         "init_date": 1545607102002,
-        "update_date": 1546358400000,
-        "update_count": 6
+        "update_date": 1548604800000,
+        "update_count": 7
       },
       "異常狀態是絕望": {
         "segment_date": 1545867724522,
@@ -1997,12 +2189,12 @@
     },
     "user": {
       "黑之魔王": {
-        "segment_date": 1547940710903,
-        "segment_old": 5,
-        "segment": 1,
+        "segment_date": 1548648975243,
+        "segment_old": 1,
+        "segment": 50,
         "init_date": 1545261427757,
-        "update_date": 1547913600000,
-        "update_count": 12
+        "update_date": 1548604800000,
+        "update_count": 13
       },
       "火輪を抱いた少女": {
         "segment_date": 1545548707385,
@@ -2011,12 +2203,12 @@
         "init_date": 1545521341885
       },
       "魔王様、リトライ！": {
-        "segment_date": 1547631054002,
-        "segment_old": 1,
-        "segment": 7,
+        "segment_date": 1548648829568,
+        "segment_old": 7,
+        "segment": 3,
         "init_date": 1545521369284,
-        "update_date": 1547568000000,
-        "update_count": 3
+        "update_date": 1548604800000,
+        "update_count": 4
       },
       "虫虫酱むいむいたん": {
         "init_date": 1545494400000,
@@ -2115,11 +2307,11 @@
       },
       "異世界迷宮の最深部を目指そう": {
         "init_date": 1546963200000,
-        "segment_date": 1548511657645,
+        "segment_date": 1548632838239,
         "segment_old": 3,
-        "segment": 3,
-        "update_date": 1548432000000,
-        "update_count": 2
+        "segment": 7,
+        "update_date": 1548604800000,
+        "update_count": 3
       },
       "俺の死亡フラグが留まるところを知らない": {
         "init_date": 1547913600000
@@ -2158,16 +2350,16 @@
         "init_date": 1545548942271
       },
       "魔王様、リトライ！": {
-        "epub_date": 1546389169615,
+        "epub_date": 1548649049124,
         "volume_old": 9,
-        "chapter_old": 110,
+        "chapter_old": 112,
         "volume": 9,
-        "chapter": 112,
+        "chapter": 116,
         "epub_basename": "魔王様、リトライ！.epub",
         "init_date": 1545548944955,
         "txt_basename": "魔王様、リトライ！.out.txt",
-        "update_date": 1546358400000,
-        "update_count": 2
+        "update_date": 1548604800000,
+        "update_count": 3
       },
       "没落予定なので、鍛治職人を目指す": {
         "init_date": 1545494400000,
@@ -2392,14 +2584,14 @@
       "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～": {
         "init_date": 1545494400000,
         "txt_basename": "暗黒騎士物語　～勇者を倒すために魔王に召.out.txt",
-        "epub_date": 1547335787847,
+        "epub_date": 1548649046324,
         "volume_old": 9,
-        "chapter_old": 177,
+        "chapter_old": 178,
         "volume": 9,
-        "chapter": 178,
+        "chapter": 180,
         "epub_basename": "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～.epub",
-        "update_date": 1547308800000,
-        "update_count": 6
+        "update_date": 1548604800000,
+        "update_count": 7
       },
       "転生したら剣でした": {
         "init_date": 1545494400000,
@@ -2649,14 +2841,14 @@
       "望まぬ不死の冒険者": {
         "init_date": 1545494400000,
         "txt_basename": "事與願違的不死冒險者.out.txt",
-        "epub_date": 1547940773159,
+        "epub_date": 1548649040615,
         "volume_old": 10,
-        "chapter_old": 177,
-        "volume": 10,
-        "chapter": 188,
+        "chapter_old": 188,
+        "volume": 11,
+        "chapter": 197,
         "epub_basename": "事與願違的不死冒險者.epub",
-        "update_date": 1547913600000,
-        "update_count": 7
+        "update_date": 1548604800000,
+        "update_count": 8
       },
       "無職の英雄　(n6683ej)": {
         "init_date": 1545494400000,
@@ -3030,42 +3222,42 @@
         "segment_old": 13,
         "segment": 13,
         "init_date": 1548345600000,
-        "epub_date": 1548546974101,
+        "epub_date": 1548649055131,
         "volume_old": 11,
         "chapter_old": 97,
         "volume": 11,
         "chapter": 97,
         "epub_basename": "平凡職業造就世界最強.epub",
-        "update_date": 1548518400000,
-        "update_count": 3
+        "update_date": 1548604800000,
+        "update_count": 4
       },
       "被死神撫養的少女懷抱漆黑之劍": {
         "segment_date": 1548511732856,
         "segment_old": 2,
         "segment": 2,
         "init_date": 1548345600000,
-        "epub_date": 1548546975850,
+        "epub_date": 1548649056516,
         "volume_old": 3,
         "chapter_old": 19,
         "volume": 3,
         "chapter": 19,
         "epub_basename": "被死神撫養的少女懷抱漆黑之劍.epub",
-        "update_date": 1548518400000,
-        "update_count": 3
+        "update_date": 1548604800000,
+        "update_count": 4
       }
     },
     "cm_out": {
       "リビティウム皇国のブタクサ姫": {
-        "epub_date": 1548028518761,
+        "epub_date": 1548649036838,
         "volume_old": 7,
-        "chapter_old": 208,
+        "chapter_old": 209,
         "volume": 7,
-        "chapter": 209,
+        "chapter": 211,
         "epub_basename": "利貝提姆皇國的豚草姫.epub",
         "init_date": 1545548908164,
         "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-        "update_date": 1548000000000,
-        "update_count": 10
+        "update_date": 1548604800000,
+        "update_count": 11
       }
     },
     "dmzj_out": {
@@ -3334,6 +3526,22 @@
         "chapter": 10,
         "epub_basename": "勇者，不幹了　～下一個職場是魔王城～.epub",
         "update_date": 1547913600000,
+        "update_count": 1
+      }
+    },
+    "yandere": {
+      "転生ごときで逃げられるとでも、兄さん？": {
+        "segment_date": 1548649016176,
+        "segment_old": 0,
+        "segment": 69,
+        "init_date": 1548649016176,
+        "epub_date": 1548649058311,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 5,
+        "chapter": 79,
+        "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
+        "update_date": 1548604800000,
         "update_count": 1
       }
     }
@@ -3812,6 +4020,10 @@
           "title": "リビティウム皇国のブタクサ姫",
           "title_zh": "利貝提姆皇國的豚草姫",
           "author": "佐崎　一路",
+          "illusts": [
+            "まりも",
+            "潮里 潤"
+          ],
           "source": "http://ncode.syosetu.com/n6517bw/",
           "cover": "https://images-na.ssl-images-amazon.com/images/I/81eeB8bC59L.jpg",
           "publisher": "syosetu",
@@ -6153,6 +6365,7 @@
           "土之女神",
           "水魚醬",
           "眼前的飞碟",
+          "碱式盐",
           "禾缗",
           "草库金会",
           "长衫造纸笼",
@@ -9826,7 +10039,8 @@
           "[整合贴](https://tieba.baidu.com/p/5473361593 \"整合贴\") - 貼吧目錄",
           "[epub](https://tieba.baidu.com/p/5515573122 \"以整合txt為基礎的整合epub 與 txt分割\")",
           "[kakuyomu.jp](https://kakuyomu.jp/works/1177354054885318680)",
-          "[magnet-novels](https://www.magnet-novels.com/novels/56184)"
+          "[magnet-novels](https://www.magnet-novels.com/novels/56184)",
+          "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=75&page=1)"
         ]
       },
       "暴食のベルセルク": {
@@ -10793,7 +11007,9 @@
         "novel": {
           "title": "魔王様、リトライ！",
           "title_zh1": "重来吧魔王大人",
+          "title_zh2": "魔王大人、RETRY！",
           "author": "神埼　黒音",
+          "illust": "緒方剛志",
           "source": "http://ncode.syosetu.com/n6789do/",
           "cover": "http://1.bp.blogspot.com/-8T7bmTGvhi8/Wfig3_jSYrI/AAAAAAADUxE/fPMNhAwtTUYxuPHv-LVSG-edussPsxMQACHMYCw/s0/Maou-sama,_Retry!.jpg",
           "publisher": "syosetu",
@@ -11657,6 +11873,83 @@
         "link": [
           "[最强的种族是人类吧](https://tieba.baidu.com/f?kw=%E6%9C%80%E5%BC%BA%E7%9A%84%E7%A7%8D%E6%97%8F%E6%98%AF%E4%BA%BA%E7%B1%BB&ie=utf-8 \"最强的种族是人类\")",
           "[dm5](http://www.dm5.com/manhua-guanyurenleishizuiqiangzhongzuzhejianshi/)"
+        ]
+      }
+    },
+    "yandere": {
+      "転生ごときで逃げられるとでも、兄さん？": {
+        "novel": {
+          "title": "転生ごときで逃げられるとでも、兄さん？",
+          "title_zh": "以為轉個生就能逃掉嗎，哥哥？",
+          "title_zh1": "被病嬌妹妹愛的死去活來",
+          "title_zh2": "被病嬌妹妹愛到病入膏肓以至於無法開無雙的異世界轉生",
+          "author": "紙城境介",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n7437dj/",
+          "cover": "",
+          "publisher": "syosetu",
+          "date": "2018-12-08T11:31:00+08:00",
+          "status": "連載",
+          "series": {
+            "name": "転生ごときで逃げられるとでも、兄さん？"
+          },
+          "preface": "高中畢業開始五年間都被妹妹監禁著的我，才想說要逃出的時候就被卡車給輾死了。然後遇見的神明大人因為一些有的沒的說了要讓我轉生到異世界。我終於能從那個惡魔般的妹妹中解放了！這麼想著那一轉瞬之間，知道了和我一起被卡車輾死的妹妹也轉生到了同一個世界。我絕對不要在讓那個妹妹喜歡上了……！這次我絕對要逃脫妹妹的魔手，過上幸福的人生。以這從神明大人那獲得的世界最強等級的能力為武器\n\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\n……說著這些什麼的，都是因為哥哥是個愛害羞的人而已♪『監禁』還是『魔手』或是『逃脫』什麼的，實在是玩笑開過頭了喔？事情就是這樣，上面的概要全都是騙人的，都是玩笑而已。說謊的哥哥真是對不住大家了。這個故事是，戀愛之路上有著各種阻礙的我和哥哥，最終還是變成卿卿我我LoveLove溼答答的故事……欸？雖然女主只有我？哈？有什麼問題嗎？沒有對吧因為哥哥愛著哥哥的是所以只要有我其它不管一個人一匹都不需要血緣問題轉生後就沒有關係哥哥也應該是明白的只要哥哥別妨礙我快滾開令人鬱悶為什麼要說這些奇怪的事情這些嘰嘰喳喳的蟲子們把現在看著你們這些大家大家大家大家大家都殺了\n\n高校卒業から５年間、妹に監禁されていた俺は、やっとの思いで逃げ出した矢先にトラックに轢かれ、異世界に転生した。ようやくあの悪魔みたいな妹から解放される！　そう思ったのも束の間、俺と一緒に死んでいた妹も同じ世界に転生していることを知る。俺は今度こそ妹の魔手から逃げ延び、幸せな人生を生きることを決意した。神様にもらった、世界最強クラスの能力を武器に。\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\nふふっ。……兄さん、み～つけた❤",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "いずれ主人公最強",
+            "イチャラブ",
+            "エルフ師匠（巨乳）",
+            "サスペンス",
+            "シリアス",
+            "チート",
+            "ブラコン妹（最凶）",
+            "ヤンデレ",
+            "学園",
+            "幼馴染（デレデレ）",
+            "恋愛",
+            "懸疑",
+            "残酷な描写あり",
+            "異世界転生",
+            "異能力バトル",
+            "病嬌",
+            "骨科"
+          ],
+          "title_jp1": "ヤンデレの妹に死ぬほど愛されて無双できない異世界転生"
+        },
+        "contribute": [
+          "BOSSJK录",
+          "LSJ综合症",
+          "你不认识我",
+          "倾听の翅膀",
+          "土之女神",
+          "娜娜",
+          "星煌之羽",
+          "病娇娘",
+          "百石尤莉叶",
+          "絨質墮菌",
+          "蜘蛛憂鬱吃葡萄",
+          "贴吧用户_0JtSWaW"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "novel_id": "n7437dj"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n7437dj&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[被病娇妹妹爱的死去活来](https://tieba.baidu.com/f?kw=%E8%A2%AB%E7%97%85%E5%A8%87%E5%A6%B9%E5%A6%B9%E7%88%B1%E7%9A%84%E6%AD%BB%E5%8E%BB%E6%B4%BB%E6%9D%A5&ie=utf-8 \"被病娇妹妹爱的死去活来\")",
+          "[石墨整合](https://shimo.im/docs/ARkNdGT5kR00USzY)"
         ]
       }
     },
