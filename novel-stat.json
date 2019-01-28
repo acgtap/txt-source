@@ -1,843 +1,11 @@
 {
   "meta": {
-    "todayTimestamp": 1548604800000,
-    "timestamp": 1548649072911,
+    "todayTimestamp": 1548691200000,
+    "timestamp": 1548719241929,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
   "history": {
-    "1547568000000": {
-      "segment_count": 2,
-      "segment": [
-        [
-          "syosetu",
-          "アラフォー賢者の異世界生活日記",
-          {
-            "segment_date": 1547631024201,
-            "segment_old": 0,
-            "segment": 26,
-            "init_date": 1547568000000,
-            "update_date": 1547568000000,
-            "update_count": 1
-          }
-        ],
-        [
-          "user",
-          "魔王様、リトライ！",
-          {
-            "segment_date": 1547631054002,
-            "segment_old": 1,
-            "segment": 7,
-            "init_date": 1545521369284,
-            "update_date": 1547568000000,
-            "update_count": 3
-          }
-        ]
-      ],
-      "epub_count": 2,
-      "epub": [
-        [
-          "cm",
-          "異世界転移で女神様から祝福を！　～いえ、手持ちの異能があるので結構です～",
-          {
-            "init_date": 1545494400000,
-            "epub_date": 1547631095349,
-            "volume_old": 5,
-            "chapter_old": 102,
-            "volume": 5,
-            "chapter": 102,
-            "epub_basename": "異世界転移で女神様から祝福を！　～いえ、手持ちの異能があるので結構です～.epub",
-            "update_date": 1547568000000,
-            "update_count": 2,
-            "segment_date": 1547527524592,
-            "segment_old": 0,
-            "segment": 35
-          }
-        ],
-        [
-          "mirronight",
-          "在異世界轉移從女人大人那兒得到祝福",
-          {
-            "epub_date": 1547631096538,
-            "volume_old": 1,
-            "chapter_old": 20,
-            "volume": 1,
-            "chapter": 20,
-            "epub_basename": "在異世界轉移從女人大人那兒得到祝福.epub",
-            "init_date": 1547481600000,
-            "update_date": 1547568000000,
-            "update_count": 2,
-            "segment_date": 1547527532985,
-            "segment_old": 0,
-            "segment": 6
-          }
-        ]
-      ]
-    },
-    "1547654400000": {
-      "segment_count": 5,
-      "segment": [
-        [
-          "mirronight",
-          "在異世界轉移從女人大人那兒得到祝福",
-          {
-            "epub_date": 1547681357071,
-            "volume_old": 1,
-            "chapter_old": 20,
-            "volume": 2,
-            "chapter": 40,
-            "epub_basename": "在異世界轉移從女人大人那兒得到祝福.epub",
-            "init_date": 1547481600000,
-            "update_date": 1547654400000,
-            "update_count": 3,
-            "segment_date": 1547681270369,
-            "segment_old": 6,
-            "segment": 9
-          }
-        ],
-        [
-          "syosetu",
-          "アラフォー賢者の異世界生活日記",
-          {
-            "segment_date": 1547681298709,
-            "segment_old": 26,
-            "segment": 6,
-            "init_date": 1547568000000,
-            "update_date": 1547654400000,
-            "update_count": 2
-          }
-        ],
-        [
-          "syosetu",
-          "月桂樹の唄",
-          {
-            "segment_date": 1547681305369,
-            "segment_old": 0,
-            "segment": 14,
-            "init_date": 1547681305369,
-            "epub_date": 1547681357763,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 3,
-            "chapter": 14,
-            "epub_basename": "月桂樹の唄.epub",
-            "update_date": 1547654400000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "變成了美少女、但也成了網游廢人。",
-          {
-            "segment_date": 1547681311766,
-            "segment_old": 0,
-            "segment": 9,
-            "init_date": 1547681311766,
-            "epub_date": 1547681360307,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 9,
-            "epub_basename": "變成了美少女、但也成了網游廢人。.epub",
-            "update_date": 1547654400000,
-            "update_count": 1
-          }
-        ],
-        [
-          "wenku8",
-          "打倒女神勇者的下流手段",
-          {
-            "segment_date": 1547681318768,
-            "segment_old": 0,
-            "segment": 2,
-            "init_date": 1547681318768,
-            "epub_date": 1547681363689,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 9,
-            "epub_basename": "打倒女神勇者的下流手段.epub",
-            "novel_status": 1,
-            "update_date": 1547654400000,
-            "update_count": 1
-          }
-        ]
-      ],
-      "epub_count": 5,
-      "epub": [
-        [
-          "cm_out",
-          "リビティウム皇国のブタクサ姫",
-          {
-            "epub_date": 1547681355074,
-            "volume_old": 7,
-            "chapter_old": 207,
-            "volume": 7,
-            "chapter": 208,
-            "epub_basename": "利貝提姆皇國的豚草姫.epub",
-            "init_date": 1545548908164,
-            "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-            "update_date": 1547654400000,
-            "update_count": 9
-          }
-        ],
-        [
-          "mirronight",
-          "在異世界轉移從女人大人那兒得到祝福",
-          {
-            "epub_date": 1547681357071,
-            "volume_old": 1,
-            "chapter_old": 20,
-            "volume": 2,
-            "chapter": 40,
-            "epub_basename": "在異世界轉移從女人大人那兒得到祝福.epub",
-            "init_date": 1547481600000,
-            "update_date": 1547654400000,
-            "update_count": 3,
-            "segment_date": 1547681270369,
-            "segment_old": 6,
-            "segment": 9
-          }
-        ],
-        [
-          "syosetu",
-          "月桂樹の唄",
-          {
-            "segment_date": 1547681305369,
-            "segment_old": 0,
-            "segment": 14,
-            "init_date": 1547681305369,
-            "epub_date": 1547681357763,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 3,
-            "chapter": 14,
-            "epub_basename": "月桂樹の唄.epub",
-            "update_date": 1547654400000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "變成了美少女、但也成了網游廢人。",
-          {
-            "segment_date": 1547681311766,
-            "segment_old": 0,
-            "segment": 9,
-            "init_date": 1547681311766,
-            "epub_date": 1547681360307,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 9,
-            "epub_basename": "變成了美少女、但也成了網游廢人。.epub",
-            "update_date": 1547654400000,
-            "update_count": 1
-          }
-        ],
-        [
-          "wenku8",
-          "打倒女神勇者的下流手段",
-          {
-            "segment_date": 1547681318768,
-            "segment_old": 0,
-            "segment": 2,
-            "init_date": 1547681318768,
-            "epub_date": 1547681363689,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 9,
-            "epub_basename": "打倒女神勇者的下流手段.epub",
-            "novel_status": 1,
-            "update_date": 1547654400000,
-            "update_count": 1
-          }
-        ]
-      ]
-    },
-    "1547740800000": {
-      "epub_count": 4,
-      "epub": [
-        [
-          "mirronight",
-          "在異世界轉移從女人大人那兒得到祝福",
-          {
-            "epub_date": 1547767632259,
-            "volume_old": 2,
-            "chapter_old": 40,
-            "volume": 2,
-            "chapter": 40,
-            "epub_basename": "在異世界轉移從女人大人那兒得到祝福.epub",
-            "init_date": 1547481600000,
-            "update_date": 1547740800000,
-            "update_count": 4,
-            "segment_date": 1547681270369,
-            "segment_old": 6,
-            "segment": 9
-          }
-        ],
-        [
-          "syosetu",
-          "月桂樹の唄",
-          {
-            "segment_date": 1547681305369,
-            "segment_old": 0,
-            "segment": 14,
-            "init_date": 1547654400000,
-            "epub_date": 1547767632976,
-            "volume_old": 3,
-            "chapter_old": 14,
-            "volume": 3,
-            "chapter": 14,
-            "epub_basename": "月桂樹の唄.epub",
-            "update_date": 1547740800000,
-            "update_count": 2
-          }
-        ],
-        [
-          "syosetu",
-          "變成了美少女、但也成了網游廢人。",
-          {
-            "segment_date": 1547681311766,
-            "segment_old": 0,
-            "segment": 9,
-            "init_date": 1547654400000,
-            "epub_date": 1547767635704,
-            "volume_old": 1,
-            "chapter_old": 9,
-            "volume": 1,
-            "chapter": 9,
-            "epub_basename": "變成了美少女、但也成了網游廢人。.epub",
-            "update_date": 1547740800000,
-            "update_count": 2
-          }
-        ],
-        [
-          "wenku8",
-          "打倒女神勇者的下流手段",
-          {
-            "segment_date": 1547681318768,
-            "segment_old": 0,
-            "segment": 2,
-            "init_date": 1547654400000,
-            "epub_date": 1547767639011,
-            "volume_old": 1,
-            "chapter_old": 9,
-            "volume": 1,
-            "chapter": 9,
-            "epub_basename": "打倒女神勇者的下流手段.epub",
-            "novel_status": 1,
-            "update_date": 1547740800000,
-            "update_count": 2
-          }
-        ]
-      ]
-    },
-    "1547827200000": {
-      "segment_count": 2,
-      "segment": [
-        [
-          "user",
-          "豚公爵に転生したから、今度は君に好きと言いたい",
-          {
-            "segment_date": 1547854179724,
-            "segment_old": 1,
-            "segment": 2,
-            "init_date": 1545607228123,
-            "update_date": 1547827200000,
-            "update_count": 6
-          }
-        ],
-        [
-          "user",
-          "黑之魔王",
-          {
-            "segment_date": 1547854324220,
-            "segment_old": 1,
-            "segment": 5,
-            "init_date": 1545261427757,
-            "update_date": 1547827200000,
-            "update_count": 11
-          }
-        ]
-      ],
-      "epub_count": 4,
-      "epub": [
-        [
-          "syosetu_out",
-          "暇人、魔王の姿で異世界へ",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "暇人、魔王の姿で異世界へ.out.txt",
-            "epub_date": 1547854355602,
-            "volume_old": 10,
-            "chapter_old": 224,
-            "volume": 10,
-            "chapter": 225,
-            "epub_basename": "暇人、魔王の姿で異世界へ.epub",
-            "update_date": 1547827200000,
-            "update_count": 3
-          }
-        ],
-        [
-          "syosetu_out",
-          "陰の実力者になりたくて！_(n0611em)",
-          {
-            "epub_date": 1547854358908,
-            "volume_old": 8,
-            "chapter_old": 166,
-            "volume": 9,
-            "chapter": 170,
-            "epub_basename": "想要成為影之實力者.epub",
-            "init_date": 1545548940691,
-            "txt_basename": "想要成為影之實力者.out.txt",
-            "update_date": 1547827200000,
-            "update_count": 4
-          }
-        ],
-        [
-          "user_out",
-          "豚公爵に転生したから、今度は君に好きと言いたい",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "豚公爵に転生したから、今度は君に好きと言.out.txt",
-            "epub_date": 1547854362010,
-            "volume_old": 7,
-            "chapter_old": 167,
-            "volume": 7,
-            "chapter": 169,
-            "epub_basename": "豚公爵に転生したから、今度は君に好きと言いたい.epub",
-            "update_date": 1547827200000,
-            "update_count": 3
-          }
-        ],
-        [
-          "user_out",
-          "黑之魔王",
-          {
-            "epub_date": 1547854372306,
-            "volume_old": 29,
-            "chapter_old": 552,
-            "volume": 29,
-            "chapter": 556,
-            "init_date": 1545261469203,
-            "epub_basename": "黑之魔王.epub",
-            "txt_basename": "黑之魔王.out.txt",
-            "update_date": 1547827200000,
-            "update_count": 14
-          }
-        ]
-      ]
-    },
-    "1547913600000": {
-      "segment_count": 6,
-      "segment": [
-        [
-          "h",
-          "侯爵嫡男好色物語",
-          {
-            "segment_date": 1547975112385,
-            "segment_old": 35,
-            "segment": 1,
-            "init_date": 1547913600000,
-            "epub_date": 1547976781000,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 47,
-            "epub_basename": "侯爵嫡男好色物語.epub",
-            "update_date": 1547913600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "h",
-          "在喪屍橫行的世界裡唯獨我不被襲擊",
-          {
-            "segment_date": 1547940550044,
-            "segment_old": 0,
-            "segment": 60,
-            "init_date": 1547913600000,
-            "epub_date": 1547975248178,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 3,
-            "chapter": 62,
-            "epub_basename": "在喪屍橫行的世界裡唯獨我不被襲擊.epub",
-            "update_date": 1547913600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "h",
-          "異世界の男は全滅したようです",
-          {
-            "segment_date": 1547940565173,
-            "segment_old": 0,
-            "segment": 32,
-            "init_date": 1547913600000,
-            "epub_date": 1547975249131,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 2,
-            "chapter": 33,
-            "epub_basename": "異世界の男は全滅したようです.epub",
-            "update_date": 1547913600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "kakuyomu",
-          "勇者、辞めます　～次の職場は魔王城～",
-          {
-            "segment_date": 1547940570765,
-            "segment_old": 0,
-            "segment": 9,
-            "init_date": 1547913600000,
-            "epub_date": 1547975250953,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 4,
-            "chapter": 10,
-            "epub_basename": "勇者，不幹了　～下一個職場是魔王城～.epub",
-            "update_date": 1547913600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "user",
-          "黑之魔王",
-          {
-            "segment_date": 1547940710903,
-            "segment_old": 5,
-            "segment": 1,
-            "init_date": 1545261427757,
-            "update_date": 1547913600000,
-            "update_count": 12
-          }
-        ],
-        [
-          "wenku8",
-          "關於人類是最強種族這件事",
-          {
-            "segment_date": 1547940721492,
-            "segment_old": 0,
-            "segment": 52,
-            "init_date": 1547913600000,
-            "epub_date": 1547975253224,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 4,
-            "chapter": 52,
-            "epub_basename": "關於人類是最強種族這件事.epub",
-            "update_date": 1547913600000,
-            "update_count": 1
-          }
-        ]
-      ],
-      "epub_count": 11,
-      "epub": [
-        [
-          "h",
-          "侯爵嫡男好色物語",
-          {
-            "segment_date": 1547975112385,
-            "segment_old": 35,
-            "segment": 1,
-            "init_date": 1547913600000,
-            "epub_date": 1547976781000,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 47,
-            "epub_basename": "侯爵嫡男好色物語.epub",
-            "update_date": 1547913600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "h",
-          "在喪屍橫行的世界裡唯獨我不被襲擊",
-          {
-            "segment_date": 1547940550044,
-            "segment_old": 0,
-            "segment": 60,
-            "init_date": 1547913600000,
-            "epub_date": 1547975248178,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 3,
-            "chapter": 62,
-            "epub_basename": "在喪屍橫行的世界裡唯獨我不被襲擊.epub",
-            "update_date": 1547913600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "h",
-          "異世界の男は全滅したようです",
-          {
-            "segment_date": 1547940565173,
-            "segment_old": 0,
-            "segment": 32,
-            "init_date": 1547913600000,
-            "epub_date": 1547975249131,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 2,
-            "chapter": 33,
-            "epub_basename": "異世界の男は全滅したようです.epub",
-            "update_date": 1547913600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "kakuyomu",
-          "勇者、辞めます　～次の職場は魔王城～",
-          {
-            "segment_date": 1547940570765,
-            "segment_old": 0,
-            "segment": 9,
-            "init_date": 1547913600000,
-            "epub_date": 1547975250953,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 4,
-            "chapter": 10,
-            "epub_basename": "勇者，不幹了　～下一個職場是魔王城～.epub",
-            "update_date": 1547913600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "mirronight",
-          "在異世界轉移從女神大人那兒得到祝福",
-          {
-            "init_date": 1547913600000,
-            "epub_date": 1547940769136,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 2,
-            "chapter": 40,
-            "epub_basename": "在異世界轉移從女神大人那兒得到祝福.epub",
-            "update_date": 1547913600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～",
-          {
-            "init_date": 1547913600000,
-            "epub_date": 1547940769808,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 1,
-            "epub_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？那好吃嗎？.epub",
-            "novel_status": 1,
-            "update_date": 1547913600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu_out",
-          "望まぬ不死の冒険者",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "事與願違的不死冒險者.out.txt",
-            "epub_date": 1547940773159,
-            "volume_old": 10,
-            "chapter_old": 177,
-            "volume": 10,
-            "chapter": 188,
-            "epub_basename": "事與願違的不死冒險者.epub",
-            "update_date": 1547913600000,
-            "update_count": 7
-          }
-        ],
-        [
-          "user_out",
-          "俺の死亡フラグが留まるところを知らない",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "不知我的死亡flag将于何处停止.out.txt",
-            "epub_date": 1547940775517,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 5,
-            "chapter": 104,
-            "epub_basename": "不知我的死亡flag将于何处停止.epub",
-            "update_date": 1547913600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "user_out",
-          "呪術師は勇者になれない",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "呪術師は勇者になれない.out.txt",
-            "epub_date": 1547940776291,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 2,
-            "chapter": 10,
-            "epub_basename": "呪術師は勇者になれない.epub",
-            "update_date": 1547913600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "user_out",
-          "破壊の御子",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "破壊の御子.out.txt",
-            "epub_date": 1547940777904,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 71,
-            "epub_basename": "破壊の御子.epub",
-            "update_date": 1547913600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "wenku8",
-          "關於人類是最強種族這件事",
-          {
-            "segment_date": 1547940721492,
-            "segment_old": 0,
-            "segment": 52,
-            "init_date": 1547913600000,
-            "epub_date": 1547975253224,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 4,
-            "chapter": 52,
-            "epub_basename": "關於人類是最強種族這件事.epub",
-            "update_date": 1547913600000,
-            "update_count": 1
-          }
-        ]
-      ]
-    },
-    "1548000000000": {
-      "segment_count": 1,
-      "segment": [
-        [
-          "mirronight",
-          "只有無職是不會辭掉的",
-          {
-            "segment_date": 1548043614537,
-            "segment_old": 1,
-            "segment": 1,
-            "init_date": 1548000000000,
-            "epub_date": 1548045636980,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 8,
-            "chapter": 190,
-            "epub_basename": "只有無職是不會辭掉的.epub",
-            "update_date": 1548000000000,
-            "update_count": 1
-          }
-        ]
-      ],
-      "epub_count": 3,
-      "epub": [
-        [
-          "cm_out",
-          "リビティウム皇国のブタクサ姫",
-          {
-            "epub_date": 1548028518761,
-            "volume_old": 7,
-            "chapter_old": 208,
-            "volume": 7,
-            "chapter": 209,
-            "epub_basename": "利貝提姆皇國的豚草姫.epub",
-            "init_date": 1545548908164,
-            "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-            "update_date": 1548000000000,
-            "update_count": 10
-          }
-        ],
-        [
-          "mirronight",
-          "只有無職是不會辭掉的",
-          {
-            "segment_date": 1548043614537,
-            "segment_old": 1,
-            "segment": 1,
-            "init_date": 1548000000000,
-            "epub_date": 1548045636980,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 8,
-            "chapter": 190,
-            "epub_basename": "只有無職是不會辭掉的.epub",
-            "update_date": 1548000000000,
-            "update_count": 1
-          }
-        ],
-        [
-          "user_out",
-          "ウォルテニア戦記",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "沃特尼亞戰記.out.txt",
-            "epub_date": 1548028525607,
-            "volume_old": 5,
-            "chapter_old": 174,
-            "volume": 5,
-            "chapter": 177,
-            "epub_basename": "沃特尼亞戰記.epub",
-            "update_date": 1548000000000,
-            "update_count": 6
-          }
-        ]
-      ]
-    },
-    "1548086400000": {
-      "epub_count": 2,
-      "epub": [
-        [
-          "syosetu_out",
-          "帰ってきた元勇者",
-          {
-            "init_date": 1545494400000,
-            "chapter_old": 240,
-            "chapter": 240,
-            "txt_basename": "歸來的原勇者.out.txt",
-            "epub_date": 1548127690530,
-            "volume_old": 0,
-            "volume": 36,
-            "epub_basename": "歸來的原勇者.epub",
-            "update_date": 1548086400000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu_out",
-          "重生的貓騎士與精靈娘的日常",
-          {
-            "epub_date": 1548127693356,
-            "volume_old": 3,
-            "chapter_old": 48,
-            "volume": 3,
-            "chapter": 62,
-            "epub_basename": "重生的貓騎士與精靈娘的日常.epub",
-            "init_date": 1545548938005,
-            "txt_basename": "重生的貓騎士與精靈娘的日常.out.txt",
-            "update_date": 1548086400000,
-            "update_count": 1
-          }
-        ]
-      ]
-    },
     "1548172800000": {
       "segment_count": 4,
       "segment": [
@@ -1971,6 +1139,43 @@
           }
         ]
       ]
+    },
+    "1548691200000": {
+      "epub_count": 2,
+      "epub": [
+        [
+          "mirronight_out",
+          "只有無職是不會辭掉的",
+          {
+            "txt_basename": "只有無職是不會辭掉的.out.txt",
+            "epub_date": 1548719227689,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 8,
+            "chapter": 190,
+            "epub_basename": "只有無職是不會辭掉的.epub",
+            "init_date": 1548719227689,
+            "update_date": 1548691200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu_out",
+          "魔王学院の不適合者",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 45,
+            "chapter": 54,
+            "txt_basename": "魔王学院の不適合者.out.txt",
+            "epub_date": 1548719230179,
+            "volume_old": 0,
+            "volume": 2,
+            "epub_basename": "魔王学院の不適合者.epub",
+            "update_date": 1548691200000,
+            "update_count": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -2988,8 +2193,15 @@
       },
       "魔王学院の不適合者": {
         "init_date": 1545494400000,
-        "chapter_old": 0,
-        "chapter": 45
+        "chapter_old": 45,
+        "chapter": 54,
+        "txt_basename": "魔王学院の不適合者.out.txt",
+        "epub_date": 1548719230179,
+        "volume_old": 0,
+        "volume": 2,
+        "epub_basename": "魔王学院の不適合者.epub",
+        "update_date": 1548691200000,
+        "update_count": 1
       },
       "魔王軍最強の魔術師は人間だった": {
         "init_date": 1545494400000,
@@ -3534,7 +2746,7 @@
         "segment_date": 1548649016176,
         "segment_old": 0,
         "segment": 69,
-        "init_date": 1548649016176,
+        "init_date": 1548604800000,
         "epub_date": 1548649058311,
         "volume_old": 0,
         "chapter_old": 0,
@@ -3542,6 +2754,20 @@
         "chapter": 79,
         "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
         "update_date": 1548604800000,
+        "update_count": 1
+      }
+    },
+    "mirronight_out": {
+      "只有無職是不會辭掉的": {
+        "txt_basename": "只有無職是不會辭掉的.out.txt",
+        "epub_date": 1548719227689,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 8,
+        "chapter": 190,
+        "epub_basename": "只有無職是不會辭掉的.epub",
+        "init_date": 1548719227689,
+        "update_date": 1548691200000,
         "update_count": 1
       }
     }
@@ -4994,7 +4220,7 @@
         ]
       }
     },
-    "mirronight": {
+    "mirronight_out": {
       "只有無職是不會辭掉的": {
         "novel": {
           "title": "成長チートでなんでもできるようになったが、無職だけは辞められないようです",
@@ -5002,8 +4228,9 @@
           "title_zh1": "只有無職是不會辭去的",
           "title_zh2": "雖然用成長開掛變得什麼都做得到了、可是只有無職是不會辭掉的",
           "author": "時野洋輔",
+          "illust": "ちり",
           "source": "http://ncode.syosetu.com/n9863da/",
-          "cover": "",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/91ioKJyGO%2BL.jpg",
           "publisher": "syosetu",
           "date": "2019-01-20T20:53:00+08:00",
           "status": "連載",
@@ -5050,7 +4277,9 @@
           "[dip.jp](https://narou.nar.jp/search.php?text=n9863da&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[只有无职是不会辞掉吧](https://tieba.baidu.com/f?kw=%E5%8F%AA%E6%9C%89%E6%97%A0%E8%81%8C%E6%98%AF%E4%B8%8D%E4%BC%9A%E8%BE%9E%E6%8E%89&ie=utf-8 \"只有无职是不会辞掉\")"
         ]
-      },
+      }
+    },
+    "mirronight": {
       "在異世界轉移從女神大人那兒得到祝福": {
         "novel": {
           "title": "異世界転移で女神様から祝福を！　～いえ、手持ちの異能があるので結構です～",
@@ -7777,7 +7006,13 @@
         "novel": {
           "title": "魔王学院の不適合者　～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～",
           "title_short": "魔王学院の不適合者",
+          "title_zh1": "魔王學院的不適合者　～史上最強的魔王始祖、轉生之後入學到子孫們的學校～",
           "author": "秋",
+          "illust": "",
+          "illusts": [
+            "しずま よしのり",
+            "かやはるか"
+          ],
           "source": "http://ncode.syosetu.com/n1578dx/",
           "cover": "http://epub-tw.com/reader/bookshelf/20180401/04893681A07632600000/item/image/cover.jpg",
           "publisher": "syosetu",
@@ -7805,6 +7040,8 @@
         },
         "contribute": [
           "961038",
+          "bannings009",
+          "chifung0504",
           "dettle",
           "dgbrhv",
           "sunny_yeung7",
@@ -7812,9 +7049,13 @@
           "zjrzhengjr",
           "伪髅",
           "勤奋的咲夜",
+          "南柯梦今朝",
           "墨渊冥",
+          "夢憶",
+          "守护舞忍",
           "漫友琉璃",
           "灵九条",
+          "用戶名改什麼",
           "莫鱼357",
           "萬國津梁"
         ],
@@ -7830,7 +7071,8 @@
           "[dip.jp](https://narou.dip.jp/search.php?text=n1578dx&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[魔王学院的不适合者](https://tieba.baidu.com/f?kw=%E9%AD%94%E7%8E%8B%E5%AD%A6%E9%99%A2%E7%9A%84%E4%B8%8D%E9%80%82%E5%90%88%E8%80%85&ie=utf-8 \"魔王学院的不适合者\")",
           "[漫画](https://www.manhuagui.com/comic/28684/)",
-          "[txt by dettle](https://tieba.baidu.com/p/5972023609)"
+          "[txt by dettle](https://tieba.baidu.com/p/5972023609)",
+          "[dm5 漫画](http://www.dm5.com/manhua-mowangxueyuandebushihezhe--shishangzuiqiangdemowangshizu-zhuanshengzhihouruxuedaozisunmendexuexiao/)"
         ]
       },
       "魔王軍最強の魔術師は人間だった": {
@@ -12034,6 +11276,64 @@
           "[dip.jp](https://narou.nar.jp/search.php?text=n9543bw&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[我的怪物眷族吧](https://tieba.baidu.com/f?kw=%E6%88%91%E7%9A%84%E6%80%AA%E7%89%A9%E7%9C%B7%E6%97%8F&ie=utf-8&tp=0 \"我的怪物眷族\")",
           "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=101)"
+        ]
+      },
+      "俺は星間国家の悪徳領主！": {
+        "novel": {
+          "title": "俺は星間国家の悪徳領主！",
+          "title_zh1": "我在星際國家當惡德領主",
+          "author": "わい／三嶋　与夢",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n1976ey/",
+          "cover": "",
+          "publisher": "syosetu",
+          "date": "2019-01-24T19:08:00+08:00",
+          "status": "連載",
+          "series": {
+            "name": ""
+          },
+          "preface": "里爾姆·塞拉·班菲爾德是個轉生者。  \n他轉生到了劍與魔法的幻想世界裏。然而，那個世界已經邁進了星際時代。  \n這是一個有著星際國家存在，充滿著人型兵器、宇宙戰艦等戰鬥要素，宛若太空歌劇一般的奇妙幻想世界。  \n轉生為貴族制國家――帝國伯爵家一份子的里爾姆，有一個奢望。  \n那就是成為――惡德領主。  \n在前世裏，他失去了一切，在絕望中死去。  \n――善良地活著簡直可笑  \n――這一次，一定要隨自己的心意，自由地活下去。  \n懷著這樣的心情，開始第二人生的他，卻被人們當做名君來崇拜。因為這個世界的價值觀與前世截然不同。  \n里爾姆能順利成為惡德領主嗎？\n\nリアム・セラ・バンフィールドは転生者だ。\n剣と魔法のファンタジー世界に転生したのだが、その世界は宇宙進出を果たしていた。\n星間国家が存在し、人型兵器や宇宙戦艦が戦うスペースオペラのような世界。\n貴族たちが支配する帝国の伯爵家に転生したリアムには野望があった。\nそれは――悪徳領主になることだ。\n前世、不幸にも全てを失い絶望の中で死んだリアム。\n――善良に生きるなんて馬鹿らしい。\n――好き勝手に生きてやる。\nそんな気持ちを胸に、第二の人生を歩もうとするのだが、価値観の違いから名君として崇められてしまう。\nリアムは無事、悪徳領主になれるのだろうか？",
+          "tags": [
+            "R15",
+            "SF",
+            "node-novel",
+            "syosetu",
+            "アンドロイド",
+            "スペースオペラ",
+            "ダーク",
+            "ハーレム",
+            "ロボット",
+            "勘違い",
+            "宇宙",
+            "悪徳",
+            "星間国家",
+            "残酷な描写あり",
+            "男主人公",
+            "異世界転生",
+            "貴族",
+            "領主"
+          ]
+        },
+        "contribute": [
+          "回眸一笑"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "novel_id": "n1976ey"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n1976ey&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[我在星际国家当恶德领主吧](https://tieba.baidu.com/f?kw=%E6%88%91%E5%9C%A8%E6%98%9F%E9%99%85%E5%9B%BD%E5%AE%B6%E5%BD%93%E6%81%B6%E5%BE%B7%E9%A2%86%E4%B8%BB&ie=utf-8 \"我在星际国家当恶德领主\")"
         ]
       },
       "想當冒險者的女兒到首都當了等級Ｓ的冒險者": {
