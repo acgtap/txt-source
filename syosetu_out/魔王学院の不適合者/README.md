@@ -2,12 +2,19 @@
 
 - title: 魔王学院の不適合者　～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～
 - title_short: 魔王学院の不適合者
+- title_zh1: 魔王學院的不適合者　～史上最強的魔王始祖、轉生之後入學到子孫們的學校～
 - author: 秋
+- illust:
 - source: http://ncode.syosetu.com/n1578dx/
 - cover: http://epub-tw.com/reader/bookshelf/20180401/04893681A07632600000/item/image/cover.jpg
 - publisher: syosetu
 - date: 2018-07-31T08:25:00+08:00
 - status: 連載
+
+## illusts
+
+- しずま よしのり
+- かやはるか
 
 ## series
 
@@ -66,6 +73,12 @@
 - xlFXTZ
 - 伪髅
 - dettle
+- 夢憶
+- bannings009
+- chifung0504
+- 南柯梦今朝
+- 守护舞忍
+- 用戶名改什麼
 - 
 
 # options
@@ -84,6 +97,7 @@
 - [魔王学院的不适合者](https://tieba.baidu.com/f?kw=%E9%AD%94%E7%8E%8B%E5%AD%A6%E9%99%A2%E7%9A%84%E4%B8%8D%E9%80%82%E5%90%88%E8%80%85&ie=utf-8 "魔王学院的不适合者")
 - [漫画](https://www.manhuagui.com/comic/28684/)
 - [txt by dettle](https://tieba.baidu.com/p/5972023609)
+- [dm5 漫画](http://www.dm5.com/manhua-mowangxueyuandebushihezhe--shishangzuiqiangdemowangshizu-zhuanshengzhihouruxuedaozisunmendexuexiao/)
 - 
 
 
