@@ -2,9 +2,10 @@
 # novel
 
 - title: 暗黒騎士物語　～勇者を倒すために魔王に召喚されました～
+- title_zh1: 暗黒騎士物語　～為了打敗勇者，被魔王召喚了～
 - author: 根崎タケル
 - source: https://ncode.syosetu.com/n8961ch/
-- cover: http://souku.jp/information/campaign/nanana/img/bu99992572.jpg
+- cover: https://images-na.ssl-images-amazon.com/images/I/81TiGgMmRqL.jpg
 
 ## preface
 
@@ -64,6 +65,13 @@
 - cvyvgabm
 - 鬼之幻魔
 - 
+
+# options
+
+## syosetu
+
+- txtdownload_id:
+- novel_id: n8961ch
 
 # link
 
