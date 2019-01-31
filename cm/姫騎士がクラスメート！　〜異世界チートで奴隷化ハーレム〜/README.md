@@ -3,12 +3,20 @@
 - title: 姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜
 - title_zh: 我的同學是姬騎士
 - title_zh2: 姬騎士是同班同學
+- title_zh3: 姬騎士是同班同學！　〜異世界外掛的奴隸化後宮〜
 - author: ＥＫＺ
+- illust: 吉沢メガネ
 - source: http://novel18.syosetu.com/n0153ce/
 - cover: https://lightnovelstranslations.com/wp-content/uploads/2017/03/Volume-1-cover.jpg
 - publisher: syosetu
 - date: 2016-10-31T22:05:00+08:00
 - status: 連載
+- novel_status: 0x0302
+
+## illusts
+
+- 吉沢メガネ
+- NO.ゴメス
 
 ## series
 
@@ -18,6 +26,8 @@
 
 
 ```
+轉生成為魔隸術師的主角，是一個相當縱欲的“紳hen士tai”。沒有朋友的男子高中生，小田森透，在修學旅行的公交車事故裡，轉生到了幻想異世界。在那裡獲得的職業是，能使人打從心底服從的外掛職業魔隸術師。於是馬上用那個力量開始將女人們變成奴隸的透。但是同時也獲得轉生的同班的美少女，姫野桐華卻作為正義的《姬騎士》出現在透面前——！？“這樣的話管她是原同班同學，冒險者也好，精靈也好，魔族也好，公主也好，全部變成我的奴隸吧
+
 小田森トオル (Oda-mori tōru), 男高中生 (沒有朋友, 在班上如同空氣般的存在)
 修學旅行途中發生意外事故
 死後遇到神
@@ -82,4 +92,7 @@
 - [我的同学是姬骑士吧](https://tieba.baidu.com/f?kw=%E6%88%91%E7%9A%84%E5%90%8C%E5%AD%A6%E6%98%AF%E5%A7%AC%E9%AA%91%E5%A3%AB&ie=utf-8 "我的同学是姬骑士")
 - [姫騎士がクラスメート！　THE COMIC](http://www.comic-valkyrie.com/modules/web_valkyrie/classmate/)
 - https://www.lightnovel.cn/forum.php?mod=viewthread&tid=922044
+- [dm5](http://www.dm5.com/manhua-wodetongxueshijiqishi/)
+- [manhuagui](https://tw.manhuagui.com/comic/26586/)
+- https://www.lightnovel.cn/thread-930229-1-1.html
 - 
