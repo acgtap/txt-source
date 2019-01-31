@@ -6,7 +6,7 @@
 - source: http://ncode.syosetu.com/n3191eh/
 - cover: https://images-na.ssl-images-amazon.com/images/I/912nndTR2SL.jpg
 - publisher: syosetu
-- date: 2018-11-06T00:00:00+08:00
+- date: 2019-01-26T16:52:00+08:00
 - status: 連載
 
 ## series
@@ -67,6 +67,18 @@
 - 火烤de泡泡
 - 灰常瞴语
 - electricfan_bk
+- 虹夢璀璨
+- jt00743672
+- 神楽坂秀吉
+- 空儚2383
+- Miigen
+- 月影破云出
+- 东山奈央
+- -流流年华
+- 回眸一笑
+- 萩丶枼
+- ロ吻
+- 土之女神
 - 
 
 # options
@@ -92,5 +104,6 @@
 - [乙女游戏世界对路人角色太严厉吧](https://tieba.baidu.com/f?kw=%E4%B9%99%E5%A5%B3%E6%B8%B8%E6%88%8F%E4%B8%96%E7%95%8C%E5%AF%B9%E8%B7%AF%E4%BA%BA%E8%A7%92%E8%89%B2%E5%A4%AA%E4%B8%A5%E5%8E%89&ie=utf-8&tp=0 "乙女游戏世界对路人角色太严厉")
 - [dmzj](https://manhua.dmzj.com/yinvyouxishijieduilurenjuesehenbuyouhao/)
 - [comic-walker](https://comic-walker.com/contents/detail/KDCW_FS01200541010000_68/)
+- [masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=60&page=1)
 - 
 
