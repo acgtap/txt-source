@@ -8,7 +8,7 @@
 - author: 紙城境介
 - illust:
 - source: http://ncode.syosetu.com/n7437dj/
-- cover:
+- cover: https://iwiz-chie.c.yimg.jp/im_siggZEOsvSlv5Jd1oYt7bF9YIA---x320-y320-exp5m-n1/d/iwiz-chie/que-12144150507
 - publisher: syosetu
 - date: 2018-12-08T11:31:00+08:00
 - status: 連載
@@ -53,6 +53,8 @@
 - 病嬌
 - 懸疑
 - 骨科
+- 妹
+- 
 
 # contribute
 
