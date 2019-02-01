@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1548950400000,
-    "timestamp": 1548977907069,
+    "todayTimestamp": 1549036800000,
+    "timestamp": 1549064965243,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1530,6 +1530,48 @@
           }
         ]
       ]
+    },
+    "1549036800000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "yandere",
+          "転生ごときで逃げられるとでも、兄さん？",
+          {
+            "segment_date": 1549064936964,
+            "segment_old": 4,
+            "segment": 14,
+            "init_date": 1548604800000,
+            "epub_date": 1548977895318,
+            "volume_old": 5,
+            "chapter_old": 79,
+            "volume": 5,
+            "chapter": 79,
+            "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
+            "update_date": 1549036800000,
+            "update_count": 5
+          }
+        ]
+      ],
+      "epub_count": 1,
+      "epub": [
+        [
+          "yandere_out",
+          "転生ごときで逃げられるとでも、兄さん？",
+          {
+            "txt_basename": "以為轉個生就能逃掉嗎，哥哥？.out.txt",
+            "epub_date": 1549064955897,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 5,
+            "chapter": 80,
+            "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
+            "init_date": 1549036800000,
+            "update_date": 1549036800000,
+            "update_count": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1772,7 +1814,7 @@
         "segment_date": 1548977705773,
         "segment_old": 0,
         "segment": 117,
-        "init_date": 1548977705773,
+        "init_date": 1548950400000,
         "epub_date": 1548977883964,
         "volume_old": 0,
         "chapter_old": 0,
@@ -3135,9 +3177,9 @@
     },
     "yandere": {
       "転生ごときで逃げられるとでも、兄さん？": {
-        "segment_date": 1548805600329,
-        "segment_old": 69,
-        "segment": 1,
+        "segment_date": 1549064936964,
+        "segment_old": 4,
+        "segment": 14,
         "init_date": 1548604800000,
         "epub_date": 1548977895318,
         "volume_old": 5,
@@ -3145,8 +3187,8 @@
         "volume": 5,
         "chapter": 79,
         "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
-        "update_date": 1548950400000,
-        "update_count": 4
+        "update_date": 1549036800000,
+        "update_count": 5
       }
     },
     "mirronight_out": {
@@ -3160,6 +3202,20 @@
         "epub_basename": "只有無職是不會辭掉的.epub",
         "init_date": 1548691200000,
         "update_date": 1548691200000,
+        "update_count": 1
+      }
+    },
+    "yandere_out": {
+      "転生ごときで逃げられるとでも、兄さん？": {
+        "txt_basename": "以為轉個生就能逃掉嗎，哥哥？.out.txt",
+        "epub_date": 1549064955897,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 5,
+        "chapter": 80,
+        "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
+        "init_date": 1549036800000,
+        "update_date": 1549036800000,
         "update_count": 1
       }
     }
@@ -11695,7 +11751,7 @@
         ]
       }
     },
-    "yandere": {
+    "yandere_out": {
       "転生ごときで逃げられるとでも、兄さん？": {
         "novel": {
           "title": "転生ごときで逃げられるとでも、兄さん？",
