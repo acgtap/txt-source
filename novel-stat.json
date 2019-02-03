@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1549036800000,
-    "timestamp": 1549064965243,
+    "todayTimestamp": 1549123200000,
+    "timestamp": 1549150575635,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1572,6 +1572,29 @@
           }
         ]
       ]
+    },
+    "1549123200000": {
+      "epub_count": 1,
+      "epub": [
+        [
+          "wenku8",
+          "平凡職業造就世界最強",
+          {
+            "segment_date": 1548511717740,
+            "segment_old": 13,
+            "segment": 13,
+            "init_date": 1548345600000,
+            "epub_date": 1549150562937,
+            "volume_old": 11,
+            "chapter_old": 97,
+            "volume": 13,
+            "chapter": 109,
+            "epub_basename": "平凡職業造就世界最強.epub",
+            "update_date": 1549123200000,
+            "update_count": 5
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -2868,14 +2891,14 @@
         "segment_old": 13,
         "segment": 13,
         "init_date": 1548345600000,
-        "epub_date": 1548649055131,
+        "epub_date": 1549150562937,
         "volume_old": 11,
         "chapter_old": 97,
-        "volume": 11,
-        "chapter": 97,
+        "volume": 13,
+        "chapter": 109,
         "epub_basename": "平凡職業造就世界最強.epub",
-        "update_date": 1548604800000,
-        "update_count": 4
+        "update_date": 1549123200000,
+        "update_count": 5
       },
       "被死神撫養的少女懷抱漆黑之劍": {
         "segment_date": 1548511732856,
