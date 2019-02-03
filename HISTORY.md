@@ -1,5 +1,21 @@
 # HISTORY
 
+## 2019-02-04
+
+### Epub
+
+- [打造魔王大人的城鎮（魔王築城記）](mirronight/%E6%89%93%E9%80%A0%E9%AD%94%E7%8E%8B%E5%A4%A7%E4%BA%BA%E7%9A%84%E5%9F%8E%E9%8E%AE%EF%BC%88%E9%AD%94%E7%8E%8B%E7%AF%89%E5%9F%8E%E8%A8%98%EF%BC%89) - mirronight
+  <br/>( v: 10 , c: 218, add: 18 )
+- [平凡職業造就世界最強](wenku8/%E5%B9%B3%E5%87%A1%E8%81%B7%E6%A5%AD%E9%80%A0%E5%B0%B1%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7) - wenku8
+  <br/>( v: 13 , c: 109, add: 0 )
+
+### Segment
+
+- [打造魔王大人的城鎮（魔王築城記）](mirronight/%E6%89%93%E9%80%A0%E9%AD%94%E7%8E%8B%E5%A4%A7%E4%BA%BA%E7%9A%84%E5%9F%8E%E9%8E%AE%EF%BC%88%E9%AD%94%E7%8E%8B%E7%AF%89%E5%9F%8E%E8%A8%98%EF%BC%89) - mirronight
+  <br/>( s: 80 )
+- [平凡職業造就世界最強](wenku8/%E5%B9%B3%E5%87%A1%E8%81%B7%E6%A5%AD%E9%80%A0%E5%B0%B1%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7) - wenku8
+  <br/>( s: 59 )
+
 ## 2019-02-03
 
 ### Epub
