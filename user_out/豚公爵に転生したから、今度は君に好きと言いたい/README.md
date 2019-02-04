@@ -4,6 +4,7 @@
 - title_zh1: 轉生豬公爵，這次想說喜歡你
 - title_zh2: 轉生豚公爵、今次想要說出喜歡你
 - author: 合田拍子（グルグル魔）
+- illust: ｎａｕｒｉｂｏｎ
 - source: https://kakuyomu.jp/works/4852201425154898215#table-of-contents
 - cover: https://images-na.ssl-images-amazon.com/images/I/81fy9B30leL.jpg
 - publisher: kakuyomu
@@ -62,6 +63,7 @@
 - 異世界
 - 異世界ファンタジー
 - 異世界転生
+- 
 
 # contribute
 
