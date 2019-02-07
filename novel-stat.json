@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1549382400000,
-    "timestamp": 1549409901779,
+    "todayTimestamp": 1549468800000,
+    "timestamp": 1549496302109,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -659,6 +659,50 @@
             "epub_basename": "平凡職業造就世界最強.epub",
             "update_date": 1549382400000,
             "update_count": 8
+          }
+        ]
+      ]
+    },
+    "1549468800000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "wenku8",
+          "平凡職業造就世界最強",
+          {
+            "segment_date": 1549496265851,
+            "segment_old": 37,
+            "segment": 46,
+            "init_date": 1548345600000,
+            "epub_date": 1549496290195,
+            "volume_old": 13,
+            "chapter_old": 109,
+            "volume": 13,
+            "chapter": 109,
+            "epub_basename": "平凡職業造就世界最強.epub",
+            "update_date": 1549468800000,
+            "update_count": 9
+          }
+        ]
+      ],
+      "epub_count": 1,
+      "epub": [
+        [
+          "wenku8",
+          "平凡職業造就世界最強",
+          {
+            "segment_date": 1549496265851,
+            "segment_old": 37,
+            "segment": 46,
+            "init_date": 1548345600000,
+            "epub_date": 1549496290195,
+            "volume_old": 13,
+            "chapter_old": 109,
+            "volume": 13,
+            "chapter": 109,
+            "epub_basename": "平凡職業造就世界最強.epub",
+            "update_date": 1549468800000,
+            "update_count": 9
           }
         ]
       ]
@@ -1974,18 +2018,18 @@
         "update_count": 4
       },
       "平凡職業造就世界最強": {
-        "segment_date": 1549409857431,
-        "segment_old": 40,
-        "segment": 37,
+        "segment_date": 1549496265851,
+        "segment_old": 37,
+        "segment": 46,
         "init_date": 1548345600000,
-        "epub_date": 1549409884490,
+        "epub_date": 1549496290195,
         "volume_old": 13,
         "chapter_old": 109,
         "volume": 13,
         "chapter": 109,
         "epub_basename": "平凡職業造就世界最強.epub",
-        "update_date": 1549382400000,
-        "update_count": 8
+        "update_date": 1549468800000,
+        "update_count": 9
       },
       "被死神撫養的少女懷抱漆黑之劍": {
         "segment_date": 1548511732856,
