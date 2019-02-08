@@ -3,6 +3,7 @@
 - title: 航宙軍士官、冒険者になる
 - title_zh: 宇宙軍士官，成為冒險者
 - author: a_itoh（伊藤 暖彦）
+- illust: himesuz
 - source: http://ncode.syosetu.com/n3490ee/
 - cover: https://images-na.ssl-images-amazon.com/images/I/71VwAWPbp3L.jpg
 - publisher: syosetu
