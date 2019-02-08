@@ -3,11 +3,18 @@
 - title: 破滅の魔導王とゴーレムの蛮妃
 - title_zh: 破滅之魔導王與魔偶蠻妃
 - author: 北下路 来名
+- illust:
 - source: http://ncode.syosetu.com/n0406dr/
-- cover:
+- cover: https://images-na.ssl-images-amazon.com/images/I/91n5c9r2xvL.jpg
 - publisher: syosetu
 - date: 2018-12-25T21:53:00+08:00
 - status: 連載
+- novel_status: 0x0100
+
+## illusts
+
+- いのうえひなこ
+- 芝
 
 ## series
 
@@ -48,6 +55,10 @@
 
 # contribute
 
+- 墨羽
+- 鑫森淼焱垚
+- 章魚子
+- 
 
 # options
 
@@ -70,6 +81,7 @@
 
 - [dip.jp](https://narou.nar.jp/search.php?text=n0406dr&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [破灭之魔导王与魔偶蛮妃吧](https://tieba.baidu.com/f?kw=%E7%A0%B4%E7%81%AD%E4%B9%8B%E9%AD%94%E5%AF%BC%E7%8E%8B%E4%B8%8E%E9%AD%94%E5%81%B6%E8%9B%AE%E5%A6%83&ie=utf-8 "破灭之魔导王与魔偶蛮妃")
+- [dm5](http://www.dm5.com/manhua-pomiezhimodaowangyumooumanfei/)
 - 
 
 
