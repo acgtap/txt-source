@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1549641600000,
-    "timestamp": 1549669474702,
+    "todayTimestamp": 1549728000000,
+    "timestamp": 1549755762094,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1098,6 +1098,102 @@
           }
         ]
       ]
+    },
+    "1549728000000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "modern",
+          "え、異世界じゃなくて……ロシア……ですか？",
+          {
+            "segment_date": 1549755574490,
+            "segment_old": 0,
+            "segment": 2,
+            "init_date": 1549755574490,
+            "epub_date": 1549755741747,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 2,
+            "chapter": 13,
+            "epub_basename": "咦、不是穿越到異世界……而是俄羅斯……？.epub",
+            "update_date": 1549728000000,
+            "update_count": 1
+          }
+        ]
+      ],
+      "epub_count": 4,
+      "epub": [
+        [
+          "cm_out",
+          "リビティウム皇国のブタクサ姫",
+          {
+            "epub_date": 1549755732243,
+            "volume_old": 7,
+            "chapter_old": 211,
+            "volume": 7,
+            "chapter": 213,
+            "epub_basename": "利貝提姆皇國的豚草姫.epub",
+            "init_date": 1545548908164,
+            "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
+            "update_date": 1549728000000,
+            "update_count": 12
+          }
+        ],
+        [
+          "girl",
+          "「「神と呼ばれ、魔王と呼ばれても」」",
+          {
+            "segment_date": 1549669112284,
+            "segment_old": 0,
+            "segment": 51,
+            "init_date": 1549641600000,
+            "epub_date": 1549755740199,
+            "volume_old": 1,
+            "chapter_old": 51,
+            "volume": 1,
+            "chapter": 51,
+            "epub_basename": "無論是被當作神，還是被當作魔王.epub",
+            "novel_status": 1,
+            "update_date": 1549728000000,
+            "update_count": 2
+          }
+        ],
+        [
+          "modern",
+          "え、異世界じゃなくて……ロシア……ですか？",
+          {
+            "segment_date": 1549755574490,
+            "segment_old": 0,
+            "segment": 2,
+            "init_date": 1549755574490,
+            "epub_date": 1549755741747,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 2,
+            "chapter": 13,
+            "epub_basename": "咦、不是穿越到異世界……而是俄羅斯……？.epub",
+            "update_date": 1549728000000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user_out",
+          "自称贤者弟子的贤者",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "自称贤者弟子的贤者.out.txt",
+            "epub_date": 1549755747664,
+            "volume_old": 6,
+            "chapter_old": 293,
+            "volume": 6,
+            "chapter": 299,
+            "epub_basename": "自称贤者弟子的贤者.epub",
+            "update_date": 1549728000000,
+            "update_count": 2,
+            "novel_status": 768
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1354,7 +1450,7 @@
         "segment_date": 1549669117723,
         "segment_old": 0,
         "segment": 6,
-        "init_date": 1549669117723,
+        "init_date": 1549641600000,
         "epub_date": 1549669433186,
         "volume_old": 0,
         "chapter_old": 0,
@@ -1368,7 +1464,7 @@
         "segment_date": 1549669122175,
         "segment_old": 0,
         "segment": 5,
-        "init_date": 1549669122175,
+        "init_date": 1549641600000,
         "epub_date": 1549669433737,
         "volume_old": 0,
         "chapter_old": 0,
@@ -1610,14 +1706,15 @@
       "自称贤者弟子的贤者": {
         "init_date": 1545494400000,
         "txt_basename": "自称贤者弟子的贤者.out.txt",
-        "epub_date": 1545876912969,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1549755747664,
+        "volume_old": 6,
+        "chapter_old": 293,
         "volume": 6,
-        "chapter": 293,
+        "chapter": 299,
         "epub_basename": "自称贤者弟子的贤者.epub",
-        "update_date": 1545876912969,
-        "update_count": 1
+        "update_date": 1549728000000,
+        "update_count": 2,
+        "novel_status": 768
       },
       "四度目は嫌な死属性魔術師": {
         "init_date": 1545494400000,
@@ -2469,16 +2566,16 @@
     },
     "cm_out": {
       "リビティウム皇国のブタクサ姫": {
-        "epub_date": 1548649036838,
+        "epub_date": 1549755732243,
         "volume_old": 7,
-        "chapter_old": 209,
+        "chapter_old": 211,
         "volume": 7,
-        "chapter": 211,
+        "chapter": 213,
         "epub_basename": "利貝提姆皇國的豚草姫.epub",
         "init_date": 1545548908164,
         "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-        "update_date": 1548604800000,
-        "update_count": 11
+        "update_date": 1549728000000,
+        "update_count": 12
       }
     },
     "dmzj_out": {
@@ -2799,7 +2896,7 @@
         "segment_date": 1549669101016,
         "segment_old": 0,
         "segment": 5,
-        "init_date": 1549669101016,
+        "init_date": 1549641600000,
         "epub_date": 1549669424717,
         "volume_old": 0,
         "chapter_old": 0,
@@ -2814,15 +2911,31 @@
         "segment_date": 1549669112284,
         "segment_old": 0,
         "segment": 51,
-        "init_date": 1549669112284,
-        "epub_date": 1549669432939,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "init_date": 1549641600000,
+        "epub_date": 1549755740199,
+        "volume_old": 1,
+        "chapter_old": 51,
         "volume": 1,
         "chapter": 51,
         "epub_basename": "無論是被當作神，還是被當作魔王.epub",
         "novel_status": 1,
-        "update_date": 1549641600000,
+        "update_date": 1549728000000,
+        "update_count": 2
+      }
+    },
+    "modern": {
+      "え、異世界じゃなくて……ロシア……ですか？": {
+        "segment_date": 1549755574490,
+        "segment_old": 0,
+        "segment": 2,
+        "init_date": 1549755574490,
+        "epub_date": 1549755741747,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 2,
+        "chapter": 13,
+        "epub_basename": "咦、不是穿越到異世界……而是俄羅斯……？.epub",
+        "update_date": 1549728000000,
         "update_count": 1
       }
     }
@@ -4621,6 +4734,64 @@
         "link": [
           "[【工商／實體書宣傳】關於作為魔王這件事](https://home.gamer.com.tw/creationDetail.php?sn=4276758)",
           "[起點中文網台灣分站](https://www.qidian.com.tw/books/3174008)"
+        ]
+      }
+    },
+    "modern": {
+      "え、異世界じゃなくて……ロシア……ですか？": {
+        "novel": {
+          "title": "え、異世界じゃなくて……ロシア……ですか？",
+          "title_zh": "咦、不是穿越到異世界……而是俄羅斯……？",
+          "author": "とはるみな",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n4414ff/",
+          "cover": "http://himg2.huanqiu.com/attachment2010/2017/0904/20170904092412584.jpg",
+          "publisher": "syosetu",
+          "date": "2019-01-31T21:53:00+08:00",
+          "status": "連載",
+          "novel_status": 0,
+          "series": {
+            "name": "え、異世界じゃなくて……ロシア……ですか？"
+          },
+          "preface": "從未見識過的光景，從未聽聞過的語言。\n原以為自己穿越到異世界的男子高中生，如今轉生成為少女後才發現這裡並不是異世界，而是俄羅斯。\n爾後，因父母再婚而移居日本，再婚對象也有個兒子。但是那孩子長相太美型，令人蠢蠢欲動。\n這是關於主角想要阻止他成為現充的故事。\n\n小說標籤: R15 校園戀愛 日常 TS 溫馨 精神上的BL 現代 學校\n\n譯者提醒: 請搭配《Boney M - Rasputin》或是《Государственный гимн СССР》一同閱讀\n\n見たこともない光景。銀髪に聞いたことがない言語。\nすっかり異世界転生したと思い込んでいた元男子高校生、現少女はある日そこが異世界ではなくロシアであったと知る。\nそして親の再婚を機に日本へ移住するのだが、向こうの親にも息子がいて、その息子がとにかく美形で苛立ったので言葉話せないフリしてリア充になるのを阻止してやろうと考える話",
+          "tags": [
+            "R15",
+            "TS",
+            "node-novel",
+            "syosetu",
+            "ほのぼの",
+            "スクールラブ",
+            "俄羅斯",
+            "学園",
+            "日常",
+            "日本",
+            "校園戀愛",
+            "溫馨",
+            "現代",
+            "精神的BL有り",
+            "高中"
+          ]
+        },
+        "contribute": [
+          "章魚子"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "novel_id": "n4414ff"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n4414ff&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[不是穿越到异世界而是俄罗斯吧](https://tieba.baidu.com/f?kw=%E4%B8%8D%E6%98%AF%E7%A9%BF%E8%B6%8A%E5%88%B0%E5%BC%82%E4%B8%96%E7%95%8C%E8%80%8C%E6%98%AF%E4%BF%84%E7%BD%97%E6%96%AF&ie=utf-8 \"不是穿越到异世界而是俄罗斯\")"
         ]
       }
     },
@@ -10482,12 +10653,18 @@
       "自称贤者弟子的贤者": {
         "novel": {
           "title": "自称贤者弟子的贤者",
+          "title_jp": "賢者の弟子を名乗る賢者",
           "author": "りゅうせんひろつぐ",
+          "illusts": [
+            "藤ちょこ",
+            "すえみつぢっか"
+          ],
           "source": "http://ncode.syosetu.com/n6829bd/",
           "cover": "https://images-na.ssl-images-amazon.com/images/I/91Qk3leml-L.jpg",
           "publisher": "syosetu",
           "date": "2018-07-26T19:52:00+08:00",
           "status": "連載",
+          "novel_status": 768,
           "series": {
             "name": "賢者の弟子を名乗る賢者"
           },
@@ -10515,6 +10692,7 @@
           ]
         },
         "contribute": [
+          "6667787#6757",
           "Aster",
           "BrianZSYJ",
           "ReadBook642",
@@ -10542,7 +10720,8 @@
         "link": [
           "[dip.jp](https://narou.dip.jp/search.php?text=n6829bd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[自称贤者弟子的贤者](https://tieba.baidu.com/f?kw=%E8%87%AA%E7%A7%B0%E8%B4%A4%E8%80%85%E5%BC%9F%E5%AD%90%E7%9A%84%E8%B4%A4%E8%80%85&ie=utf-8 \"自称贤者弟子的贤者\")",
-          "[epub / txt 持續更新](https://tieba.baidu.com/p/5664828470) <== 推薦使用觀看此版本"
+          "[epub / txt 持續更新](https://tieba.baidu.com/p/5664828470) <== 推薦使用觀看此版本",
+          "[dm5](http://www.dm5.com/manhua-zichenxianzhedizidexianzhe/)"
         ]
       },
       "蘇りの魔王": {
@@ -11859,6 +12038,65 @@
           "[dip.jp](https://narou.nar.jp/search.php?text=n9543bw&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[我的怪物眷族吧](https://tieba.baidu.com/f?kw=%E6%88%91%E7%9A%84%E6%80%AA%E7%89%A9%E7%9C%B7%E6%97%8F&ie=utf-8&tp=0 \"我的怪物眷族\")",
           "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=101)"
+        ]
+      },
+      "悠閑農家與亂碼技能": {
+        "novel": {
+          "title": "ゆるふわ農家の文字化けスキル　～異世界でカタログ通販やってます～",
+          "title_zh": "悠閑農家與亂碼技能",
+          "author": "白石　新",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n7352fa/",
+          "cover": "",
+          "publisher": "syosetu",
+          "date": "2019-02-08T18:47:00+08:00",
+          "status": "連載",
+          "novel_status": 0,
+          "series": {
+            "name": "ゆるふわ農家の文字化けスキル　～異世界でカタログ通販やってます～"
+          },
+          "preface": "美味いメシと酒。\nそして綺麗な嫁達がいれば、そこが異世界でも良いじゃない。\nそんな感じでオジサンが異世界に転移して、まったりと農業をやることにした。\n日本の調味料で作った料理で嫁達も自分も大満足。普通に異世界の食材も美味いし、自分の農作物もめっちゃ美味い。\nこれはまるで独身男性が実家に帰った時のような感じの、ゆるふわな優しい時間を過ごす男の生活記録である。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "ご都合主義",
+            "ざまぁもあるよ",
+            "ゆるゆる",
+            "スキル無双",
+            "スローライフ",
+            "チート",
+            "ドラゴン",
+            "ハーレム",
+            "主人公最強",
+            "優しい世界",
+            "剣と魔法",
+            "微エロ",
+            "日常",
+            "残酷な描写あり",
+            "異世界転生",
+            "異世界転移",
+            "苦戦なし",
+            "鬱展開なし"
+          ]
+        },
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "novel_id": "n7352fa"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n7352fa&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[悠闲农家与乱码技能吧](https://tieba.baidu.com/f?kw=%E6%82%A0%E9%97%B2%E5%86%9C%E5%AE%B6%E4%B8%8E%E4%B9%B1%E7%A0%81%E6%8A%80%E8%83%BD&ie=utf-8 \"悠闲农家与乱码技能\")"
         ]
       },
       "想當冒險者的女兒到首都當了等級Ｓ的冒險者": {
