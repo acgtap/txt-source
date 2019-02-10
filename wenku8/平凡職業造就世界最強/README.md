@@ -5,11 +5,11 @@
 - title_zh1: 平凡职业成就世界最强
 - author: 厨二好き/白米良
 - illust: たかやＫｉ
-- source: http://www.wenku8.com/book/2080.htm
+- source: http://ncode.syosetu.com/n8611bv/
 - cover: http://img.wkcdn.com/image/2/2080/2080s.jpg
 - publisher: 其他文库
-- date: 2018-09-21T00:00:00+08:00
-- status: 连载中
+- status: 連載
+- novel_status: 0x0700
 
 ## series
 
@@ -61,6 +61,20 @@
 - saxmax
 - 水色loli控
 - 米可
+- jlkl232
+- o櫻花o
+- 暗月1229
+- 寢取RBQ
+- 天空
+- mcbthree
+- 和妹妹生老婆
+- 歸海冥茗
+- 诸神叩拜
+- 辰星空夜语
+- z00e80mm0g0
+- DeatheGvOiDl
+- 冰糕
+- Mycopic
 - 
 
 # options
@@ -83,6 +97,10 @@
 
 - novel_id: 2080
 
+## dmzj
+
+- novel_id: 2136
+
 # link
 
 - [dip.jp](https://narou.nar.jp/search.php?text=n8611bv&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
@@ -90,5 +108,9 @@
 - [dm5](http://www.dm5.com/manhua-pingfanzhiyechengjiushijiezuiqiang/)
 - [dm5 零](http://www.dm5.com/manhua-pingfanzhiyechengjiushijiezuiqiang-ling/)
 - [平凡日常成就世界最强](http://www.dm5.com/manhua-pingfanrichangchengjiushijiezuiqiang/)
+- [【EPUB \& TXT】 鏈結整理集合](https://tieba.baidu.com/p/5615367340 "【EPUB & TXT】 鏈結整理集合")
+- [翻譯整合2.0](https://tieba.baidu.com/p/5101634208)
+- [mega](https://mega.nz/#F!40kjhbbb!eqNviLdLidXo_A-d59nf2A) - Mycopic / 貼吧ID: jlkl232
+- [lightnovel.cn 後日談3](https://www.lightnovel.cn/thread-912031-1-1.html) - Mycopic / 貼吧ID: jlkl232
 - 
 
