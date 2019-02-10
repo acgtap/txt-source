@@ -1,5 +1,21 @@
 # HISTORY
 
+## 2019-02-11
+
+### Epub
+
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( v: 1 , c: 15, add: 1 )
+- [豚公爵に転生したから、今度は君に好きと言いたい](user_out/%E8%B1%9A%E5%85%AC%E7%88%B5%E3%81%AB%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E3%81%8B%E3%82%89%E3%80%81%E4%BB%8A%E5%BA%A6%E3%81%AF%E5%90%9B%E3%81%AB%E5%A5%BD%E3%81%8D%E3%81%A8%E8%A8%80%E3%81%84%E3%81%9F%E3%81%84) - user_out
+  <br/>( v: 7 , c: 183, add: 6 )
+- [平凡職業造就世界最強](wenku8/%E5%B9%B3%E5%87%A1%E8%81%B7%E6%A5%AD%E9%80%A0%E5%B0%B1%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7) - wenku8
+  <br/>( v: 27 , c: 456, add: 347 )
+
+### Segment
+
+- [平凡職業造就世界最強](wenku8/%E5%B9%B3%E5%87%A1%E8%81%B7%E6%A5%AD%E9%80%A0%E5%B0%B1%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7) - wenku8
+  <br/>( s: 283 )
+
 ## 2019-02-10
 
 ### Epub
