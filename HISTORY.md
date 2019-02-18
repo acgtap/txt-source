@@ -1,5 +1,22 @@
 # HISTORY
 
+## 2019-02-19
+
+### Epub
+
+- [王国へ続く道](cm/%E7%8E%8B%E5%9B%BD%E3%81%B8%E7%B6%9A%E3%81%8F%E9%81%93) - cm
+  <br/>( v: 1 , c: 2, add: 1 )
+- [Free Life Fantasy Online ～人外姫様、始めました～](girl/Free%20Life%20Fantasy%20Online%20%EF%BD%9E%E4%BA%BA%E5%A4%96%E5%A7%AB%E6%A7%98%E3%80%81%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F%EF%BD%9E) - girl
+  <br/>( v: 2 , c: 9, add: 9 )
+- [今度こそ幸せになります！](girl/%E4%BB%8A%E5%BA%A6%E3%81%93%E3%81%9D%E5%B9%B8%E3%81%9B%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%EF%BC%81) - girl
+  <br/>( v: 1 , c: 6, add: 6 )
+- [你這種傢伙別想打贏魔王](girl_out/%E4%BD%A0%E9%80%99%E7%A8%AE%E5%82%A2%E4%BC%99%E5%88%A5%E6%83%B3%E6%89%93%E8%B4%8F%E9%AD%94%E7%8E%8B) - girl_out
+  <br/>( v: 16 , c: 111, add: 111 )
+- [平凡職業造就世界最強](wenku8_out/%E5%B9%B3%E5%87%A1%E8%81%B7%E6%A5%AD%E9%80%A0%E5%B0%B1%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7) - wenku8_out
+  <br/>( v: 27 , c: 457, add: 1 )
+- [転生ごときで逃げられるとでも、兄さん？](yandere_out/%E8%BB%A2%E7%94%9F%E3%81%94%E3%81%A8%E3%81%8D%E3%81%A7%E9%80%83%E3%81%92%E3%82%89%E3%82%8C%E3%82%8B%E3%81%A8%E3%81%A7%E3%82%82%E3%80%81%E5%85%84%E3%81%95%E3%82%93%EF%BC%9F) - yandere_out
+  <br/>( v: 5 , c: 84, add: 1 )
+
 ## 2019-02-18
 
 ### Epub
