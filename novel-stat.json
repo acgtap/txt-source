@@ -1547,14 +1547,7 @@
         "update_date": 1546876800000,
         "update_count": 7
       },
-      "你這種傢伙別想打贏魔王": {
-        "segment_date": 1549928383591,
-        "segment_old": 6,
-        "segment": 4,
-        "init_date": 1546044596562,
-        "update_date": 1549900800000,
-        "update_count": 4
-      },
+
       "奪う者　奪われる者": {
         "init_date": 1546099200000
       },
@@ -1670,18 +1663,7 @@
         "update_date": 1546358400000,
         "update_count": 1
       },
-      "你這種傢伙別想打贏魔王": {
-        "init_date": 1545494400000,
-        "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
-        "epub_date": 1549928854536,
-        "volume_old": 10,
-        "chapter_old": 93,
-        "volume": 10,
-        "chapter": 94,
-        "epub_basename": "你這種傢伙別想打贏魔王.epub",
-        "update_date": 1549900800000,
-        "update_count": 11
-      },
+
       "奪う者　奪われる者": {
         "init_date": 1545494400000,
         "txt_basename": "奪う者　奪われる者.out.txt",
@@ -2928,6 +2910,14 @@
         "update_date": 1550332800000,
         "update_count": 3
       },
+      "你這種傢伙別想打贏魔王": {
+        "segment_date": 1549928383591,
+        "segment_old": 6,
+        "segment": 4,
+        "init_date": 1546044596562,
+        "update_date": 1549900800000,
+        "update_count": 4
+      },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
         "segment_date": 1549669112284,
         "segment_old": 0,
@@ -2942,6 +2932,20 @@
         "novel_status": 1,
         "update_date": 1549728000000,
         "update_count": 2
+      }
+    },
+    "girl_out": {
+      "你這種傢伙別想打贏魔王": {
+        "init_date": 1545494400000,
+        "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
+        "epub_date": 1549928854536,
+        "volume_old": 10,
+        "chapter_old": 93,
+        "volume": 10,
+        "chapter": 94,
+        "epub_basename": "你這種傢伙別想打贏魔王.epub",
+        "update_date": 1549900800000,
+        "update_count": 11
       }
     },
     "modern": {
