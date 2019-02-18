@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1550332800000,
-    "timestamp": 1550361667738,
+    "todayTimestamp": 1550419200000,
+    "timestamp": 1550447340501,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1123,6 +1123,73 @@
           }
         ]
       ]
+    },
+    "1550419200000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "user",
+          "豚公爵に転生したから、今度は君に好きと言いたい",
+          {
+            "segment_date": 1550447293063,
+            "segment_old": 2,
+            "segment": 1,
+            "init_date": 1545607228123,
+            "update_date": 1550419200000,
+            "update_count": 9
+          }
+        ]
+      ],
+      "epub_count": 3,
+      "epub": [
+        [
+          "cm",
+          "王国へ続く道",
+          {
+            "init_date": 1550419200000,
+            "epub_date": 1550447317358,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 1,
+            "epub_basename": "王国へ続く道.epub",
+            "update_date": 1550419200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu_out",
+          "最強呪族転生",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "最強呪族転生.out.txt",
+            "epub_date": 1550447321990,
+            "volume_old": 6,
+            "chapter_old": 221,
+            "volume": 6,
+            "chapter": 230,
+            "epub_basename": "最強呪族転生.epub",
+            "update_date": 1550419200000,
+            "update_count": 3
+          }
+        ],
+        [
+          "user_out",
+          "豚公爵に転生したから、今度は君に好きと言いたい",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "豚公爵に転生したから、今度は君に好きと言.out.txt",
+            "epub_date": 1550447325271,
+            "volume_old": 7,
+            "chapter_old": 184,
+            "volume": 7,
+            "chapter": 184,
+            "epub_basename": "豚公爵に転生したから、今度は君に好きと言いたい.epub",
+            "update_date": 1550419200000,
+            "update_count": 8
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1449,12 +1516,12 @@
         "chapter": 34
       },
       "豚公爵に転生したから、今度は君に好きと言いたい": {
-        "segment_date": 1550361074122,
+        "segment_date": 1550447293063,
         "segment_old": 2,
-        "segment": 2,
+        "segment": 1,
         "init_date": 1545607228123,
-        "update_date": 1550332800000,
-        "update_count": 8
+        "update_date": 1550419200000,
+        "update_count": 9
       },
       "自称贤者弟子的贤者": {
         "segment_date": 1550360967413,
@@ -1714,14 +1781,14 @@
       "豚公爵に転生したから、今度は君に好きと言いたい": {
         "init_date": 1545494400000,
         "txt_basename": "豚公爵に転生したから、今度は君に好きと言.out.txt",
-        "epub_date": 1550361628775,
+        "epub_date": 1550447325271,
         "volume_old": 7,
-        "chapter_old": 183,
+        "chapter_old": 184,
         "volume": 7,
         "chapter": 184,
         "epub_basename": "豚公爵に転生したから、今度は君に好きと言いたい.epub",
-        "update_date": 1550332800000,
-        "update_count": 7
+        "update_date": 1550419200000,
+        "update_count": 8
       },
       "悠久の愚者アズリーの、賢者のすゝめ": {
         "init_date": 1545494400000,
@@ -2196,14 +2263,14 @@
       "最強呪族転生": {
         "init_date": 1545494400000,
         "txt_basename": "最強呪族転生.out.txt",
-        "epub_date": 1547528009518,
+        "epub_date": 1550447321990,
         "volume_old": 6,
-        "chapter_old": 217,
+        "chapter_old": 221,
         "volume": 6,
-        "chapter": 221,
+        "chapter": 230,
         "epub_basename": "最強呪族転生.epub",
-        "update_date": 1547481600000,
-        "update_count": 2
+        "update_date": 1550419200000,
+        "update_count": 3
       },
       "魔王学院の不適合者": {
         "init_date": 1545494400000,
@@ -2334,6 +2401,17 @@
         "init_date": 1545494400000,
         "chapter_old": 0,
         "chapter": 112
+      },
+      "王国へ続く道": {
+        "init_date": 1550419200000,
+        "epub_date": 1550447317358,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 1,
+        "epub_basename": "王国へ続く道.epub",
+        "update_date": 1550419200000,
+        "update_count": 1
       }
     },
     "mirronight": {
@@ -3025,6 +3103,26 @@
         "link": [
           "[dip.jp](https://narou.dip.jp/search.php?text=n9795dx&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
         ]
+      },
+      "王国へ続く道": {
+        "novel": {
+          "title": "王国へ続く道",
+          "author": "",
+          "source": "https://novel18.syosetu.com/n3746ce/",
+          "cover": "",
+          "publisher": "syosetu",
+          "date": "",
+          "status": "",
+          "series": {
+            "name": ""
+          },
+          "preface": ""
+        },
+        "options": {
+          "textlayout": {
+            "allow_lf2": true
+          }
+        }
       },
       "現実主義勇者の大国建造記": {
         "novel": {
