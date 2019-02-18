@@ -10,8 +10,9 @@
 - source: http://ncode.syosetu.com/n5361em/
 - cover: https://images-na.ssl-images-amazon.com/images/I/91A8RvS10uL.jpg
 - publisher: syosetu
-- date: 2018-03-18T08:42:00+08:00
-- status: 連載
+- date: 2019-02-16T21:17:00+08:00
+- status: 完結済
+- novel_status: 0x0301
 
 ## series
 
@@ -54,6 +55,10 @@ GCノベルズ様から書籍化決定しました！　発売日はまだ未定
 - ガールズラブ
 - ステータス
 - ダークファンタジー
+- ハイファンタジー
+- バトル
+- ファンタジー
+- ホラー・グロ表現多め
 - ホラー表現多め
 - 不遇スタート
 - 勇者パーティ追放
@@ -85,7 +90,7 @@ GCノベルズ様から書籍化決定しました！　発売日はまだ未定
 - 吾乃良民hehe
 - 6667787#6757
 - 
-77
+
 # options
 
 ## dmzj
@@ -95,10 +100,16 @@ GCノベルズ様から書籍化決定しました！　発売日はまだ未定
 ## syosetu
 
 - txtdownload_id: 1165245
+- series_id:
+- novel_id: n5361em
+
+## wenku8
+
+- novel_id: 2451
 
 ## textlayout
 
-- allow_lf2: true
+- allow_lf2: false
 
 # link
 
@@ -110,6 +121,7 @@ GCノベルズ様から書籍化決定しました！　発売日はまだ未定
 - [物理盐鱼 文庫](https://tieba.baidu.com/p/5853088454)
 - [dm5](http://www.dm5.com/manhua-jiupingniyexiangdabaimowangma/) 漫畫版
 - [masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=90)
+- [\[GCNOVELS\]\[kiki\]「你这种家伙别想打赢魔王」被踢出了勇者队伍，想在王都过上平静的生活02【2/16 完坑】](https://www.lightnovel.cn/thread-950403-1-1.html)
 - 
 
 
