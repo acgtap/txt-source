@@ -3,11 +3,17 @@
 - title: 陰の実力者になりたくて！
 - title_zh: 想要成為影之實力者
 - author: あかさたな
+- illust: 東西
 - source: http://ncode.syosetu.com/n0611em/
 - cover: https://images-na.ssl-images-amazon.com/images/I/81-PA9bnu7L.jpg
 - publisher: syosetu
-- date: 2018-07-22T02:51:00+08:00
+- date: 2019-02-18T22:08:00+08:00
 - status: 連載
+- novel_status: 0x0300
+
+## illusts
+
+- 坂野杏梨
 
 ## series
 
@@ -58,6 +64,8 @@
 - R15
 - syosetu
 - コメディ
+- ハイファンタジー
+- ファンタジー
 - 中二病
 - 主人公最強
 - 俺ＴＵＥＥＥ
@@ -109,6 +117,8 @@
 - [kadokawa](https://www.kadokawa.co.jp/product/321806000138/)
 - [EPUB - ah21ling](https://tieba.baidu.com/p/5810372348)
 - [【导航】影守的始末名录](https://tieba.baidu.com/p/5750567803 "【导航】影守的始末名录")
+- [dm5 ](http://www.dm5.com/manhua-xiangyaochengweiyingzhishilizhe/)
+- [masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=73&page=1)
 - 
 
 
