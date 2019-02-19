@@ -1,7 +1,7 @@
 {
   "meta": {
     "todayTimestamp": 1550505600000,
-    "timestamp": 1550533717363,
+    "timestamp": 1550538315160,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1199,7 +1199,7 @@
           "王国へ続く道",
           {
             "init_date": 1550419200000,
-            "epub_date": 1550533678602,
+            "epub_date": 1550538278811,
             "volume_old": 1,
             "chapter_old": 1,
             "volume": 1,
@@ -1214,32 +1214,38 @@
           "girl",
           "Free Life Fantasy Online ～人外姫様、始めました～",
           {
-            "epub_date": 1550533680304,
+            "epub_date": 1550538280594,
             "volume_old": 0,
             "chapter_old": 0,
             "volume": 2,
             "chapter": 9,
             "epub_basename": "Free Life Fantasy Online ～人外姫様、始めました～.epub",
             "novel_status": 256,
-            "init_date": 1550533680304,
+            "init_date": 1550505600000,
             "update_date": 1550505600000,
-            "update_count": 1
+            "update_count": 1,
+            "segment_date": 1550537631997,
+            "segment_old": 0,
+            "segment": 3
           }
         ],
         [
           "girl",
           "今度こそ幸せになります！",
           {
-            "epub_date": 1550533680739,
+            "epub_date": 1550538281186,
             "volume_old": 0,
             "chapter_old": 0,
             "volume": 1,
             "chapter": 6,
             "epub_basename": "今度こそ幸せになります！.epub",
             "novel_status": 768,
-            "init_date": 1550533680739,
+            "init_date": 1550505600000,
             "update_date": 1550505600000,
-            "update_count": 1
+            "update_count": 1,
+            "segment_date": 1550537643763,
+            "segment_old": 0,
+            "segment": 6
           }
         ],
         [
@@ -1247,14 +1253,14 @@
           "你這種傢伙別想打贏魔王",
           {
             "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
-            "epub_date": 1550533685197,
+            "epub_date": 1550538285442,
             "volume_old": 0,
             "chapter_old": 0,
             "volume": 16,
             "chapter": 111,
             "epub_basename": "你這種傢伙別想打贏魔王.epub",
             "novel_status": 769,
-            "init_date": 1550533685197,
+            "init_date": 1550505600000,
             "update_date": 1550505600000,
             "update_count": 1
           }
@@ -1264,7 +1270,7 @@
           "平凡職業造就世界最強",
           {
             "txt_basename": "平凡職業造就世界最強.out.txt",
-            "epub_date": 1550533702737,
+            "epub_date": 1550538300427,
             "volume_old": 27,
             "chapter_old": 456,
             "volume": 27,
@@ -1281,7 +1287,7 @@
           "転生ごときで逃げられるとでも、兄さん？",
           {
             "txt_basename": "以為轉個生就能逃掉嗎，哥哥？.out.txt",
-            "epub_date": 1550533706518,
+            "epub_date": 1550538304348,
             "volume_old": 5,
             "chapter_old": 83,
             "volume": 5,
@@ -1290,6 +1296,78 @@
             "init_date": 1549036800000,
             "update_date": 1550505600000,
             "update_count": 4
+          }
+        ]
+      ],
+      "segment_count": 4,
+      "segment": [
+        [
+          "girl",
+          "Free Life Fantasy Online ～人外姫様、始めました～",
+          {
+            "epub_date": 1550538280594,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 2,
+            "chapter": 9,
+            "epub_basename": "Free Life Fantasy Online ～人外姫様、始めました～.epub",
+            "novel_status": 256,
+            "init_date": 1550505600000,
+            "update_date": 1550505600000,
+            "update_count": 1,
+            "segment_date": 1550537631997,
+            "segment_old": 0,
+            "segment": 3
+          }
+        ],
+        [
+          "girl",
+          "今度こそ幸せになります！",
+          {
+            "epub_date": 1550538281186,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 6,
+            "epub_basename": "今度こそ幸せになります！.epub",
+            "novel_status": 768,
+            "init_date": 1550505600000,
+            "update_date": 1550505600000,
+            "update_count": 1,
+            "segment_date": 1550537643763,
+            "segment_old": 0,
+            "segment": 6
+          }
+        ],
+        [
+          "user",
+          "豚公爵に転生したから、今度は君に好きと言いたい",
+          {
+            "segment_date": 1550537804715,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1545607228123,
+            "update_date": 1550505600000,
+            "update_count": 10
+          }
+        ],
+        [
+          "wenku8",
+          "平凡職業造就世界最強",
+          {
+            "segment_date": 1550538241062,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1548345600000,
+            "epub_date": 1549842429160,
+            "volume_old": 13,
+            "chapter_old": 109,
+            "volume": 27,
+            "chapter": 456,
+            "epub_basename": "平凡職業造就世界最強.epub",
+            "update_date": 1550505600000,
+            "update_count": 16,
+            "novel_status": 1792
           }
         ]
       ]
@@ -1619,12 +1697,12 @@
         "chapter": 34
       },
       "豚公爵に転生したから、今度は君に好きと言いたい": {
-        "segment_date": 1550447293063,
-        "segment_old": 2,
+        "segment_date": 1550537804715,
+        "segment_old": 1,
         "segment": 1,
         "init_date": 1545607228123,
-        "update_date": 1550419200000,
-        "update_count": 9
+        "update_date": 1550505600000,
+        "update_count": 10
       },
       "自称贤者弟子的贤者": {
         "segment_date": 1550360967413,
@@ -2507,7 +2585,7 @@
       },
       "王国へ続く道": {
         "init_date": 1550419200000,
-        "epub_date": 1550533678602,
+        "epub_date": 1550538278811,
         "volume_old": 1,
         "chapter_old": 1,
         "volume": 1,
@@ -2647,7 +2725,7 @@
         "update_count": 4
       },
       "平凡職業造就世界最強": {
-        "segment_date": 1550274196418,
+        "segment_date": 1550538241062,
         "segment_old": 1,
         "segment": 1,
         "init_date": 1548345600000,
@@ -2657,8 +2735,8 @@
         "volume": 27,
         "chapter": 456,
         "epub_basename": "平凡職業造就世界最強.epub",
-        "update_date": 1550246400000,
-        "update_count": 15,
+        "update_date": 1550505600000,
+        "update_count": 16,
         "novel_status": 1792
       },
       "被死神撫養的少女懷抱漆黑之劍": {
@@ -2778,7 +2856,7 @@
       },
       "平凡職業造就世界最強": {
         "txt_basename": "平凡職業造就世界最強.out.txt",
-        "epub_date": 1550533702737,
+        "epub_date": 1550538300427,
         "volume_old": 27,
         "chapter_old": 456,
         "volume": 27,
@@ -3005,7 +3083,7 @@
     "yandere_out": {
       "転生ごときで逃げられるとでも、兄さん？": {
         "txt_basename": "以為轉個生就能逃掉嗎，哥哥？.out.txt",
-        "epub_date": 1550533706518,
+        "epub_date": 1550538304348,
         "volume_old": 5,
         "chapter_old": 83,
         "volume": 5,
@@ -3048,28 +3126,37 @@
         "update_count": 2
       },
       "Free Life Fantasy Online ～人外姫様、始めました～": {
-        "epub_date": 1550533680304,
+        "epub_date": 1550538280594,
         "volume_old": 0,
         "chapter_old": 0,
         "volume": 2,
         "chapter": 9,
         "epub_basename": "Free Life Fantasy Online ～人外姫様、始めました～.epub",
         "novel_status": 256,
-        "init_date": 1550533680304,
+        "init_date": 1550505600000,
         "update_date": 1550505600000,
-        "update_count": 1
+        "update_count": 1,
+        "segment_date": 1550537631997,
+        "segment_old": 0,
+        "segment": 3
       },
       "今度こそ幸せになります！": {
-        "epub_date": 1550533680739,
+        "epub_date": 1550538281186,
         "volume_old": 0,
         "chapter_old": 0,
         "volume": 1,
         "chapter": 6,
         "epub_basename": "今度こそ幸せになります！.epub",
         "novel_status": 768,
-        "init_date": 1550533680739,
+        "init_date": 1550505600000,
         "update_date": 1550505600000,
-        "update_count": 1
+        "update_count": 1,
+        "segment_date": 1550537643763,
+        "segment_old": 0,
+        "segment": 6
+      },
+      "你這種傢伙別想打贏魔王": {
+        "init_date": 1550505600000
       }
     },
     "modern": {
@@ -3091,14 +3178,14 @@
     "girl_out": {
       "你這種傢伙別想打贏魔王": {
         "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
-        "epub_date": 1550533685197,
+        "epub_date": 1550538285442,
         "volume_old": 0,
         "chapter_old": 0,
         "volume": 16,
         "chapter": 111,
         "epub_basename": "你這種傢伙別想打贏魔王.epub",
         "novel_status": 769,
-        "init_date": 1550533685197,
+        "init_date": 1550505600000,
         "update_date": 1550505600000,
         "update_count": 1
       }
