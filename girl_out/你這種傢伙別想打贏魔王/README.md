@@ -121,7 +121,7 @@ GCノベルズ様から書籍化決定しました！　発売日はまだ未定
 - [物理盐鱼 文庫](https://tieba.baidu.com/p/5853088454)
 - [dm5](http://www.dm5.com/manhua-jiupingniyexiangdabaimowangma/) 漫畫版
 - [masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=90)
-- [\[GCNOVELS\]\[kiki\]「你这种家伙别想打赢魔王」被踢出了勇者队伍，想在王都过上平静的生活02【2/16 完坑】](https://www.lightnovel.cn/thread-950403-1-1.html)
+- [lightnovel.cn](https://www.lightnovel.cn/thread-950403-1-1.html)
 - 
 
 
