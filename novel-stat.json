@@ -1,740 +1,11 @@
 {
   "meta": {
-    "todayTimestamp": 1550505600000,
-    "timestamp": 1550538315160,
+    "todayTimestamp": 1550592000000,
+    "timestamp": 1550620215864,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
   "history": {
-    "1549382400000": {
-      "segment_count": 1,
-      "segment": [
-        [
-          "wenku8",
-          "平凡職業造就世界最強",
-          {
-            "segment_date": 1549409857431,
-            "segment_old": 40,
-            "segment": 37,
-            "init_date": 1548345600000,
-            "epub_date": 1549409884490,
-            "volume_old": 13,
-            "chapter_old": 109,
-            "volume": 13,
-            "chapter": 109,
-            "epub_basename": "平凡職業造就世界最強.epub",
-            "update_date": 1549382400000,
-            "update_count": 8
-          }
-        ]
-      ],
-      "epub_count": 1,
-      "epub": [
-        [
-          "wenku8",
-          "平凡職業造就世界最強",
-          {
-            "segment_date": 1549409857431,
-            "segment_old": 40,
-            "segment": 37,
-            "init_date": 1548345600000,
-            "epub_date": 1549409884490,
-            "volume_old": 13,
-            "chapter_old": 109,
-            "volume": 13,
-            "chapter": 109,
-            "epub_basename": "平凡職業造就世界最強.epub",
-            "update_date": 1549382400000,
-            "update_count": 8
-          }
-        ]
-      ]
-    },
-    "1549468800000": {
-      "segment_count": 1,
-      "segment": [
-        [
-          "wenku8",
-          "平凡職業造就世界最強",
-          {
-            "segment_date": 1549496265851,
-            "segment_old": 37,
-            "segment": 46,
-            "init_date": 1548345600000,
-            "epub_date": 1549496290195,
-            "volume_old": 13,
-            "chapter_old": 109,
-            "volume": 13,
-            "chapter": 109,
-            "epub_basename": "平凡職業造就世界最強.epub",
-            "update_date": 1549468800000,
-            "update_count": 9
-          }
-        ]
-      ],
-      "epub_count": 1,
-      "epub": [
-        [
-          "wenku8",
-          "平凡職業造就世界最強",
-          {
-            "segment_date": 1549496265851,
-            "segment_old": 37,
-            "segment": 46,
-            "init_date": 1548345600000,
-            "epub_date": 1549496290195,
-            "volume_old": 13,
-            "chapter_old": 109,
-            "volume": 13,
-            "chapter": 109,
-            "epub_basename": "平凡職業造就世界最強.epub",
-            "update_date": 1549468800000,
-            "update_count": 9
-          }
-        ]
-      ]
-    },
-    "1549555200000": {
-      "segment_count": 1,
-      "segment": [
-        [
-          "mirronight",
-          "關於成為魔王這件事",
-          {
-            "init_date": 1549209600000,
-            "segment_date": 1549582791844,
-            "segment_old": 232,
-            "segment": 408,
-            "epub_date": 1549582817072,
-            "volume_old": 1,
-            "chapter_old": 403,
-            "volume": 6,
-            "chapter": 604,
-            "epub_basename": "關於成為魔王這件事.epub",
-            "novel_status": 256,
-            "update_date": 1549555200000,
-            "update_count": 2
-          }
-        ]
-      ],
-      "epub_count": 1,
-      "epub": [
-        [
-          "mirronight",
-          "關於成為魔王這件事",
-          {
-            "init_date": 1549209600000,
-            "segment_date": 1549582791844,
-            "segment_old": 232,
-            "segment": 408,
-            "epub_date": 1549582817072,
-            "volume_old": 1,
-            "chapter_old": 403,
-            "volume": 6,
-            "chapter": 604,
-            "epub_basename": "關於成為魔王這件事.epub",
-            "novel_status": 256,
-            "update_date": 1549555200000,
-            "update_count": 2
-          }
-        ]
-      ]
-    },
-    "1549641600000": {
-      "segment_count": 9,
-      "segment": [
-        [
-          "cm",
-          "姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜",
-          {
-            "init_date": 1545494400000,
-            "segment_date": 1549669096100,
-            "segment_old": 13,
-            "segment": 2,
-            "epub_date": 1549669424199,
-            "volume_old": 3,
-            "chapter_old": 72,
-            "volume": 3,
-            "chapter": 75,
-            "epub_basename": "我的同學是姬騎士.epub",
-            "update_date": 1549641600000,
-            "update_count": 5,
-            "novel_status": 770
-          }
-        ],
-        [
-          "girl",
-          "Genocide Online ～極惡千金的玩遊戲日記～",
-          {
-            "segment_date": 1549669101016,
-            "segment_old": 0,
-            "segment": 5,
-            "init_date": 1549669101016,
-            "epub_date": 1549669424717,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 14,
-            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
-            "novel_status": 256,
-            "update_date": 1549641600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "girl",
-          "「「神と呼ばれ、魔王と呼ばれても」」",
-          {
-            "segment_date": 1549669112284,
-            "segment_old": 0,
-            "segment": 51,
-            "init_date": 1549669112284,
-            "epub_date": 1549669432939,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 51,
-            "epub_basename": "無論是被當作神，還是被當作魔王.epub",
-            "novel_status": 1,
-            "update_date": 1549641600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "俺は星間国家の悪徳領主！",
-          {
-            "segment_date": 1549669117723,
-            "segment_old": 0,
-            "segment": 6,
-            "init_date": 1549669117723,
-            "epub_date": 1549669433186,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 6,
-            "epub_basename": "俺は星間国家の悪徳領主！.epub",
-            "update_date": 1549641600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "破滅の魔導王とゴーレムの蛮妃",
-          {
-            "segment_date": 1549669122175,
-            "segment_old": 0,
-            "segment": 5,
-            "init_date": 1549669122175,
-            "epub_date": 1549669433737,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 5,
-            "epub_basename": "破滅之魔導王與魔偶蠻妃.epub",
-            "novel_status": 256,
-            "update_date": 1549641600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "航宙軍士官、冒険者になる",
-          {
-            "segment_date": 1549669132702,
-            "segment_old": 2,
-            "segment": 10,
-            "init_date": 1548259200000,
-            "epub_date": 1549669434339,
-            "volume_old": 1,
-            "chapter_old": 9,
-            "volume": 1,
-            "chapter": 19,
-            "epub_basename": "宇宙軍士官，成為冒險者.epub",
-            "update_date": 1549641600000,
-            "update_count": 4
-          }
-        ],
-        [
-          "user",
-          "黑之魔王",
-          {
-            "segment_date": 1549669315951,
-            "segment_old": 50,
-            "segment": 164,
-            "init_date": 1545261427757,
-            "update_date": 1549641600000,
-            "update_count": 14
-          }
-        ],
-        [
-          "wenku8",
-          "平凡職業造就世界最強",
-          {
-            "segment_date": 1549669382116,
-            "segment_old": 46,
-            "segment": 63,
-            "init_date": 1548345600000,
-            "epub_date": 1549669454985,
-            "volume_old": 13,
-            "chapter_old": 109,
-            "volume": 13,
-            "chapter": 109,
-            "epub_basename": "平凡職業造就世界最強.epub",
-            "update_date": 1549641600000,
-            "update_count": 10
-          }
-        ],
-        [
-          "yandere",
-          "転生ごときで逃げられるとでも、兄さん？",
-          {
-            "segment_date": 1549669399233,
-            "segment_old": 14,
-            "segment": 10,
-            "init_date": 1548604800000,
-            "epub_date": 1548977895318,
-            "volume_old": 5,
-            "chapter_old": 79,
-            "volume": 5,
-            "chapter": 79,
-            "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
-            "update_date": 1549641600000,
-            "update_count": 6
-          }
-        ]
-      ],
-      "epub_count": 10,
-      "epub": [
-        [
-          "cm",
-          "姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜",
-          {
-            "init_date": 1545494400000,
-            "segment_date": 1549669096100,
-            "segment_old": 13,
-            "segment": 2,
-            "epub_date": 1549669424199,
-            "volume_old": 3,
-            "chapter_old": 72,
-            "volume": 3,
-            "chapter": 75,
-            "epub_basename": "我的同學是姬騎士.epub",
-            "update_date": 1549641600000,
-            "update_count": 5,
-            "novel_status": 770
-          }
-        ],
-        [
-          "girl",
-          "Genocide Online ～極惡千金的玩遊戲日記～",
-          {
-            "segment_date": 1549669101016,
-            "segment_old": 0,
-            "segment": 5,
-            "init_date": 1549669101016,
-            "epub_date": 1549669424717,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 14,
-            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
-            "novel_status": 256,
-            "update_date": 1549641600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "girl",
-          "「「神と呼ばれ、魔王と呼ばれても」」",
-          {
-            "segment_date": 1549669112284,
-            "segment_old": 0,
-            "segment": 51,
-            "init_date": 1549669112284,
-            "epub_date": 1549669432939,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 51,
-            "epub_basename": "無論是被當作神，還是被當作魔王.epub",
-            "novel_status": 1,
-            "update_date": 1549641600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "俺は星間国家の悪徳領主！",
-          {
-            "segment_date": 1549669117723,
-            "segment_old": 0,
-            "segment": 6,
-            "init_date": 1549669117723,
-            "epub_date": 1549669433186,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 6,
-            "epub_basename": "俺は星間国家の悪徳領主！.epub",
-            "update_date": 1549641600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "破滅の魔導王とゴーレムの蛮妃",
-          {
-            "segment_date": 1549669122175,
-            "segment_old": 0,
-            "segment": 5,
-            "init_date": 1549669122175,
-            "epub_date": 1549669433737,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 5,
-            "epub_basename": "破滅之魔導王與魔偶蠻妃.epub",
-            "novel_status": 256,
-            "update_date": 1549641600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "航宙軍士官、冒険者になる",
-          {
-            "segment_date": 1549669132702,
-            "segment_old": 2,
-            "segment": 10,
-            "init_date": 1548259200000,
-            "epub_date": 1549669434339,
-            "volume_old": 1,
-            "chapter_old": 9,
-            "volume": 1,
-            "chapter": 19,
-            "epub_basename": "宇宙軍士官，成為冒險者.epub",
-            "update_date": 1549641600000,
-            "update_count": 4
-          }
-        ],
-        [
-          "user_out",
-          "你這種傢伙別想打贏魔王",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
-            "epub_date": 1549669437389,
-            "volume_old": 10,
-            "chapter_old": 90,
-            "volume": 10,
-            "chapter": 93,
-            "epub_basename": "你這種傢伙別想打贏魔王.epub",
-            "update_date": 1549641600000,
-            "update_count": 10
-          }
-        ],
-        [
-          "user_out",
-          "黑之魔王",
-          {
-            "epub_date": 1549669447798,
-            "volume_old": 29,
-            "chapter_old": 556,
-            "volume": 30,
-            "chapter": 561,
-            "init_date": 1545261469203,
-            "epub_basename": "黑之魔王.epub",
-            "txt_basename": "黑之魔王.out.txt",
-            "update_date": 1549641600000,
-            "update_count": 15
-          }
-        ],
-        [
-          "wenku8",
-          "平凡職業造就世界最強",
-          {
-            "segment_date": 1549669382116,
-            "segment_old": 46,
-            "segment": 63,
-            "init_date": 1548345600000,
-            "epub_date": 1549669454985,
-            "volume_old": 13,
-            "chapter_old": 109,
-            "volume": 13,
-            "chapter": 109,
-            "epub_basename": "平凡職業造就世界最強.epub",
-            "update_date": 1549641600000,
-            "update_count": 10
-          }
-        ],
-        [
-          "yandere_out",
-          "転生ごときで逃げられるとでも、兄さん？",
-          {
-            "txt_basename": "以為轉個生就能逃掉嗎，哥哥？.out.txt",
-            "epub_date": 1549669458549,
-            "volume_old": 5,
-            "chapter_old": 80,
-            "volume": 5,
-            "chapter": 81,
-            "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
-            "init_date": 1549036800000,
-            "update_date": 1549641600000,
-            "update_count": 2
-          }
-        ]
-      ]
-    },
-    "1549728000000": {
-      "segment_count": 1,
-      "segment": [
-        [
-          "modern",
-          "え、異世界じゃなくて……ロシア……ですか？",
-          {
-            "segment_date": 1549755574490,
-            "segment_old": 0,
-            "segment": 2,
-            "init_date": 1549755574490,
-            "epub_date": 1549755741747,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 2,
-            "chapter": 13,
-            "epub_basename": "咦、不是穿越到異世界……而是俄羅斯……？.epub",
-            "update_date": 1549728000000,
-            "update_count": 1
-          }
-        ]
-      ],
-      "epub_count": 4,
-      "epub": [
-        [
-          "cm_out",
-          "リビティウム皇国のブタクサ姫",
-          {
-            "epub_date": 1549755732243,
-            "volume_old": 7,
-            "chapter_old": 211,
-            "volume": 7,
-            "chapter": 213,
-            "epub_basename": "利貝提姆皇國的豚草姫.epub",
-            "init_date": 1545548908164,
-            "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-            "update_date": 1549728000000,
-            "update_count": 12
-          }
-        ],
-        [
-          "girl",
-          "「「神と呼ばれ、魔王と呼ばれても」」",
-          {
-            "segment_date": 1549669112284,
-            "segment_old": 0,
-            "segment": 51,
-            "init_date": 1549641600000,
-            "epub_date": 1549755740199,
-            "volume_old": 1,
-            "chapter_old": 51,
-            "volume": 1,
-            "chapter": 51,
-            "epub_basename": "無論是被當作神，還是被當作魔王.epub",
-            "novel_status": 1,
-            "update_date": 1549728000000,
-            "update_count": 2
-          }
-        ],
-        [
-          "modern",
-          "え、異世界じゃなくて……ロシア……ですか？",
-          {
-            "segment_date": 1549755574490,
-            "segment_old": 0,
-            "segment": 2,
-            "init_date": 1549755574490,
-            "epub_date": 1549755741747,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 2,
-            "chapter": 13,
-            "epub_basename": "咦、不是穿越到異世界……而是俄羅斯……？.epub",
-            "update_date": 1549728000000,
-            "update_count": 1
-          }
-        ],
-        [
-          "user_out",
-          "自称贤者弟子的贤者",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "自称贤者弟子的贤者.out.txt",
-            "epub_date": 1549755747664,
-            "volume_old": 6,
-            "chapter_old": 293,
-            "volume": 6,
-            "chapter": 299,
-            "epub_basename": "自称贤者弟子的贤者.epub",
-            "update_date": 1549728000000,
-            "update_count": 2,
-            "novel_status": 768
-          }
-        ]
-      ]
-    },
-    "1549814400000": {
-      "segment_count": 1,
-      "segment": [
-        [
-          "wenku8",
-          "平凡職業造就世界最強",
-          {
-            "segment_date": 1549842384680,
-            "segment_old": 63,
-            "segment": 283,
-            "init_date": 1548345600000,
-            "epub_date": 1549842429160,
-            "volume_old": 13,
-            "chapter_old": 109,
-            "volume": 27,
-            "chapter": 456,
-            "epub_basename": "平凡職業造就世界最強.epub",
-            "update_date": 1549814400000,
-            "update_count": 11,
-            "novel_status": 1792
-          }
-        ]
-      ],
-      "epub_count": 3,
-      "epub": [
-        [
-          "girl",
-          "Genocide Online ～極惡千金的玩遊戲日記～",
-          {
-            "segment_date": 1549669101016,
-            "segment_old": 0,
-            "segment": 5,
-            "init_date": 1549641600000,
-            "epub_date": 1549842409959,
-            "volume_old": 1,
-            "chapter_old": 14,
-            "volume": 1,
-            "chapter": 15,
-            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
-            "novel_status": 256,
-            "update_date": 1549814400000,
-            "update_count": 2
-          }
-        ],
-        [
-          "user_out",
-          "豚公爵に転生したから、今度は君に好きと言いたい",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "豚公爵に転生したから、今度は君に好きと言.out.txt",
-            "epub_date": 1549842413814,
-            "volume_old": 7,
-            "chapter_old": 177,
-            "volume": 7,
-            "chapter": 183,
-            "epub_basename": "豚公爵に転生したから、今度は君に好きと言いたい.epub",
-            "update_date": 1549814400000,
-            "update_count": 6
-          }
-        ],
-        [
-          "wenku8",
-          "平凡職業造就世界最強",
-          {
-            "segment_date": 1549842384680,
-            "segment_old": 63,
-            "segment": 283,
-            "init_date": 1548345600000,
-            "epub_date": 1549842429160,
-            "volume_old": 13,
-            "chapter_old": 109,
-            "volume": 27,
-            "chapter": 456,
-            "epub_basename": "平凡職業造就世界最強.epub",
-            "update_date": 1549814400000,
-            "update_count": 11,
-            "novel_status": 1792
-          }
-        ]
-      ]
-    },
-    "1549900800000": {
-      "segment_count": 2,
-      "segment": [
-        [
-          "user",
-          "你這種傢伙別想打贏魔王",
-          {
-            "segment_date": 1549928383591,
-            "segment_old": 6,
-            "segment": 4,
-            "init_date": 1546044596562,
-            "update_date": 1549900800000,
-            "update_count": 4
-          }
-        ],
-        [
-          "wenku8",
-          "平凡職業造就世界最強",
-          {
-            "segment_date": 1549928828838,
-            "segment_old": 283,
-            "segment": 42,
-            "init_date": 1548345600000,
-            "epub_date": 1549842429160,
-            "volume_old": 13,
-            "chapter_old": 109,
-            "volume": 27,
-            "chapter": 456,
-            "epub_basename": "平凡職業造就世界最強.epub",
-            "update_date": 1549900800000,
-            "update_count": 12,
-            "novel_status": 1792
-          }
-        ]
-      ],
-      "epub_count": 2,
-      "epub": [
-        [
-          "user_out",
-          "你這種傢伙別想打贏魔王",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
-            "epub_date": 1549928854536,
-            "volume_old": 10,
-            "chapter_old": 93,
-            "volume": 10,
-            "chapter": 94,
-            "epub_basename": "你這種傢伙別想打贏魔王.epub",
-            "update_date": 1549900800000,
-            "update_count": 11
-          }
-        ],
-        [
-          "wenku8_out",
-          "平凡職業造就世界最強",
-          {
-            "txt_basename": "平凡職業造就世界最強.out.txt",
-            "epub_date": 1549928870357,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 27,
-            "chapter": 456,
-            "epub_basename": "平凡職業造就世界最強.epub",
-            "novel_status": 1792,
-            "init_date": 1549928870357,
-            "update_date": 1549900800000,
-            "update_count": 1
-          }
-        ]
-      ]
-    },
     "1549987200000": {
       "segment_count": 1,
       "segment": [
@@ -1371,6 +642,129 @@
           }
         ]
       ]
+    },
+    "1550592000000": {
+      "segment_count": 3,
+      "segment": [
+        [
+          "cm",
+          "王国へ続く道",
+          {
+            "init_date": 1550419200000,
+            "epub_date": 1550620197297,
+            "volume_old": 1,
+            "chapter_old": 2,
+            "volume": 1,
+            "chapter": 4,
+            "epub_basename": "王国へ続く道.epub",
+            "update_date": 1550592000000,
+            "update_count": 3,
+            "novel_status": 256,
+            "segment_date": 1550620118268,
+            "segment_old": 0,
+            "segment": 1
+          }
+        ],
+        [
+          "girl",
+          "你這種傢伙別想打贏魔王",
+          {
+            "init_date": 1550505600000,
+            "segment_date": 1550620158835,
+            "segment_old": 0,
+            "segment": 4,
+            "update_date": 1550592000000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "陰の実力者になりたくて！_(n0611em)",
+          {
+            "segment_date": 1550620176729,
+            "segment_old": 1,
+            "segment": 3,
+            "init_date": 1545521322627,
+            "update_date": 1550592000000,
+            "update_count": 5
+          }
+        ]
+      ],
+      "epub_count": 4,
+      "epub": [
+        [
+          "cm",
+          "姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜",
+          {
+            "init_date": 1545494400000,
+            "segment_date": 1549669096100,
+            "segment_old": 13,
+            "segment": 2,
+            "epub_date": 1550620196769,
+            "volume_old": 4,
+            "chapter_old": 77,
+            "volume": 4,
+            "chapter": 77,
+            "epub_basename": "我的同學是姬騎士.epub",
+            "update_date": 1550592000000,
+            "update_count": 7,
+            "novel_status": 770
+          }
+        ],
+        [
+          "cm",
+          "王国へ続く道",
+          {
+            "init_date": 1550419200000,
+            "epub_date": 1550620197297,
+            "volume_old": 1,
+            "chapter_old": 2,
+            "volume": 1,
+            "chapter": 4,
+            "epub_basename": "王国へ続く道.epub",
+            "update_date": 1550592000000,
+            "update_count": 3,
+            "novel_status": 256,
+            "segment_date": 1550620118268,
+            "segment_old": 0,
+            "segment": 1
+          }
+        ],
+        [
+          "girl_out",
+          "你這種傢伙別想打贏魔王",
+          {
+            "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
+            "epub_date": 1550620202039,
+            "volume_old": 16,
+            "chapter_old": 111,
+            "volume": 16,
+            "chapter": 112,
+            "epub_basename": "你這種傢伙別想打贏魔王.epub",
+            "novel_status": 769,
+            "init_date": 1550505600000,
+            "update_date": 1550592000000,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu_out",
+          "陰の実力者になりたくて！_(n0611em)",
+          {
+            "epub_date": 1550620205688,
+            "volume_old": 9,
+            "chapter_old": 170,
+            "volume": 9,
+            "chapter": 179,
+            "epub_basename": "想要成為影之實力者.epub",
+            "init_date": 1545548940691,
+            "txt_basename": "想要成為影之實力者.out.txt",
+            "update_date": 1550592000000,
+            "update_count": 5,
+            "novel_status": 768
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1422,12 +816,12 @@
         "init_date": 1545521307326
       },
       "陰の実力者になりたくて！_(n0611em)": {
-        "segment_date": 1546388388175,
+        "segment_date": 1550620176729,
         "segment_old": 1,
-        "segment": 1,
+        "segment": 3,
         "init_date": 1545521322627,
-        "update_date": 1546358400000,
-        "update_count": 4
+        "update_date": 1550592000000,
+        "update_count": 5
       },
       "最強職《竜騎士》から初級職《運び屋》": {
         "init_date": 1545494400000,
@@ -2208,16 +1602,17 @@
         "update_count": 1
       },
       "陰の実力者になりたくて！_(n0611em)": {
-        "epub_date": 1547854358908,
-        "volume_old": 8,
-        "chapter_old": 166,
+        "epub_date": 1550620205688,
+        "volume_old": 9,
+        "chapter_old": 170,
         "volume": 9,
-        "chapter": 170,
+        "chapter": 179,
         "epub_basename": "想要成為影之實力者.epub",
         "init_date": 1545548940691,
         "txt_basename": "想要成為影之實力者.out.txt",
-        "update_date": 1547827200000,
-        "update_count": 4
+        "update_date": 1550592000000,
+        "update_count": 5,
+        "novel_status": 768
       },
       "勇者的活躍從現在才開始！": {
         "init_date": 1545494400000,
@@ -2514,14 +1909,14 @@
         "segment_date": 1549669096100,
         "segment_old": 13,
         "segment": 2,
-        "epub_date": 1550361598381,
-        "volume_old": 3,
-        "chapter_old": 75,
+        "epub_date": 1550620196769,
+        "volume_old": 4,
+        "chapter_old": 77,
         "volume": 4,
         "chapter": 77,
         "epub_basename": "我的同學是姬騎士.epub",
-        "update_date": 1550332800000,
-        "update_count": 6,
+        "update_date": 1550592000000,
+        "update_count": 7,
         "novel_status": 770
       },
       "異世界人の手引き書": {
@@ -2585,15 +1980,18 @@
       },
       "王国へ続く道": {
         "init_date": 1550419200000,
-        "epub_date": 1550538278811,
+        "epub_date": 1550620197297,
         "volume_old": 1,
-        "chapter_old": 1,
+        "chapter_old": 2,
         "volume": 1,
-        "chapter": 2,
+        "chapter": 4,
         "epub_basename": "王国へ続く道.epub",
-        "update_date": 1550505600000,
-        "update_count": 2,
-        "novel_status": 256
+        "update_date": 1550592000000,
+        "update_count": 3,
+        "novel_status": 256,
+        "segment_date": 1550620118268,
+        "segment_old": 0,
+        "segment": 1
       }
     },
     "mirronight": {
@@ -3156,7 +2554,12 @@
         "segment": 6
       },
       "你這種傢伙別想打贏魔王": {
-        "init_date": 1550505600000
+        "init_date": 1550505600000,
+        "segment_date": 1550620158835,
+        "segment_old": 0,
+        "segment": 4,
+        "update_date": 1550592000000,
+        "update_count": 1
       }
     },
     "modern": {
@@ -3178,16 +2581,16 @@
     "girl_out": {
       "你這種傢伙別想打贏魔王": {
         "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
-        "epub_date": 1550538285442,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1550620202039,
+        "volume_old": 16,
+        "chapter_old": 111,
         "volume": 16,
-        "chapter": 111,
+        "chapter": 112,
         "epub_basename": "你這種傢伙別想打贏魔王.epub",
         "novel_status": 769,
         "init_date": 1550505600000,
-        "update_date": 1550505600000,
-        "update_count": 1
+        "update_date": 1550592000000,
+        "update_count": 2
       }
     }
   },
@@ -4507,7 +3910,7 @@
           "[物理盐鱼 文庫](https://tieba.baidu.com/p/5853088454)",
           "[dm5](http://www.dm5.com/manhua-jiupingniyexiangdabaimowangma/) 漫畫版",
           "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=90)",
-          "[\\[GCNOVELS\\]\\[kiki\\]「你这种家伙别想打赢魔王」被踢出了勇者队伍，想在王都过上平静的生活02【2/16 完坑】](https://www.lightnovel.cn/thread-950403-1-1.html)"
+          "[lightnovel.cn](https://www.lightnovel.cn/thread-950403-1-1.html)"
         ]
       }
     },
@@ -7689,11 +7092,16 @@
           "title": "陰の実力者になりたくて！",
           "title_zh": "想要成為影之實力者",
           "author": "あかさたな",
+          "illust": "東西",
+          "illusts": [
+            "坂野杏梨"
+          ],
           "source": "http://ncode.syosetu.com/n0611em/",
           "cover": "https://images-na.ssl-images-amazon.com/images/I/81-PA9bnu7L.jpg",
           "publisher": "syosetu",
-          "date": "2018-07-22T02:51:00+08:00",
+          "date": "2019-02-18T22:08:00+08:00",
           "status": "連載",
+          "novel_status": 768,
           "series": {
             "name": "陰の実力者になりたくて！"
           },
@@ -7703,6 +7111,8 @@
             "node-novel",
             "syosetu",
             "コメディ",
+            "ハイファンタジー",
+            "ファンタジー",
             "中二病",
             "主人公最強",
             "俺ＴＵＥＥＥ",
@@ -7747,7 +7157,9 @@
           "[当过勇者的职员](https://pan.baidu.com/s/1ROkx_9avE2NupIPXyPX87Q) 8edq",
           "[kadokawa](https://www.kadokawa.co.jp/product/321806000138/)",
           "[EPUB - ah21ling](https://tieba.baidu.com/p/5810372348)",
-          "[【导航】影守的始末名录](https://tieba.baidu.com/p/5750567803 \"【导航】影守的始末名录\")"
+          "[【导航】影守的始末名录](https://tieba.baidu.com/p/5750567803 \"【导航】影守的始末名录\")",
+          "[dm5 ](http://www.dm5.com/manhua-xiangyaochengweiyingzhishilizhe/)",
+          "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=73&page=1)"
         ]
       },
       "隻腕の鉄姫兵団": {
