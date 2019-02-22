@@ -1,7 +1,7 @@
 # novel
 
 - title: 幼女転生
-- title_zh1:
+- title_zh1: loli转生
 - author: デブリ
 - illust:
 - source: http://ncode.syosetu.com/n2771dw/
@@ -60,6 +60,8 @@
 - 異世界転生
 - 魔女
 - 魔法
+- 蘿莉
+- 全裸
 
 # contribute
 
