@@ -8,6 +8,7 @@
 - publisher: syosetu
 - date: 2018-07-27T12:00:00+08:00
 - status: 連載
+- novel_status: 0x0100
 
 ## series
 
