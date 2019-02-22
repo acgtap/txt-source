@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1550592000000,
-    "timestamp": 1550620215864,
+    "todayTimestamp": 1550764800000,
+    "timestamp": 1550792959214,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -762,6 +762,30 @@
             "update_date": 1550592000000,
             "update_count": 5,
             "novel_status": 768
+          }
+        ]
+      ]
+    },
+    "1550764800000": {
+      "epub_count": 1,
+      "epub": [
+        [
+          "cm",
+          "王国へ続く道",
+          {
+            "init_date": 1550419200000,
+            "epub_date": 1550792949579,
+            "volume_old": 1,
+            "chapter_old": 4,
+            "volume": 1,
+            "chapter": 5,
+            "epub_basename": "王国へ続く道.epub",
+            "update_date": 1550764800000,
+            "update_count": 4,
+            "novel_status": 256,
+            "segment_date": 1550620118268,
+            "segment_old": 0,
+            "segment": 1
           }
         ]
       ]
@@ -1980,14 +2004,14 @@
       },
       "王国へ続く道": {
         "init_date": 1550419200000,
-        "epub_date": 1550620197297,
+        "epub_date": 1550792949579,
         "volume_old": 1,
-        "chapter_old": 2,
+        "chapter_old": 4,
         "volume": 1,
-        "chapter": 4,
+        "chapter": 5,
         "epub_basename": "王国へ続く道.epub",
-        "update_date": 1550592000000,
-        "update_count": 3,
+        "update_date": 1550764800000,
+        "update_count": 4,
         "novel_status": 256,
         "segment_date": 1550620118268,
         "segment_old": 0,
