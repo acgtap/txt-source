@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1550851200000,
-    "timestamp": 1550879423093,
+    "todayTimestamp": 1550937600000,
+    "timestamp": 1550965607566,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -850,6 +850,46 @@
             "epub_basename": "異世界迷宮の最深部を目指そう.epub",
             "update_date": 1550851200000,
             "update_count": 5
+          }
+        ]
+      ]
+    },
+    "1550937600000": {
+      "epub_count": 2,
+      "epub": [
+        [
+          "cm",
+          "Ａランク冒険者のスローライフ",
+          {
+            "init_date": 1550937600000,
+            "epub_date": 1550965597773,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 1,
+            "epub_basename": "Ａランク冒険者のスローライフ.epub",
+            "novel_status": 256,
+            "update_date": 1550937600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "cm",
+          "姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜",
+          {
+            "init_date": 1545494400000,
+            "segment_date": 1549669096100,
+            "segment_old": 13,
+            "segment": 2,
+            "epub_date": 1550965597271,
+            "volume_old": 4,
+            "chapter_old": 77,
+            "volume": 4,
+            "chapter": 80,
+            "epub_basename": "我的同學是姬騎士.epub",
+            "update_date": 1550937600000,
+            "update_count": 8,
+            "novel_status": 770
           }
         ]
       ]
@@ -1997,14 +2037,14 @@
         "segment_date": 1549669096100,
         "segment_old": 13,
         "segment": 2,
-        "epub_date": 1550620196769,
+        "epub_date": 1550965597271,
         "volume_old": 4,
         "chapter_old": 77,
         "volume": 4,
-        "chapter": 77,
+        "chapter": 80,
         "epub_basename": "我的同學是姬騎士.epub",
-        "update_date": 1550592000000,
-        "update_count": 7,
+        "update_date": 1550937600000,
+        "update_count": 8,
         "novel_status": 770
       },
       "異世界人の手引き書": {
@@ -2080,6 +2120,18 @@
         "segment_date": 1550620118268,
         "segment_old": 0,
         "segment": 1
+      },
+      "Ａランク冒険者のスローライフ": {
+        "init_date": 1550937600000,
+        "epub_date": 1550965597773,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 1,
+        "epub_basename": "Ａランク冒険者のスローライフ.epub",
+        "novel_status": 256,
+        "update_date": 1550937600000,
+        "update_count": 1
       }
     },
     "mirronight": {
@@ -2695,7 +2747,7 @@
         "volume": 5,
         "chapter": 61,
         "epub_basename": "幼女転生.epub",
-        "init_date": 1550879391418,
+        "init_date": 1550851200000,
         "update_date": 1550851200000,
         "update_count": 1
       }
@@ -2703,6 +2755,64 @@
   },
   "mdconf": {
     "cm": {
+      "Ａランク冒険者のスローライフ": {
+        "novel": {
+          "title": "Ａランク冒険者のスローライフ",
+          "title_zh1": "",
+          "author": "錬金王(影太郎)",
+          "illust": "",
+          "illusts": [
+            "加藤 いつわ",
+            "葉山 えいし"
+          ],
+          "source": "http://novel18.syosetu.com/n7437du/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/81CyNLo%2BPHL.jpg",
+          "publisher": "syosetu",
+          "date": "2018-11-21T12:00:00+08:00",
+          "status": "連載",
+          "novel_status": 256,
+          "series": {
+            "name": "Ａランク冒険者のスローライフ"
+          },
+          "preface": "【モンスターコミックスにてコミカライズ開始されました！】　\n王国一のＡランク冒険者パーティー『黒銀』のリーダーであるアルドレッドは、竜殺しを果たした。だが、強さを追い求めた彼は最強種である竜を討伐してしまったことで目標を見失ってしまう。これからどうするべきか悩んだ際に思い浮かんだのは、クエストの途中で一度だけ立ち寄った自然豊かな田舎の村ノルトエンデの風景であった。\n　パーティーの解散を宣言したアルドレッドは、ノルトエンデに向かいゆったりとしたスローライフをおくる。\nスローライフなので序盤はエロシーンが少ないかもしれません。\nタイトルに◆マークがあればエロありです。\nノクスノベルスから第２巻発売中です！",
+          "tags": [
+            "node-novel",
+            "novel18",
+            "syosetu",
+            "ほのぼの",
+            "イチャラブ",
+            "エロ",
+            "スローライフ",
+            "ファンタジー",
+            "中世",
+            "村娘",
+            "残酷な描写あり",
+            "男主人公",
+            "男性向け"
+          ]
+        },
+        "contribute": [
+          "ChrisLiu"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n7437du"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou18.nar.jp/search.php?text=%E3%83%A9%E3%83%B3%E3%82%AF%E5%86%92%E9%99%BA%E8%80%85%E3%81%AE%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索"
+        ]
+      },
       "モンスターがあふれる世界になったので、好きに生きたいと思います": {
         "novel": {
           "title": "モンスターがあふれる世界になったので、好きに生きたいと思います",
@@ -2730,6 +2840,7 @@
           "title": "姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜",
           "title_zh": "我的同學是姬騎士",
           "title_zh2": "姬騎士是同班同學",
+          "title_en": "My Classmate is a Princess Knight! ~ Different World Cheat Starting an Enslaved Harem~",
           "author": "ＥＫＺ",
           "illust": "吉沢メガネ",
           "illusts": [
@@ -2761,6 +2872,7 @@
             "異世界",
             "魔法"
           ],
+          "title_en1": "The Princess Knight Is a Classmate!",
           "title_zh3": "姬騎士是同班同學！　〜異世界外掛的奴隸化後宮〜"
         },
         "contribute": [
@@ -2782,8 +2894,14 @@
           "零度星塵"
         ],
         "options": {
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n0153ce"
+          },
           "textlayout": {
-            "allow_lf2": true
+            "allow_lf2": true,
+            "allow_lf3": true
           }
         },
         "link": [
@@ -2793,7 +2911,10 @@
           "https://www.lightnovel.cn/forum.php?mod=viewthread&tid=922044",
           "[dm5](http://www.dm5.com/manhua-wodetongxueshijiqishi/)",
           "[manhuagui](https://tw.manhuagui.com/comic/26586/)",
-          "https://www.lightnovel.cn/thread-930229-1-1.html"
+          "https://www.lightnovel.cn/thread-930229-1-1.html",
+          "https://frizcosas.blogspot.com/2016/11/himekishi-ga-classmate-18.html",
+          "https://himekishigaclassmate.fandom.com/wiki/Special:Images",
+          "https://lightnovelstranslations.com/himekishi-ga-classmate-novel-illustrations/"
         ]
       },
       "最強ギルドマスターの一週間建国記": {
