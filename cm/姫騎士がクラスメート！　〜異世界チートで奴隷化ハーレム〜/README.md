@@ -4,6 +4,8 @@
 - title_zh: 我的同學是姬騎士
 - title_zh2: 姬騎士是同班同學
 - title_zh3: 姬騎士是同班同學！　〜異世界外掛的奴隸化後宮〜
+- title_en1: The Princess Knight Is a Classmate!
+- title_en: My Classmate is a Princess Knight! ~ Different World Cheat Starting an Enslaved Harem~
 - author: ＥＫＺ
 - illust: 吉沢メガネ
 - source: http://novel18.syosetu.com/n0153ce/
@@ -75,16 +77,19 @@
 - 名無しの紳士さん
 - 天野雏菊
 - ChrisLiu
-- 
 
 # options
 
 ## syosetu
 
+- txtdownload_id:
+- series_id:
+- novel_id: n0153ce
 
 ## textlayout
 
 - allow_lf2: true
+- allow_lf3: true
 
 # link
 
@@ -95,4 +100,7 @@
 - [dm5](http://www.dm5.com/manhua-wodetongxueshijiqishi/)
 - [manhuagui](https://tw.manhuagui.com/comic/26586/)
 - https://www.lightnovel.cn/thread-930229-1-1.html
+- https://frizcosas.blogspot.com/2016/11/himekishi-ga-classmate-18.html
+- https://himekishigaclassmate.fandom.com/wiki/Special:Images
+- https://lightnovelstranslations.com/himekishi-ga-classmate-novel-illustrations/
 - 
