@@ -1,7 +1,7 @@
 # novel
 
 - title: Ａランク冒険者のスローライフ
-- title_zh1:
+- title_zh1: A 級冒險者的悠閒生活
 - author: 錬金王(影太郎)
 - illust:
 - source: http://novel18.syosetu.com/n7437du/
