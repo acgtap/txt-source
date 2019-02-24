@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1550937600000,
-    "timestamp": 1550965607566,
+    "todayTimestamp": 1551024000000,
+    "timestamp": 1551051982664,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -889,6 +889,46 @@
             "epub_basename": "我的同學是姬騎士.epub",
             "update_date": 1550937600000,
             "update_count": 8,
+            "novel_status": 770
+          }
+        ]
+      ]
+    },
+    "1551024000000": {
+      "epub_count": 2,
+      "epub": [
+        [
+          "cm",
+          "Ａランク冒険者のスローライフ",
+          {
+            "init_date": 1550937600000,
+            "epub_date": 1551051972621,
+            "volume_old": 1,
+            "chapter_old": 1,
+            "volume": 1,
+            "chapter": 3,
+            "epub_basename": "Ａ級冒險者的悠閒生活.epub",
+            "novel_status": 256,
+            "update_date": 1551024000000,
+            "update_count": 2
+          }
+        ],
+        [
+          "cm",
+          "姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜",
+          {
+            "init_date": 1545494400000,
+            "segment_date": 1549669096100,
+            "segment_old": 13,
+            "segment": 2,
+            "epub_date": 1551051972101,
+            "volume_old": 4,
+            "chapter_old": 80,
+            "volume": 4,
+            "chapter": 80,
+            "epub_basename": "我的同學是姬騎士.epub",
+            "update_date": 1551024000000,
+            "update_count": 9,
             "novel_status": 770
           }
         ]
@@ -2037,14 +2077,14 @@
         "segment_date": 1549669096100,
         "segment_old": 13,
         "segment": 2,
-        "epub_date": 1550965597271,
+        "epub_date": 1551051972101,
         "volume_old": 4,
-        "chapter_old": 77,
+        "chapter_old": 80,
         "volume": 4,
         "chapter": 80,
         "epub_basename": "我的同學是姬騎士.epub",
-        "update_date": 1550937600000,
-        "update_count": 8,
+        "update_date": 1551024000000,
+        "update_count": 9,
         "novel_status": 770
       },
       "異世界人の手引き書": {
@@ -2123,15 +2163,15 @@
       },
       "Ａランク冒険者のスローライフ": {
         "init_date": 1550937600000,
-        "epub_date": 1550965597773,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1551051972621,
+        "volume_old": 1,
+        "chapter_old": 1,
         "volume": 1,
-        "chapter": 1,
-        "epub_basename": "Ａランク冒険者のスローライフ.epub",
+        "chapter": 3,
+        "epub_basename": "Ａ級冒險者的悠閒生活.epub",
         "novel_status": 256,
-        "update_date": 1550937600000,
-        "update_count": 1
+        "update_date": 1551024000000,
+        "update_count": 2
       }
     },
     "mirronight": {
@@ -2758,7 +2798,7 @@
       "Ａランク冒険者のスローライフ": {
         "novel": {
           "title": "Ａランク冒険者のスローライフ",
-          "title_zh1": "",
+          "title_zh": "Ａ級冒險者的悠閒生活",
           "author": "錬金王(影太郎)",
           "illust": "",
           "illusts": [
