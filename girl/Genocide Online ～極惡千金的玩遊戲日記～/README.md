@@ -5,7 +5,7 @@
 - author: たけのこ
 - illust: 久坂んむり
 - source: http://ncode.syosetu.com/n7796fc/
-- cover: https://pbs.twimg.com/media/Dy6akWJU0AETh1q.jpg
+- cover: https://pbs.twimg.com/media/Dy6akWDVYAApNtb.jpg
 - publisher: syosetu
 - date: 2019-02-09T05:26:00+08:00
 - status: 連載
@@ -91,6 +91,7 @@
 
 - [dip.jp](https://narou.nar.jp/search.php?text=n7796fc&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=115&page=1)
+- https://twitter.com/marihyde0129
 - 
 
 
