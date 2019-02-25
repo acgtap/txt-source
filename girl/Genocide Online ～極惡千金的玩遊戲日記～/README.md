@@ -5,7 +5,7 @@
 - author: たけのこ
 - illust: 久坂んむり
 - source: http://ncode.syosetu.com/n7796fc/
-- cover:
+- cover: https://pbs.twimg.com/media/Dy6akWJU0AETh1q.jpg
 - publisher: syosetu
 - date: 2019-02-09T05:26:00+08:00
 - status: 連載
