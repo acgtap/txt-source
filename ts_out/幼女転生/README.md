@@ -5,7 +5,7 @@
 - author: デブリ
 - illust:
 - source: http://ncode.syosetu.com/n2771dw/
-- cover:
+- cover: http://www.klieqi.com/img/aHR0cDovL2ltZzMuaW1ndG4uYmRpbWcuY29tL2l0L3U9MTI4MTAwODg1NiwxNTA5MjQyMTMmZm09MjYmZ3A9MC5qcGc=.jpg
 - publisher: syosetu
 - date: 2018-10-27T21:45:00+08:00
 - status: 連載
@@ -62,6 +62,9 @@
 - 魔法
 - 蘿莉
 - 全裸
+- 百合
+- 百合（TS）
+- 放尿
 
 # contribute
 
