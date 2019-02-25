@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1551024000000,
-    "timestamp": 1551051982664,
+    "todayTimestamp": 1551110400000,
+    "timestamp": 1551138442781,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -930,6 +930,68 @@
             "update_date": 1551024000000,
             "update_count": 9,
             "novel_status": 770
+          }
+        ]
+      ]
+    },
+    "1551110400000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1551138386796,
+            "segment_old": 4,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1551138430092,
+            "volume_old": 1,
+            "chapter_old": 21,
+            "volume": 1,
+            "chapter": 34,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1551110400000,
+            "update_count": 4
+          }
+        ]
+      ],
+      "epub_count": 2,
+      "epub": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1551138386796,
+            "segment_old": 4,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1551138430092,
+            "volume_old": 1,
+            "chapter_old": 21,
+            "volume": 1,
+            "chapter": 34,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1551110400000,
+            "update_count": 4
+          }
+        ],
+        [
+          "ts_out",
+          "幼女転生",
+          {
+            "txt_basename": "幼女転生.out.txt",
+            "epub_date": 1551138433293,
+            "volume_old": 5,
+            "chapter_old": 61,
+            "volume": 5,
+            "chapter": 61,
+            "epub_basename": "幼女転生.epub",
+            "init_date": 1550851200000,
+            "update_date": 1551110400000,
+            "update_count": 2
           }
         ]
       ]
@@ -2674,19 +2736,19 @@
     },
     "girl": {
       "Genocide Online ～極惡千金的玩遊戲日記～": {
-        "segment_date": 1550360651843,
-        "segment_old": 5,
-        "segment": 4,
+        "segment_date": 1551138386796,
+        "segment_old": 4,
+        "segment": 1,
         "init_date": 1549641600000,
-        "epub_date": 1550361603784,
+        "epub_date": 1551138430092,
         "volume_old": 1,
-        "chapter_old": 15,
+        "chapter_old": 21,
         "volume": 1,
-        "chapter": 21,
+        "chapter": 34,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1550332800000,
-        "update_count": 3
+        "update_date": 1551110400000,
+        "update_count": 4
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
         "segment_date": 1549669112284,
@@ -2781,15 +2843,15 @@
     "ts_out": {
       "幼女転生": {
         "txt_basename": "幼女転生.out.txt",
-        "epub_date": 1550879391418,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1551138433293,
+        "volume_old": 5,
+        "chapter_old": 61,
         "volume": 5,
         "chapter": 61,
         "epub_basename": "幼女転生.epub",
         "init_date": 1550851200000,
-        "update_date": 1550851200000,
-        "update_count": 1
+        "update_date": 1551110400000,
+        "update_count": 2
       }
     }
   },
@@ -3933,7 +3995,7 @@
           "author": "たけのこ",
           "illust": "久坂んむり",
           "source": "http://ncode.syosetu.com/n7796fc/",
-          "cover": "",
+          "cover": "https://pbs.twimg.com/media/Dy6akWDVYAApNtb.jpg",
           "publisher": "syosetu",
           "date": "2019-02-09T05:26:00+08:00",
           "status": "連載",
@@ -3984,7 +4046,8 @@
         },
         "link": [
           "[dip.jp](https://narou.nar.jp/search.php?text=n7796fc&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=115&page=1)"
+          "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=115&page=1)",
+          "https://twitter.com/marihyde0129"
         ]
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
@@ -8688,7 +8751,7 @@
           "author": "デブリ",
           "illust": "",
           "source": "http://ncode.syosetu.com/n2771dw/",
-          "cover": "",
+          "cover": "http://www.klieqi.com/img/aHR0cDovL2ltZzMuaW1ndG4uYmRpbWcuY29tL2l0L3U9MTI4MTAwODg1NiwxNTA5MjQyMTMmZm09MjYmZ3A9MC5qcGc=.jpg",
           "publisher": "syosetu",
           "date": "2018-10-27T21:45:00+08:00",
           "status": "連載",
@@ -8720,8 +8783,11 @@
             "少女",
             "幼女",
             "成長",
+            "放尿",
             "残酷な描写あり",
             "異世界転生",
+            "百合",
+            "百合（TS）",
             "蘿莉",
             "魔女",
             "魔法"

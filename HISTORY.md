@@ -1,5 +1,19 @@
 # HISTORY
 
+## 2019-02-26
+
+### Epub
+
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( v: 1 , c: 34, add: 13 )
+- [幼女転生](ts_out/%E5%B9%BC%E5%A5%B3%E8%BB%A2%E7%94%9F) - ts_out
+  <br/>( v: 5 , c: 61, add: 0 )
+
+### Segment
+
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( s: 1 )
+
 ## 2019-02-25
 
 ### Epub
