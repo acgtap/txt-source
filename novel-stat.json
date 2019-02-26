@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1551110400000,
-    "timestamp": 1551138442781,
+    "todayTimestamp": 1551196800000,
+    "timestamp": 1551225061044,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -995,6 +995,76 @@
           }
         ]
       ]
+    },
+    "1551196800000": {
+      "epub_count": 4,
+      "epub": [
+        [
+          "cm_out",
+          "リビティウム皇国のブタクサ姫",
+          {
+            "epub_date": 1551225027899,
+            "volume_old": 7,
+            "chapter_old": 214,
+            "volume": 7,
+            "chapter": 217,
+            "epub_basename": "利貝提姆皇國的豚草姫.epub",
+            "init_date": 1545548908164,
+            "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
+            "update_date": 1551196800000,
+            "update_count": 14
+          }
+        ],
+        [
+          "syosetu_out",
+          "ロリータ・ガンバレット　～魔弾幼女の異世界戦記～",
+          {
+            "epub_date": 1551225034439,
+            "volume_old": 6,
+            "chapter_old": 103,
+            "volume": 6,
+            "chapter": 105,
+            "init_date": 1545261458252,
+            "txt_basename": "魔彈蘿莉的異世界戰記.out.txt",
+            "epub_basename": "魔彈蘿莉的異世界戰記.epub",
+            "update_date": 1551196800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu_out",
+          "最強呪族転生",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "最強呪族転生.out.txt",
+            "epub_date": 1551225039041,
+            "volume_old": 6,
+            "chapter_old": 230,
+            "volume": 6,
+            "chapter": 236,
+            "epub_basename": "最強呪族転生.epub",
+            "update_date": 1551196800000,
+            "update_count": 4
+          }
+        ],
+        [
+          "user_out",
+          "ウォルテニア戦記",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "沃特尼亞戰記.out.txt",
+            "epub_date": 1551225043205,
+            "volume_old": 5,
+            "chapter_old": 177,
+            "volume": 5,
+            "chapter": 184,
+            "epub_basename": "沃特尼亞戰記.epub",
+            "update_date": 1551196800000,
+            "update_count": 7,
+            "novel_status": 768
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1537,14 +1607,15 @@
       "ウォルテニア戦記": {
         "init_date": 1545494400000,
         "txt_basename": "沃特尼亞戰記.out.txt",
-        "epub_date": 1548028525607,
+        "epub_date": 1551225043205,
         "volume_old": 5,
-        "chapter_old": 174,
+        "chapter_old": 177,
         "volume": 5,
-        "chapter": 177,
+        "chapter": 184,
         "epub_basename": "沃特尼亞戰記.epub",
-        "update_date": 1548000000000,
-        "update_count": 6
+        "update_date": 1551196800000,
+        "update_count": 7,
+        "novel_status": 768
       },
       "２９歳独身は異世界で自由に生きた…かった。": {
         "init_date": 1545494400000,
@@ -1775,12 +1846,16 @@
     },
     "syosetu_out": {
       "ロリータ・ガンバレット　～魔弾幼女の異世界戦記～": {
-        "epub_date": 1545434244229,
+        "epub_date": 1551225034439,
         "volume_old": 6,
         "chapter_old": 103,
         "volume": 6,
-        "chapter": 103,
-        "init_date": 1545261458252
+        "chapter": 105,
+        "init_date": 1545261458252,
+        "txt_basename": "魔彈蘿莉的異世界戰記.out.txt",
+        "epub_basename": "魔彈蘿莉的異世界戰記.epub",
+        "update_date": 1551196800000,
+        "update_count": 1
       },
       "俺　VS　人類　～アンデッドを使役して王国を襲う俺～": {
         "epub_date": 1547528004839,
@@ -2069,14 +2144,14 @@
       "最強呪族転生": {
         "init_date": 1545494400000,
         "txt_basename": "最強呪族転生.out.txt",
-        "epub_date": 1550447321990,
+        "epub_date": 1551225039041,
         "volume_old": 6,
-        "chapter_old": 221,
+        "chapter_old": 230,
         "volume": 6,
-        "chapter": 230,
+        "chapter": 236,
         "epub_basename": "最強呪族転生.epub",
-        "update_date": 1550419200000,
-        "update_count": 3
+        "update_date": 1551196800000,
+        "update_count": 4
       },
       "魔王学院の不適合者": {
         "init_date": 1545494400000,
@@ -2396,16 +2471,16 @@
     },
     "cm_out": {
       "リビティウム皇国のブタクサ姫": {
-        "epub_date": 1550361603158,
+        "epub_date": 1551225027899,
         "volume_old": 7,
-        "chapter_old": 213,
+        "chapter_old": 214,
         "volume": 7,
-        "chapter": 214,
+        "chapter": 217,
         "epub_basename": "利貝提姆皇國的豚草姫.epub",
         "init_date": 1545548908164,
         "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-        "update_date": 1550332800000,
-        "update_count": 13
+        "update_date": 1551196800000,
+        "update_count": 14
       }
     },
     "dmzj_out": {
@@ -3426,6 +3501,8 @@
             "node-novel",
             "syosetu",
             "お伽噺の定石破壊",
+            "ハイファンタジー",
+            "ファンタジー",
             "人間としてはチート",
             "勘違い系",
             "成長系",
@@ -6084,6 +6161,10 @@
           "title": "最強呪族転生～チート魔術師のスローライフ～",
           "title_zh1": "最强咒族转生~一个天才魔术师的惬意生活~",
           "author": "猫子",
+          "illusts": [
+            "志之村旭",
+            "Mika Pikazo"
+          ],
           "source": "http://ncode.syosetu.com/n1592db/",
           "cover": "https://images-na.ssl-images-amazon.com/images/I/91a8PRZX39L.jpg",
           "publisher": "syosetu",
@@ -8944,9 +9025,13 @@
           "title": "ウォルテニア戦記",
           "title_zh": "沃特尼亞戰記",
           "author": "ホー",
+          "illusts": [
+            "bob"
+          ],
           "source": "http://ncode.syosetu.com/n1898i/",
           "cover": "https://images-na.ssl-images-amazon.com/images/I/71tf4OYkOsL.jpg",
           "publisher": "syosetu",
+          "novel_status": 768,
           "series": {
             "name": "ウォルテニア戦記"
           },
@@ -8957,6 +9042,7 @@
             "syosetu",
             "オリジナル戦記",
             "ダーク",
+            "ハイファンタジー",
             "ファンタジー",
             "中世",
             "冒险",

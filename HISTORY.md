@@ -1,5 +1,18 @@
 # HISTORY
 
+## 2019-02-27
+
+### Epub
+
+- [リビティウム皇国のブタクサ姫](cm_out/%E3%83%AA%E3%83%93%E3%83%86%E3%82%A3%E3%82%A6%E3%83%A0%E7%9A%87%E5%9B%BD%E3%81%AE%E3%83%96%E3%82%BF%E3%82%AF%E3%82%B5%E5%A7%AB) - cm_out
+  <br/>( v: 7 , c: 217, add: 3 )
+- [ロリータ・ガンバレット　～魔弾幼女の異世界戦記～](syosetu_out/%E3%83%AD%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%90%E3%83%AC%E3%83%83%E3%83%88%E3%80%80%EF%BD%9E%E9%AD%94%E5%BC%BE%E5%B9%BC%E5%A5%B3%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E6%88%A6%E8%A8%98%EF%BD%9E) - syosetu_out
+  <br/>( v: 6 , c: 105, add: 2 )
+- [最強呪族転生](syosetu_out/%E6%9C%80%E5%BC%B7%E5%91%AA%E6%97%8F%E8%BB%A2%E7%94%9F) - syosetu_out
+  <br/>( v: 6 , c: 236, add: 6 )
+- [ウォルテニア戦記](user_out/%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%86%E3%83%8B%E3%82%A2%E6%88%A6%E8%A8%98) - user_out
+  <br/>( v: 5 , c: 184, add: 7 )
+
 ## 2019-02-26
 
 ### Epub
