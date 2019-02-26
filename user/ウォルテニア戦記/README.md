@@ -6,6 +6,12 @@
 - source: http://ncode.syosetu.com/n1898i/
 - cover: https://images-na.ssl-images-amazon.com/images/I/71tf4OYkOsL.jpg
 - publisher: syosetu
+- novel_status: 0x0300
+
+## illusts
+
+- bob
+- 
 
 ## series
 
@@ -48,6 +54,8 @@
 - 異世界転移
 - 高校生
 - 魔法
+- ハイファンタジー
+- 
 
 # contribute
 
