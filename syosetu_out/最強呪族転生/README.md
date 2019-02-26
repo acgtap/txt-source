@@ -9,6 +9,12 @@
 - date: 2018-07-05T18:21:00+08:00
 - status: 連載
 
+## illusts
+
+- 志之村旭
+- Mika Pikazo
+- 
+
 ## series
 
 - name: 最強呪族転生～チート魔術師のスローライフ～
