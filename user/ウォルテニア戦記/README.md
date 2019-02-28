@@ -8,6 +8,10 @@
 - publisher: syosetu
 - novel_status: 0x0300
 
+## authors
+
+- 保利亮太
+
 ## illusts
 
 - bob
@@ -78,7 +82,8 @@
 - 人生就像除錯
 - cqwt
 - kenby1024
-- 
+- 亞爾斯
+- 不息不止
 
 # options
 
@@ -88,7 +93,8 @@
 
 ## textlayout
 
-- allow_lf2: true
+- allow_lf2: false
+- allow_lf3: true
 
 # link
 
