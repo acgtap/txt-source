@@ -11,6 +11,7 @@
 - publisher:
 - date:
 - status: 連載
+- novel_status: 0x0700
 
 ## series
 
@@ -56,6 +57,7 @@
 - 搞笑
 - 日本
 - 穿越
+- ハイファンタジー
 
 # contribute
 
@@ -77,7 +79,11 @@
 - 汪小彭
 - siumonmon
 - 若叶柚希
-- 
+- ユズキ
+- 龄落尘
+- 无名的蜘蛛子
+- 花生@提灯喵
+- 魔法鸽子咕酱
 
 # options
 
@@ -102,6 +108,7 @@
 
 # link
 
+- [nar.jp](https://narou.nar.jp/search.php?text=n7975cr&novel=all&genre=all&new_genre=all&length=0&down=0&up=100)
 - [不过是蜘蛛什么的吧](https://tieba.baidu.com/f?kw=%E4%B8%8D%E8%BF%87%E6%98%AF%E8%9C%98%E8%9B%9B%E4%BB%80%E4%B9%88%E7%9A%84&ie=utf-8 "不过是蜘蛛什么的")
 - [comic-walker](https://comic-walker.com/contents/detail/KDCW_KS11000007010000_68/)
 - [轉生成蜘蛛又怎樣！特設網站 ](https://promo.kadokawa.co.jp/kumo/)
