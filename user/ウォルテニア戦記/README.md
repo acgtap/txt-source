@@ -105,6 +105,7 @@
 
 * [kit1502](https://pan.baidu.com/s/1Rw0DHkgVAYNdCuYZfuit6A)
 * [kit1502 google](https://drive.google.com/drive/folders/1rRQHMrOKhlzlxix-Bdj7mk1oMX3UkHW_)
+* [人生就像除錯](https://pan.baidu.com/s/10hSLo_VV8v7m3wks7VTdcg) - l8uu
 * 
 
 
