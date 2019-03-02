@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1551456000000,
-    "timestamp": 1551484373927,
+    "todayTimestamp": 1551542400000,
+    "timestamp": 1551570732199,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -405,6 +405,71 @@
           }
         ]
       ]
+    },
+    "1551542400000": {
+      "segment_count": 2,
+      "segment": [
+        [
+          "dmzj",
+          "蜘蛛ですが、なにか？",
+          {
+            "segment_date": 1551570624863,
+            "segment_old": 12,
+            "segment": 31,
+            "init_date": 1545779972577,
+            "update_date": 1551542400000,
+            "update_count": 13
+          }
+        ],
+        [
+          "user",
+          "ウォルテニア戦記",
+          {
+            "segment_date": 1551570696591,
+            "segment_old": 9,
+            "segment": 4,
+            "init_date": 1546044567479,
+            "update_date": 1551542400000,
+            "update_count": 9
+          }
+        ]
+      ],
+      "epub_count": 2,
+      "epub": [
+        [
+          "syosetu",
+          "復讐は天罰を呼び、魔術士はぽやぽやを楽しみたい",
+          {
+            "init_date": 1551542400000,
+            "epub_date": 1551570714599,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 3,
+            "epub_basename": "復讐は天罰を呼び、魔術士はぽやぽやを楽しみたい.epub",
+            "novel_status": 256,
+            "update_date": 1551542400000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user_out",
+          "ウォルテニア戦記",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "沃特尼亞戰記.out.txt",
+            "epub_date": 1551570719280,
+            "volume_old": 5,
+            "chapter_old": 184,
+            "volume": 5,
+            "chapter": 184,
+            "epub_basename": "沃特尼亞戰記.epub",
+            "update_date": 1551542400000,
+            "update_count": 9,
+            "novel_status": 768
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -685,6 +750,18 @@
         "novel_status": 256,
         "update_date": 1549641600000,
         "update_count": 1
+      },
+      "復讐は天罰を呼び、魔術士はぽやぽやを楽しみたい": {
+        "init_date": 1551542400000,
+        "epub_date": 1551570714599,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 3,
+        "epub_basename": "復讐は天罰を呼び、魔術士はぽやぽやを楽しみたい.epub",
+        "novel_status": 256,
+        "update_date": 1551542400000,
+        "update_count": 1
       }
     },
     "user": {
@@ -755,12 +832,12 @@
         "update_count": 4
       },
       "ウォルテニア戦記": {
-        "segment_date": 1551397699771,
-        "segment_old": 2,
-        "segment": 9,
+        "segment_date": 1551570696591,
+        "segment_old": 9,
+        "segment": 4,
         "init_date": 1546044567479,
-        "update_date": 1551369600000,
-        "update_count": 8
+        "update_date": 1551542400000,
+        "update_count": 9
       },
       "你這種傢伙別想打贏魔王": {
         "segment_date": 1549928383591,
@@ -947,14 +1024,14 @@
       "ウォルテニア戦記": {
         "init_date": 1545494400000,
         "txt_basename": "沃特尼亞戰記.out.txt",
-        "epub_date": 1551397720605,
+        "epub_date": 1551570719280,
         "volume_old": 5,
         "chapter_old": 184,
         "volume": 5,
         "chapter": 184,
         "epub_basename": "沃特尼亞戰記.epub",
-        "update_date": 1551369600000,
-        "update_count": 8,
+        "update_date": 1551542400000,
+        "update_count": 9,
         "novel_status": 768
       },
       "２９歳独身は異世界で自由に生きた…かった。": {
@@ -2019,12 +2096,12 @@
     },
     "dmzj": {
       "蜘蛛ですが、なにか？": {
-        "segment_date": 1546388289029,
-        "segment_old": 26,
-        "segment": 12,
+        "segment_date": 1551570624863,
+        "segment_old": 12,
+        "segment": 31,
         "init_date": 1545779972577,
-        "update_date": 1546358400000,
-        "update_count": 12
+        "update_date": 1551542400000,
+        "update_count": 13
       },
       "不是真正同伴的我被逐出了勇者隊伍，因此決定在邊境過上慢生活": {
         "init_date": 1548172800000
@@ -2223,7 +2300,7 @@
         "segment_date": 1551484322490,
         "segment_old": 0,
         "segment": 5,
-        "init_date": 1551484322490,
+        "init_date": 1551456000000,
         "epub_date": 1551484358151,
         "volume_old": 0,
         "chapter_old": 0,
@@ -7690,6 +7767,65 @@
           "[婚约者恋上我的妹妹吧](https://tieba.baidu.com/f?kw=%E5%A9%9A%E7%BA%A6%E8%80%85%E6%81%8B%E4%B8%8A%E6%88%91%E7%9A%84%E5%A6%B9%E5%A6%B9&ie=utf-8 \"婚约者恋上我的妹妹\")"
         ]
       },
+      "復讐は天罰を呼び、魔術士はぽやぽやを楽しみたい": {
+        "novel": {
+          "title": "復讐は天罰を呼び、魔術士はぽやぽやを楽しみたい",
+          "title_zh1": "復仇喚來天罰",
+          "author": "月汰元",
+          "illust": "ジャン・ポポ",
+          "source": "http://ncode.syosetu.com/n8216dt/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/715eFp4JVtL.jpg",
+          "publisher": "syosetu",
+          "date": "2019-02-18T11:27:00+08:00",
+          "status": "連載",
+          "novel_status": 256,
+          "series": {
+            "name": "復讐は天罰を呼び、魔術士はぽやぽやを楽しみたい"
+          },
+          "preface": "【第六届ネット小说大赏获奖，2019年1月宝岛社发售第一卷】\n\n中年教师间藤未来生追查到了杀害妻子和女儿的犯人，在复仇之日，他因遭到了天罚而死亡。\n\n然而，他的精神体却被带到了一个未知的世界，并转移到了一个叫做里卡尔德·尤尼乌斯（リカルド・ユニウス）的少年身上。\n那个陌生的世界被称为『天神族的游乐场』，这是一个存在着魔术与魔兽、而且人类在初次杀死魔兽时，可以得到一个神之恩惠，这样的世界。\n一般而言，人们可以从五个恩惠中选择其一。然而，同样的情况发生在里卡尔德（间腾）身上，却出现了第六个选项。\n这是一篇由选择魔术士道路的里卡尔德和他的成长之路所编织而成的物语。\n\n【第六回ネット小説大賞受賞、２０１９年１月宝島社より第１巻発売】　\n　中年教師の間藤未来生は妻と娘を殺した犯人を突き止め復讐した日に天罰が下って死亡する。\n　但し、その精神は見知らぬ世界に飛ばされ、リカルド・ユニウスという少年に乗り移った。\n　その見知らぬ世界は『天神族の遊び場』と呼ばれ魔獣や魔術が存在していた。しかも人間は初めて魔獣を殺した時、神の恩恵を一つ貰える世界だった。\n　恩恵は五つの中から一つを選択する方法で与えられる。しかし、リカルド（間藤）の場合には六番目の選択肢が現れた。\n　この物語はリカルド（間藤）が魔術士としての道を選び、成長していく物語である。\n\n　世界観や設定が固まったので、書き溜めていたものを投稿します。更新は不定期になります。\n　感想は喜んで読ませて頂きますが、時間の関係で全部に返事が出来ないと思います。ご容赦下さい。",
+          "tags": [
+            "node-novel",
+            "syosetu",
+            "ハイファンタジー",
+            "ファンタジー",
+            "内政",
+            "冒険",
+            "妖樹飼育",
+            "復讐",
+            "書籍化",
+            "最強魔術士",
+            "残酷な描写あり",
+            "異世界転移",
+            "触媒",
+            "魔獣",
+            "魔術",
+            "魔術士協会"
+          ]
+        },
+        "contribute": [
+          "呉Kingkong",
+          "回眸一笑"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n8216dt"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n8216dt&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[复仇唤来天罚吧](https://tieba.baidu.com/f?kw=%E5%A4%8D%E4%BB%87%E5%94%A4%E6%9D%A5%E5%A4%A9%E7%BD%9A&ie=utf-8 \"复仇唤来天罚\")"
+        ]
+      },
       "最強職《竜騎士》から初級職《運び屋》": {
         "novel": {
           "title": "最強職《竜騎士》から初級職《運び屋》になったのに、なぜか勇者達から頼られてます",
@@ -11688,64 +11824,6 @@
           "[dip.jp](https://narou.nar.jp/search.php?text=n9543bw&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[我的怪物眷族吧](https://tieba.baidu.com/f?kw=%E6%88%91%E7%9A%84%E6%80%AA%E7%89%A9%E7%9C%B7%E6%97%8F&ie=utf-8&tp=0 \"我的怪物眷族\")",
           "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=101)"
-        ]
-      },
-      "復讐は天罰を呼び、魔術士はぽやぽやを楽しみたい": {
-        "novel": {
-          "title": "復讐は天罰を呼び、魔術士はぽやぽやを楽しみたい",
-          "title_zh1": "復仇喚來天罰",
-          "author": "月汰元",
-          "illust": "ジャン・ポポ",
-          "source": "http://ncode.syosetu.com/n8216dt/",
-          "cover": "https://images-na.ssl-images-amazon.com/images/I/715eFp4JVtL.jpg",
-          "publisher": "syosetu",
-          "date": "2019-02-18T11:27:00+08:00",
-          "status": "連載",
-          "novel_status": 256,
-          "series": {
-            "name": "復讐は天罰を呼び、魔術士はぽやぽやを楽しみたい"
-          },
-          "preface": "【第六届ネット小说大赏获奖，2019年1月宝岛社发售第一卷】\n\n中年教师间藤未来生追查到了杀害妻子和女儿的犯人，在复仇之日，他因遭到了天罚而死亡。\n\n然而，他的精神体却被带到了一个未知的世界，并转移到了一个叫做里卡尔德·尤尼乌斯（リカルド・ユニウス）的少年身上。\n那个陌生的世界被称为『天神族的游乐场』，这是一个存在着魔术与魔兽、而且人类在初次杀死魔兽时，可以得到一个神之恩惠，这样的世界。\n一般而言，人们可以从五个恩惠中选择其一。然而，同样的情况发生在里卡尔德（间腾）身上，却出现了第六个选项。\n这是一篇由选择魔术士道路的里卡尔德和他的成长之路所编织而成的物语。\n\n【第六回ネット小説大賞受賞、２０１９年１月宝島社より第１巻発売】　\n　中年教師の間藤未来生は妻と娘を殺した犯人を突き止め復讐した日に天罰が下って死亡する。\n　但し、その精神は見知らぬ世界に飛ばされ、リカルド・ユニウスという少年に乗り移った。\n　その見知らぬ世界は『天神族の遊び場』と呼ばれ魔獣や魔術が存在していた。しかも人間は初めて魔獣を殺した時、神の恩恵を一つ貰える世界だった。\n　恩恵は五つの中から一つを選択する方法で与えられる。しかし、リカルド（間藤）の場合には六番目の選択肢が現れた。\n　この物語はリカルド（間藤）が魔術士としての道を選び、成長していく物語である。\n\n　世界観や設定が固まったので、書き溜めていたものを投稿します。更新は不定期になります。\n　感想は喜んで読ませて頂きますが、時間の関係で全部に返事が出来ないと思います。ご容赦下さい。",
-          "tags": [
-            "node-novel",
-            "syosetu",
-            "ハイファンタジー",
-            "ファンタジー",
-            "内政",
-            "冒険",
-            "妖樹飼育",
-            "復讐",
-            "書籍化",
-            "最強魔術士",
-            "残酷な描写あり",
-            "異世界転移",
-            "触媒",
-            "魔獣",
-            "魔術",
-            "魔術士協会"
-          ]
-        },
-        "contribute": [
-          "回眸一笑"
-        ],
-        "options": {
-          "downloadOptions": {
-            "noFilePadend": true,
-            "filePrefixMode": 1,
-            "startIndex": 1
-          },
-          "syosetu": {
-            "txtdownload_id": "",
-            "series_id": "",
-            "novel_id": "n8216dt"
-          },
-          "textlayout": {
-            "allow_lf2": true
-          }
-        },
-        "link": [
-          "[dip.jp](https://narou.nar.jp/search.php?text=n8216dt&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[复仇唤来天罚吧](https://tieba.baidu.com/f?kw=%E5%A4%8D%E4%BB%87%E5%94%A4%E6%9D%A5%E5%A4%A9%E7%BD%9A&ie=utf-8 \"复仇唤来天罚\")"
         ]
       },
       "悠閑農家與亂碼技能": {
