@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1551542400000,
-    "timestamp": 1551570732199,
+    "todayTimestamp": 1551628800000,
+    "timestamp": 1551657427366,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -466,6 +466,114 @@
             "epub_basename": "沃特尼亞戰記.epub",
             "update_date": 1551542400000,
             "update_count": 9,
+            "novel_status": 768
+          }
+        ]
+      ]
+    },
+    "1551628800000": {
+      "epub_count": 6,
+      "epub": [
+        [
+          "cm_out",
+          "リビティウム皇国のブタクサ姫",
+          {
+            "epub_date": 1551657372617,
+            "volume_old": 7,
+            "chapter_old": 217,
+            "volume": 7,
+            "chapter": 218,
+            "epub_basename": "利貝提姆皇國的豚草姫.epub",
+            "init_date": 1545548908164,
+            "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
+            "update_date": 1551628800000,
+            "update_count": 15
+          }
+        ],
+        [
+          "dmzj_out",
+          "蜘蛛ですが、なにか？",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "轉生成蜘蛛又怎樣！.out.txt",
+            "epub_date": 1551657388422,
+            "volume_old": 17,
+            "chapter_old": 813,
+            "volume": 17,
+            "chapter": 813,
+            "epub_basename": "轉生成蜘蛛又怎樣！.epub",
+            "update_date": 1551628800000,
+            "update_count": 10,
+            "novel_status": 1792
+          }
+        ],
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1551138386796,
+            "segment_old": 4,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1551657389749,
+            "volume_old": 1,
+            "chapter_old": 34,
+            "volume": 1,
+            "chapter": 40,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1551628800000,
+            "update_count": 5
+          }
+        ],
+        [
+          "syosetu_out",
+          "俺　VS　人類　～アンデッドを使役して王国を襲う俺～",
+          {
+            "epub_date": 1551657394414,
+            "volume_old": 4,
+            "chapter_old": 120,
+            "volume": 4,
+            "chapter": 120,
+            "epub_basename": "俺　VS　人類　～使役不死者去襲擊王國的俺～.epub",
+            "novel_status": 1,
+            "init_date": 1545548928688,
+            "txt_basename": "俺　VS　人類　～使役不死者去襲擊王國的.out.txt",
+            "update_date": 1551628800000,
+            "update_count": 4
+          }
+        ],
+        [
+          "syosetu_out",
+          "望まぬ不死の冒険者",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "事與願違的不死冒險者.out.txt",
+            "epub_date": 1551657399592,
+            "volume_old": 11,
+            "chapter_old": 200,
+            "volume": 13,
+            "chapter": 255,
+            "epub_basename": "事與願違的不死冒險者.epub",
+            "update_date": 1551628800000,
+            "update_count": 10,
+            "novel_status": 768
+          }
+        ],
+        [
+          "user_out",
+          "没落予定なので、鍛治職人を目指す",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "没落予定なので、鍛治職人を目指す.out.txt",
+            "epub_date": 1551657403531,
+            "volume_old": 8,
+            "chapter_old": 147,
+            "volume": 8,
+            "chapter": 157,
+            "epub_basename": "没落予定なので、鍛治職人を目指す.epub",
+            "update_date": 1551628800000,
+            "update_count": 4,
             "novel_status": 768
           }
         ]
@@ -941,14 +1049,15 @@
       "没落予定なので、鍛治職人を目指す": {
         "init_date": 1545494400000,
         "txt_basename": "没落予定なので、鍛治職人を目指す.out.txt",
-        "epub_date": 1548511759354,
+        "epub_date": 1551657403531,
         "volume_old": 8,
-        "chapter_old": 144,
+        "chapter_old": 147,
         "volume": 8,
-        "chapter": 147,
+        "chapter": 157,
         "epub_basename": "没落予定なので、鍛治職人を目指す.epub",
-        "update_date": 1548432000000,
-        "update_count": 3
+        "update_date": 1551628800000,
+        "update_count": 4,
+        "novel_status": 768
       },
       "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～": {
         "init_date": 1545494400000,
@@ -1275,17 +1384,17 @@
         "update_count": 1
       },
       "俺　VS　人類　～アンデッドを使役して王国を襲う俺～": {
-        "epub_date": 1547528004839,
+        "epub_date": 1551657394414,
         "volume_old": 4,
-        "chapter_old": 116,
+        "chapter_old": 120,
         "volume": 4,
         "chapter": 120,
         "epub_basename": "俺　VS　人類　～使役不死者去襲擊王國的俺～.epub",
         "novel_status": 1,
         "init_date": 1545548928688,
         "txt_basename": "俺　VS　人類　～使役不死者去襲擊王國的.out.txt",
-        "update_date": 1547481600000,
-        "update_count": 3
+        "update_date": 1551628800000,
+        "update_count": 4
       },
       "用務員さんは勇者じゃありませんので": {
         "epub_date": 1547335778959,
@@ -1425,14 +1534,15 @@
       "望まぬ不死の冒険者": {
         "init_date": 1545494400000,
         "txt_basename": "事與願違的不死冒險者.out.txt",
-        "epub_date": 1548805623602,
+        "epub_date": 1551657399592,
         "volume_old": 11,
-        "chapter_old": 197,
-        "volume": 11,
-        "chapter": 200,
+        "chapter_old": 200,
+        "volume": 13,
+        "chapter": 255,
         "epub_basename": "事與願違的不死冒險者.epub",
-        "update_date": 1548777600000,
-        "update_count": 9
+        "update_date": 1551628800000,
+        "update_count": 10,
+        "novel_status": 768
       },
       "無職の英雄　(n6683ej)": {
         "init_date": 1545494400000,
@@ -1888,16 +1998,16 @@
     },
     "cm_out": {
       "リビティウム皇国のブタクサ姫": {
-        "epub_date": 1551225027899,
+        "epub_date": 1551657372617,
         "volume_old": 7,
-        "chapter_old": 214,
+        "chapter_old": 217,
         "volume": 7,
-        "chapter": 217,
+        "chapter": 218,
         "epub_basename": "利貝提姆皇國的豚草姫.epub",
         "init_date": 1545548908164,
         "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-        "update_date": 1551196800000,
-        "update_count": 14
+        "update_date": 1551628800000,
+        "update_count": 15
       }
     },
     "dmzj_out": {
@@ -1945,14 +2055,14 @@
       "蜘蛛ですが、なにか？": {
         "init_date": 1545494400000,
         "txt_basename": "轉生成蜘蛛又怎樣！.out.txt",
-        "epub_date": 1551484357333,
-        "volume_old": 16,
-        "chapter_old": 778,
+        "epub_date": 1551657388422,
+        "volume_old": 17,
+        "chapter_old": 813,
         "volume": 17,
         "chapter": 813,
         "epub_basename": "轉生成蜘蛛又怎樣！.epub",
-        "update_date": 1551456000000,
-        "update_count": 9,
+        "update_date": 1551628800000,
+        "update_count": 10,
         "novel_status": 1792
       }
     },
@@ -2233,15 +2343,15 @@
         "segment_old": 4,
         "segment": 1,
         "init_date": 1549641600000,
-        "epub_date": 1551138430092,
+        "epub_date": 1551657389749,
         "volume_old": 1,
-        "chapter_old": 21,
+        "chapter_old": 34,
         "volume": 1,
-        "chapter": 34,
+        "chapter": 40,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1551110400000,
-        "update_count": 4
+        "update_date": 1551628800000,
+        "update_count": 5
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
         "segment_date": 1549669112284,
@@ -4976,6 +5086,9 @@
           "title": "俺　VS　人類　～アンデッドを使役して王国を襲う俺～",
           "title_zh": "俺　VS　人類　～使役不死者去襲擊王國的俺～",
           "author": "もこもこ",
+          "illusts": [
+            "みてみん"
+          ],
           "source": "http://ncode.syosetu.com/n9551cp/",
           "cover": "https://img1.mitemin.net/ae/0w/ddthkl4dwwlfc9m245d68op5ov6_iyg_15o_1mu_8yhc.jpg",
           "publisher": "syosetu",
@@ -5014,6 +5127,7 @@
           "qaz9133684",
           "宅萌文化",
           "澪漓",
+          "玛尔轧哈",
           "閃光中的火把",
           "飄零leaf"
         ],
@@ -5723,6 +5837,7 @@
           "publisher": "syosetu",
           "date": "2018-09-09T18:00:00+08:00",
           "status": "連載",
+          "novel_status": 768,
           "series": {
             "name": "望まぬ不死の冒険者"
           },
@@ -5731,6 +5846,8 @@
             "R15",
             "node-novel",
             "syosetu",
+            "ハイファンタジー",
+            "ファンタジー",
             "残酷な描写あり",
             "現地主人公",
             "異世界",
@@ -9831,10 +9948,11 @@
           "source": "http://ncode.syosetu.com/n7940cn/",
           "cover": "https://shop.r10s.jp/book/cabinet/0142/9784040720142.jpg",
           "publisher": "syosetu",
-          "date": "2018-02-17T14:02:00+08:00",
+          "date": "2018-11-11T20:00:00+08:00",
           "status": "連載",
+          "novel_status": 768,
           "series": {
-            "name": ""
+            "name": "没落予定なので、鍛治職人を目指す"
           },
           "preface": "以前世玩的游戏的角色中重生的主人公。这个角色是与反派角色没落千金，晚年作为夫妇一起生活的名叫クルリ·ヘラン的男人。游戏的中没有详细描绘为什么会和反派千金一起没落的配角角色（男主游戏里就出场了一幕，而且那一幕啥都没做只是在吃饭而已-_-||）。但是，那样的事怎样都好。和谁一起成为贫穷的农民是讨厌的，所以手上要有职业。总之，以锻冶工匠为目标。\n\n\n没错！这是转生在乙女游戏里面的～～男主！（前世也是男的）而且男主前世玩过乙女游戏！！！（其实是乙女系的战斗游戏……也是乙女游戏啊(╯°Д°)╯︵┴┴！！！）\n\n前世でプレイしていたゲームのキャラに生まれ変わった主人公。そのキャラとは悪役令嬢とともに没落し、晩年を夫婦として一緒に暮らすクルリ・ヘランという男だった。\nゲームで詳細は描かれておらず、なぜ悪役令嬢と一緒になったのはわからないサブキャラ。しかし、そんなことはどうでもいい。\n誰と一緒になろうとも貧しい農民として生きていくのは嫌なので、手に職を持つことにする。とりあえずもともと才があった鍛治職人を目指します。\n★カドカワブックスより書籍化しております！１，２，３巻発売中です。",
           "tags": [
@@ -9842,6 +9960,8 @@
             "syosetu",
             "コメディ",
             "サブキャラ",
+            "ハイファンタジー",
+            "ファンタジー",
             "ラブコメ",
             "悪役令嬢",
             "悪役転生",
@@ -9861,6 +9981,7 @@
           "ビーム反射",
           "不幸之地",
           "人生不吃醒",
+          "反射REdive",
           "天灾级尻耳尾控",
           "戮祿乃北臣",
           "杯具伪lolicon",
