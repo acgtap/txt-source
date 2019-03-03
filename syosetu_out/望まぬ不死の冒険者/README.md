@@ -8,6 +8,7 @@
 - publisher: syosetu
 - date: 2018-09-09T18:00:00+08:00
 - status: 連載
+- novel_status: 0x0300
 
 ## series
 
@@ -25,6 +26,8 @@
 - node-novel
 - R15
 - syosetu
+- ファンタジー
+- ハイファンタジー
 - 残酷な描写あり
 - 現地主人公
 - 異世界
