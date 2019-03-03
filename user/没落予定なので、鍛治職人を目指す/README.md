@@ -8,12 +8,13 @@
 - source: http://ncode.syosetu.com/n7940cn/
 - cover: https://shop.r10s.jp/book/cabinet/0142/9784040720142.jpg
 - publisher: syosetu
-- date: 2018-02-17T14:02:00+08:00
+- date: 2018-11-11T20:00:00+08:00
 - status: 連載
+- novel_status: 0x0300
 
 ## series
 
-- name:
+- name: 没落予定なので、鍛治職人を目指す
 
 ## preface
 
@@ -36,6 +37,8 @@
 - syosetu
 - コメディ
 - サブキャラ
+- ハイファンタジー
+- ファンタジー
 - ラブコメ
 - 悪役令嬢
 - 悪役転生
@@ -67,6 +70,7 @@
 - 茶酒烟
 - 风之祭雅
 - ビーム反射
+- 反射REdive
 - 
 
 
