@@ -2,6 +2,7 @@
 
 - title: 望まぬ不死の冒険者
 - title_zh: 事與願違的不死冒險者
+- title_zh2: 非自願的不死冒險者
 - author: 丘/丘野　優
 - source: http://ncode.syosetu.com/n8577dn/
 - cover: https://images-na.ssl-images-amazon.com/images/I/91HFHrtpF0L.jpg
@@ -9,6 +10,11 @@
 - date: 2018-09-09T18:00:00+08:00
 - status: 連載
 - novel_status: 0x0300
+
+## illusts
+
+- じゃいあん
+- 中曽根ハイジ
 
 ## series
 
@@ -76,4 +82,5 @@
 - [txt by 龘實](https://pan.baidu.com/s/1dI8KPYu1TdWqRKEUW-tuEg) x1z8 , [tieba](http://tieba.baidu.com/p/5363881548?pid=118578420733#118578420733)
 - [txt by f2008zhq](https://pan.baidu.com/s/1IERTh8IYNkjPjSsgi3k4vQ) xc8g , [tieba](https://tieba.baidu.com/p/5967895104)
 - [Alice txt](https://pan.baidu.com/s/1Uo-opKhJNwdpRRVPhLwn-Q) 4bzy
+- [dm5](http://www.dm5.com/manhua-shiyuyuanweidebusimaoxianzhe/)
 - 
