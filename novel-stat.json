@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1551628800000,
-    "timestamp": 1551657427366,
+    "todayTimestamp": 1551715200000,
+    "timestamp": 1551743479582,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -578,6 +578,92 @@
           }
         ]
       ]
+    },
+    "1551715200000": {
+      "segment_count": 2,
+      "segment": [
+        [
+          "syosetu",
+          "望まぬ不死の冒険者",
+          {
+            "segment_date": 1551743416338,
+            "segment_old": 4,
+            "segment": 10,
+            "init_date": 1545607102002,
+            "update_date": 1551715200000,
+            "update_count": 9
+          }
+        ],
+        [
+          "yandere",
+          "転生ごときで逃げられるとでも、兄さん？",
+          {
+            "segment_date": 1551743436809,
+            "segment_old": 2,
+            "segment": 1,
+            "init_date": 1548604800000,
+            "epub_date": 1548977895318,
+            "volume_old": 5,
+            "chapter_old": 79,
+            "volume": 5,
+            "chapter": 79,
+            "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
+            "update_date": 1551715200000,
+            "update_count": 8
+          }
+        ]
+      ],
+      "epub_count": 3,
+      "epub": [
+        [
+          "girl",
+          "傀儡契約_(n4719ff)",
+          {
+            "init_date": 1551715200000,
+            "epub_date": 1551743458095,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 1,
+            "epub_basename": "傀儡契約.epub",
+            "update_date": 1551715200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu_out",
+          "望まぬ不死の冒険者",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "事與願違的不死冒險者.out.txt",
+            "epub_date": 1551743463914,
+            "volume_old": 13,
+            "chapter_old": 255,
+            "volume": 13,
+            "chapter": 255,
+            "epub_basename": "事與願違的不死冒險者.epub",
+            "update_date": 1551715200000,
+            "update_count": 11,
+            "novel_status": 768
+          }
+        ],
+        [
+          "yandere_out",
+          "転生ごときで逃げられるとでも、兄さん？",
+          {
+            "txt_basename": "以為轉個生就能逃掉嗎，哥哥？.out.txt",
+            "epub_date": 1551743467474,
+            "volume_old": 5,
+            "chapter_old": 84,
+            "volume": 5,
+            "chapter": 90,
+            "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
+            "init_date": 1549036800000,
+            "update_date": 1551715200000,
+            "update_count": 5
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -686,12 +772,12 @@
         "chapter": 1
       },
       "望まぬ不死の冒険者": {
-        "segment_date": 1548805583536,
-        "segment_old": 3,
-        "segment": 4,
+        "segment_date": 1551743416338,
+        "segment_old": 4,
+        "segment": 10,
         "init_date": 1545607102002,
-        "update_date": 1548777600000,
-        "update_count": 8
+        "update_date": 1551715200000,
+        "update_count": 9
       },
       "異常狀態是絕望": {
         "segment_date": 1545867724522,
@@ -1534,14 +1620,14 @@
       "望まぬ不死の冒険者": {
         "init_date": 1545494400000,
         "txt_basename": "事與願違的不死冒險者.out.txt",
-        "epub_date": 1551657399592,
-        "volume_old": 11,
-        "chapter_old": 200,
+        "epub_date": 1551743463914,
+        "volume_old": 13,
+        "chapter_old": 255,
         "volume": 13,
         "chapter": 255,
         "epub_basename": "事與願違的不死冒險者.epub",
-        "update_date": 1551628800000,
-        "update_count": 10,
+        "update_date": 1551715200000,
+        "update_count": 11,
         "novel_status": 768
       },
       "無職の英雄　(n6683ej)": {
@@ -2295,9 +2381,9 @@
     },
     "yandere": {
       "転生ごときで逃げられるとでも、兄さん？": {
-        "segment_date": 1550361575753,
-        "segment_old": 10,
-        "segment": 2,
+        "segment_date": 1551743436809,
+        "segment_old": 2,
+        "segment": 1,
         "init_date": 1548604800000,
         "epub_date": 1548977895318,
         "volume_old": 5,
@@ -2305,8 +2391,8 @@
         "volume": 5,
         "chapter": 79,
         "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
-        "update_date": 1550332800000,
-        "update_count": 7
+        "update_date": 1551715200000,
+        "update_count": 8
       }
     },
     "mirronight_out": {
@@ -2326,15 +2412,15 @@
     "yandere_out": {
       "転生ごときで逃げられるとでも、兄さん？": {
         "txt_basename": "以為轉個生就能逃掉嗎，哥哥？.out.txt",
-        "epub_date": 1550538304348,
+        "epub_date": 1551743467474,
         "volume_old": 5,
-        "chapter_old": 83,
+        "chapter_old": 84,
         "volume": 5,
-        "chapter": 84,
+        "chapter": 90,
         "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
         "init_date": 1549036800000,
-        "update_date": 1550505600000,
-        "update_count": 4
+        "update_date": 1551715200000,
+        "update_count": 5
       }
     },
     "girl": {
@@ -2419,6 +2505,17 @@
         "epub_basename": "JKハルは異世界で娼婦になった.epub",
         "novel_status": 257,
         "update_date": 1551456000000,
+        "update_count": 1
+      },
+      "傀儡契約_(n4719ff)": {
+        "init_date": 1551715200000,
+        "epub_date": 1551743458095,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 1,
+        "epub_basename": "傀儡契約.epub",
+        "update_date": 1551715200000,
         "update_count": 1
       }
     },
@@ -3554,6 +3651,72 @@
         ]
       }
     },
+    "family": {
+      "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生": {
+        "novel": {
+          "title": "冒険者ライセンスを剥奪されたおっさんだけど、愛娘ができたのでのんびり人生を謳歌する",
+          "title_zh": "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生",
+          "author": "斧名田マニマニ",
+          "illust": "藤ちょこ",
+          "source": "http://ncode.syosetu.com/n0442em/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/81RffG%2BZgeL.jpg",
+          "publisher": "syosetu",
+          "date": "2019-03-01T18:00:00+08:00",
+          "status": "連載",
+          "novel_status": 256,
+          "series": {
+            "name": "冒険者ライセンスを剥奪されたおっさんだけど、愛娘ができたのでのんびり人生を謳歌する"
+          },
+          "preface": "道格拉斯，曾作為最強魔術師成為傳說。\n但是，到了被稱為大叔的年紀，身體已經衰敗不堪了。\n在吃下一拳也會變成身負致命傷的狀況下，終於被公會剝_奪了冒險者執照。\n成為流浪者的道格拉斯，在旅途中遇到了被詛咒的少女，並把她救下來了。\n道格拉斯在救出少女的過程中取回了最強之力。\n雖然有大量來自國王，騎士團和公會的支援請求像以前一樣湧向道格拉斯的身邊……。\n\"我在忙養孩子。去找別人吧\"\n道格拉斯把只親近自己的少女當作女兒，下定決心與她繼續進行隨心所欲的旅行。\n在星空下搭帳篷，喝下熱湯。走在稻穗搖曳的街道上。在路過的地方，為了幫助別人而在無意間開了無雙。\n關係好的父娘的冒險今天還在繼續。\n\n【GAノベルより１巻発売中。コミカライズ決定しました！】\nかつては最強の魔術師として伝説になっていたダグラス。\nしかしおっさんと言われる年になったいま、体は衰えボロボロに。\nワンパン喰らっただけで致命傷を負うような状況に陥った結果、ついにギルドから冒険者ライセンスを剥奪されてしまう。\n――流れ者になったダグラスは、旅の途中で呪われた少女と出会い、彼女を救い出す。\n少女を助け出す過程で最強の力を再び取り戻したダグラス。\nダグラスの元へは国王や騎士団、ギルドから応援要請が大量に押し寄せるが……。\n「俺は子育てで忙しいんだ。他を当たってくれ」\n自分だけにしか懐かない少女を娘にしたダグラスは、彼女とふたり気ままな旅を続けることを決意する。\n星空の下にテントを張ってスープを飲んだり。稲穂の揺れる街道をてくてく歩いたり。立ち寄った先で人助けをするためうっかり無双したり――。\n仲良し父娘の冒険は今日も続く。\n\n※おかげさまで月刊総合ランキング１位になれました。ありがとうございます！",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "おっさん",
+            "ときどき生産",
+            "ときどき飯テロ",
+            "ほのぼの",
+            "ハイファンタジー",
+            "ファンタジー",
+            "不遇スタート",
+            "主人公最強",
+            "仲良し親子",
+            "加速する親バカ",
+            "年の差",
+            "幼女",
+            "旅",
+            "日常",
+            "書籍化",
+            "残酷な描写あり",
+            "父親",
+            "疑似家族",
+            "養育"
+          ]
+        },
+        "contribute": [
+          "人生就像除錯"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n0442em"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n0442em&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[得到了爱女悠闲的讴歌人生吧](https://tieba.baidu.com/f?kw=%E5%BE%97%E5%88%B0%E4%BA%86%E7%88%B1%E5%A5%B3%E6%82%A0%E9%97%B2%E7%9A%84%E8%AE%B4%E6%AD%8C%E4%BA%BA%E7%94%9F&ie=utf-8 \"得到了爱女悠闲的讴歌人生\")"
+        ]
+      }
+    },
     "girl": {
       "Free Life Fantasy Online ～人外姫様、始めました～": {
         "novel": {
@@ -3835,6 +3998,73 @@
           "https://www.alphapolis.co.jp/manga/official/657000190",
           "[今度こそ幸せになります！　小話集](https://www.alphapolis.co.jp/novel/219114826/26062831)",
           "[今度こそ幸せになります！　拍手の中身](https://www.alphapolis.co.jp/novel/219114826/687062827)"
+        ]
+      },
+      "傀儡契約_(n4719ff)": {
+        "novel": {
+          "title": "「敗北者」と呼ばれ故郷から追放されたので、転生賢者の力を使い最強になって見返してやります！　～マリオネット・プロトコル～",
+          "title_short": "傀儡契約",
+          "title_zh1": "被稱為敗北者，被故鄉放逐，使用轉生賢者的力量成為最強還以顏色！　～Marionnette・Protocol～",
+          "author": "kiki",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n4719ff/",
+          "cover": "",
+          "publisher": "syosetu",
+          "date": "2019-03-04T14:43:00+08:00",
+          "status": "連載",
+          "novel_status": 0,
+          "series": {
+            "name": "「敗北者」と呼ばれ故郷から追放されたので、転生賢者の力を使い最強になって見返してやります！　～マリオネット・プロトコル～"
+          },
+          "preface": "在故鄉居住區生活的普莉姆拉，蒙受冤屈被流放到公認人類不可能生存的、怪物徘徊的外部世界。\n吊車尾的她，因為無法操縱對抗怪物的唯一手段--機動兵器“Doll”（人偶），很快被怪物逼至死地。\n可是體內暗藏的賢者之魂覺醒之時，普莉姆拉和她駕駛的Doll發揮出壓倒性的力量。\n為了要給看不起自己的那些家伙還以顏色，取回被奪走的事物，普莉姆拉發揮“賢者之力”進行戰鬥。\n\n故郷のコロニーで暮らすプリムラは、濡れ衣を着せられ、人間が生き残ることは不可能と言われる、化物の徘徊する外の世界へと追放されてしまう。\n落ちこぼれの彼女は、化物に対抗できる唯一の手段、機動兵器“ドール”をなぜか操縦することができないため、すぐに追い詰められ死にかけてしまうのだった。\nしかしその身に宿る賢者の魂が目覚めた時、プリムラは、そして彼女の乗るドールは、圧倒的な力を発揮する。\n自分を見下してきた連中を見返し、奪われたものを取り戻すため、プリムラは最強の“賢者の力”を振るい戦う。",
+          "tags": [
+            "R15",
+            "SF",
+            "node-novel",
+            "syosetu",
+            "ざまぁ",
+            "ガールズラブ",
+            "ロボット",
+            "人機百合",
+            "女主人公",
+            "学園",
+            "復仇",
+            "怪談",
+            "懸疑",
+            "成り上がり",
+            "機戰",
+            "残酷な描写あり",
+            "百合",
+            "空想科学[SF]",
+            "転生賢者",
+            "追放"
+          ],
+          "title_short2": "傀儡協議"
+        },
+        "contribute": [
+          "6667787",
+          "ACG之神上",
+          "hououmon",
+          "mammothmk3"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n4719ff"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n4719ff&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "https://tieba.baidu.com/p/6028562307"
         ]
       }
     },
@@ -5831,7 +6061,12 @@
         "novel": {
           "title": "望まぬ不死の冒険者",
           "title_zh": "事與願違的不死冒險者",
+          "title_zh2": "非自願的不死冒險者",
           "author": "丘/丘野　優",
+          "illusts": [
+            "じゃいあん",
+            "中曽根ハイジ"
+          ],
           "source": "http://ncode.syosetu.com/n8577dn/",
           "cover": "https://images-na.ssl-images-amazon.com/images/I/91HFHrtpF0L.jpg",
           "publisher": "syosetu",
@@ -5891,7 +6126,8 @@
           "[txr by SDK_C](https://tieba.baidu.com/p/5854693784?pid=121650524888&cid=0&red_tag=0833195265#121650524888)",
           "[txt by 龘實](https://pan.baidu.com/s/1dI8KPYu1TdWqRKEUW-tuEg) x1z8 , [tieba](http://tieba.baidu.com/p/5363881548?pid=118578420733#118578420733)",
           "[txt by f2008zhq](https://pan.baidu.com/s/1IERTh8IYNkjPjSsgi3k4vQ) xc8g , [tieba](https://tieba.baidu.com/p/5967895104)",
-          "[Alice txt](https://pan.baidu.com/s/1Uo-opKhJNwdpRRVPhLwn-Q) 4bzy"
+          "[Alice txt](https://pan.baidu.com/s/1Uo-opKhJNwdpRRVPhLwn-Q) 4bzy",
+          "[dm5](http://www.dm5.com/manhua-shiyuyuanweidebusimaoxianzhe/)"
         ]
       },
       "極星から零れた少女": {
@@ -11783,7 +12019,8 @@
           "百石尤莉叶",
           "絨質墮菌",
           "蜘蛛憂鬱吃葡萄",
-          "贴吧用户_0JtSWaW"
+          "贴吧用户_0JtSWaW",
+          "黄昏广藿香"
         ],
         "options": {
           "downloadOptions": {
