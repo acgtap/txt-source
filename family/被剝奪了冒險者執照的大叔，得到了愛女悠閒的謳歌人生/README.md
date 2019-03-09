@@ -2,6 +2,7 @@
 
 - title: 冒険者ライセンスを剥奪されたおっさんだけど、愛娘ができたのでのんびり人生を謳歌する
 - title_zh: 被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生
+- title_tieba: 得到了爱女悠闲的讴歌人生
 - author: 斧名田マニマニ
 - illust: 藤ちょこ
 - source: http://ncode.syosetu.com/n0442em/
@@ -69,6 +70,8 @@
 - 父親
 - 疑似家族
 - 養育
+- 家族
+- 親情
 - 
 
 # contribute
