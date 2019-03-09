@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1552060800000,
-    "timestamp": 1552134261168,
+    "todayTimestamp": 1552147200000,
+    "timestamp": 1552175676452,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -3575,6 +3575,28 @@
           }
         ]
       ]
+    },
+    "1552147200000": {
+      "epub_count": 1,
+      "epub": [
+        [
+          "family",
+          "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生",
+          {
+            "init_date": 1552147200000,
+            "txt_basename": "被剝奪了冒險者執照的大叔，得到了愛女悠閒.out.txt",
+            "epub_date": 1552175667293,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 1,
+            "epub_basename": "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生.epub",
+            "novel_status": 256,
+            "update_date": 1552147200000,
+            "update_count": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -6062,7 +6084,7 @@
         "segment_date": 1552133550374,
         "segment_old": 0,
         "segment": 5,
-        "init_date": 1552133550374,
+        "init_date": 1552060800000,
         "txt_basename": "轉生成村民的我作為最強的“武器使用者”每.out.txt",
         "volume_old": 0,
         "chapter_old": 0,
@@ -6135,6 +6157,21 @@
         "epub_basename": "VRMMO 學園的愉快魔改推薦～把最弱職業打造出最高傷害～.epub",
         "novel_status": 257,
         "update_date": 1552060800000,
+        "update_count": 1
+      }
+    },
+    "family": {
+      "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生": {
+        "init_date": 1552147200000,
+        "txt_basename": "被剝奪了冒險者執照的大叔，得到了愛女悠閒.out.txt",
+        "epub_date": 1552175667293,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 1,
+        "epub_basename": "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生.epub",
+        "novel_status": 256,
+        "update_date": 1552147200000,
         "update_count": 1
       }
     }
@@ -7251,6 +7288,7 @@
             "主人公最強",
             "仲良し親子",
             "加速する親バカ",
+            "家族",
             "年の差",
             "幼女",
             "旅",
@@ -7259,8 +7297,10 @@
             "残酷な描写あり",
             "父親",
             "疑似家族",
+            "親情",
             "養育"
-          ]
+          ],
+          "title_tieba": "得到了爱女悠闲的讴歌人生"
         },
         "contribute": [
           "人生就像除錯"
