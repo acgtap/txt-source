@@ -1,7 +1,7 @@
 
 # novel
 
-- title: 自称贤者弟子的贤者
+- title: 自稱賢者弟子的賢者
 - title_jp: 賢者の弟子を名乗る賢者
 - author: りゅうせんひろつぐ
 - source: http://ncode.syosetu.com/n6829bd/
