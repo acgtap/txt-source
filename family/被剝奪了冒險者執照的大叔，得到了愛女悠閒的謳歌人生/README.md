@@ -10,7 +10,11 @@
 - publisher: syosetu
 - date: 2019-03-01T18:00:00+08:00
 - status: 連載
-- novel_status: 0x0100
+- novel_status: 0x0300
+
+## illuss
+
+- 唯浦史
 
 ## series
 
@@ -72,12 +76,12 @@
 - 養育
 - 家族
 - 親情
-- 
+-
 
 # contribute
 
 - 人生就像除錯
-- 
+-
 
 # options
 
@@ -101,7 +105,8 @@
 
 - [narou.nar.jp](https://narou.nar.jp/search.php?text=n0442em&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [得到了爱女悠闲的讴歌人生吧](https://tieba.baidu.com/f?kw=%E5%BE%97%E5%88%B0%E4%BA%86%E7%88%B1%E5%A5%B3%E6%82%A0%E9%97%B2%E7%9A%84%E8%AE%B4%E6%AD%8C%E4%BA%BA%E7%94%9F&ie=utf-8 "得到了爱女悠闲的讴歌人生")
-- 
+- [dm5](http://www.dm5.com/manhua-beibaoduolemaoxianzhezhizhaodedashu/)
+-
 
 
 
