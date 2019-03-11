@@ -1,348 +1,11 @@
 {
   "meta": {
-    "todayTimestamp": 1552147200000,
-    "timestamp": 1552175676452,
+    "todayTimestamp": 1552233600000,
+    "timestamp": 1552261939461,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
   "history": {
-    "1550764800000": {
-      "epub_count": 1,
-      "epub": [
-        [
-          "cm",
-          "王国へ続く道",
-          {
-            "init_date": 1550419200000,
-            "epub_date": 1550792949579,
-            "volume_old": 1,
-            "chapter_old": 4,
-            "volume": 1,
-            "chapter": 5,
-            "epub_basename": "王国へ続く道.epub",
-            "update_date": 1550764800000,
-            "update_count": 4,
-            "novel_status": 256,
-            "segment_date": 1550620118268,
-            "segment_old": 0,
-            "segment": 1
-          }
-        ]
-      ]
-    },
-    "1550851200000": {
-      "segment_count": 2,
-      "segment": [
-        [
-          "syosetu",
-          "アラフォー賢者の異世界生活日記",
-          {
-            "segment_date": 1550879157284,
-            "segment_old": 6,
-            "segment": 23,
-            "init_date": 1547568000000,
-            "update_date": 1550851200000,
-            "update_count": 3
-          }
-        ],
-        [
-          "user",
-          "異世界迷宮の最深部を目指そう",
-          {
-            "init_date": 1546963200000,
-            "segment_date": 1550879368725,
-            "segment_old": 191,
-            "segment": 14,
-            "update_date": 1550851200000,
-            "update_count": 5
-          }
-        ]
-      ],
-      "epub_count": 2,
-      "epub": [
-        [
-          "ts_out",
-          "幼女転生",
-          {
-            "txt_basename": "幼女転生.out.txt",
-            "epub_date": 1550879391418,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 5,
-            "chapter": 61,
-            "epub_basename": "幼女転生.epub",
-            "init_date": 1550879391418,
-            "update_date": 1550851200000,
-            "update_count": 1
-          }
-        ],
-        [
-          "user_out",
-          "異世界迷宮の最深部を目指そう",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "異世界迷宮の最深部を目指そう.out.txt",
-            "epub_date": 1550879407909,
-            "volume_old": 28,
-            "chapter_old": 393,
-            "volume": 28,
-            "chapter": 395,
-            "epub_basename": "異世界迷宮の最深部を目指そう.epub",
-            "update_date": 1550851200000,
-            "update_count": 5
-          }
-        ]
-      ]
-    },
-    "1550937600000": {
-      "epub_count": 2,
-      "epub": [
-        [
-          "cm",
-          "Ａランク冒険者のスローライフ",
-          {
-            "init_date": 1550937600000,
-            "epub_date": 1550965597773,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 1,
-            "epub_basename": "Ａランク冒険者のスローライフ.epub",
-            "novel_status": 256,
-            "update_date": 1550937600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "cm",
-          "姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜",
-          {
-            "init_date": 1545494400000,
-            "segment_date": 1549669096100,
-            "segment_old": 13,
-            "segment": 2,
-            "epub_date": 1550965597271,
-            "volume_old": 4,
-            "chapter_old": 77,
-            "volume": 4,
-            "chapter": 80,
-            "epub_basename": "我的同學是姬騎士.epub",
-            "update_date": 1550937600000,
-            "update_count": 8,
-            "novel_status": 770
-          }
-        ]
-      ]
-    },
-    "1551024000000": {
-      "epub_count": 2,
-      "epub": [
-        [
-          "cm",
-          "Ａランク冒険者のスローライフ",
-          {
-            "init_date": 1550937600000,
-            "epub_date": 1551051972621,
-            "volume_old": 1,
-            "chapter_old": 1,
-            "volume": 1,
-            "chapter": 3,
-            "epub_basename": "Ａ級冒險者的悠閒生活.epub",
-            "novel_status": 256,
-            "update_date": 1551024000000,
-            "update_count": 2
-          }
-        ],
-        [
-          "cm",
-          "姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜",
-          {
-            "init_date": 1545494400000,
-            "segment_date": 1549669096100,
-            "segment_old": 13,
-            "segment": 2,
-            "epub_date": 1551051972101,
-            "volume_old": 4,
-            "chapter_old": 80,
-            "volume": 4,
-            "chapter": 80,
-            "epub_basename": "我的同學是姬騎士.epub",
-            "update_date": 1551024000000,
-            "update_count": 9,
-            "novel_status": 770
-          }
-        ]
-      ]
-    },
-    "1551110400000": {
-      "segment_count": 1,
-      "segment": [
-        [
-          "girl",
-          "Genocide Online ～極惡千金的玩遊戲日記～",
-          {
-            "segment_date": 1551138386796,
-            "segment_old": 4,
-            "segment": 1,
-            "init_date": 1549641600000,
-            "epub_date": 1551138430092,
-            "volume_old": 1,
-            "chapter_old": 21,
-            "volume": 1,
-            "chapter": 34,
-            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
-            "novel_status": 256,
-            "update_date": 1551110400000,
-            "update_count": 4
-          }
-        ]
-      ],
-      "epub_count": 2,
-      "epub": [
-        [
-          "girl",
-          "Genocide Online ～極惡千金的玩遊戲日記～",
-          {
-            "segment_date": 1551138386796,
-            "segment_old": 4,
-            "segment": 1,
-            "init_date": 1549641600000,
-            "epub_date": 1551138430092,
-            "volume_old": 1,
-            "chapter_old": 21,
-            "volume": 1,
-            "chapter": 34,
-            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
-            "novel_status": 256,
-            "update_date": 1551110400000,
-            "update_count": 4
-          }
-        ],
-        [
-          "ts_out",
-          "幼女転生",
-          {
-            "txt_basename": "幼女転生.out.txt",
-            "epub_date": 1551138433293,
-            "volume_old": 5,
-            "chapter_old": 61,
-            "volume": 5,
-            "chapter": 61,
-            "epub_basename": "幼女転生.epub",
-            "init_date": 1550851200000,
-            "update_date": 1551110400000,
-            "update_count": 2
-          }
-        ]
-      ]
-    },
-    "1551196800000": {
-      "epub_count": 4,
-      "epub": [
-        [
-          "cm_out",
-          "リビティウム皇国のブタクサ姫",
-          {
-            "epub_date": 1551225027899,
-            "volume_old": 7,
-            "chapter_old": 214,
-            "volume": 7,
-            "chapter": 217,
-            "epub_basename": "利貝提姆皇國的豚草姫.epub",
-            "init_date": 1545548908164,
-            "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-            "update_date": 1551196800000,
-            "update_count": 14
-          }
-        ],
-        [
-          "syosetu_out",
-          "ロリータ・ガンバレット　～魔弾幼女の異世界戦記～",
-          {
-            "epub_date": 1551225034439,
-            "volume_old": 6,
-            "chapter_old": 103,
-            "volume": 6,
-            "chapter": 105,
-            "init_date": 1545261458252,
-            "txt_basename": "魔彈蘿莉的異世界戰記.out.txt",
-            "epub_basename": "魔彈蘿莉的異世界戰記.epub",
-            "update_date": 1551196800000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu_out",
-          "最強呪族転生",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "最強呪族転生.out.txt",
-            "epub_date": 1551225039041,
-            "volume_old": 6,
-            "chapter_old": 230,
-            "volume": 6,
-            "chapter": 236,
-            "epub_basename": "最強呪族転生.epub",
-            "update_date": 1551196800000,
-            "update_count": 4
-          }
-        ],
-        [
-          "user_out",
-          "ウォルテニア戦記",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "沃特尼亞戰記.out.txt",
-            "epub_date": 1551225043205,
-            "volume_old": 5,
-            "chapter_old": 177,
-            "volume": 5,
-            "chapter": 184,
-            "epub_basename": "沃特尼亞戰記.epub",
-            "update_date": 1551196800000,
-            "update_count": 7,
-            "novel_status": 768
-          }
-        ]
-      ]
-    },
-    "1551369600000": {
-      "segment_count": 1,
-      "segment": [
-        [
-          "user",
-          "ウォルテニア戦記",
-          {
-            "segment_date": 1551397699771,
-            "segment_old": 2,
-            "segment": 9,
-            "init_date": 1546044567479,
-            "update_date": 1551369600000,
-            "update_count": 8
-          }
-        ]
-      ],
-      "epub_count": 1,
-      "epub": [
-        [
-          "user_out",
-          "ウォルテニア戦記",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "沃特尼亞戰記.out.txt",
-            "epub_date": 1551397720605,
-            "volume_old": 5,
-            "chapter_old": 184,
-            "volume": 5,
-            "chapter": 184,
-            "epub_basename": "沃特尼亞戰記.epub",
-            "update_date": 1551369600000,
-            "update_count": 8,
-            "novel_status": 768
-          }
-        ]
-      ]
-    },
     "1551456000000": {
       "segment_count": 1,
       "segment": [
@@ -3597,6 +3260,54 @@
           }
         ]
       ]
+    },
+    "1552233600000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "family",
+          "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生",
+          {
+            "init_date": 1552147200000,
+            "txt_basename": "被剝奪了冒險者執照的大叔，得到了愛女悠閒.out.txt",
+            "epub_date": 1552261931229,
+            "volume_old": 1,
+            "chapter_old": 1,
+            "volume": 1,
+            "chapter": 2,
+            "epub_basename": "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生.epub",
+            "novel_status": 768,
+            "update_date": 1552233600000,
+            "update_count": 2,
+            "segment_date": 1552261885555,
+            "segment_old": 0,
+            "segment": 1
+          }
+        ]
+      ],
+      "epub_count": 1,
+      "epub": [
+        [
+          "family",
+          "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生",
+          {
+            "init_date": 1552147200000,
+            "txt_basename": "被剝奪了冒險者執照的大叔，得到了愛女悠閒.out.txt",
+            "epub_date": 1552261931229,
+            "volume_old": 1,
+            "chapter_old": 1,
+            "volume": 1,
+            "chapter": 2,
+            "epub_basename": "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生.epub",
+            "novel_status": 768,
+            "update_date": 1552233600000,
+            "update_count": 2,
+            "segment_date": 1552261885555,
+            "segment_old": 0,
+            "segment": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -6164,15 +5875,18 @@
       "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生": {
         "init_date": 1552147200000,
         "txt_basename": "被剝奪了冒險者執照的大叔，得到了愛女悠閒.out.txt",
-        "epub_date": 1552175667293,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1552261931229,
+        "volume_old": 1,
+        "chapter_old": 1,
         "volume": 1,
-        "chapter": 1,
+        "chapter": 2,
         "epub_basename": "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生.epub",
-        "novel_status": 256,
-        "update_date": 1552147200000,
-        "update_count": 1
+        "novel_status": 768,
+        "update_date": 1552233600000,
+        "update_count": 2,
+        "segment_date": 1552261885555,
+        "segment_old": 0,
+        "segment": 1
       }
     }
   },
@@ -7269,7 +6983,7 @@
           "publisher": "syosetu",
           "date": "2019-03-01T18:00:00+08:00",
           "status": "連載",
-          "novel_status": 256,
+          "novel_status": 768,
           "series": {
             "name": "冒険者ライセンスを剥奪されたおっさんだけど、愛娘ができたのでのんびり人生を謳歌する"
           },
@@ -7300,6 +7014,9 @@
             "親情",
             "養育"
           ],
+          "illuss": [
+            "唯浦史"
+          ],
           "title_tieba": "得到了爱女悠闲的讴歌人生"
         },
         "contribute": [
@@ -7322,7 +7039,8 @@
         },
         "link": [
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n0442em&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[得到了爱女悠闲的讴歌人生吧](https://tieba.baidu.com/f?kw=%E5%BE%97%E5%88%B0%E4%BA%86%E7%88%B1%E5%A5%B3%E6%82%A0%E9%97%B2%E7%9A%84%E8%AE%B4%E6%AD%8C%E4%BA%BA%E7%94%9F&ie=utf-8 \"得到了爱女悠闲的讴歌人生\")"
+          "[得到了爱女悠闲的讴歌人生吧](https://tieba.baidu.com/f?kw=%E5%BE%97%E5%88%B0%E4%BA%86%E7%88%B1%E5%A5%B3%E6%82%A0%E9%97%B2%E7%9A%84%E8%AE%B4%E6%AD%8C%E4%BA%BA%E7%94%9F&ie=utf-8 \"得到了爱女悠闲的讴歌人生\")",
+          "[dm5](http://www.dm5.com/manhua-beibaoduolemaoxianzhezhizhaodedashu/)"
         ]
       }
     },
@@ -16148,6 +15866,66 @@
           "[comic-walker](https://comic-walker.com/contents/detail/KDCW_EB03200101010000_68/)",
           "[epub](https://mega.nz/#F!4x9RVZLT!Tucgvy-PK--6YV13oaC2LA) - joseph261059",
           "[dm5 漫画](http://www.dm5.com/manhua-xingcunlianjinshushixiangzaichenglijingjingshenghuo/ \"幸存炼金术师想在城里静静生活\")"
+        ]
+      },
+      "美女と賢者と魔人の剣": {
+        "novel": {
+          "title": "美女と賢者と魔人の剣",
+          "author": "片遊佐 牽太",
+          "illust": "",
+          "illusts": [
+            "モティカ",
+            "六時"
+          ],
+          "source": "http://ncode.syosetu.com/n4191cj/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/81tuJC3KZzL.jpg",
+          "publisher": "syosetu",
+          "date": "2018-02-02T22:36:00+08:00",
+          "status": "完結済",
+          "novel_status": 769,
+          "series": {
+            "name": "美女と賢者と魔人の剣"
+          },
+          "preface": "※コミックヴァルキリーでコミカライズ連載中。第三回ネット小説大賞（旧名：なろうコン）受賞作／書籍①～③巻発売中。\n\n　世界と世界の狭間に落ちたアラサー会社員・安良川 圭（ケイ）は、一つの『制約』と引き替えに『モノの状態を把握する能力』を手に入れる。だが、ケイはその能力以外、至って普通の力しか持ち合わせていない。異世界に行き着いた彼に出来ることは、あらゆるモノの状態を見抜き、情報を自らの成長に活かして生き抜くことだ。\n　そんな中、敵に襲われてしまったケイは、一人の人物によって命を救われることになる。ところが、その人物には重大な『秘密』があった――。\n\n　異世界で出会う美女とともに、強大な魔人に挑むバトル／冒険ファンタジー。\n\n★には地図を掲載。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "なろうコン受賞作",
+            "コミカライズ",
+            "ハイファンタジー",
+            "ハーレム要素あり",
+            "バトル・戦闘",
+            "ファンタジー",
+            "冒険",
+            "剣と魔法",
+            "完結済",
+            "心劍",
+            "残酷な描写あり",
+            "異世界",
+            "異世界転移"
+          ],
+          "title_tieba": "美女与贤者与魔人之剑"
+        },
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n4191cj"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n4191cj&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[美女与贤者与魔人之剑吧](https://tieba.baidu.com/f?kw=%E7%BE%8E%E5%A5%B3%E4%B8%8E%E8%B4%A4%E8%80%85%E4%B8%8E%E9%AD%94%E4%BA%BA%E4%B9%8B%E5%89%91&ie=utf-8 \"美女与贤者与魔人之剑\")",
+          "[dm5](http://www.dm5.com/manhua-meinvyuxianzheyumorenzhijian/ \"美女与贤者与魔人之剑\")"
         ]
       },
       "転生王子と憂いの大国": {
