@@ -5,11 +5,16 @@
 - title_zh1: 闲人魔王的异世界之旅
 - title_zh2: 閑人以魔王之姿在異世界闖蕩 \~時而開掛的休閒之旅\~
 - author: 藍敦
+- illust: 桂井よしあき
 - source: http://ncode.syosetu.com/n2435cr/
 - cover: https://images-na.ssl-images-amazon.com/images/I/81lL3xQjiPL.jpg
 - publisher: syosetu
 - date: 2018-06-24T00:00:00+08:00
 - status: 連載
+
+## illusts
+
+-
 
 ## series
 
@@ -56,7 +61,7 @@
 - linpop
 - 喵到飞机
 - siumonmon
-- 
+-
 
 # options
 
@@ -79,5 +84,5 @@
 - [难找的稀少的绝版的轻小说整合](http://lscj.ys168.com/) by [lansechenji](http://tieba.baidu.com/home/main?un=lansechenji&ie=utf-8&fr=pb&red_tag=y2750700121)
 - [夜空下之旅途](http://tieba.baidu.com/home/main/?un=%E5%A4%9C%E7%A9%BA%E4%B8%8B%E4%B9%8B%E6%97%85%E9%80%94&ie=utf-8&fr=frs&red_tag=b0506494179)
 - [夜空下之旅途](https://www.jianguoyun.com/p/DTpScpsQxszoBhicn2M) - 堅果
-- 
+-
 
