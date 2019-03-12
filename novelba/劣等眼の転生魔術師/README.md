@@ -11,7 +11,7 @@
 - status:
 - novel_status: 0x0300
 
-##
+## illusts
 
 - 峠比呂
 - ミユキルリア
