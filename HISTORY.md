@@ -1,5 +1,12 @@
 # HISTORY
 
+## 2019-03-12
+
+### Epub
+
+- [暇人、魔王の姿で異世界へ](syosetu_out/%E6%9A%87%E4%BA%BA%E3%80%81%E9%AD%94%E7%8E%8B%E3%81%AE%E5%A7%BF%E3%81%A7%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%B8) - syosetu_out
+  <br/>( v: 10 , c: 226, add: 1 )
+
 ## 2019-03-11
 
 ### Epub

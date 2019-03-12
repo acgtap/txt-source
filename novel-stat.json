@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1552233600000,
-    "timestamp": 1552261939461,
+    "todayTimestamp": 1552320000000,
+    "timestamp": 1552350036524,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -3308,6 +3308,27 @@
           }
         ]
       ]
+    },
+    "1552320000000": {
+      "epub_count": 1,
+      "epub": [
+        [
+          "syosetu_out",
+          "暇人、魔王の姿で異世界へ",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "暇人、魔王の姿で異世界へ.out.txt",
+            "epub_date": 1552350025305,
+            "volume_old": 10,
+            "chapter_old": 225,
+            "volume": 10,
+            "chapter": 226,
+            "epub_basename": "暇人、魔王の姿で異世界へ.epub",
+            "update_date": 1552320000000,
+            "update_count": 5
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -4879,14 +4900,14 @@
       "暇人、魔王の姿で異世界へ": {
         "init_date": 1545494400000,
         "txt_basename": "暇人、魔王の姿で異世界へ.out.txt",
-        "epub_date": 1547854355602,
+        "epub_date": 1552350025305,
         "volume_old": 10,
         "chapter_old": 225,
         "volume": 10,
-        "chapter": 225,
+        "chapter": 226,
         "epub_basename": "暇人、魔王の姿で異世界へ.epub",
-        "update_date": 1552060800000,
-        "update_count": 4
+        "update_date": 1552320000000,
+        "update_count": 5
       },
       "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。_(n5691dd)": {
         "init_date": 1545494400000,
@@ -5887,6 +5908,16 @@
         "segment_date": 1552261885555,
         "segment_old": 0,
         "segment": 1
+      }
+    },
+    "novelba": {
+      "劣等眼の転生魔術師": {
+        "init_date": 1552320000000
+      }
+    },
+    "z.bookmark": {
+      "緑王の盾と真冬の国": {
+        "init_date": 1552320000000
       }
     }
   },
@@ -8360,6 +8391,66 @@
         ]
       }
     },
+    "novelba": {
+      "劣等眼の転生魔術師": {
+        "novel": {
+          "title": "劣等眼の転生魔術師　～　虐げられた元勇者は未来の世界を余裕で生き抜く　　～",
+          "author": "柑橘ゆすら",
+          "illust": "",
+          "illusts": [
+            "峠比呂",
+            "ミユキルリア",
+            "猫箱ようたろ"
+          ],
+          "source": "https://novelba.com/works/851684",
+          "cover": "https://images-fe.ssl-images-amazon.com/images/I/61EZoMOvMPL.jpg",
+          "publisher": "novelba",
+          "date": "2018-11-04T00:00:00+08:00",
+          "status": "",
+          "novel_status": 768,
+          "series": {
+            "name": "劣等眼の転生魔術師　～　虐げられた元勇者は未来の世界を余裕で生き抜く　　～"
+          },
+          "preface": "　＊書籍化決まりました。ダッシュエックス文庫より２０１８年７月２５日に１巻発売予定です！\n\n\n　生まれ持った眼の色によって能力が決められる世界で、圧倒的な力を持った天才魔術師がいた。\n\n　男の名前はアベル。\n　最強の力を持つアベルは理想の世界を求めて、遥か未来に魂を転生させる。\n\n　しかし、未来の世界では何故かアベルの持つ至高の目が『劣等眼』と呼ばれ、バカにされるようになっていた。\n\n　過去からやってきた最強の英雄は、自由気ままに未来の魔術師たちの常識をぶち壊していく。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "novelba",
+            "チート",
+            "ハーレム",
+            "ファンタジー",
+            "冒険",
+            "勇者",
+            "学園",
+            "未来",
+            "琥珀眼",
+            "異世界",
+            "衰退",
+            "魔法",
+            "魔王"
+          ],
+          "title_tieba": "劣等眼的转生魔术师"
+        },
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 0
+          },
+          "novelba": {
+            "novel_id": "851684"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "https://shonenjumpplus.com/episode/10834108156642569336",
+          "[dm5](http://www.dm5.com/manhua-liedengyandezhuanshengmoshushi/)",
+          "[劣等眼的转生魔术师吧](https://tieba.baidu.com/f?kw=%E5%8A%A3%E7%AD%89%E7%9C%BC%E7%9A%84%E8%BD%AC%E7%94%9F%E9%AD%94%E6%9C%AF%E5%B8%88&ie=utf-8&tp=0 \"劣等眼的转生魔术师\")"
+        ]
+      }
+    },
     "other": {
       "勇者「都打倒魔王了來回家吧」": {
         "novel": {
@@ -9416,6 +9507,7 @@
           "title_zh2": "閑人以魔王之姿在異世界闖蕩 \\~時而開掛的休閒之旅\\~",
           "title_other": "廢柴以魔王之姿闖蕩異世界有時作弊一下的悠哉旅程",
           "author": "藍敦",
+          "illust": "桂井よしあき",
           "source": "http://ncode.syosetu.com/n2435cr/",
           "cover": "https://images-na.ssl-images-amazon.com/images/I/81lL3xQjiPL.jpg",
           "publisher": "syosetu",
@@ -15866,6 +15958,65 @@
           "[comic-walker](https://comic-walker.com/contents/detail/KDCW_EB03200101010000_68/)",
           "[epub](https://mega.nz/#F!4x9RVZLT!Tucgvy-PK--6YV13oaC2LA) - joseph261059",
           "[dm5 漫画](http://www.dm5.com/manhua-xingcunlianjinshushixiangzaichenglijingjingshenghuo/ \"幸存炼金术师想在城里静静生活\")"
+        ]
+      },
+      "緑王の盾と真冬の国": {
+        "novel": {
+          "title": "緑王の盾と真冬の国",
+          "author": "ぷにちゃん",
+          "illust": "緋原ヨウ",
+          "source": "http://ncode.syosetu.com/n6308dg/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/81KKSR3WftL.jpg",
+          "publisher": "syosetu",
+          "date": "2017-03-10T23:50:00+08:00",
+          "status": "連載",
+          "novel_status": 256,
+          "series": {
+            "name": "緑王の盾と真冬の国"
+          },
+          "preface": "轉生為盾牌的哈米亞所覺醒的地方，是一年四季紛紛下雪的隆冬國家。\n\n被人說是“髒兮兮的盾”的我，誰也看不起。\n在城堡的寶庫裡蘇醒過來，原以為會成為王族們的武器——大家都越過我。\n被選中的都是聖劍、治愈的魔杖等非常厲害的寶物。\n\n而向那樣的我伸出手的，是心地善良的第六王子。\n\n盾に転生したハーミアが目覚めたのは、一年中雪が降りそそぐ真冬の国だった。\n\n「汚らしい盾だ」と言われた私は、誰にも見向きをされない。\n城の宝物庫で目覚め、王族たちの武器になるのだと思っていたのだけれど――みんな、私をスルーしていきます。\n選ばれるのは、聖剣や、治癒の杖などとてもすごい宝物ばかり。\n\nそんな私に手を伸ばしてくれたのは、心優しい第六王子だった。",
+          "tags": [
+            "node-novel",
+            "syosetu",
+            "じれじれ",
+            "チート",
+            "ハイファンタジー",
+            "ファンタジー",
+            "人外",
+            "女主人公",
+            "恋愛",
+            "成り上がり",
+            "王子",
+            "王族",
+            "異世界",
+            "異世界転生",
+            "盾",
+            "盾ショタ(˘ω˘)？",
+            "転生"
+          ],
+          "title_tieba": "绿王的盾与真冬之国"
+        },
+        "contribute": [
+          "堅決反對"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n6308dg"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n6308dg&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[绿王的盾与真冬之国吧](https://tieba.baidu.com/f?kw=%E7%BB%BF%E7%8E%8B%E7%9A%84%E7%9B%BE%E4%B8%8E%E7%9C%9F%E5%86%AC%E4%B9%8B%E5%9B%BD&ie=utf-8 \"绿王的盾与真冬之国\")"
         ]
       },
       "美女と賢者と魔人の剣": {
