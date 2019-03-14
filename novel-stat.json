@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1552492800000,
-    "timestamp": 1552521282742,
+    "todayTimestamp": 1552579200000,
+    "timestamp": 1552607700969,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -3439,6 +3439,28 @@
           }
         ]
       ]
+    },
+    "1552579200000": {
+      "epub_count": 1,
+      "epub": [
+        [
+          "syosetu",
+          "継続は魔力なり《無能魔法が便利魔法に》",
+          {
+            "init_date": 1552579200000,
+            "txt_basename": "継続は魔力なり《無能魔法が便利魔法に》.out.txt",
+            "epub_date": 1552607690877,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 2,
+            "chapter": 14,
+            "epub_basename": "継続は魔力なり《無能魔法が便利魔法に》.epub",
+            "novel_status": 768,
+            "update_date": 1552579200000,
+            "update_count": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -3789,8 +3811,21 @@
         "segment_date": 1552521246585,
         "segment_old": 0,
         "segment": 5,
-        "init_date": 1552521246585,
+        "init_date": 1552492800000,
         "update_date": 1552492800000,
+        "update_count": 1
+      },
+      "継続は魔力なり《無能魔法が便利魔法に》": {
+        "init_date": 1552579200000,
+        "txt_basename": "継続は魔力なり《無能魔法が便利魔法に》.out.txt",
+        "epub_date": 1552607690877,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 2,
+        "chapter": 14,
+        "epub_basename": "継続は魔力なり《無能魔法が便利魔法に》.epub",
+        "novel_status": 768,
+        "update_date": 1552579200000,
         "update_count": 1
       }
     },
@@ -5061,7 +5096,7 @@
         "chapter": 10,
         "epub_basename": "自稱！平凡魔族的英雄生活～明明是Ｂ級魔族卻創造了作弊級地下城的結果～.epub",
         "novel_status": 768,
-        "init_date": 1552521267749,
+        "init_date": 1552492800000,
         "update_date": 1552492800000,
         "update_count": 1
       }
@@ -12326,6 +12361,78 @@
           "[石墨整合帖](https://shimo.im/docs/QVS5Zmgs85QzmDKB)",
           "[真白小鎮](https://masiro.moe/forum.php?mod=forumdisplay&fid=97)",
           "[dm5 漫畫](http://www.dm5.com/manhua-jueduibuxianggongzuodedixiachengchengzhuxiangshuilanjue/)"
+        ]
+      },
+      "継続は魔力なり《無能魔法が便利魔法に》": {
+        "novel": {
+          "title": "継続は魔力なり《無能魔法が便利魔法に》",
+          "title_zh1": "堅持就是魔力",
+          "author": "リッキー",
+          "illust": "",
+          "illusts": [
+            "鶴山ミト",
+            "キッカイキ"
+          ],
+          "source": "http://ncode.syosetu.com/n3956eq/",
+          "cover": "https://pbs.twimg.com/media/D0zSjBXU4AAqY8p.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-03-10T18:42:00+08:00",
+          "status": "連載",
+          "novel_status": 768,
+          "series": {
+            "name": "継続は魔力なり《無能魔法が便利魔法に》"
+          },
+          "preface": "隻要堅持不懈，開往幼兒園的車就會啟動！\n\n特技：國寶級的道具製作！\n與公主·聖女的孫子對一起，致力於修行這個名的約會！\n最強東西製作幻想！\n\n為了使用魔術每天咯噔咯噔持續做魔力鍛鍊的re盎斯有的日，自己的適應性魔術，被世間普通強迫知道是沒中處理的『創造魔術』。\n可是向re盎斯驅使特別的魔力和運，生出『創造魔術』最強的條款的便利魔術使之進化。能會話的doM的魔劍等，許多的稍微變()？不斷地生出便利條款，為公主sheria和聖女的孫子riana送，變成或者與二人總覺得好的氣氛。\n訪問那樣的re盎斯，某考驗。更加威脅帝國的和平的神秘的組織『隱身舖』也第一次------!?暗中活動\n\n越級一千里的道！　最強東西製作幻想！\n\n☆３月９日にＴＯブックス様にて書籍版二巻が発売されます☆\n☆１月１４日よりニコニコ静画にて漫画版が公開されます☆\n『魔法を使うには魔力と適性が必要』\nこれを俺は、幼少期に知った。\nしかし、まだ俺は適性魔法を知らない……。\nなら、わかるまで魔力を鍛えればいいじゃん！\nそれから毎日、暇な俺は魔力を独自の方法で黙々と鍛え続けた……。\nそして時が経ち、適性魔法が『創造魔法』である事を知る。\n俺は、創造魔法は当たりだと思い、喜んだ。\nしかし、周りの大人は創造魔法と知ると喜ぶどころか何故か悲しんでいた……。\n「創造魔法は珍しいが、無能魔法なんだよ」\nどうやら、創造魔法は無駄に魔力を使い、簡単な物も造れない無能な魔法らしい。\n実際に試してみるが……本当に何も造れなかった。\nしかし、何度も挑戦する中で俺はある創造魔法の秘密を見つけた。\nそして、今まで鍛えてきた魔力を使って無能魔法を便利魔法に変えていく！",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "コミカライズ",
+            "ハイファンタジー",
+            "ハーレム",
+            "ファンタジー",
+            "主人公最強になる予定",
+            "勇者",
+            "学園",
+            "成長チート",
+            "書籍化",
+            "残酷な描写あり",
+            "男主人公",
+            "異世界転生",
+            "貴族",
+            "魔法",
+            "魔王"
+          ],
+          "title_jp2": "継続は魔力なり～無能魔法が便利魔法に進化を遂げました～"
+        },
+        "contribute": [
+          "比利琼斯1380"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n3956eq"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n3956eq&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[\\[Eternal Dead汉化组\\]\\[坚持就是魔力\\]](https://www.lightnovel.cn/thread-953957-1-1.html)",
+          "[坚持就是魔力吧](https://tieba.baidu.com/f?kw=%E5%9D%9A%E6%8C%81%E5%B0%B1%E6%98%AF%E9%AD%94%E5%8A%9B&ie=utf-8&tp=0 \"坚持就是魔力\")",
+          "[eternaldead汉化组吧](https://tieba.baidu.com/f?kw=eternaldead%E6%B1%89%E5%8C%96%E7%BB%84&ie=utf-8 \"eternaldead汉化组\")",
+          "[dm5](http://www.dm5.com/manhua-jianchijiushimoli/)",
+          "https://tobooks.shop-pro.jp/?pid=134618957"
         ]
       },
       "航宙軍士官、冒険者になる": {
