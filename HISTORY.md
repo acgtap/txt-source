@@ -1,5 +1,25 @@
 # HISTORY
 
+## 2019-03-14
+
+### Epub
+
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( v: 1 , c: 54, add: 5 )
+- [エリナの成長物語（引き籠り女神の転生）](girl/%E3%82%A8%E3%83%AA%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7%E7%89%A9%E8%AA%9E%EF%BC%88%E5%BC%95%E3%81%8D%E7%B1%A0%E3%82%8A%E5%A5%B3%E7%A5%9E%E3%81%AE%E8%BB%A2%E7%94%9F%EF%BC%89) - girl
+  <br/>( v: 1 , c: 1, add: 1 )
+- [自称！平凡魔族の英雄ライフ](syosetu_out/%E8%87%AA%E7%A7%B0%EF%BC%81%E5%B9%B3%E5%87%A1%E9%AD%94%E6%97%8F%E3%81%AE%E8%8B%B1%E9%9B%84%E3%83%A9%E3%82%A4%E3%83%95) - syosetu_out
+  <br/>( v: 1 , c: 10, add: 10 )
+- [転生少女の履歴書](syosetu_out/%E8%BB%A2%E7%94%9F%E5%B0%91%E5%A5%B3%E3%81%AE%E5%B1%A5%E6%AD%B4%E6%9B%B8) - syosetu_out
+  <br/>( v: 3 , c: 154, add: 0 )
+
+### Segment
+
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( s: 1 )
+- [転生少女の履歴書](syosetu/%E8%BB%A2%E7%94%9F%E5%B0%91%E5%A5%B3%E3%81%AE%E5%B1%A5%E6%AD%B4%E6%9B%B8) - syosetu
+  <br/>( s: 5 )
+
 ## 2019-03-12
 
 ### Epub

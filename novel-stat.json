@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1552320000000,
-    "timestamp": 1552350036524,
+    "todayTimestamp": 1552492800000,
+    "timestamp": 1552521282742,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -3329,6 +3329,116 @@
           }
         ]
       ]
+    },
+    "1552492800000": {
+      "segment_count": 2,
+      "segment": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1552521208901,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1552521266924,
+            "volume_old": 1,
+            "chapter_old": 49,
+            "volume": 1,
+            "chapter": 54,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1552492800000,
+            "update_count": 7,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "syosetu",
+          "転生少女の履歴書",
+          {
+            "segment_date": 1552521246585,
+            "segment_old": 0,
+            "segment": 5,
+            "init_date": 1552521246585,
+            "update_date": 1552492800000,
+            "update_count": 1
+          }
+        ]
+      ],
+      "epub_count": 4,
+      "epub": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1552521208901,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1552521266924,
+            "volume_old": 1,
+            "chapter_old": 49,
+            "volume": 1,
+            "chapter": 54,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1552492800000,
+            "update_count": 7,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "エリナの成長物語（引き籠り女神の転生）",
+          {
+            "init_date": 1552492800000,
+            "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
+            "epub_date": 1552521267119,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 1,
+            "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
+            "update_date": 1552492800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu_out",
+          "自称！平凡魔族の英雄ライフ",
+          {
+            "txt_basename": "自稱！平凡魔族的英雄生活～明明是Ｂ級魔族.out.txt",
+            "epub_date": 1552521267749,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 10,
+            "epub_basename": "自稱！平凡魔族的英雄生活～明明是Ｂ級魔族卻創造了作弊級地下城的結果～.epub",
+            "novel_status": 768,
+            "init_date": 1552521267749,
+            "update_date": 1552492800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu_out",
+          "転生少女の履歴書",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 154,
+            "chapter": 154,
+            "txt_basename": "転生少女の履歴書.out.txt",
+            "volume_old": 3,
+            "volume": 3,
+            "epub_basename": "転生少女の履歴書.epub",
+            "update_date": 1552492800000,
+            "update_count": 2,
+            "epub_date": 1552521271604,
+            "novel_status": 256
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -3674,6 +3784,14 @@
         "update_date": 1552060800000,
         "update_count": 2,
         "txt_basename": "復讐は天罰を呼び、魔術士はぽやぽやを楽し.out.txt"
+      },
+      "転生少女の履歴書": {
+        "segment_date": 1552521246585,
+        "segment_old": 0,
+        "segment": 5,
+        "init_date": 1552521246585,
+        "update_date": 1552492800000,
+        "update_count": 1
       }
     },
     "user": {
@@ -4722,11 +4840,13 @@
         "chapter_old": 154,
         "chapter": 154,
         "txt_basename": "転生少女の履歴書.out.txt",
-        "volume_old": 0,
+        "volume_old": 3,
         "volume": 3,
         "epub_basename": "転生少女の履歴書.epub",
-        "update_date": 1552060800000,
-        "update_count": 1
+        "update_date": 1552492800000,
+        "update_count": 2,
+        "epub_date": 1552521271604,
+        "novel_status": 256
       },
       "注意到的時候ＴＳ成了精靈": {
         "init_date": 1545494400000,
@@ -4930,6 +5050,19 @@
         "volume": 7,
         "epub_basename": "賢者の剣.epub",
         "update_date": 1552060800000,
+        "update_count": 1
+      },
+      "自称！平凡魔族の英雄ライフ": {
+        "txt_basename": "自稱！平凡魔族的英雄生活～明明是Ｂ級魔族.out.txt",
+        "epub_date": 1552521267749,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 10,
+        "epub_basename": "自稱！平凡魔族的英雄生活～明明是Ｂ級魔族卻創造了作弊級地下城的結果～.epub",
+        "novel_status": 768,
+        "init_date": 1552521267749,
+        "update_date": 1552492800000,
         "update_count": 1
       }
     },
@@ -5713,19 +5846,19 @@
     },
     "girl": {
       "Genocide Online ～極惡千金的玩遊戲日記～": {
-        "segment_date": 1551138386796,
-        "segment_old": 4,
+        "segment_date": 1552521208901,
+        "segment_old": 1,
         "segment": 1,
         "init_date": 1549641600000,
-        "epub_date": 1551657389749,
+        "epub_date": 1552521266924,
         "volume_old": 1,
-        "chapter_old": 40,
+        "chapter_old": 49,
         "volume": 1,
-        "chapter": 49,
+        "chapter": 54,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1552060800000,
-        "update_count": 6,
+        "update_date": 1552492800000,
+        "update_count": 7,
         "txt_basename": "Genocide Online ～極惡千.out.txt"
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
@@ -5824,6 +5957,18 @@
         "chapter": 5,
         "epub_basename": "轉生成村民的我作為最強的“武器使用者”每天盡情地殺戮與掠奪.epub",
         "update_date": 1552060800000,
+        "update_count": 1
+      },
+      "エリナの成長物語（引き籠り女神の転生）": {
+        "init_date": 1552492800000,
+        "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
+        "epub_date": 1552521267119,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 1,
+        "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
+        "update_date": 1552492800000,
         "update_count": 1
       }
     },
@@ -7376,6 +7521,66 @@
         "link": [
           "[dip.jp](https://narou.nar.jp/search.php?text=n4845ec&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[lightnovel.cn](https://www.lightnovel.cn/thread-947509-1-1.html)"
+        ]
+      },
+      "エリナの成長物語（引き籠り女神の転生）": {
+        "novel": {
+          "title": "エリナの成長物語（引き籠り女神の転生）",
+          "title_zh1": "艾麗娜的成長物語",
+          "author": "リエトー",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n0463dq/",
+          "cover": "",
+          "publisher": "syosetu",
+          "date": "2019-03-13T01:00:00+08:00",
+          "status": "連載",
+          "novel_status": 0,
+          "series": {
+            "name": "エリナの成長物語（引き籠り女神の転生）"
+          },
+          "preface": "原本是女神的她,在异世界作為人類的成長的故事。因某件事而隱居的女神艾麗娜=帕森，由於那個世界的神在進行勇者轉生時,操作失誤動作,成為了人類。而且不是從胎兒轉生過來,而是轉生為人類幼兒的艾麗娜,被某貴族撿到作為養女生活著。\n\n　女神だった女の子が異世界で人間として成長していく物語です。とある用事で引き籠っていた女神エリナ＝パーソンは、その世界の神による勇者転生の誤作動で、人間になってしまいます。胎児からの生まれ変わり転生ではなく、人間に転じて生きることになったエリナは、ある貴族に拾われて養女として生活することなりました。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "ほのぼの",
+            "シリアス",
+            "ハイファンタジー",
+            "ファンタジー",
+            "冒険",
+            "勇者",
+            "女主人公",
+            "女神",
+            "日常",
+            "残酷な描写あり",
+            "異能力バトル",
+            "西洋",
+            "超能力",
+            "魔法",
+            "魔王"
+          ]
+        },
+        "contribute": [
+          "黑紋蝶"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n0463dq"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n0463dq&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=129&page=1)"
         ]
       },
       "今度こそ幸せになります！": {
@@ -10485,6 +10690,63 @@
           "[为鲜血献上吻吧](https://tieba.baidu.com/f?kw=%E4%B8%BA%E9%B2%9C%E8%A1%80%E7%8C%AE%E4%B8%8A%E5%90%BB&ie=utf-8 \"为鲜血献上吻\")"
         ]
       },
+      "自称！平凡魔族の英雄ライフ": {
+        "novel": {
+          "title": "自称！平凡魔族の英雄ライフ～B級魔族なのにチートダンジョンを作ってしまった結果～",
+          "title_zh": "自稱！平凡魔族的英雄生活～明明是Ｂ級魔族卻創造了作弊級地下城的結果～",
+          "author": "あまうい白一",
+          "illust": "卵の黄身",
+          "illusts": [
+            "こねこねこ"
+          ],
+          "source": "http://ncode.syosetu.com/n4679do/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/814mBdvhXzL.jpg",
+          "publisher": "syosetu",
+          "date": "2018-09-13T12:00:00+08:00",
+          "status": "連載",
+          "novel_status": 768,
+          "series": {
+            "name": "自称！平凡魔族の英雄ライフ～B級魔族なのにチートダンジョンを作ってしまった結果～"
+          },
+          "preface": "魔族如果成為二十歲\n有前往魔王城\n製作洞窟的風俗習慣\n\n在那裡自製的洞窟一邊居住\n通過魔王城並設的學園偷學習作為魔族的力量的用法和洞窟的擴張方法等一邊\n\n總之魔王城\n成為一種教育機關\n\n書籍版が、講談社Ｋラノベブックス様より発売中です！\nまたニコニコ静画様でコミカライズが連載がスタートしました。是非一読して頂ければ嬉しいです。　\nコミックス1巻は１０/９発売です！\n\n――小さな部屋で良いのに、出来てしまったのは広大で強力なダンジョンだった。\n　平凡な魔族であるクロノは、魔王城の学園でダンジョンを作成する。二十歳になったら魔王城でダンジョンを作り上げ、そこに住みつつ勉学に励み、一人立ちするのが魔族の風習だった。\n　クロノとしては、小さなダンジョンができればいい、と思って作成したのだが――完成したのは数百層に渡る巨大な代物だった。それはもう、伝説の魔王が作ったダンジョンを超えるとんでもないレベルの。\n「俺は小さなダンジョンを持てれば充分なのに……！」\n平凡で気楽な生活を求めていたクロノは、あっという間に注目の的になり、魔族の中で成り上がっていく。やがて英雄と言われるまで。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "エルフ",
+            "ダンジョン",
+            "チート",
+            "モンスタ―娘",
+            "主人公最強",
+            "人外",
+            "地下城",
+            "妖精",
+            "学園",
+            "成り上がり",
+            "残酷な描写あり",
+            "運営",
+            "魔王"
+          ]
+        },
+        "contribute": [
+          "我只是想看小說",
+          "才人→大爱",
+          "章魚子"
+        ],
+        "options": {
+          "syosetu": {
+            "txtdownload_id": "924587"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n4679do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[自称平凡魔族的英雄生活吧](https://tieba.baidu.com/f?kw=%E8%87%AA%E7%A7%B0%E5%B9%B3%E5%87%A1%E9%AD%94%E6%97%8F%E7%9A%84%E8%8B%B1%E9%9B%84%E7%94%9F%E6%B4%BB&ie=utf-8 \"自称平凡魔族的英雄生活\")",
+          "[dm5](http://www.dm5.com/manhua-zichen-pingfanmozudeyingxiongshenghuo-mingmingshi-b-jimozuquechuangzaolezuobijidixiachengdejieguo/ \"自称！平凡魔族的英雄生活～明明是B级魔族却创造了作弊级地下城的结果～\")"
+        ]
+      },
       "英雄の中の英雄の物語　〜アレスティア建国記〜": {
         "novel": {
           "title": "英雄の中の英雄の物語　〜アレスティア建国記〜",
@@ -10742,15 +11004,17 @@
         "novel": {
           "title": "転生少女の履歴書",
           "author": "唐澤和希/鳥好きのピスタチオ",
+          "illust": "桑島 黎音",
           "source": "http://ncode.syosetu.com/n4269cp/",
           "cover": "https://images-na.ssl-images-amazon.com/images/I/71iUyAS7ibL.jpg",
           "publisher": "syosetu",
           "date": "2018-06-30T00:17:00+08:00",
           "status": "連載",
+          "novel_status": 256,
           "series": {
             "name": "転生少女の履歴書"
           },
-          "preface": "頭腦聰明，體育萬能，甚麼事都能做到的絕世美少女因車禍而散落生命。  \n然後帶著前世的記憶，轉生到劍與魔法的幻想異世界中！  \n雖然生活全部由魔法使支撐，但魔法使逐年減少，全世界中的魔力（瑪娜）消失等問題開始浮現，依靠魔法的生活開始變得困難。  \n這是個少女靠著前世的記憶，提議著即使沒有魔法也能生活下去，同時探索著甚麼是魔法，以豐盛的生活作目標引導人們的物語。\n\n頭脳明晰、スポーツ万能、何をやらせてもそつなくこなす絶世の美少女は、車の事故であっけなく命を散らしてしまう。\nそして前世の記憶を持ちながら、転生した先は剣と魔法のファンタジーな異世界！\n魔法使いによって全ての生活が支えられていたが、年々減少する魔法使い、世界中に散らばる魔力（マナ）がなくなっていくなどの問題が起きており、魔法頼りの生活では立ち行かなくなってきていた。\n\n前世の知識を頼りに、魔法が無くても生きていけることを提案しながら、魔法とは何なのかを模索し、少女がより豊な生活を目指して人々を導いていく物語です。\n\n※ヒーロー文庫さんで書籍化することになりました。\nそれに伴いタイトルを変更しました（旧：ハイスペック女子高生の異世界転生）",
+          "preface": "頭腦聰明，體育萬能，甚麼事都能做到的絕世美少女因車禍而散落生命。\n然後帶著前世的記憶，轉生到劍與魔法的幻想異世界中！\n雖然生活全部由魔法使支撐，但魔法使逐年減少，全世界中的魔力（瑪娜）消失等問題開始浮現，依靠魔法的生活開始變得困難。\n這是個少女靠著前世的記憶，提議著即使沒有魔法也能生活下去，同時探索著甚麼是魔法，以豐盛的生活作目標引導人們的物語。\n\n頭脳明晰、スポーツ万能、何をやらせてもそつなくこなす絶世の美少女は、車の事故であっけなく命を散らしてしまう。\nそして前世の記憶を持ちながら、転生した先は剣と魔法のファンタジーな異世界！\n魔法使いによって全ての生活が支えられていたが、年々減少する魔法使い、世界中に散らばる魔力（マナ）がなくなっていくなどの問題が起きており、魔法頼りの生活では立ち行かなくなってきていた。\n\n前世の知識を頼りに、魔法が無くても生きていけることを提案しながら、魔法とは何なのかを模索し、少女がより豊な生活を目指して人々を導いていく物語です。\n\n※ヒーロー文庫さんで書籍化することになりました。\nそれに伴いタイトルを変更しました（旧：ハイスペック女子高生の異世界転生）",
           "tags": [
             "R15",
             "node-novel",
@@ -10769,6 +11033,7 @@
           ]
         },
         "contribute": [
+          "NoName",
           "漂移雾董",
           "路易666bbs"
         ],
@@ -12061,54 +12326,6 @@
           "[石墨整合帖](https://shimo.im/docs/QVS5Zmgs85QzmDKB)",
           "[真白小鎮](https://masiro.moe/forum.php?mod=forumdisplay&fid=97)",
           "[dm5 漫畫](http://www.dm5.com/manhua-jueduibuxianggongzuodedixiachengchengzhuxiangshuilanjue/)"
-        ]
-      },
-      "自称！平凡魔族の英雄ライフ": {
-        "novel": {
-          "title": "自称！平凡魔族の英雄ライフ～B級魔族なのにチートダンジョンを作ってしまった結果～",
-          "author": "あまうい白一",
-          "source": "http://ncode.syosetu.com/n4679do/",
-          "cover": "",
-          "publisher": "syosetu",
-          "date": "2018-09-13T12:00:00+08:00",
-          "status": "連載",
-          "series": {
-            "name": "自称！平凡魔族の英雄ライフ～B級魔族なのにチートダンジョンを作ってしまった結果～"
-          },
-          "preface": "書籍版が、講談社Ｋラノベブックス様より発売中です！\nまたニコニコ静画様でコミカライズが連載がスタートしました。是非一読して頂ければ嬉しいです。　\nコミックス1巻は１０/９発売です！\n\n――小さな部屋で良いのに、出来てしまったのは広大で強力なダンジョンだった。\n　平凡な魔族であるクロノは、魔王城の学園でダンジョンを作成する。二十歳になったら魔王城でダンジョンを作り上げ、そこに住みつつ勉学に励み、一人立ちするのが魔族の風習だった。\n　クロノとしては、小さなダンジョンができればいい、と思って作成したのだが――完成したのは数百層に渡る巨大な代物だった。それはもう、伝説の魔王が作ったダンジョンを超えるとんでもないレベルの。\n「俺は小さなダンジョンを持てれば充分なのに……！」\n平凡で気楽な生活を求めていたクロノは、あっという間に注目の的になり、魔族の中で成り上がっていく。やがて英雄と言われるまで。",
-          "tags": [
-            "R15",
-            "node-novel",
-            "syosetu",
-            "エルフ",
-            "ダンジョン",
-            "チート",
-            "モンスタ―娘",
-            "主人公最強",
-            "人外",
-            "妖精",
-            "学園",
-            "成り上がり",
-            "残酷な描写あり",
-            "運営"
-          ]
-        },
-        "contribute": [
-          "我只是想看小說",
-          "才人→大爱",
-          "章魚子"
-        ],
-        "options": {
-          "syosetu": {
-            "txtdownload_id": "924587"
-          },
-          "textlayout": {
-            "allow_lf2": true
-          }
-        },
-        "link": [
-          "[dip.jp](https://narou.dip.jp/search.php?text=n4679do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[自称平凡魔族的英雄生活吧](https://tieba.baidu.com/f?kw=%E8%87%AA%E7%A7%B0%E5%B9%B3%E5%87%A1%E9%AD%94%E6%97%8F%E7%9A%84%E8%8B%B1%E9%9B%84%E7%94%9F%E6%B4%BB&ie=utf-8 \"自称平凡魔族的英雄生活\")"
         ]
       },
       "航宙軍士官、冒険者になる": {
