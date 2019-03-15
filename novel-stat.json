@@ -3472,7 +3472,7 @@
             "segment_date": 1552686632959,
             "segment_old": 0,
             "segment": 21,
-            "init_date": 1552686632959,
+            "init_date": 1552665600000,
             "update_date": 1552665600000,
             "update_count": 1
           }
@@ -3509,7 +3509,7 @@
             "epub_basename": "從極星飄落的少女.epub",
             "update_date": 1552665600000,
             "update_count": 2,
-            "epub_date": 1552686704953
+            "epub_date": 1552694089977
           }
         ],
         [
@@ -3900,7 +3900,7 @@
         "segment_date": 1552686632959,
         "segment_old": 0,
         "segment": 21,
-        "init_date": 1552686632959,
+        "init_date": 1552665600000,
         "update_date": 1552665600000,
         "update_count": 1
       }
@@ -4833,7 +4833,7 @@
         "epub_basename": "從極星飄落的少女.epub",
         "update_date": 1552665600000,
         "update_count": 2,
-        "epub_date": 1552686704953
+        "epub_date": 1552694089977
       },
       "望まぬ不死の冒険者": {
         "init_date": 1545494400000,
