@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1552579200000,
-    "timestamp": 1552607700969,
+    "todayTimestamp": 1552665600000,
+    "timestamp": 1552686831253,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -3461,6 +3461,74 @@
           }
         ]
       ]
+    },
+    "1552665600000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "syosetu",
+          "極星から零れた少女",
+          {
+            "segment_date": 1552686632959,
+            "segment_old": 0,
+            "segment": 21,
+            "init_date": 1552686632959,
+            "update_date": 1552665600000,
+            "update_count": 1
+          }
+        ]
+      ],
+      "epub_count": 3,
+      "epub": [
+        [
+          "girl",
+          "三葉物語",
+          {
+            "init_date": 1552665600000,
+            "txt_basename": "三葉物語.out.txt",
+            "epub_date": 1552686701923,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 2,
+            "epub_basename": "三葉物語.epub",
+            "update_date": 1552665600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu_out",
+          "極星から零れた少女",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 18,
+            "chapter": 22,
+            "txt_basename": "從極星飄落的少女.out.txt",
+            "volume_old": 1,
+            "volume": 1,
+            "epub_basename": "從極星飄落的少女.epub",
+            "update_date": 1552665600000,
+            "update_count": 2,
+            "epub_date": 1552686704953
+          }
+        ],
+        [
+          "user_out",
+          "回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 143,
+            "chapter": 146,
+            "txt_basename": "回復術士重來人生.out.txt",
+            "epub_date": 1552686709693,
+            "volume_old": 7,
+            "volume": 7,
+            "epub_basename": "回復術士重來人生.epub",
+            "update_date": 1552665600000,
+            "update_count": 3
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -3826,6 +3894,14 @@
         "epub_basename": "継続は魔力なり《無能魔法が便利魔法に》.epub",
         "novel_status": 768,
         "update_date": 1552579200000,
+        "update_count": 1
+      },
+      "極星から零れた少女": {
+        "segment_date": 1552686632959,
+        "segment_old": 0,
+        "segment": 21,
+        "init_date": 1552686632959,
+        "update_date": 1552665600000,
         "update_count": 1
       }
     },
@@ -4324,14 +4400,14 @@
       "回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～": {
         "init_date": 1545494400000,
         "chapter_old": 143,
-        "chapter": 143,
+        "chapter": 146,
         "txt_basename": "回復術士重來人生.out.txt",
-        "epub_date": 1548200249595,
+        "epub_date": 1552686709693,
         "volume_old": 7,
         "volume": 7,
         "epub_basename": "回復術士重來人生.epub",
-        "update_date": 1552060800000,
-        "update_count": 2
+        "update_date": 1552665600000,
+        "update_count": 3
       },
       "帰ってきてもファンタジー！？": {
         "init_date": 1545494400000,
@@ -4750,13 +4826,14 @@
       "極星から零れた少女": {
         "init_date": 1545494400000,
         "chapter_old": 18,
-        "chapter": 18,
+        "chapter": 22,
         "txt_basename": "從極星飄落的少女.out.txt",
-        "volume_old": 0,
+        "volume_old": 1,
         "volume": 1,
         "epub_basename": "從極星飄落的少女.epub",
-        "update_date": 1552060800000,
-        "update_count": 1
+        "update_date": 1552665600000,
+        "update_count": 2,
+        "epub_date": 1552686704953
       },
       "望まぬ不死の冒険者": {
         "init_date": 1545494400000,
@@ -6004,6 +6081,18 @@
         "chapter": 1,
         "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
         "update_date": 1552492800000,
+        "update_count": 1
+      },
+      "三葉物語": {
+        "init_date": 1552665600000,
+        "txt_basename": "三葉物語.out.txt",
+        "epub_date": 1552686701923,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 2,
+        "epub_basename": "三葉物語.epub",
+        "update_date": 1552665600000,
         "update_count": 1
       }
     },
@@ -7616,6 +7705,62 @@
         "link": [
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n0463dq&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=129&page=1)"
+        ]
+      },
+      "三葉物語": {
+        "novel": {
+          "title": "みつばものがたり",
+          "title_zh": "三葉物語",
+          "author": "七沢またり",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n0388ee/",
+          "cover": "",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-03-07T16:43:00+08:00",
+          "status": "連載",
+          "novel_status": 0,
+          "series": {
+            "name": "みつばものがたり"
+          },
+          "preface": "どこからかすっ飛んできた少女みつばのなんちゃって戦記？　高貴な家に生まれたけれど、何やら事情がありそうで。なんやかんやでいつの間にやら士官学校送りの刑。そんな感じの少女の物語です。いっぱい遊んだり戦ったり政治したり死んだりします。\nなんちゃってなのでおおらかな気分で見守ってください。ねじがすっ飛んでる人たちがたまに出てきますがそういう感じのお話です。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "オリジナル戦記",
+            "シリアス",
+            "ハイファンタジー",
+            "ファンタジー",
+            "女主人公",
+            "戦記風",
+            "残酷な描写あり",
+            "異世界転生"
+          ]
+        },
+        "contribute": [
+          "雪拉的禮贊"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n0388ee"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n0388ee&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[从极星飘落的少女吧](https://tieba.baidu.com/f?kw=%E4%BB%8E%E6%9E%81%E6%98%9F%E9%A3%98%E8%90%BD%E7%9A%84%E5%B0%91%E5%A5%B3&ie=utf-8 \"从极星飘落的少女\")"
         ]
       },
       "今度こそ幸せになります！": {
@@ -9941,7 +10086,7 @@
           "series": {
             "name": "極星から零れた少女"
           },
-          "preface": "从极星飘落的少女  \n\n被什么尖锐的东西所刺痛的少女取回了感觉。周围净是如同粘稠的污泥一样的黑暗。在这闭锁的世界中，射入一缕赤色之光之时，少女总算睁开了眼睛。从奇妙的红鸟那里收下紫色的球体时，少女内在中的两份记忆混合了。  \n\n少女的目标，是要活完被预测的六十年寿命。但是因为想要度过充实的每一天，所以总是投身于各种各样的事情当中。因为很贫弱所以也不得不锻炼身体。这是一个匆忙过活系少女顽强而吵闹地生存的故事。\n\n何か鋭いものに突かれる痛みで少女は感覚を取り戻した。粘りつく汚泥のような暗闇。その閉じた世界に一筋の赤い光が差し込んだとき、少女はようやく目を覚ました。赤い奇妙な鳥から紫色の球体を渡されたとき、少女の中で二つの記憶が混ざり合う。\n\n\n少女の目標は、六十年と予測している寿命を全うする事です。でも充実した日々を送りたいのでいろいろと首を突っ込みます。貧弱なので身体も鍛えなければいけません。生き急ぎ系少女が強くたくましく騒がしく生きていく物語です。",
+          "preface": "从极星飘落的少女\n\n被什么尖锐的东西所刺痛的少女取回了感觉。周围净是如同粘稠的污泥一样的黑暗。在这闭锁的世界中，射入一缕赤色之光之时，少女总算睁开了眼睛。从奇妙的红鸟那里收下紫色的球体时，少女内在中的两份记忆混合了。\n\n少女的目标，是要活完被预测的六十年寿命。但是因为想要度过充实的每一天，所以总是投身于各种各样的事情当中。因为很贫弱所以也不得不锻炼身体。这是一个匆忙过活系少女顽强而吵闹地生存的故事。\n\n何か鋭いものに突かれる痛みで少女は感覚を取り戻した。粘りつく汚泥のような暗闇。その閉じた世界に一筋の赤い光が差し込んだとき、少女はようやく目を覚ました。赤い奇妙な鳥から紫色の球体を渡されたとき、少女の中で二つの記憶が混ざり合う。\n\n\n少女の目標は、六十年と予測している寿命を全うする事です。でも充実した日々を送りたいのでいろいろと首を突っ込みます。貧弱なので身体も鍛えなければいけません。生き急ぎ系少女が強くたくましく騒がしく生きていく物語です。",
           "tags": [
             "R15",
             "node-novel",
@@ -9954,6 +10099,7 @@
         "contribute": [
           "倾听の翅膀",
           "布枝道123",
+          "雪拉的禮贊",
           "黑426"
         ],
         "options": {
@@ -13557,6 +13703,7 @@
           "title_zh": "回復術士重來人生",
           "title_zh1": "回復術士的重啟人生～即死魔法與複製技能的極致回復術～",
           "author": "月夜　涙（るい）",
+          "illust": "しおこんぶ",
           "source": "https://ncode.syosetu.com/n3512ds/",
           "cover": "http://img1.reactor.cc/pics/post/full/shiokonbu-Anime-Art-Anime-Anime-Ero-4194795.jpeg",
           "publisher": "syosetu",
@@ -13586,6 +13733,7 @@
           "812843924",
           "Lonely☆奇迹",
           "Mightea",
+          "SnowEquinox",
           "boyyeah199",
           "laocun",
           "meinekonigin",
