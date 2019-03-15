@@ -1,5 +1,21 @@
 # HISTORY
 
+## 2019-03-16
+
+### Epub
+
+- [三葉物語](girl/%E4%B8%89%E8%91%89%E7%89%A9%E8%AA%9E) - girl
+  <br/>( v: 1 , c: 2, add: 2 )
+- [極星から零れた少女](syosetu_out/%E6%A5%B5%E6%98%9F%E3%81%8B%E3%82%89%E9%9B%B6%E3%82%8C%E3%81%9F%E5%B0%91%E5%A5%B3) - syosetu_out
+  <br/>( v: 1 , c: 22, add: 4 )
+- [回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～](user_out/%E5%9B%9E%E5%BE%A9%E8%A1%93%E5%A3%AB%E3%81%AE%E3%82%84%E3%82%8A%E7%9B%B4%E3%81%97%EF%BD%9E%E5%8D%B3%E6%AD%BB%E9%AD%94%E6%B3%95%E3%81%A8%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%B3%E3%83%94%E3%83%BC%E3%81%AE%E8%B6%85%E8%B6%8A%E3%83%92%E3%83%BC%E3%83%AB%EF%BD%9E) - user_out
+  <br/>( v: 7 , c: 146, add: 3 )
+
+### Segment
+
+- [極星から零れた少女](syosetu/%E6%A5%B5%E6%98%9F%E3%81%8B%E3%82%89%E9%9B%B6%E3%82%8C%E3%81%9F%E5%B0%91%E5%A5%B3) - syosetu
+  <br/>( s: 21 )
+
 ## 2019-03-15
 
 ### Epub
