@@ -4,6 +4,7 @@
 - title_zh: 回復術士重來人生
 - title_zh1: 回復術士的重啟人生～即死魔法與複製技能的極致回復術～
 - author: 月夜　涙（るい）
+- illust: しおこんぶ
 - source: https://ncode.syosetu.com/n3512ds/
 - cover: http://img1.reactor.cc/pics/post/full/shiokonbu-Anime-Art-Anime-Anime-Ero-4194795.jpeg
 - publisher: syosetu
@@ -82,7 +83,8 @@
 - 残情索飞
 - 章魚子
 - 破碎的镜子丶
-- 
+- SnowEquinox
+-
 
 # options
 
@@ -102,4 +104,4 @@
 - [公主殿下DC epub 潤色版](https://tieba.baidu.com/p/5769494425 "【EPUB整合】《回复术士的重来人生》WEB小说（章更新）") 結果看起來似乎沒做
 - [以腳本整理的 epub / txt 格式整合 譯名統一](https://tieba.baidu.com/p/5546046593 "以腳本整理的 epub / txt 格式整合 譯名統一")
 - [伊尔格尔](https://pan.baidu.com/s/12s7pitOzNAXTiNB5xT0WNQ) - kna9
-- 
+-
