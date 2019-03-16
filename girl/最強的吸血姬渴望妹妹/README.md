@@ -4,6 +4,7 @@
 - title_jp1: 最強の吸血姫は妹が欲しいっ！
 - title_jp2: とにかく妹が欲しい最強の吸血姫は無自覚ご奉仕中！
 - title_zh: 最强的吸血姬渴望妹妹
+- title_tieba: 想要妹妹的最强吸血姬
 - author: 緋色の雨
 - illust:
 - source: http://ncode.syosetu.com/n9188eg/
