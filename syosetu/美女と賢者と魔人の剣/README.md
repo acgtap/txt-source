@@ -53,10 +53,13 @@
 - 異世界
 - 異世界転移
 - 心劍
+- esjzone
 -
 
 # contribute
 
+- pichelcheng
+-
 
 # options
 
@@ -81,4 +84,5 @@
 - [narou.nar.jp](https://narou.nar.jp/search.php?text=n4191cj&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [美女与贤者与魔人之剑吧](https://tieba.baidu.com/f?kw=%E7%BE%8E%E5%A5%B3%E4%B8%8E%E8%B4%A4%E8%80%85%E4%B8%8E%E9%AD%94%E4%BA%BA%E4%B9%8B%E5%89%91&ie=utf-8 "美女与贤者与魔人之剑")
 - [dm5](http://www.dm5.com/manhua-meinvyuxianzheyumorenzhijian/ "美女与贤者与魔人之剑")
+- https://www.esjzone.cc/detail/1546324061.html
 -
