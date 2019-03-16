@@ -52,6 +52,8 @@
 
 # contribute
 
+- 黑色弦律
+-
 
 # options
 
@@ -74,6 +76,5 @@
 
 - [dip.jp](https://narou.nar.jp/search.php?text=n7352fa&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [悠闲农家与乱码技能吧](https://tieba.baidu.com/f?kw=%E6%82%A0%E9%97%B2%E5%86%9C%E5%AE%B6%E4%B8%8E%E4%B9%B1%E7%A0%81%E6%8A%80%E8%83%BD&ie=utf-8 "悠闲农家与乱码技能")
-
-
-
+- [黑色弦律](https://pan.baidu.com/s/1s3QREM5IxmzD_fTqcSCgdQ) 656h
+-
