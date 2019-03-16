@@ -8,6 +8,12 @@
 - publisher: syosetu
 - date: 2018-04-09T16:34:00+08:00
 - status: 連載
+- novel_status: 0x0300
+
+## illusts
+
+- 児嶋建洋
+- ばん!
 
 ## preface
 
@@ -53,7 +59,7 @@
 - 書籍化
 - 残酷な描写あり
 - 異世界転生
-- 
+-
 
 # contribute
 
@@ -86,7 +92,8 @@
 - joy10079
 - NatThar
 - SPT草包
-- 
+- shifish123
+-
 
 # options
 
@@ -108,6 +115,6 @@
 - [漫畫 中文](https://tw.manhuagui.com/comic/28989/)
 - [漫畫 RAW](https://lhscan.net/manga-yondome-wa-iyana-shi-zokusei-majutsushi-raw.html)
 - [lightnovel.cn](https://www.lightnovel.cn/forum.php?mod=viewthread&tid=876034&extra=&ordertype=1&page=1)
-- 
+-
 
 
