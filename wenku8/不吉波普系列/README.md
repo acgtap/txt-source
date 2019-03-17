@@ -31,6 +31,10 @@
 # contribute
 
 - gundam793
+- Oscuro
+- 十六
+- 七七七千爱
+- 镜
 
 # options
 
@@ -51,4 +55,6 @@
 # link
 
 - [不吉波普不笑](https://share.dmhy.org/topics/list?keyword=%E4%B8%8D%E5%90%89%E6%B3%A2%E6%99%AE%E4%B8%8D%E7%AC%91&sort_id=2&team_id=0&order=date-desc)
-- 
+- [不吉波普吧](https://tieba.baidu.com/f?kw=%E4%B8%8D%E5%90%89%E6%B3%A2%E6%99%AE&ie=utf-8 "")
+-
+
