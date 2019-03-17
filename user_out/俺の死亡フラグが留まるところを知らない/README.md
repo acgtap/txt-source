@@ -1,13 +1,15 @@
 # novel
 
 - title: 俺の死亡フラグが留まるところを知らない
-- title_zh: 不知我的死亡flag将于何处停止
+- title_zh: 不知我的死亡flag將於何處停止
 - author: 泉
+- illust: Aちき
 - source: http://ncode.syosetu.com/n4449cj/
 - cover: https://images-na.ssl-images-amazon.com/images/I/81vLZRct-ZL.jpg
 - publisher: syosetu
 - date: 2018-03-12T01:47:00+08:00
 - status: 連載
+- novel_status: 0x0100
 
 ## series
 
@@ -31,11 +33,16 @@
 - node-novel
 - syosetu
 - コメディー
+- ファンタジー
+- ハイファンタジー
 - 勘違い
 - 強制ツンデレ地獄
 - 憑依
 - 死亡フラグ満載
 - 異世界転移
+- 遊戲
+- 惡役
+- 
 
 # contribute
 
@@ -56,7 +63,7 @@
 - ChrisLiu
 - 二水
 - 星宫濑奈
-- 
+-
 
 # options
 
@@ -72,7 +79,7 @@
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n4449cj&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [不知我的死亡flag将于何处停止](https://tieba.baidu.com/f?kw=%E4%B8%8D%E7%9F%A5%E6%88%91%E7%9A%84%E6%AD%BB%E4%BA%A1flag%E5%B0%86%E4%BA%8E%E4%BD%95%E5%A4%84%E5%81%9C%E6%AD%A2&ie=utf-8 "不知我的死亡flag将于何处停止")
-- 
+-
 
 
 
