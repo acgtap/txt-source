@@ -1,5 +1,37 @@
 # HISTORY
 
+## 2019-03-17
+
+### Epub
+
+- [リビティウム皇国のブタクサ姫](cm_out/%E3%83%AA%E3%83%93%E3%83%86%E3%82%A3%E3%82%A6%E3%83%A0%E7%9A%87%E5%9B%BD%E3%81%AE%E3%83%96%E3%82%BF%E3%82%AF%E3%82%B5%E5%A7%AB) - cm_out
+  <br/>( v: 7 , c: 220, add: 1 )
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( v: 1 , c: 56, add: 2 )
+- [エリナの成長物語（引き籠り女神の転生）](girl/%E3%82%A8%E3%83%AA%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7%E7%89%A9%E8%AA%9E%EF%BC%88%E5%BC%95%E3%81%8D%E7%B1%A0%E3%82%8A%E5%A5%B3%E7%A5%9E%E3%81%AE%E8%BB%A2%E7%94%9F%EF%BC%89) - girl
+  <br/>( v: 1 , c: 2, add: 1 )
+- [最強的吸血姬渴望妹妹](girl/%E6%9C%80%E5%BC%B7%E7%9A%84%E5%90%B8%E8%A1%80%E5%A7%AC%E6%B8%B4%E6%9C%9B%E5%A6%B9%E5%A6%B9) - girl
+  <br/>( v: 1 , c: 1, add: 1 )
+- [悠閑農家與亂碼技能](syosetu/%E6%82%A0%E9%96%91%E8%BE%B2%E5%AE%B6%E8%88%87%E4%BA%82%E7%A2%BC%E6%8A%80%E8%83%BD) - syosetu
+  <br/>( v: 1 , c: 90, add: 90 )
+- [美女と賢者と魔人の剣](syosetu/%E7%BE%8E%E5%A5%B3%E3%81%A8%E8%B3%A2%E8%80%85%E3%81%A8%E9%AD%94%E4%BA%BA%E3%81%AE%E5%89%A3) - syosetu
+  <br/>( v: 2 , c: 2, add: 2 )
+- [最強呪族転生](syosetu_out/%E6%9C%80%E5%BC%B7%E5%91%AA%E6%97%8F%E8%BB%A2%E7%94%9F) - syosetu_out
+  <br/>( v: 6 , c: 249, add: 13 )
+- [四度目は嫌な死属性魔術師](user_out/%E5%9B%9B%E5%BA%A6%E7%9B%AE%E3%81%AF%E5%AB%8C%E3%81%AA%E6%AD%BB%E5%B1%9E%E6%80%A7%E9%AD%94%E8%A1%93%E5%B8%AB) - user_out
+  <br/>( v: 18 , c: 282, add: 3 )
+- [没落予定なので、鍛治職人を目指す](user_out/%E6%B2%A1%E8%90%BD%E4%BA%88%E5%AE%9A%E3%81%AA%E3%81%AE%E3%81%A7%E3%80%81%E9%8D%9B%E6%B2%BB%E8%81%B7%E4%BA%BA%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99) - user_out
+  <br/>( v: 8 , c: 159, add: 2 )
+- [平凡職業造就世界最強](wenku8_out/%E5%B9%B3%E5%87%A1%E8%81%B7%E6%A5%AD%E9%80%A0%E5%B0%B1%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7) - wenku8_out
+  <br/>( v: 27 , c: 458, add: 1 )
+- [転生ごときで逃げられるとでも、兄さん？](yandere_out/%E8%BB%A2%E7%94%9F%E3%81%94%E3%81%A8%E3%81%8D%E3%81%A7%E9%80%83%E3%81%92%E3%82%89%E3%82%8C%E3%82%8B%E3%81%A8%E3%81%A7%E3%82%82%E3%80%81%E5%85%84%E3%81%95%E3%82%93%EF%BC%9F) - yandere_out
+  <br/>( v: 5 , c: 94, add: 4 )
+
+### Segment
+
+- [四度目は嫌な死属性魔術師](user/%E5%9B%9B%E5%BA%A6%E7%9B%AE%E3%81%AF%E5%AB%8C%E3%81%AA%E6%AD%BB%E5%B1%9E%E6%80%A7%E9%AD%94%E8%A1%93%E5%B8%AB) - user
+  <br/>( s: 1 )
+
 ## 2019-03-16
 
 ### Epub
