@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1552752000000,
-    "timestamp": 1552781768415,
+    "todayTimestamp": 1552838400000,
+    "timestamp": 1552867163523,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -3734,6 +3734,196 @@
           }
         ]
       ]
+    },
+    "1552838400000": {
+      "segment_count": 4,
+      "segment": [
+        [
+          "girl",
+          "原千金未婚媽媽",
+          {
+            "segment_date": 1552866980142,
+            "segment_old": 0,
+            "segment": 2,
+            "init_date": 1552866980142,
+            "txt_basename": "原千金未婚媽媽.out.txt",
+            "epub_date": 1552867140705,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 5,
+            "epub_basename": "原千金未婚媽媽.epub",
+            "novel_status": 256,
+            "update_date": 1552838400000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "悠閑農家與亂碼技能",
+          {
+            "init_date": 1552752000000,
+            "txt_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.out.txt",
+            "epub_date": 1552867142846,
+            "volume_old": 1,
+            "chapter_old": 90,
+            "volume": 1,
+            "chapter": 90,
+            "epub_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.epub",
+            "update_date": 1552838400000,
+            "update_count": 2,
+            "segment_date": 1552866988594,
+            "segment_old": 0,
+            "segment": 20
+          }
+        ],
+        [
+          "user",
+          "俺の死亡フラグが留まるところを知らない",
+          {
+            "init_date": 1547913600000,
+            "segment_date": 1552867057356,
+            "segment_old": 0,
+            "segment": 1,
+            "update_date": 1552838400000,
+            "update_count": 1
+          }
+        ],
+        [
+          "wenku8",
+          "不吉波普系列",
+          {
+            "segment_date": 1552867078858,
+            "segment_old": 2,
+            "segment": 1,
+            "init_date": 1548172800000,
+            "epub_date": 1552867149896,
+            "volume_old": 3,
+            "chapter_old": 25,
+            "volume": 6,
+            "chapter": 47,
+            "epub_basename": "不吉波普系列.epub",
+            "update_date": 1552838400000,
+            "update_count": 6,
+            "txt_basename": "不吉波普系列.out.txt"
+          }
+        ]
+      ],
+      "epub_count": 6,
+      "epub": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1552521208901,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1552867138932,
+            "volume_old": 1,
+            "chapter_old": 56,
+            "volume": 1,
+            "chapter": 56,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1552838400000,
+            "update_count": 9,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "原千金未婚媽媽",
+          {
+            "segment_date": 1552866980142,
+            "segment_old": 0,
+            "segment": 2,
+            "init_date": 1552866980142,
+            "txt_basename": "原千金未婚媽媽.out.txt",
+            "epub_date": 1552867140705,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 5,
+            "epub_basename": "原千金未婚媽媽.epub",
+            "novel_status": 256,
+            "update_date": 1552838400000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "悠閑農家與亂碼技能",
+          {
+            "init_date": 1552752000000,
+            "txt_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.out.txt",
+            "epub_date": 1552867142846,
+            "volume_old": 1,
+            "chapter_old": 90,
+            "volume": 1,
+            "chapter": 90,
+            "epub_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.epub",
+            "update_date": 1552838400000,
+            "update_count": 2,
+            "segment_date": 1552866988594,
+            "segment_old": 0,
+            "segment": 20
+          }
+        ],
+        [
+          "user_out",
+          "俺の死亡フラグが留まるところを知らない",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "不知我的死亡flag將於何處停止.out.txt",
+            "epub_date": 1552867146903,
+            "volume_old": 5,
+            "chapter_old": 104,
+            "volume": 5,
+            "chapter": 105,
+            "epub_basename": "不知我的死亡flag將於何處停止.epub",
+            "update_date": 1552838400000,
+            "update_count": 3,
+            "novel_status": 256
+          }
+        ],
+        [
+          "wenku8",
+          "不吉波普系列",
+          {
+            "segment_date": 1552867078858,
+            "segment_old": 2,
+            "segment": 1,
+            "init_date": 1548172800000,
+            "epub_date": 1552867149896,
+            "volume_old": 3,
+            "chapter_old": 25,
+            "volume": 6,
+            "chapter": 47,
+            "epub_basename": "不吉波普系列.epub",
+            "update_date": 1552838400000,
+            "update_count": 6,
+            "txt_basename": "不吉波普系列.out.txt"
+          }
+        ],
+        [
+          "wenku8",
+          "森の魔獣に花束を",
+          {
+            "init_date": 1552838400000,
+            "txt_basename": "森の魔獣に花束を.out.txt",
+            "epub_date": 1552867151394,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 11,
+            "epub_basename": "森の魔獣に花束を.epub",
+            "novel_status": 256,
+            "update_date": 1552838400000,
+            "update_count": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -4112,14 +4302,17 @@
       "悠閑農家與亂碼技能": {
         "init_date": 1552752000000,
         "txt_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.out.txt",
-        "epub_date": 1552781699517,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1552867142846,
+        "volume_old": 1,
+        "chapter_old": 90,
         "volume": 1,
         "chapter": 90,
         "epub_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.epub",
-        "update_date": 1552752000000,
-        "update_count": 1
+        "update_date": 1552838400000,
+        "update_count": 2,
+        "segment_date": 1552866988594,
+        "segment_old": 0,
+        "segment": 20
       },
       "美女と賢者と魔人の剣": {
         "init_date": 1552752000000,
@@ -4286,7 +4479,12 @@
         "update_count": 5
       },
       "俺の死亡フラグが留まるところを知らない": {
-        "init_date": 1547913600000
+        "init_date": 1547913600000,
+        "segment_date": 1552867057356,
+        "segment_old": 0,
+        "segment": 1,
+        "update_date": 1552838400000,
+        "update_count": 1
       },
       "呪術師は勇者になれない": {
         "init_date": 1547913600000
@@ -4721,15 +4919,16 @@
       },
       "俺の死亡フラグが留まるところを知らない": {
         "init_date": 1545494400000,
-        "txt_basename": "不知我的死亡flag将于何处停止.out.txt",
-        "epub_date": 1547940775517,
+        "txt_basename": "不知我的死亡flag將於何處停止.out.txt",
+        "epub_date": 1552867146903,
         "volume_old": 5,
         "chapter_old": 104,
         "volume": 5,
-        "chapter": 104,
-        "epub_basename": "不知我的死亡flag将于何处停止.epub",
-        "update_date": 1552060800000,
-        "update_count": 2
+        "chapter": 105,
+        "epub_basename": "不知我的死亡flag將於何處停止.epub",
+        "update_date": 1552838400000,
+        "update_count": 3,
+        "novel_status": 256
       },
       "破壊の御子": {
         "init_date": 1545494400000,
@@ -5698,18 +5897,18 @@
         "txt_basename": "關於人類是最強種族這件事.out.txt"
       },
       "不吉波普系列": {
-        "segment_date": 1548373108569,
+        "segment_date": 1552867078858,
         "segment_old": 2,
-        "segment": 2,
+        "segment": 1,
         "init_date": 1548172800000,
-        "epub_date": 1548511773797,
+        "epub_date": 1552867149896,
         "volume_old": 3,
         "chapter_old": 25,
-        "volume": 3,
-        "chapter": 25,
+        "volume": 6,
+        "chapter": 47,
         "epub_basename": "不吉波普系列.epub",
-        "update_date": 1552060800000,
-        "update_count": 5,
+        "update_date": 1552838400000,
+        "update_count": 6,
         "txt_basename": "不吉波普系列.out.txt"
       },
       "平凡職業造就世界最強": {
@@ -5741,6 +5940,19 @@
         "update_date": 1552060800000,
         "update_count": 5,
         "txt_basename": "被死神撫養的少女懷抱漆黑之劍.out.txt"
+      },
+      "森の魔獣に花束を": {
+        "init_date": 1552838400000,
+        "txt_basename": "森の魔獣に花束を.out.txt",
+        "epub_date": 1552867151394,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 11,
+        "epub_basename": "森の魔獣に花束を.epub",
+        "novel_status": 256,
+        "update_date": 1552838400000,
+        "update_count": 1
       }
     },
     "cm_out": {
@@ -6193,15 +6405,15 @@
         "segment_old": 1,
         "segment": 1,
         "init_date": 1549641600000,
-        "epub_date": 1552781697256,
+        "epub_date": 1552867138932,
         "volume_old": 1,
-        "chapter_old": 54,
+        "chapter_old": 56,
         "volume": 1,
         "chapter": 56,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1552752000000,
-        "update_count": 8,
+        "update_date": 1552838400000,
+        "update_count": 9,
         "txt_basename": "Genocide Online ～極惡千.out.txt"
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
@@ -6337,6 +6549,22 @@
         "epub_basename": "最强的吸血姬渴望妹妹.epub",
         "novel_status": 769,
         "update_date": 1552752000000,
+        "update_count": 1
+      },
+      "原千金未婚媽媽": {
+        "segment_date": 1552866980142,
+        "segment_old": 0,
+        "segment": 2,
+        "init_date": 1552866980142,
+        "txt_basename": "原千金未婚媽媽.out.txt",
+        "epub_date": 1552867140705,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 5,
+        "epub_basename": "原千金未婚媽媽.epub",
+        "novel_status": 256,
+        "update_date": 1552838400000,
         "update_count": 1
       }
     },
@@ -8121,6 +8349,80 @@
         "link": [
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n4719ff&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "https://tieba.baidu.com/p/6028562307"
+        ]
+      },
+      "原千金未婚媽媽": {
+        "novel": {
+          "title": "元貴族令嬢で未婚の母ですが、娘たちが可愛すぎて冒険者業も苦になりません",
+          "title_zh1": "原千金兼未婚媽媽、因為女兒們很可愛所以當冒險者完全不覺得辛苦",
+          "author": "大小判",
+          "illust": "まろ",
+          "source": "http://ncode.syosetu.com/n2129ei/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/91v9n0PqG6L.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-03-12T02:40:00+08:00",
+          "status": "連載",
+          "novel_status": 256,
+          "series": {
+            "name": "ざまぁシリーズ"
+          },
+          "preface": "　２０１９年、３月９日。ＴＯブックス様より第２巻発売が決定しました！　詳しくはイラストが記載された活動報告をどうぞ！\n　第二章、帝国ざまぁ編始めました！\n　白髪とオッドアイを蛇蝎の如く嫌う帝国貴族、その最高位である公爵家に生まれたシャーリィは、見事な白髪と、紅色と蒼色のオッドアイを持って生まれてきた。\n　血の繋がった家族からも疎まれ、巡り会った自分を愛してくれる婚約者も実の妹に奪われ、冤罪を着せられた上に投獄されてしまう。\n　激しい拷問の末、自分を貶めた全てに復讐を誓い、運良く脱獄に成功したのだが、彼女のお腹には既に元婚約者との間に出来た子供が宿っていた。\n　例え憎い男の血を引いていたとしても、生まれてくる子供に罪はない。せめて無事に生んで、後は孤児院にでも預けようとしたのだが――――\n\n「どうしましょう、私の娘たちが世界一可愛いんですけど」\n\n　お腹を痛めて生んだ我が子の可愛さにノックアウトされたシャーリィ。復讐よりも子育てを選び、帝国を飛び出して隣の王国の辺境の街に移り住んだ彼女は養育費や生活費を稼ぐために冒険者ギルドの扉を開く。目立たず、ひっそりと、帝国に気付かれないように暮らせればいいと思っていたが――――\n\n「シャーリィさん！　王都の近くに天災級の魔物が現れたんですけど、依頼を引き受けてくれませんか！？」\n「断ります。今日は娘たちの学校の宿題を手伝う約束をしていますので」\n\n　十年後、何時の間にか世界トップレベルの冒険者、《白の剣鬼》と呼ばれるようになってしまった。\n\n\n　主人公復讐を止めてますが、後に盛大なざまあが有ります。\n　日間ランキング、早くも１位達成！　皆さまの評価、本当にありがとうございます！",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "ざまぁ",
+            "すれ違い",
+            "オリジナル戦記",
+            "クール＆ツンデレ",
+            "ハイファンタジー",
+            "ファンタジー",
+            "不老",
+            "冒険者",
+            "冤罪",
+            "女主人公",
+            "女兒",
+            "婚約破棄",
+            "家族",
+            "年の差",
+            "広義的にはロリババア",
+            "復讐",
+            "恋愛",
+            "悪役令嬢",
+            "残酷な描写あり",
+            "異世界召喚",
+            "異色瞳",
+            "親バカ",
+            "親子"
+          ],
+          "title_en1": "Even Though I'm a Former Noble and a Single Mother, My Daughters are too Cute and Working as an Adventurer Isn't Too Much of a Hassle"
+        },
+        "contribute": [
+          "nyancats2012"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "s8227d",
+            "novel_id": "n2129ei"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n2129ei&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[ざまぁシリーズ](http://ncode.syosetu.com/s8227d/)",
+          "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=130&page=1)",
+          "https://www.novelupdates.com/series/even-though-im-a-former-noble-and-a-single-mother-my-daughters-are-too-cute-and-working-as-an-adventurer-isnt-too-much-of-a-hassle/"
         ]
       },
       "最強的吸血姬渴望妹妹": {
@@ -13747,13 +14049,15 @@
       "俺の死亡フラグが留まるところを知らない": {
         "novel": {
           "title": "俺の死亡フラグが留まるところを知らない",
-          "title_zh": "不知我的死亡flag将于何处停止",
+          "title_zh": "不知我的死亡flag將於何處停止",
           "author": "泉",
+          "illust": "Aちき",
           "source": "http://ncode.syosetu.com/n4449cj/",
           "cover": "https://images-na.ssl-images-amazon.com/images/I/81vLZRct-ZL.jpg",
           "publisher": "syosetu",
           "date": "2018-03-12T01:47:00+08:00",
           "status": "連載",
+          "novel_status": 256,
           "series": {
             "name": ""
           },
@@ -13762,11 +14066,15 @@
             "node-novel",
             "syosetu",
             "コメディー",
+            "ハイファンタジー",
+            "ファンタジー",
             "勘違い",
             "強制ツンデレ地獄",
+            "惡役",
             "憑依",
             "死亡フラグ満載",
-            "異世界転移"
+            "異世界転移",
+            "遊戲"
           ]
         },
         "contribute": [
@@ -16232,7 +16540,11 @@
           ]
         },
         "contribute": [
-          "gundam793"
+          "Oscuro",
+          "gundam793",
+          "七七七千爱",
+          "十六",
+          "镜"
         ],
         "options": {
           "downloadOptions": {
@@ -16248,7 +16560,8 @@
           }
         },
         "link": [
-          "[不吉波普不笑](https://share.dmhy.org/topics/list?keyword=%E4%B8%8D%E5%90%89%E6%B3%A2%E6%99%AE%E4%B8%8D%E7%AC%91&sort_id=2&team_id=0&order=date-desc)"
+          "[不吉波普不笑](https://share.dmhy.org/topics/list?keyword=%E4%B8%8D%E5%90%89%E6%B3%A2%E6%99%AE%E4%B8%8D%E7%AC%91&sort_id=2&team_id=0&order=date-desc)",
+          "[不吉波普吧](https://tieba.baidu.com/f?kw=%E4%B8%8D%E5%90%89%E6%B3%A2%E6%99%AE&ie=utf-8 \"\")"
         ]
       },
       "打倒女神勇者的下流手段": {
@@ -16305,6 +16618,55 @@
         "link": [
           "[kakuyomu](https://kakuyomu.jp/works/1177354054887566690)",
           "[syosetu](https://ncode.syosetu.com/n3670fe/)"
+        ]
+      },
+      "森の魔獣に花束を": {
+        "novel": {
+          "title": "森の魔獣に花束を",
+          "title_zh1": "向森之魔物獻上花束",
+          "title_zh2": "向森林的魔獸少女獻花",
+          "author": "小木君人",
+          "illust": "そと",
+          "source": "http://www.wenku8.com/book/1306.htm",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/71Ui8eSP62L.jpg",
+          "publisher": "小学馆",
+          "publishers": [
+            "wenku8"
+          ],
+          "date": "2012-11-02T00:00:00+08:00",
+          "status": "已完成",
+          "novel_status": 256,
+          "series": {
+            "name": "向森之魔物献上花束(向森林的魔兽少女献花)"
+          },
+          "preface": "向森林的魔物獻上花束\n\n劍與魔法作為一股強大力量的世界裡，克雷歐過著只有繪畫是唯一生存意義的孤獨生活。不過生於名門的他，為了取得繼承人資格必須踏上試煉之旅。踏入禁忌之森的他，遇見一名半人半植物的魔獸少女。輕易被抓的克雷歐設法勾起少女的興趣得到幫助，卻又被她當成寵物一般囚禁起來。兩人從此展開奇異的同居生活，這樣的生活不知不覺間令他感到很安心。但平靜的日子沒有持續太久......描繪人與魔獸的戀情，一本溫暖的異色奇幻小說。\n\n登場人物\n克雷歐\n名門子弟。繪畫是他的生存意義。\n\n羅莎莉\n魔獸少女。雖然會捕食人類，但性格天真無邪。\n\n\n---\n\nひとりぼっちの魔獣の少女に恋をした。\n\nとある村の近くに、人喰う魔物が棲むという禁断の森があった。家の跡継ぎになるための試練として稀少な青い薔薇を探す旅に出た少年クレヲは、同行者の裏切りに遭い、その森にひとり取り残される。そこでクレヲが出会ったのは半獣半人の魔獣の少女。なんとか魔獣の少女の気を惹いて、食べられることを免れたクレヲだったが、その代わりに彼女のペットにされてしまった……。そして、始まる奇妙な共同生活。純真な心を持つクレヲと一緒に暮らすうち、ずっとひとりぼっちだった魔獣の少女の心にやがて変化が現れる。だが、二人の日々はそう長くは続かなかった……。\n人間と魔獣の恋を描いた心温まる異色のファンタジー小説。\n\n---\n\n剣と魔法が大きな力として存在する世界。クレヲは絵を描くことだけを生きがいに孤独な日々を過ごしていた。だが、名家に生まれた彼は、跡継ぎになるための試練の旅に出なければならなくなる。禁断の森へ踏み込み、そこで半人半植物の魔獣の少女と出逢う。あっけなく捕まったクレヲは、なんとか気を惹いて助けてもらうが、代わりにペット同然に拘束されてしまった。こうして始まった奇妙な共同生活だったが、クレヲはいつしか安らぎを覚えていく。しかし平穏な日々は長く続かなかった...。人と魔獣の恋を描いた心温まる異色ファンタジー。",
+          "tags": [
+            "node-novel",
+            "wenku8"
+          ],
+          "title_zh3": "向森之魔獸獻上花束"
+        },
+        "contribute": [
+          "喵生赢家组",
+          "掉毛的狐",
+          "毛什么的最讨厌了！",
+          "毛好讨厌！"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 4,
+            "startIndex": 1
+          },
+          "textlayout": {
+            "allow_lf2": false
+          },
+          "wenku8": {
+            "novel_id": "1306"
+          }
+        },
+        "link": [
+          "[向森林的魔兽少女献花吧](https://tieba.baidu.com/f?kw=%E5%90%91%E6%A3%AE%E6%9E%97%E7%9A%84%E9%AD%94%E5%85%BD%E5%B0%91%E5%A5%B3%E7%8C%AE%E8%8A%B1&ie=utf-8 \"向森林的魔兽少女献花\")"
         ]
       },
       "被死神撫養的少女懷抱漆黑之劍": {

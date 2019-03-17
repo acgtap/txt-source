@@ -1,5 +1,33 @@
 # HISTORY
 
+## 2019-03-18
+
+### Epub
+
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( v: 1 , c: 56, add: 0 )
+- [原千金未婚媽媽](girl/%E5%8E%9F%E5%8D%83%E9%87%91%E6%9C%AA%E5%A9%9A%E5%AA%BD%E5%AA%BD) - girl
+  <br/>( v: 1 , c: 5, add: 5 )
+- [悠閑農家與亂碼技能](syosetu/%E6%82%A0%E9%96%91%E8%BE%B2%E5%AE%B6%E8%88%87%E4%BA%82%E7%A2%BC%E6%8A%80%E8%83%BD) - syosetu
+  <br/>( v: 1 , c: 90, add: 0 )
+- [俺の死亡フラグが留まるところを知らない](user_out/%E4%BF%BA%E3%81%AE%E6%AD%BB%E4%BA%A1%E3%83%95%E3%83%A9%E3%82%B0%E3%81%8C%E7%95%99%E3%81%BE%E3%82%8B%E3%81%A8%E3%81%93%E3%82%8D%E3%82%92%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84) - user_out
+  <br/>( v: 5 , c: 105, add: 1 )
+- [不吉波普系列](wenku8/%E4%B8%8D%E5%90%89%E6%B3%A2%E6%99%AE%E7%B3%BB%E5%88%97) - wenku8
+  <br/>( v: 6 , c: 47, add: 22 )
+- [森の魔獣に花束を](wenku8/%E6%A3%AE%E3%81%AE%E9%AD%94%E7%8D%A3%E3%81%AB%E8%8A%B1%E6%9D%9F%E3%82%92) - wenku8
+  <br/>( v: 1 , c: 11, add: 11 )
+
+### Segment
+
+- [原千金未婚媽媽](girl/%E5%8E%9F%E5%8D%83%E9%87%91%E6%9C%AA%E5%A9%9A%E5%AA%BD%E5%AA%BD) - girl
+  <br/>( s: 2 )
+- [悠閑農家與亂碼技能](syosetu/%E6%82%A0%E9%96%91%E8%BE%B2%E5%AE%B6%E8%88%87%E4%BA%82%E7%A2%BC%E6%8A%80%E8%83%BD) - syosetu
+  <br/>( s: 20 )
+- [俺の死亡フラグが留まるところを知らない](user/%E4%BF%BA%E3%81%AE%E6%AD%BB%E4%BA%A1%E3%83%95%E3%83%A9%E3%82%B0%E3%81%8C%E7%95%99%E3%81%BE%E3%82%8B%E3%81%A8%E3%81%93%E3%82%8D%E3%82%92%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84) - user
+  <br/>( s: 1 )
+- [不吉波普系列](wenku8/%E4%B8%8D%E5%90%89%E6%B3%A2%E6%99%AE%E7%B3%BB%E5%88%97) - wenku8
+  <br/>( s: 1 )
+
 ## 2019-03-17
 
 ### Epub
