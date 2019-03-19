@@ -2,12 +2,15 @@
 
 - title: ２９歳独身は異世界で自由に生きた…かった。
 - title_zh: ２９歲單身漢在異世界想自由生活卻事與願違！？
+- title_tieba: 29岁独身曾想在异世界自由地生活
 - author: リュート
+- illust: 桑島 黎音
 - source: http://ncode.syosetu.com/n9814bu/
 - cover: https://images-na.ssl-images-amazon.com/images/I/8157FLBOjDL.jpg
 - publisher: syosetu
 - date: 2017-11-05T21:00:00+08:00
 - status: 連載
+- novel_status: 0x0100
 
 ## series
 
@@ -58,7 +61,7 @@
 - 日本
 - 穿越
 - 魔法
-- 
+-
 
 # contribute
 
@@ -70,7 +73,7 @@
 - kid
 - 輕之國度
 - 纯天然咸鱼
-- 
+-
 
 # options
 
@@ -90,5 +93,5 @@
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n9814bu&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [29岁独身曾想在异世界自由地生活吧](https://tieba.baidu.com/f?kw=29%E5%B2%81%E7%8B%AC%E8%BA%AB%E6%9B%BE%E6%83%B3%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E8%87%AA%E7%94%B1%E5%9C%B0%E7%94%9F%E6%B4%BB&ie=utf-8 "29岁独身曾想在异世界自由地生活")
-- 
+-
 
