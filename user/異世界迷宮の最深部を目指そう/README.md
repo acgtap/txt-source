@@ -55,7 +55,7 @@
 - 異世界迷い込み
 - 西洋
 - 魔王
-- 
+-
 
 # contribute
 
@@ -78,7 +78,8 @@
 - 我叫阿進
 - -点缀光辉-
 - 相川缇娅拉
-- 
+- 某根絨毛
+-
 
 # options
 
@@ -99,5 +100,5 @@
 - [外傳空間2 諾文](https://mega.nz/#!kRUkiSxJ!wKCxPYC33egz4HLFe4b_5OKddBUEpfZlAgXCcDNrvng) - 冷粥傳奇
 - [小说插图集合](https://tieba.baidu.com/p/4647529889)
 - [轻之国度](https://www.lightnovel.cn/home.php?mod=space&uid=987726&do=thread&view=me&from=space) - 落地死的流星
-- 
-
+- [masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=112&page=1)
+-
