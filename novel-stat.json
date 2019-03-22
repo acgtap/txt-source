@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1552924800000,
-    "timestamp": 1552953415674,
+    "todayTimestamp": 1553184000000,
+    "timestamp": 1553212884822,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -643,6 +643,185 @@
           }
         ]
       ]
+    },
+    "1553184000000": {
+      "segment_count": 4,
+      "segment": [
+        [
+          "girl",
+          "エリナの成長物語（引き籠り女神の転生）",
+          {
+            "init_date": 1552492800000,
+            "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
+            "epub_date": 1553212856184,
+            "volume_old": 1,
+            "chapter_old": 2,
+            "volume": 1,
+            "chapter": 3,
+            "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
+            "update_date": 1553184000000,
+            "update_count": 3,
+            "segment_date": 1553212695895,
+            "segment_old": 0,
+            "segment": 1
+          }
+        ],
+        [
+          "girl",
+          "你這種傢伙別想打贏魔王",
+          {
+            "init_date": 1550505600000,
+            "segment_date": 1553212741411,
+            "segment_old": 6,
+            "segment": 11,
+            "update_date": 1553184000000,
+            "update_count": 3
+          }
+        ],
+        [
+          "user",
+          "２９歳独身は異世界で自由に生きた…かった。",
+          {
+            "segment_date": 1553212811587,
+            "segment_old": 0,
+            "segment": 55,
+            "init_date": 1553212811587,
+            "update_date": 1553184000000,
+            "update_count": 1
+          }
+        ],
+        [
+          "wenku8",
+          "不吉波普系列",
+          {
+            "segment_date": 1553212833370,
+            "segment_old": 1,
+            "segment": 10,
+            "init_date": 1548172800000,
+            "epub_date": 1553212870216,
+            "volume_old": 6,
+            "chapter_old": 47,
+            "volume": 6,
+            "chapter": 47,
+            "epub_basename": "不吉波普系列.epub",
+            "update_date": 1553184000000,
+            "update_count": 7,
+            "txt_basename": "不吉波普系列.out.txt"
+          }
+        ]
+      ],
+      "epub_count": 6,
+      "epub": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1552521208901,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1553212855924,
+            "volume_old": 1,
+            "chapter_old": 56,
+            "volume": 1,
+            "chapter": 60,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1553184000000,
+            "update_count": 10,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "エリナの成長物語（引き籠り女神の転生）",
+          {
+            "init_date": 1552492800000,
+            "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
+            "epub_date": 1553212856184,
+            "volume_old": 1,
+            "chapter_old": 2,
+            "volume": 1,
+            "chapter": 3,
+            "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
+            "update_date": 1553184000000,
+            "update_count": 3,
+            "segment_date": 1553212695895,
+            "segment_old": 0,
+            "segment": 1
+          }
+        ],
+        [
+          "girl_out",
+          "你這種傢伙別想打贏魔王",
+          {
+            "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
+            "epub_date": 1553212860642,
+            "volume_old": 15,
+            "chapter_old": 114,
+            "volume": 15,
+            "chapter": 115,
+            "epub_basename": "你這種傢伙別想打贏魔王.epub",
+            "novel_status": 769,
+            "init_date": 1550505600000,
+            "update_date": 1553184000000,
+            "update_count": 4
+          }
+        ],
+        [
+          "h",
+          "美腿寶箱怪",
+          {
+            "init_date": 1553184000000,
+            "txt_basename": "美腿寶箱怪、春美小姐～轉生怪物在異世界青.out.txt",
+            "epub_date": 1553212861177,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 1,
+            "epub_basename": "美腿寶箱怪、春美小姐～轉生怪物在異世界青雲直上之傳說～.epub",
+            "novel_status": 256,
+            "update_date": 1553184000000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user_out",
+          "２９歳独身は異世界で自由に生きた…かった。",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 110,
+            "chapter": 120,
+            "txt_basename": "２９歲單身漢在異世界想自由生活卻事與願違.out.txt",
+            "volume_old": 12,
+            "volume": 13,
+            "epub_basename": "２９歲單身漢在異世界想自由生活卻事與願違！？.epub",
+            "update_date": 1553184000000,
+            "update_count": 2,
+            "epub_date": 1553212867345,
+            "novel_status": 256
+          }
+        ],
+        [
+          "wenku8",
+          "不吉波普系列",
+          {
+            "segment_date": 1553212833370,
+            "segment_old": 1,
+            "segment": 10,
+            "init_date": 1548172800000,
+            "epub_date": 1553212870216,
+            "volume_old": 6,
+            "chapter_old": 47,
+            "volume": 6,
+            "chapter": 47,
+            "epub_basename": "不吉波普系列.epub",
+            "update_date": 1553184000000,
+            "update_count": 7,
+            "txt_basename": "不吉波普系列.out.txt"
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1235,6 +1414,14 @@
         "init_date": 1552060800000,
         "update_date": 1552060800000,
         "update_count": 1
+      },
+      "２９歳独身は異世界で自由に生きた…かった。": {
+        "segment_date": 1553212811587,
+        "segment_old": 0,
+        "segment": 55,
+        "init_date": 1553212811587,
+        "update_date": 1553184000000,
+        "update_count": 1
       }
     },
     "user_out": {
@@ -1382,13 +1569,15 @@
       "２９歳独身は異世界で自由に生きた…かった。": {
         "init_date": 1545494400000,
         "chapter_old": 110,
-        "chapter": 110,
+        "chapter": 120,
         "txt_basename": "２９歲單身漢在異世界想自由生活卻事與願違.out.txt",
-        "volume_old": 0,
-        "volume": 12,
+        "volume_old": 12,
+        "volume": 13,
         "epub_basename": "２９歲單身漢在異世界想自由生活卻事與願違！？.epub",
-        "update_date": 1552060800000,
-        "update_count": 1
+        "update_date": 1553184000000,
+        "update_count": 2,
+        "epub_date": 1553212867345,
+        "novel_status": 256
       },
       "暴食のベルセルク": {
         "init_date": 1545494400000,
@@ -2616,18 +2805,18 @@
         "txt_basename": "關於人類是最強種族這件事.out.txt"
       },
       "不吉波普系列": {
-        "segment_date": 1552867078858,
-        "segment_old": 2,
-        "segment": 1,
+        "segment_date": 1553212833370,
+        "segment_old": 1,
+        "segment": 10,
         "init_date": 1548172800000,
-        "epub_date": 1552867149896,
-        "volume_old": 3,
-        "chapter_old": 25,
+        "epub_date": 1553212870216,
+        "volume_old": 6,
+        "chapter_old": 47,
         "volume": 6,
         "chapter": 47,
         "epub_basename": "不吉波普系列.epub",
-        "update_date": 1552838400000,
-        "update_count": 6,
+        "update_date": 1553184000000,
+        "update_count": 7,
         "txt_basename": "不吉波普系列.out.txt"
       },
       "平凡職業造就世界最強": {
@@ -3055,6 +3244,19 @@
         "update_date": 1552060800000,
         "update_count": 2,
         "txt_basename": "異世界の男は全滅したようです.out.txt"
+      },
+      "美腿寶箱怪": {
+        "init_date": 1553184000000,
+        "txt_basename": "美腿寶箱怪、春美小姐～轉生怪物在異世界青.out.txt",
+        "epub_date": 1553212861177,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 1,
+        "epub_basename": "美腿寶箱怪、春美小姐～轉生怪物在異世界青雲直上之傳說～.epub",
+        "novel_status": 256,
+        "update_date": 1553184000000,
+        "update_count": 1
       }
     },
     "kakuyomu": {
@@ -3124,15 +3326,15 @@
         "segment_old": 1,
         "segment": 1,
         "init_date": 1549641600000,
-        "epub_date": 1552867138932,
+        "epub_date": 1553212855924,
         "volume_old": 1,
         "chapter_old": 56,
         "volume": 1,
-        "chapter": 56,
+        "chapter": 60,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1552838400000,
-        "update_count": 9,
+        "update_date": 1553184000000,
+        "update_count": 10,
         "txt_basename": "Genocide Online ～極惡千.out.txt"
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
@@ -3185,11 +3387,11 @@
       },
       "你這種傢伙別想打贏魔王": {
         "init_date": 1550505600000,
-        "segment_date": 1552133545735,
-        "segment_old": 4,
-        "segment": 6,
-        "update_date": 1552060800000,
-        "update_count": 2
+        "segment_date": 1553212741411,
+        "segment_old": 6,
+        "segment": 11,
+        "update_date": 1553184000000,
+        "update_count": 3
       },
       "JKハルは異世界で娼婦になった": {
         "segment_date": 1551484322490,
@@ -3236,14 +3438,17 @@
       "エリナの成長物語（引き籠り女神の転生）": {
         "init_date": 1552492800000,
         "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
-        "epub_date": 1552781697457,
+        "epub_date": 1553212856184,
         "volume_old": 1,
-        "chapter_old": 1,
+        "chapter_old": 2,
         "volume": 1,
-        "chapter": 2,
+        "chapter": 3,
         "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
-        "update_date": 1552752000000,
-        "update_count": 2
+        "update_date": 1553184000000,
+        "update_count": 3,
+        "segment_date": 1553212695895,
+        "segment_old": 0,
+        "segment": 1
       },
       "三葉物語": {
         "init_date": 1552665600000,
@@ -3307,16 +3512,16 @@
     "girl_out": {
       "你這種傢伙別想打贏魔王": {
         "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
-        "epub_date": 1550620202039,
-        "volume_old": 16,
-        "chapter_old": 112,
+        "epub_date": 1553212860642,
+        "volume_old": 15,
+        "chapter_old": 114,
         "volume": 15,
-        "chapter": 114,
+        "chapter": 115,
         "epub_basename": "你這種傢伙別想打贏魔王.epub",
         "novel_status": 769,
         "init_date": 1550505600000,
-        "update_date": 1552060800000,
-        "update_count": 3
+        "update_date": 1553184000000,
+        "update_count": 4
       }
     },
     "ts": {
@@ -5556,6 +5761,68 @@
         "link": [
           "[dip.jp](https://narou18.nar.jp/search.php?text=n4233bh&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[异世界的男人们貌似全灭了吧](https://tieba.baidu.com/f?kw=%E5%BC%82%E4%B8%96%E7%95%8C%E7%9A%84%E7%94%B7%E4%BA%BA%E4%BB%AC%E8%B2%8C%E4%BC%BC%E5%85%A8%E7%81%AD%E4%BA%86&ie=utf-8 \"异世界的男人们貌似全灭了\")"
+        ]
+      },
+      "美腿寶箱怪": {
+        "novel": {
+          "title": "美脚ミミック、ハルミさん　～転生モンスター異世界成り上がり伝説～",
+          "title_short": "美腿寶箱怪",
+          "title_zh": "美腿寶箱怪、春美小姐～轉生怪物在異世界青雲直上之傳說～",
+          "author": "藤孝剛志",
+          "illust": "夕薙",
+          "source": "http://ncode.syosetu.com/n7374dz/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/91ah3vWwEdL.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2018-07-10T00:10:00+08:00",
+          "status": "連載",
+          "novel_status": 256,
+          "series": {
+            "name": "美脚ミミック、ハルミさん　～転生モンスター異世界成り上がり伝説～"
+          },
+          "preface": "『那雙美腿，堪稱傳說』\n\n\n回過神來，我已經變成寶箱型的怪物ー--寶箱怪--。\n而且還被丟在四周都充斥魔物的地下迷宮，連一點說明也沒有，就被分配到地下第一層!\n正當我不知所措時，忽然眼前出現了冒險者。\n當然手和腳都長出不來。因為人家現在只是一個寶箱而已!\n然而，當我想盡辦法逃跑時，拚上性命發動了擬態技能“?\" 竟然真的長出了手和腳!\n\n……不對，那接下來該怎麼辦?\n\n只是長出手腳怎麼可能與高等級的冒險者們匹敵!\n才在提心吊膽，不知為何冒險者們的團隊卻開始起內鬨，而唯一生還的盜賊對我說道。\n\n「真是天生尤物」\n\n這是一個關於變成寶箱怪的女生，由於獲得一雙舉世無雙的美腿，而在異世界平步青雲的故事----\n\n※書籍化してます！　１巻発売中です！\n\n気付けば私は宝箱型のモンスター－－ミミック－－になっていた。\nしかも、周りはモンスターだらけのダンジョンだし、たいした説明もなく地下一階に配置されるし！\nもう何がなんだかって思ってたら、いきなり冒険者がやってきた。\nもちろん手も足も出ない。宝箱だから！\nけど、どうにか逃げだそうと必死になって擬態スキルの“？”を発動させると、なんか手足が生えてきた！\n\n……いや、それでどうしろと？\n\n手足が生えた程度で高レベル冒険者にかなうわけないじゃん！\nと思っていたら、なぜか急に冒険者たちが仲間割れを始め、生き残った盗賊が私に向かってこう言ったのだ。\n\n「すばらしい」\n\nこれは、ミミックになっちゃった女の子が、たぐいまれな美脚を手に入れたことで、異世界で成り上がっていくお話－－－－",
+          "tags": [
+            "node-novel",
+            "syosetu",
+            "ほのぼの",
+            "コメディ",
+            "コメディー",
+            "チート",
+            "ファンタジー",
+            "ミミック最強",
+            "モンスター",
+            "冒険",
+            "女主人公",
+            "書籍化",
+            "残酷な描写あり",
+            "爆裂",
+            "異世界"
+          ]
+        },
+        "contribute": [
+          "章魚子"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n7374dz"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n7374dz&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[章鱼子个人小屋吧](https://tieba.baidu.com/f?kw=%E7%AB%A0%E9%B1%BC%E5%AD%90%E4%B8%AA%E4%BA%BA%E5%B0%8F%E5%B1%8B&ie=utf-8 \"章鱼子个人小屋\")",
+          "[黴腿寶箱怪](https://tieba.baidu.com/p/6069727862 \"黴腿寶箱怪\")"
         ]
       }
     },
@@ -10313,11 +10580,13 @@
           "title": "２９歳独身は異世界で自由に生きた…かった。",
           "title_zh": "２９歲單身漢在異世界想自由生活卻事與願違！？",
           "author": "リュート",
+          "illust": "桑島 黎音",
           "source": "http://ncode.syosetu.com/n9814bu/",
           "cover": "https://images-na.ssl-images-amazon.com/images/I/8157FLBOjDL.jpg",
           "publisher": "syosetu",
           "date": "2017-11-05T21:00:00+08:00",
           "status": "連載",
+          "novel_status": 256,
           "series": {
             "name": ""
           },
@@ -10347,7 +10616,8 @@
             "穿越",
             "街づくり",
             "魔法"
-          ]
+          ],
+          "title_tieba": "29岁独身曾想在异世界自由地生活"
         },
         "contribute": [
           "kerorokun",
@@ -13748,6 +14018,56 @@
           "[dip.jp](https://narou.nar.jp/search.php?text=n9543bw&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[我的怪物眷族吧](https://tieba.baidu.com/f?kw=%E6%88%91%E7%9A%84%E6%80%AA%E7%89%A9%E7%9C%B7%E6%97%8F&ie=utf-8&tp=0 \"我的怪物眷族\")",
           "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=101)"
+        ]
+      },
+      "ラピスの心臓": {
+        "novel": {
+          "title": "ラピスの心臓",
+          "title_zh": "青金石之心",
+          "author": "おぽっさむ",
+          "illust": "一色箱",
+          "source": "http://ncode.syosetu.com/n4006r/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/91UD7us7AKL.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-02-16T10:25:00+08:00",
+          "status": "連載",
+          "novel_status": 0,
+          "series": {
+            "name": "ラピスの心臓"
+          },
+          "preface": "這是一個名為狂鬼的凶暴生物猖獗泛濫、被灰色森林所覆蓋的世界。\n從小作為孤兒獨自長大的朱應，生來便具有優秀的動態視力。\n一次偶然的相遇，被實力強大的刺客撿回家領養。\n十二年後，朱應學會了各式各樣的知識與技術，為了增廣見聞而踏上了旅途。\n才華洋溢的他，將會經歷各種邂逅增長經驗，並踏實的走向人生更高的境界。\n永無止境地成長、出人頭地的幻想故事，便是從這裡開始。\n\n狂鬼と呼ばれる凶暴な生き物でひしめき合う、灰色の森で覆われた世界。孤児として独りぼっちで生きる主人公のシュオウは、生まれながらの優れた動体視力を見込まれて、偶然の出会いを果たした凄腕の刺客に拾われる。十二年後、様々な知識や技術を習得したシュオウは、見聞を広めるために旅にでる。才に溢れるシュオウは、様々な出会いや経験を経て、着実に上への階段を昇っていくことになる。天井知らずの立身出世ファンタジーはここから始まる。\n▽このお話には【サクセスストーリー】【戦争】【恋愛】【主人公TUEE】等の要素があります。\n▼このお話には【性暴力】【寝取られ】等の要素はありません。",
+          "tags": [
+            "node-novel",
+            "syosetu",
+            "ハイファンタジー",
+            "ファンタジー",
+            "残酷な描写あり"
+          ]
+        },
+        "contribute": [
+          "章魚子"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n4006r"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n4006r&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[青金石之心吧](https://tieba.baidu.com/f?kw=%E9%9D%92%E9%87%91%E7%9F%B3%E4%B9%8B%E5%BF%83&ie=utf-8 \"\")"
         ]
       },
       "想當冒險者的女兒到首都當了等級Ｓ的冒險者": {
