@@ -3,11 +3,13 @@
 - title: 用務員さんは勇者じゃありませんので
 - title_zh: 因為校工桑並不是勇者
 - author: 棚花尋平
+- illust: 巖本 英利
 - source: http://ncode.syosetu.com/n4202cb/
 - cover: https://images-na.ssl-images-amazon.com/images/I/81gC4iaNlGL.jpg
 - publisher: syosetu
 - date: 2018-08-27T23:08:00+08:00
 - status: 連載
+- novel_status: 0x0100
 
 ## series
 
@@ -59,7 +61,8 @@
 - 吉村理葛
 - 聞人織也
 - Nimbushark
-- 
+- 不安小子
+-
 
 # options
 
