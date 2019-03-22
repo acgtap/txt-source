@@ -1,5 +1,33 @@
 # HISTORY
 
+## 2019-03-22
+
+### Epub
+
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( v: 1 , c: 60, add: 4 )
+- [エリナの成長物語（引き籠り女神の転生）](girl/%E3%82%A8%E3%83%AA%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7%E7%89%A9%E8%AA%9E%EF%BC%88%E5%BC%95%E3%81%8D%E7%B1%A0%E3%82%8A%E5%A5%B3%E7%A5%9E%E3%81%AE%E8%BB%A2%E7%94%9F%EF%BC%89) - girl
+  <br/>( v: 1 , c: 3, add: 1 )
+- [你這種傢伙別想打贏魔王](girl_out/%E4%BD%A0%E9%80%99%E7%A8%AE%E5%82%A2%E4%BC%99%E5%88%A5%E6%83%B3%E6%89%93%E8%B4%8F%E9%AD%94%E7%8E%8B) - girl_out
+  <br/>( v: 15 , c: 115, add: 1 )
+- [美腿寶箱怪](h/%E7%BE%8E%E8%85%BF%E5%AF%B6%E7%AE%B1%E6%80%AA) - h
+  <br/>( v: 1 , c: 1, add: 1 )
+- [２９歳独身は異世界で自由に生きた…かった。](user_out/%EF%BC%92%EF%BC%99%E6%AD%B3%E7%8B%AC%E8%BA%AB%E3%81%AF%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%A7%E8%87%AA%E7%94%B1%E3%81%AB%E7%94%9F%E3%81%8D%E3%81%9F%E2%80%A6%E3%81%8B%E3%81%A3%E3%81%9F%E3%80%82) - user_out
+  <br/>( v: 13 , c: 120, add: 10 )
+- [不吉波普系列](wenku8/%E4%B8%8D%E5%90%89%E6%B3%A2%E6%99%AE%E7%B3%BB%E5%88%97) - wenku8
+  <br/>( v: 6 , c: 47, add: 0 )
+
+### Segment
+
+- [エリナの成長物語（引き籠り女神の転生）](girl/%E3%82%A8%E3%83%AA%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7%E7%89%A9%E8%AA%9E%EF%BC%88%E5%BC%95%E3%81%8D%E7%B1%A0%E3%82%8A%E5%A5%B3%E7%A5%9E%E3%81%AE%E8%BB%A2%E7%94%9F%EF%BC%89) - girl
+  <br/>( s: 1 )
+- [你這種傢伙別想打贏魔王](girl/%E4%BD%A0%E9%80%99%E7%A8%AE%E5%82%A2%E4%BC%99%E5%88%A5%E6%83%B3%E6%89%93%E8%B4%8F%E9%AD%94%E7%8E%8B) - girl
+  <br/>( s: 11 )
+- [２９歳独身は異世界で自由に生きた…かった。](user/%EF%BC%92%EF%BC%99%E6%AD%B3%E7%8B%AC%E8%BA%AB%E3%81%AF%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%A7%E8%87%AA%E7%94%B1%E3%81%AB%E7%94%9F%E3%81%8D%E3%81%9F%E2%80%A6%E3%81%8B%E3%81%A3%E3%81%9F%E3%80%82) - user
+  <br/>( s: 55 )
+- [不吉波普系列](wenku8/%E4%B8%8D%E5%90%89%E6%B3%A2%E6%99%AE%E7%B3%BB%E5%88%97) - wenku8
+  <br/>( s: 10 )
+
 ## 2019-03-19
 
 ### Epub
