@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1553184000000,
-    "timestamp": 1553212884822,
+    "todayTimestamp": 1553270400000,
+    "timestamp": 1553299364396,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -822,6 +822,77 @@
           }
         ]
       ]
+    },
+    "1553270400000": {
+      "epub_count": 4,
+      "epub": [
+        [
+          "h_out",
+          "勇者は犯されたい",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 49,
+            "chapter": 49,
+            "txt_basename": "想被侵犯的勇者.out.txt",
+            "volume_old": 1,
+            "volume": 1,
+            "epub_basename": "想被侵犯的勇者.epub",
+            "update_date": 1553270400000,
+            "update_count": 2,
+            "epub_date": 1553299326902,
+            "novel_status": 257
+          }
+        ],
+        [
+          "syosetu",
+          "レベル１の最強賢者",
+          {
+            "init_date": 1553270400000,
+            "txt_basename": "等級１的最強賢者.out.txt",
+            "epub_date": 1553299327292,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 2,
+            "chapter": 5,
+            "epub_basename": "等級１的最強賢者.epub",
+            "update_date": 1553270400000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu_out",
+          "用務員さんは勇者じゃありませんので",
+          {
+            "epub_date": 1553299329494,
+            "volume_old": 4,
+            "chapter_old": 63,
+            "volume": 4,
+            "chapter": 63,
+            "epub_basename": "因為校工桑並不是勇者.epub",
+            "init_date": 1545548930185,
+            "txt_basename": "因為校工桑並不是勇者.out.txt",
+            "update_date": 1553270400000,
+            "update_count": 4,
+            "novel_status": 256
+          }
+        ],
+        [
+          "user_out",
+          "異世界迷宮の最深部を目指そう",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "異世界迷宮の最深部を目指そう.out.txt",
+            "epub_date": 1553299346713,
+            "volume_old": 28,
+            "chapter_old": 395,
+            "volume": 28,
+            "chapter": 404,
+            "epub_basename": "異世界迷宮の最深部を目指そう.epub",
+            "update_date": 1553270400000,
+            "update_count": 7
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1224,6 +1295,18 @@
         "novel_status": 769,
         "update_date": 1552752000000,
         "update_count": 1
+      },
+      "レベル１の最強賢者": {
+        "init_date": 1553270400000,
+        "txt_basename": "等級１的最強賢者.out.txt",
+        "epub_date": 1553299327292,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 2,
+        "chapter": 5,
+        "epub_basename": "等級１的最強賢者.epub",
+        "update_date": 1553270400000,
+        "update_count": 1
       }
     },
     "user": {
@@ -1419,7 +1502,7 @@
         "segment_date": 1553212811587,
         "segment_old": 0,
         "segment": 55,
-        "init_date": 1553212811587,
+        "init_date": 1553184000000,
         "update_date": 1553184000000,
         "update_count": 1
       }
@@ -1620,14 +1703,14 @@
       "異世界迷宮の最深部を目指そう": {
         "init_date": 1545494400000,
         "txt_basename": "異世界迷宮の最深部を目指そう.out.txt",
-        "epub_date": 1550879407909,
+        "epub_date": 1553299346713,
         "volume_old": 28,
         "chapter_old": 395,
         "volume": 28,
-        "chapter": 395,
+        "chapter": 404,
         "epub_basename": "異世界迷宮の最深部を目指そう.epub",
-        "update_date": 1552060800000,
-        "update_count": 6
+        "update_date": 1553270400000,
+        "update_count": 7
       },
       "豚公爵に転生したから、今度は君に好きと言いたい": {
         "init_date": 1545494400000,
@@ -1978,7 +2061,7 @@
         "update_count": 5
       },
       "用務員さんは勇者じゃありませんので": {
-        "epub_date": 1547335778959,
+        "epub_date": 1553299329494,
         "volume_old": 4,
         "chapter_old": 63,
         "volume": 4,
@@ -1986,8 +2069,9 @@
         "epub_basename": "因為校工桑並不是勇者.epub",
         "init_date": 1545548930185,
         "txt_basename": "因為校工桑並不是勇者.out.txt",
-        "update_date": 1552060800000,
-        "update_count": 3
+        "update_date": 1553270400000,
+        "update_count": 4,
+        "novel_status": 256
       },
       "異常狀態是絕望": {
         "epub_date": 1545607422008,
@@ -3048,11 +3132,13 @@
         "chapter_old": 49,
         "chapter": 49,
         "txt_basename": "想被侵犯的勇者.out.txt",
-        "volume_old": 0,
+        "volume_old": 1,
         "volume": 1,
         "epub_basename": "想被侵犯的勇者.epub",
-        "update_date": 1552060800000,
-        "update_count": 1
+        "update_date": 1553270400000,
+        "update_count": 2,
+        "epub_date": 1553299326902,
+        "novel_status": 257
       }
     },
     "kakuyomu_out": {
@@ -3257,6 +3343,9 @@
         "novel_status": 256,
         "update_date": 1553184000000,
         "update_count": 1
+      },
+      "勇者は犯されたい": {
+        "init_date": 1553270400000
       }
     },
     "kakuyomu": {
@@ -5832,15 +5921,17 @@
           "title": "勇者は犯されたい",
           "title_zh": "想被侵犯的勇者",
           "author": "シースルー",
+          "illust": "薄稀",
           "source": "http://novel18.syosetu.com/n7623br/",
           "cover": "https://images-fe.ssl-images-amazon.com/images/I/613pf755ZxL.jpg",
           "publisher": "syosetu",
           "date": "2018-02-22T23:24:00+08:00",
           "status": "完結済",
+          "novel_status": 257,
           "series": {
             "name": "勇者は犯されたい"
           },
-          "preface": "主角玩HG的时候因为游戏的超拟真界面去了异世界变成了妹纸，但主角还以为这是游戏，没有认识现实；\n\n因为这是主角第N轮玩游戏，加上游戏的继承系统，主角已经达到最高等级，即是世界最强的，因为是HGAME，所以主角说想看H场景，本来是其他人被x的，但主角代替了她们自动往坑里跳，喜闻乐见的各种东西就此出来了 \n\n強くてニューゲームを選んだら、ゲームの中に居た。エロRPGをクリアした後、いつものように強くてニューゲームを選択したら、直前に選んだオプションが悪かったのか、気が付けばそこはゲームの中だった。エロゲーが？ 現実になった？ しかも、女性主人公を選んだおかげで身体は女性。これは、色々試してみるしかない。カンストしたレベルと、コンプリートした魔法とアイテムを持っているにも関わらず、わざと押し倒されちゃう。そんな性欲まみれの周回プレイが始まった。\n※「残酷な描写あり」タグを追加しましたが、保険です。あまり酷い描写はない予定です。\n※「ボーイズラブ」タグを追加しましたが、保険です。男性同士の絡みはありません。男性とTS娘の絡みはあります。「ラブ」の描写はありません。",
+          "preface": "主角玩HG的时候因为游戏的超拟真界面去了异世界变成了妹纸，但主角还以为这是游戏，没有认识现实；\n\n因为这是主角第N轮玩游戏，加上游戏的继承系统，主角已经达到最高等级，即是世界最强的，因为是HGAME，所以主角说想看H场景，本来是其他人被x的，但主角代替了她们自动往坑里跳，喜闻乐见的各种东西就此出来了\n\n強くてニューゲームを選んだら、ゲームの中に居た。エロRPGをクリアした後、いつものように強くてニューゲームを選択したら、直前に選んだオプションが悪かったのか、気が付けばそこはゲームの中だった。エロゲーが？ 現実になった？ しかも、女性主人公を選んだおかげで身体は女性。これは、色々試してみるしかない。カンストしたレベルと、コンプリートした魔法とアイテムを持っているにも関わらず、わざと押し倒されちゃう。そんな性欲まみれの周回プレイが始まった。\n※「残酷な描写あり」タグを追加しましたが、保険です。あまり酷い描写はない予定です。\n※「ボーイズラブ」タグを追加しましたが、保険です。男性同士の絡みはありません。男性とTS娘の絡みはあります。「ラブ」の描写はありません。",
           "tags": [
             "TS",
             "node-novel",
@@ -5860,6 +5951,7 @@
         "contribute": [
           "一團和氣",
           "十賭九輸",
+          "我只是一個紳士",
           "聯盟冠軍"
         ],
         "options": {
@@ -8050,11 +8142,13 @@
           "title": "用務員さんは勇者じゃありませんので",
           "title_zh": "因為校工桑並不是勇者",
           "author": "棚花尋平",
+          "illust": "巖本 英利",
           "source": "http://ncode.syosetu.com/n4202cb/",
           "cover": "https://images-na.ssl-images-amazon.com/images/I/81gC4iaNlGL.jpg",
           "publisher": "syosetu",
           "date": "2018-08-27T23:08:00+08:00",
           "status": "連載",
+          "novel_status": 256,
           "series": {
             "name": "用務員さんは勇者じゃありませんので"
           },
@@ -8079,6 +8173,7 @@
           "Nimbushark",
           "a454251432",
           "nice天夜月",
+          "不安小子",
           "吉村理葛",
           "聞人織也"
         ],
@@ -9312,6 +9407,73 @@
         "link": [
           "[dip.jp](https://narou.dip.jp/search.php?text=n1489eq&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[尼特的慵懒异世界吧](https://tieba.baidu.com/f?kw=%E5%B0%BC%E7%89%B9%E7%9A%84%E6%85%B5%E6%87%92%E5%BC%82%E4%B8%96%E7%95%8C&ie=utf-8 \"尼特的慵懒异世界\")"
+        ]
+      },
+      "レベル１の最強賢者": {
+        "novel": {
+          "title": "レベル１の最強賢者 ～ 呪いで最下級魔法しか使えないけど、神の勘違いで無限の魔力を手に入れて最強に！ ～",
+          "title_short": "等級１的最強賢者",
+          "title_zh1": "等級１的最強賢者　因為詛咒只能使用最下級魔法，但是因為神的失誤獲得無限魔力所以成為最強！",
+          "author": "木塚 麻弥",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n1563fd/",
+          "cover": "",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-03-21T19:40:00+08:00",
+          "status": "連載",
+          "novel_status": 0,
+          "series": {
+            "name": "レベル１の最強賢者 ～ 呪いで最下級魔法しか使えないけど、神の勘違いで無限の魔力を手に入れて最強に！ ～"
+          },
+          "preface": "西条 遥人某天、因异世界的邪神而转生了、并被附上了〘状态固定〙的诅咒。\n\n转生到的是一个剑与魔法的世界。\n\n通过提升职业的等级变强、而哈鲁特（遥人）因为诅咒的关系并不能升级。\n\n哈鲁特陷入了绝望。\n\n但是、因为邪神的失误、哈鲁特得到了无尽的魔力。（*怜：锁状态把血蓝也给锁了）\n\n依靠无限的魔力和、原本世界的知识、哈鲁特成长为最强贤者。\n\n狩猎高等级魔物、甚至打倒了魔人与恶魔。\n\n「可以吗？就用三成实力吧。请绝对不要认真放出魔法哦」\n\n被魔法学院的教师念叨说不要认真使用魔法。\n\n「所以说啊、哈鲁特太强了啦。是魔王嘛」\n\n得到了被同伴说成魔王的等级力量、哈鲁特仍然将目标放在更高水平。\n\n最终目标是找到杀掉自己的邪神干他一炮（x）。\n\n等级1的最强贤者、今天也在摸索着提高自己实力的方法。\n\n---\n\n西条 遥人はある日、異世界の邪神によって転生させられ、〘ステータス固定〙の呪いをかけられた。\n\n転生先は剣と魔法の世界。\n\n職業のレベルを上げることで強くなれるが、ハルトは呪いのせいでレベルを上げることが出来ない。\n\nハルトは絶望した。\n\nだが、邪神の勘違いにより、ハルトは無尽蔵の魔力を手に入れていた。\n\n無限の魔力と、元の世界での知識を利用して、ハルトは最強の賢者へと成長していく。\n\n高レベルの魔物を狩り、魔人や悪魔すら倒した。\n\n\n「いいですか？三割くらいですよ。絶対に本気で魔法を撃たないでくださいね」\n\n魔法学園の教師に本気で魔法を使うなと言われたり。\n\n\n「てか、ハルト強すぎ。魔王かよ」\n\n仲間に魔王かと言われる程の力を得ていながら、ハルトはまだまだ上を目指す。\n\n最終目標は自分を殺した邪神を1発殴ること。\n\nレベル1の最強賢者は、今日も己の力を高める手段を模索する。\n\n\n※日常シーンは割とのほほんとしてます。\n※戦闘は主人公の圧倒で割と短めです。\n※ハーレム、恋愛(？)、もふもふ要素あり。\n\n※アルファポリスでも公開しています。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "ほのぼの",
+            "エルフ",
+            "ネット小説大賞七感想",
+            "ハイファンタジー",
+            "ハーレム",
+            "ファンタジー",
+            "レベル1",
+            "人外",
+            "冒険",
+            "最強主人公",
+            "残酷な描写あり",
+            "猫獣人",
+            "異世界転生",
+            "異世界転移",
+            "精霊",
+            "賢者"
+          ]
+        },
+        "contribute": [
+          "土之女神",
+          "守护舞忍",
+          "秋葉怜"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n1563fd"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n1563fd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[等级1的最强贤者吧](https://tieba.baidu.com/f?kw=%E7%AD%89%E7%BA%A71%E7%9A%84%E6%9C%80%E5%BC%BA%E8%B4%A4%E8%80%85&ie=utf-8 \"等级1的最强贤者\")"
         ]
       },
       "世界最強の後衛　～迷宮国の新人探索者～": {
@@ -12234,6 +12396,7 @@
           "无能之士",
           "朱雫",
           "朽叶天一",
+          "某根絨毛",
           "珂学大家",
           "相川缇娅拉",
           "相川阳滝",
@@ -12259,7 +12422,8 @@
           "[异世界迷宫最深部为目标吧](https://tieba.baidu.com/f?kw=%E5%BC%82%E4%B8%96%E7%95%8C%E8%BF%B7%E5%AE%AB%E6%9C%80%E6%B7%B1%E9%83%A8%E4%B8%BA%E7%9B%AE%E6%A0%87&ie=utf-8 \"异世界迷宫最深部为目标\")",
           "[外傳空間2 諾文](https://mega.nz/#!kRUkiSxJ!wKCxPYC33egz4HLFe4b_5OKddBUEpfZlAgXCcDNrvng) - 冷粥傳奇",
           "[小说插图集合](https://tieba.baidu.com/p/4647529889)",
-          "[轻之国度](https://www.lightnovel.cn/home.php?mod=space&uid=987726&do=thread&view=me&from=space) - 落地死的流星"
+          "[轻之国度](https://www.lightnovel.cn/home.php?mod=space&uid=987726&do=thread&view=me&from=space) - 落地死的流星",
+          "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=112&page=1)"
         ]
       },
       "病娇女神の箱庭": {
