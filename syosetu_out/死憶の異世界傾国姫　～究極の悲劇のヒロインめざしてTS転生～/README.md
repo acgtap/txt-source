@@ -77,7 +77,8 @@
 - 响
 - Jack不是我名字:
 - yukari
-- 
+- 游戏nyx
+-
 
 # options
 
@@ -93,7 +94,7 @@
 
 - [dip.jp](https://narou.dip.jp/search.php?text=n6266dl&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [死忆的异世界倾国姬吧](https://tieba.baidu.com/f?kw=%E6%AD%BB%E5%BF%86%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E5%80%BE%E5%9B%BD%E5%A7%AC&ie=utf-8 "死忆的异世界倾国姬")
-- 
+-
 
 
 
