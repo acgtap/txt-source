@@ -54,7 +54,7 @@
 - 復仇
 - 怪談
 - 懸疑
-- 
+-
 
 # contribute
 
@@ -62,7 +62,7 @@
 - mammothmk3
 - 6667787
 - hououmon
-- 
+-
 
 # options
 
@@ -86,6 +86,5 @@
 
 - [narou.nar.jp](https://narou.nar.jp/search.php?text=n4719ff&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - https://tieba.baidu.com/p/6028562307
-- 
-
-
+- [你这种家伙别想打赢魔王吧](https://tieba.baidu.com/f?kw=%E4%BD%A0%E8%BF%99%E7%A7%8D%E5%AE%B6%E4%BC%99%E5%88%AB%E6%83%B3%E6%89%93%E8%B5%A2%E9%AD%94%E7%8E%8B&ie=utf-8&tp=0 "你这种家伙别想打赢魔王")
+-
