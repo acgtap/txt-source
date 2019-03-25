@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1553356800000,
-    "timestamp": 1553385535344,
+    "todayTimestamp": 1553443200000,
+    "timestamp": 1553471944756,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -912,6 +912,68 @@
             "novel_status": 257,
             "update_date": 1553356800000,
             "update_count": 1
+          }
+        ]
+      ]
+    },
+    "1553443200000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "girl",
+          "傀儡契約_(n4719ff)",
+          {
+            "init_date": 1551715200000,
+            "epub_date": 1553471931660,
+            "volume_old": 1,
+            "chapter_old": 1,
+            "volume": 1,
+            "chapter": 2,
+            "epub_basename": "傀儡契約.epub",
+            "update_date": 1553443200000,
+            "update_count": 3,
+            "txt_basename": "傀儡契約.out.txt",
+            "segment_date": 1553471898505,
+            "segment_old": 0,
+            "segment": 1
+          }
+        ]
+      ],
+      "epub_count": 2,
+      "epub": [
+        [
+          "girl",
+          "傀儡契約_(n4719ff)",
+          {
+            "init_date": 1551715200000,
+            "epub_date": 1553471931660,
+            "volume_old": 1,
+            "chapter_old": 1,
+            "volume": 1,
+            "chapter": 2,
+            "epub_basename": "傀儡契約.epub",
+            "update_date": 1553443200000,
+            "update_count": 3,
+            "txt_basename": "傀儡契約.out.txt",
+            "segment_date": 1553471898505,
+            "segment_old": 0,
+            "segment": 1
+          }
+        ],
+        [
+          "syosetu_out",
+          "死憶の異世界傾国姫　～究極の悲劇のヒロインめざしてTS転生～",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "死憶の異世界傾国姫.out.txt",
+            "epub_date": 1553471934794,
+            "volume_old": 3,
+            "chapter_old": 45,
+            "volume": 3,
+            "chapter": 48,
+            "epub_basename": "死憶の異世界傾国姫.epub",
+            "update_date": 1553443200000,
+            "update_count": 5
           }
         ]
       ]
@@ -2192,14 +2254,14 @@
       "死憶の異世界傾国姫　～究極の悲劇のヒロインめざしてTS転生～": {
         "init_date": 1545494400000,
         "txt_basename": "死憶の異世界傾国姫.out.txt",
-        "epub_date": 1546475295798,
+        "epub_date": 1553471934794,
         "volume_old": 3,
         "chapter_old": 45,
         "volume": 3,
-        "chapter": 45,
+        "chapter": 48,
         "epub_basename": "死憶の異世界傾国姫.epub",
-        "update_date": 1552060800000,
-        "update_count": 4
+        "update_date": 1553443200000,
+        "update_count": 5
       },
       "チートで賢者な俺は異世界に革命を起こす": {
         "init_date": 1545494400000,
@@ -3535,15 +3597,18 @@
       },
       "傀儡契約_(n4719ff)": {
         "init_date": 1551715200000,
-        "epub_date": 1551743458095,
+        "epub_date": 1553471931660,
         "volume_old": 1,
         "chapter_old": 1,
         "volume": 1,
-        "chapter": 1,
+        "chapter": 2,
         "epub_basename": "傀儡契約.epub",
-        "update_date": 1552060800000,
-        "update_count": 2,
-        "txt_basename": "傀儡契約.out.txt"
+        "update_date": 1553443200000,
+        "update_count": 3,
+        "txt_basename": "傀儡契約.out.txt",
+        "segment_date": 1553471898505,
+        "segment_old": 0,
+        "segment": 1
       },
       "村民轉生武器使": {
         "segment_date": 1552133550374,
@@ -5396,7 +5461,8 @@
         },
         "link": [
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n4719ff&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "https://tieba.baidu.com/p/6028562307"
+          "https://tieba.baidu.com/p/6028562307",
+          "[你这种家伙别想打赢魔王吧](https://tieba.baidu.com/f?kw=%E4%BD%A0%E8%BF%99%E7%A7%8D%E5%AE%B6%E4%BC%99%E5%88%AB%E6%83%B3%E6%89%93%E8%B5%A2%E9%AD%94%E7%8E%8B&ie=utf-8&tp=0 \"你这种家伙别想打赢魔王\")"
         ]
       },
       "原千金未婚媽媽": {
@@ -7893,7 +7959,8 @@
           "0银色的血0",
           "AAiDDSSl",
           "yukari",
-          "响"
+          "响",
+          "游戏nyx"
         ],
         "options": {
           "syosetu": {
