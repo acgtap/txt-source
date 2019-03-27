@@ -64,7 +64,8 @@
 - rsf26
 - ID_Index_
 - Nameless1024
-- 
+- ReadBook642
+-
 
 # options
 
@@ -82,4 +83,4 @@
 - [贤者大叔的异世界生活日记吧](https://tieba.baidu.com/f?kw=%E8%B4%A4%E8%80%85%E5%A4%A7%E5%8F%94%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB%E6%97%A5%E8%AE%B0&ie=utf-8 "贤者大叔的异世界生活日记")
 - [贤者大叔的 异世界生活日记 ~ 01 \[台/简繁\]\[epub\]](https://tieba.baidu.com/p/5639603644 "贤者大叔的 异世界生活日记 ~ 01 [台/简繁][epub]")
 - [贤者大叔的异世界生活日记 ~ 02 \[台/简繁\]\[epub\]](https://tieba.baidu.com/p/5883049739 "贤者大叔的异世界生活日记 ~ 02 [台/简繁][epub]")
-- 
+-
