@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1553702400000,
-    "timestamp": 1553732128887,
+    "todayTimestamp": 1554220800000,
+    "timestamp": 1554249817657,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1022,6 +1022,28 @@
             "chapter": 70,
             "epub_basename": "賢者大叔的異世界生活日記.epub",
             "novel_status": 256
+          }
+        ]
+      ]
+    },
+    "1554220800000": {
+      "epub_count": 1,
+      "epub": [
+        [
+          "wenku8",
+          "書姬吟游錄",
+          {
+            "init_date": 1554220800000,
+            "txt_basename": "書姬吟遊錄.out.txt",
+            "epub_date": 1554249806512,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 4,
+            "chapter": 19,
+            "epub_basename": "書姬吟遊錄.epub",
+            "novel_status": 256,
+            "update_date": 1554220800000,
+            "update_count": 1
           }
         ]
       ]
@@ -3098,6 +3120,19 @@
         "novel_status": 256,
         "update_date": 1552924800000,
         "update_count": 2
+      },
+      "書姬吟游錄": {
+        "init_date": 1554220800000,
+        "txt_basename": "書姬吟遊錄.out.txt",
+        "epub_date": 1554249806512,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 4,
+        "chapter": 19,
+        "epub_basename": "書姬吟遊錄.epub",
+        "novel_status": 256,
+        "update_date": 1554220800000,
+        "update_count": 1
       }
     },
     "cm_out": {
@@ -13995,6 +14030,55 @@
           "[kakuyomu](https://kakuyomu.jp/works/1177354054887566690)",
           "[syosetu](https://ncode.syosetu.com/n3670fe/)"
         ]
+      },
+      "書姬吟游錄": {
+        "novel": {
+          "title": "本の姫",
+          "title_zh": "書姬吟遊錄",
+          "title_zh1": "書姬吟游錄",
+          "author": "多崎 礼",
+          "illust": "山本 ヤマト",
+          "source": "http://www.wenku8.com/book/857.htm",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/51CKH0PKIJL.jpg",
+          "publisher": "其他文库",
+          "publishers": [
+            "wenku8"
+          ],
+          "date": "2011-07-15T00:00:00+08:00",
+          "status": "已完成",
+          "novel_status": 256,
+          "series": {
+            "name": "本の姫"
+          },
+          "preface": "　　因為「滅日」事件而散落在大陸各處，\n　　不斷侵蝕世界的邪惡存在──術文。\n\n　　少年．安格斯走訪各地天使遺跡、修繕書本，\n　　為了尋找術文並將其回收，持續著與〈書姬〉的旅程。\n\n　　一天，少年從無法者們手中救出了一名少女，\n　　少年竟從那名少女身上，感受到了術文的氣息──\n\n　　擁有壓倒性筆力與縝密的世界觀，\n　　以『煌夜祭』一書在第2屆C★NOVELS大賞中獲獎的作者多崎禮\n　　蓄勢推出的最新系列，堂堂開幕!!\n\n「滅日」によって大陸中に散らばった、世界を蝕む邪悪な存在―文字。天使の遺跡を巡り、本を修繕する少年アンガスは、文字を探し回収するために、“本の姫”と旅を続けている。ある日、無法者たちから救い出した少女に、文字の気配を感じた彼は―。圧倒的な筆力と緻密な世界観を持ち、第2回C・NOVELS大賞受賞作『煌夜祭』で話題騒然の多崎礼が満を持して放つ新シリーズ、堂々開幕。",
+          "tags": [
+            "node-novel",
+            "wenku8",
+            "冒險",
+            "奇幻",
+            "書姬"
+          ]
+        },
+        "contribute": [
+          "Alpheilia",
+          "Gemini☆Saga",
+          "Harpuia0000",
+          "shine",
+          "輕之國度"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 4,
+            "startIndex": 1
+          },
+          "textlayout": {
+            "allow_lf2": true
+          },
+          "wenku8": {
+            "novel_id": "857"
+          }
+        }
       },
       "森の魔獣に花束を": {
         "novel": {
