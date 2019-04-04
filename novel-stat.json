@@ -1,649 +1,11 @@
 {
   "meta": {
-    "todayTimestamp": 1554220800000,
-    "timestamp": 1554249817657,
+    "todayTimestamp": 1554307200000,
+    "timestamp": 1554336475830,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
   "history": {
-    "1552320000000": {
-      "epub_count": 1,
-      "epub": [
-        [
-          "syosetu_out",
-          "暇人、魔王の姿で異世界へ",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "暇人、魔王の姿で異世界へ.out.txt",
-            "epub_date": 1552350025305,
-            "volume_old": 10,
-            "chapter_old": 225,
-            "volume": 10,
-            "chapter": 226,
-            "epub_basename": "暇人、魔王の姿で異世界へ.epub",
-            "update_date": 1552320000000,
-            "update_count": 5
-          }
-        ]
-      ]
-    },
-    "1552492800000": {
-      "segment_count": 2,
-      "segment": [
-        [
-          "girl",
-          "Genocide Online ～極惡千金的玩遊戲日記～",
-          {
-            "segment_date": 1552521208901,
-            "segment_old": 1,
-            "segment": 1,
-            "init_date": 1549641600000,
-            "epub_date": 1552521266924,
-            "volume_old": 1,
-            "chapter_old": 49,
-            "volume": 1,
-            "chapter": 54,
-            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
-            "novel_status": 256,
-            "update_date": 1552492800000,
-            "update_count": 7,
-            "txt_basename": "Genocide Online ～極惡千.out.txt"
-          }
-        ],
-        [
-          "syosetu",
-          "転生少女の履歴書",
-          {
-            "segment_date": 1552521246585,
-            "segment_old": 0,
-            "segment": 5,
-            "init_date": 1552521246585,
-            "update_date": 1552492800000,
-            "update_count": 1
-          }
-        ]
-      ],
-      "epub_count": 4,
-      "epub": [
-        [
-          "girl",
-          "Genocide Online ～極惡千金的玩遊戲日記～",
-          {
-            "segment_date": 1552521208901,
-            "segment_old": 1,
-            "segment": 1,
-            "init_date": 1549641600000,
-            "epub_date": 1552521266924,
-            "volume_old": 1,
-            "chapter_old": 49,
-            "volume": 1,
-            "chapter": 54,
-            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
-            "novel_status": 256,
-            "update_date": 1552492800000,
-            "update_count": 7,
-            "txt_basename": "Genocide Online ～極惡千.out.txt"
-          }
-        ],
-        [
-          "girl",
-          "エリナの成長物語（引き籠り女神の転生）",
-          {
-            "init_date": 1552492800000,
-            "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
-            "epub_date": 1552521267119,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 1,
-            "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
-            "update_date": 1552492800000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu_out",
-          "自称！平凡魔族の英雄ライフ",
-          {
-            "txt_basename": "自稱！平凡魔族的英雄生活～明明是Ｂ級魔族.out.txt",
-            "epub_date": 1552521267749,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 10,
-            "epub_basename": "自稱！平凡魔族的英雄生活～明明是Ｂ級魔族卻創造了作弊級地下城的結果～.epub",
-            "novel_status": 768,
-            "init_date": 1552521267749,
-            "update_date": 1552492800000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu_out",
-          "転生少女の履歴書",
-          {
-            "init_date": 1545494400000,
-            "chapter_old": 154,
-            "chapter": 154,
-            "txt_basename": "転生少女の履歴書.out.txt",
-            "volume_old": 3,
-            "volume": 3,
-            "epub_basename": "転生少女の履歴書.epub",
-            "update_date": 1552492800000,
-            "update_count": 2,
-            "epub_date": 1552521271604,
-            "novel_status": 256
-          }
-        ]
-      ]
-    },
-    "1552579200000": {
-      "epub_count": 1,
-      "epub": [
-        [
-          "syosetu",
-          "継続は魔力なり《無能魔法が便利魔法に》",
-          {
-            "init_date": 1552579200000,
-            "txt_basename": "継続は魔力なり《無能魔法が便利魔法に》.out.txt",
-            "epub_date": 1552607690877,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 2,
-            "chapter": 14,
-            "epub_basename": "継続は魔力なり《無能魔法が便利魔法に》.epub",
-            "novel_status": 768,
-            "update_date": 1552579200000,
-            "update_count": 1
-          }
-        ]
-      ]
-    },
-    "1552665600000": {
-      "segment_count": 1,
-      "segment": [
-        [
-          "syosetu",
-          "極星から零れた少女",
-          {
-            "segment_date": 1552686632959,
-            "segment_old": 0,
-            "segment": 21,
-            "init_date": 1552665600000,
-            "update_date": 1552665600000,
-            "update_count": 1
-          }
-        ]
-      ],
-      "epub_count": 3,
-      "epub": [
-        [
-          "girl",
-          "三葉物語",
-          {
-            "init_date": 1552665600000,
-            "txt_basename": "三葉物語.out.txt",
-            "epub_date": 1552686701923,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 2,
-            "epub_basename": "三葉物語.epub",
-            "update_date": 1552665600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu_out",
-          "極星から零れた少女",
-          {
-            "init_date": 1545494400000,
-            "chapter_old": 18,
-            "chapter": 22,
-            "txt_basename": "從極星飄落的少女.out.txt",
-            "volume_old": 1,
-            "volume": 1,
-            "epub_basename": "從極星飄落的少女.epub",
-            "update_date": 1552665600000,
-            "update_count": 2,
-            "epub_date": 1552694089977
-          }
-        ],
-        [
-          "user_out",
-          "回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～",
-          {
-            "init_date": 1545494400000,
-            "chapter_old": 143,
-            "chapter": 146,
-            "txt_basename": "回復術士重來人生.out.txt",
-            "epub_date": 1552686709693,
-            "volume_old": 7,
-            "volume": 7,
-            "epub_basename": "回復術士重來人生.epub",
-            "update_date": 1552665600000,
-            "update_count": 3
-          }
-        ]
-      ]
-    },
-    "1552752000000": {
-      "segment_count": 1,
-      "segment": [
-        [
-          "user",
-          "四度目は嫌な死属性魔術師",
-          {
-            "segment_date": 1552781044230,
-            "segment_old": 2,
-            "segment": 1,
-            "init_date": 1546302039608,
-            "update_date": 1552752000000,
-            "update_count": 9
-          }
-        ]
-      ],
-      "epub_count": 11,
-      "epub": [
-        [
-          "cm_out",
-          "リビティウム皇国のブタクサ姫",
-          {
-            "epub_date": 1552781695665,
-            "volume_old": 7,
-            "chapter_old": 219,
-            "volume": 7,
-            "chapter": 220,
-            "epub_basename": "利貝提姆皇國的豚草姫.epub",
-            "init_date": 1545548908164,
-            "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-            "update_date": 1552752000000,
-            "update_count": 17
-          }
-        ],
-        [
-          "girl",
-          "Genocide Online ～極惡千金的玩遊戲日記～",
-          {
-            "segment_date": 1552521208901,
-            "segment_old": 1,
-            "segment": 1,
-            "init_date": 1549641600000,
-            "epub_date": 1552781697256,
-            "volume_old": 1,
-            "chapter_old": 54,
-            "volume": 1,
-            "chapter": 56,
-            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
-            "novel_status": 256,
-            "update_date": 1552752000000,
-            "update_count": 8,
-            "txt_basename": "Genocide Online ～極惡千.out.txt"
-          }
-        ],
-        [
-          "girl",
-          "エリナの成長物語（引き籠り女神の転生）",
-          {
-            "init_date": 1552492800000,
-            "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
-            "epub_date": 1552781697457,
-            "volume_old": 1,
-            "chapter_old": 1,
-            "volume": 1,
-            "chapter": 2,
-            "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
-            "update_date": 1552752000000,
-            "update_count": 2
-          }
-        ],
-        [
-          "girl",
-          "最強的吸血姬渴望妹妹",
-          {
-            "init_date": 1552752000000,
-            "txt_basename": "最强的吸血姬渴望妹妹.out.txt",
-            "epub_date": 1552781697875,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 1,
-            "epub_basename": "最强的吸血姬渴望妹妹.epub",
-            "novel_status": 769,
-            "update_date": 1552752000000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "悠閑農家與亂碼技能",
-          {
-            "init_date": 1552752000000,
-            "txt_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.out.txt",
-            "epub_date": 1552781699517,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 90,
-            "epub_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.epub",
-            "update_date": 1552752000000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "美女と賢者と魔人の剣",
-          {
-            "init_date": 1552752000000,
-            "txt_basename": "美女と賢者と魔人の剣.out.txt",
-            "epub_date": 1552781699938,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 2,
-            "chapter": 2,
-            "epub_basename": "美女と賢者と魔人の剣.epub",
-            "novel_status": 769,
-            "update_date": 1552752000000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu_out",
-          "最強呪族転生",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "最強呪族転生.out.txt",
-            "epub_date": 1552781705041,
-            "volume_old": 6,
-            "chapter_old": 236,
-            "volume": 6,
-            "chapter": 249,
-            "epub_basename": "最強呪族転生.epub",
-            "update_date": 1552752000000,
-            "update_count": 6
-          }
-        ],
-        [
-          "user_out",
-          "四度目は嫌な死属性魔術師",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "四度目は嫌な死属性魔術師.out.txt",
-            "epub_date": 1552781716663,
-            "volume_old": 18,
-            "chapter_old": 279,
-            "volume": 18,
-            "chapter": 282,
-            "epub_basename": "四度目は嫌な死属性魔術師.epub",
-            "update_date": 1552752000000,
-            "update_count": 5,
-            "novel_status": 768
-          }
-        ],
-        [
-          "user_out",
-          "没落予定なので、鍛治職人を目指す",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "没落予定なので、鍛治職人を目指す.out.txt",
-            "epub_date": 1552781720978,
-            "volume_old": 8,
-            "chapter_old": 157,
-            "volume": 8,
-            "chapter": 159,
-            "epub_basename": "没落予定なので、鍛治職人を目指す.epub",
-            "update_date": 1552752000000,
-            "update_count": 6,
-            "novel_status": 768
-          }
-        ],
-        [
-          "wenku8_out",
-          "平凡職業造就世界最強",
-          {
-            "txt_basename": "平凡職業造就世界最強.out.txt",
-            "epub_date": 1552781738063,
-            "volume_old": 27,
-            "chapter_old": 457,
-            "volume": 27,
-            "chapter": 458,
-            "epub_basename": "平凡職業造就世界最強.epub",
-            "novel_status": 1792,
-            "init_date": 1549900800000,
-            "update_date": 1552752000000,
-            "update_count": 8
-          }
-        ],
-        [
-          "yandere_out",
-          "転生ごときで逃げられるとでも、兄さん？",
-          {
-            "txt_basename": "以為轉個生就能逃掉嗎，哥哥？.out.txt",
-            "epub_date": 1552781742361,
-            "volume_old": 5,
-            "chapter_old": 90,
-            "volume": 5,
-            "chapter": 94,
-            "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
-            "init_date": 1549036800000,
-            "update_date": 1552752000000,
-            "update_count": 7
-          }
-        ]
-      ]
-    },
-    "1552838400000": {
-      "segment_count": 4,
-      "segment": [
-        [
-          "girl",
-          "原千金未婚媽媽",
-          {
-            "segment_date": 1552866980142,
-            "segment_old": 0,
-            "segment": 2,
-            "init_date": 1552866980142,
-            "txt_basename": "原千金未婚媽媽.out.txt",
-            "epub_date": 1552867140705,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 5,
-            "epub_basename": "原千金未婚媽媽.epub",
-            "novel_status": 256,
-            "update_date": 1552838400000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "悠閑農家與亂碼技能",
-          {
-            "init_date": 1552752000000,
-            "txt_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.out.txt",
-            "epub_date": 1552867142846,
-            "volume_old": 1,
-            "chapter_old": 90,
-            "volume": 1,
-            "chapter": 90,
-            "epub_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.epub",
-            "update_date": 1552838400000,
-            "update_count": 2,
-            "segment_date": 1552866988594,
-            "segment_old": 0,
-            "segment": 20
-          }
-        ],
-        [
-          "user",
-          "俺の死亡フラグが留まるところを知らない",
-          {
-            "init_date": 1547913600000,
-            "segment_date": 1552867057356,
-            "segment_old": 0,
-            "segment": 1,
-            "update_date": 1552838400000,
-            "update_count": 1
-          }
-        ],
-        [
-          "wenku8",
-          "不吉波普系列",
-          {
-            "segment_date": 1552867078858,
-            "segment_old": 2,
-            "segment": 1,
-            "init_date": 1548172800000,
-            "epub_date": 1552867149896,
-            "volume_old": 3,
-            "chapter_old": 25,
-            "volume": 6,
-            "chapter": 47,
-            "epub_basename": "不吉波普系列.epub",
-            "update_date": 1552838400000,
-            "update_count": 6,
-            "txt_basename": "不吉波普系列.out.txt"
-          }
-        ]
-      ],
-      "epub_count": 6,
-      "epub": [
-        [
-          "girl",
-          "Genocide Online ～極惡千金的玩遊戲日記～",
-          {
-            "segment_date": 1552521208901,
-            "segment_old": 1,
-            "segment": 1,
-            "init_date": 1549641600000,
-            "epub_date": 1552867138932,
-            "volume_old": 1,
-            "chapter_old": 56,
-            "volume": 1,
-            "chapter": 56,
-            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
-            "novel_status": 256,
-            "update_date": 1552838400000,
-            "update_count": 9,
-            "txt_basename": "Genocide Online ～極惡千.out.txt"
-          }
-        ],
-        [
-          "girl",
-          "原千金未婚媽媽",
-          {
-            "segment_date": 1552866980142,
-            "segment_old": 0,
-            "segment": 2,
-            "init_date": 1552866980142,
-            "txt_basename": "原千金未婚媽媽.out.txt",
-            "epub_date": 1552867140705,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 5,
-            "epub_basename": "原千金未婚媽媽.epub",
-            "novel_status": 256,
-            "update_date": 1552838400000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "悠閑農家與亂碼技能",
-          {
-            "init_date": 1552752000000,
-            "txt_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.out.txt",
-            "epub_date": 1552867142846,
-            "volume_old": 1,
-            "chapter_old": 90,
-            "volume": 1,
-            "chapter": 90,
-            "epub_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.epub",
-            "update_date": 1552838400000,
-            "update_count": 2,
-            "segment_date": 1552866988594,
-            "segment_old": 0,
-            "segment": 20
-          }
-        ],
-        [
-          "user_out",
-          "俺の死亡フラグが留まるところを知らない",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "不知我的死亡flag將於何處停止.out.txt",
-            "epub_date": 1552867146903,
-            "volume_old": 5,
-            "chapter_old": 104,
-            "volume": 5,
-            "chapter": 105,
-            "epub_basename": "不知我的死亡flag將於何處停止.epub",
-            "update_date": 1552838400000,
-            "update_count": 3,
-            "novel_status": 256
-          }
-        ],
-        [
-          "wenku8",
-          "不吉波普系列",
-          {
-            "segment_date": 1552867078858,
-            "segment_old": 2,
-            "segment": 1,
-            "init_date": 1548172800000,
-            "epub_date": 1552867149896,
-            "volume_old": 3,
-            "chapter_old": 25,
-            "volume": 6,
-            "chapter": 47,
-            "epub_basename": "不吉波普系列.epub",
-            "update_date": 1552838400000,
-            "update_count": 6,
-            "txt_basename": "不吉波普系列.out.txt"
-          }
-        ],
-        [
-          "wenku8",
-          "森の魔獣に花束を",
-          {
-            "init_date": 1552838400000,
-            "txt_basename": "森の魔獣に花束を.out.txt",
-            "epub_date": 1552867151394,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 11,
-            "epub_basename": "森の魔獣に花束を.epub",
-            "novel_status": 256,
-            "update_date": 1552838400000,
-            "update_count": 1
-          }
-        ]
-      ]
-    },
-    "1552924800000": {
-      "epub_count": 1,
-      "epub": [
-        [
-          "wenku8",
-          "森の魔獣に花束を",
-          {
-            "init_date": 1552838400000,
-            "txt_basename": "森の魔獣に花束を.out.txt",
-            "epub_date": 1552953408882,
-            "volume_old": 1,
-            "chapter_old": 11,
-            "volume": 1,
-            "chapter": 11,
-            "epub_basename": "森の魔獣に花束を.epub",
-            "novel_status": 256,
-            "update_date": 1552924800000,
-            "update_count": 2
-          }
-        ]
-      ]
-    },
     "1553184000000": {
       "segment_count": 4,
       "segment": [
@@ -1044,6 +406,42 @@
             "novel_status": 256,
             "update_date": 1554220800000,
             "update_count": 1
+          }
+        ]
+      ]
+    },
+    "1554307200000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "user",
+          "異世界迷宮の最深部を目指そう",
+          {
+            "init_date": 1546963200000,
+            "segment_date": 1554336426407,
+            "segment_old": 14,
+            "segment": 15,
+            "update_date": 1554307200000,
+            "update_count": 6
+          }
+        ]
+      ],
+      "epub_count": 1,
+      "epub": [
+        [
+          "user_out",
+          "異世界迷宮の最深部を目指そう",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "異世界迷宮の最深部を目指そう.out.txt",
+            "epub_date": 1554336463518,
+            "volume_old": 28,
+            "chapter_old": 404,
+            "volume": 28,
+            "chapter": 404,
+            "epub_basename": "異世界迷宮の最深部を目指そう.epub",
+            "update_date": 1554307200000,
+            "update_count": 8
           }
         ]
       ]
@@ -1628,11 +1026,11 @@
       },
       "異世界迷宮の最深部を目指そう": {
         "init_date": 1546963200000,
-        "segment_date": 1550879368725,
-        "segment_old": 191,
-        "segment": 14,
-        "update_date": 1550851200000,
-        "update_count": 5
+        "segment_date": 1554336426407,
+        "segment_old": 14,
+        "segment": 15,
+        "update_date": 1554307200000,
+        "update_count": 6
       },
       "俺の死亡フラグが留まるところを知らない": {
         "init_date": 1547913600000,
@@ -1878,14 +1276,14 @@
       "異世界迷宮の最深部を目指そう": {
         "init_date": 1545494400000,
         "txt_basename": "異世界迷宮の最深部を目指そう.out.txt",
-        "epub_date": 1553299346713,
+        "epub_date": 1554336463518,
         "volume_old": 28,
-        "chapter_old": 395,
+        "chapter_old": 404,
         "volume": 28,
         "chapter": 404,
         "epub_basename": "異世界迷宮の最深部を目指そう.epub",
-        "update_date": 1553270400000,
-        "update_count": 7
+        "update_date": 1554307200000,
+        "update_count": 8
       },
       "豚公爵に転生したから、今度は君に好きと言いたい": {
         "init_date": 1545494400000,
