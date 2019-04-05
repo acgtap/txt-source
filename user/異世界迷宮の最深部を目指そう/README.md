@@ -101,4 +101,6 @@
 - [小说插图集合](https://tieba.baidu.com/p/4647529889)
 - [轻之国度](https://www.lightnovel.cn/home.php?mod=space&uid=987726&do=thread&view=me&from=space) - 落地死的流星
 - [masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=112&page=1)
+- [权当余兴的阶层宣言！？推特上发现的好东西！微微剧透？](https://tieba.baidu.com/p/5140403024 "权当余兴的阶层宣言！？推特上发现的好东西！微微剧透？")
 -
+
