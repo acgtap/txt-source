@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1554307200000,
-    "timestamp": 1554336475830,
+    "todayTimestamp": 1554480000000,
+    "timestamp": 1554509356718,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -442,6 +442,27 @@
             "epub_basename": "異世界迷宮の最深部を目指そう.epub",
             "update_date": 1554307200000,
             "update_count": 8
+          }
+        ]
+      ]
+    },
+    "1554480000000": {
+      "epub_count": 1,
+      "epub": [
+        [
+          "user_out",
+          "異世界迷宮の最深部を目指そう",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "異世界迷宮の最深部を目指そう.out.txt",
+            "epub_date": 1554509344181,
+            "volume_old": 28,
+            "chapter_old": 404,
+            "volume": 28,
+            "chapter": 404,
+            "epub_basename": "異世界迷宮の最深部を目指そう.epub",
+            "update_date": 1554480000000,
+            "update_count": 9
           }
         ]
       ]
@@ -1276,14 +1297,14 @@
       "異世界迷宮の最深部を目指そう": {
         "init_date": 1545494400000,
         "txt_basename": "異世界迷宮の最深部を目指そう.out.txt",
-        "epub_date": 1554336463518,
+        "epub_date": 1554509344181,
         "volume_old": 28,
         "chapter_old": 404,
         "volume": 28,
         "chapter": 404,
         "epub_basename": "異世界迷宮の最深部を目指そう.epub",
-        "update_date": 1554307200000,
-        "update_count": 8
+        "update_date": 1554480000000,
+        "update_count": 9
       },
       "豚公爵に転生したから、今度は君に好きと言いたい": {
         "init_date": 1545494400000,
@@ -12079,7 +12100,8 @@
           "[外傳空間2 諾文](https://mega.nz/#!kRUkiSxJ!wKCxPYC33egz4HLFe4b_5OKddBUEpfZlAgXCcDNrvng) - 冷粥傳奇",
           "[小说插图集合](https://tieba.baidu.com/p/4647529889)",
           "[轻之国度](https://www.lightnovel.cn/home.php?mod=space&uid=987726&do=thread&view=me&from=space) - 落地死的流星",
-          "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=112&page=1)"
+          "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=112&page=1)",
+          "[权当余兴的阶层宣言！？推特上发现的好东西！微微剧透？](https://tieba.baidu.com/p/5140403024 \"权当余兴的阶层宣言！？推特上发现的好东西！微微剧透？\")"
         ]
       },
       "病娇女神の箱庭": {
