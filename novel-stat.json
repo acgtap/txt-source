@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1554480000000,
-    "timestamp": 1554509356718,
+    "todayTimestamp": 1554739200000,
+    "timestamp": 1554768698021,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -466,6 +466,91 @@
           }
         ]
       ]
+    },
+    "1554739200000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "user",
+          "豚公爵に転生したから、今度は君に好きと言いたい",
+          {
+            "segment_date": 1554768656152,
+            "segment_old": 1,
+            "segment": 5,
+            "init_date": 1545607228123,
+            "update_date": 1554739200000,
+            "update_count": 11
+          }
+        ]
+      ],
+      "epub_count": 4,
+      "epub": [
+        [
+          "cm_out",
+          "リビティウム皇国のブタクサ姫",
+          {
+            "epub_date": 1554768679169,
+            "volume_old": 7,
+            "chapter_old": 220,
+            "volume": 7,
+            "chapter": 224,
+            "epub_basename": "利貝提姆皇國的豚草姫.epub",
+            "init_date": 1545548908164,
+            "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
+            "update_date": 1554739200000,
+            "update_count": 18
+          }
+        ],
+        [
+          "girl",
+          "ポンコツ少女の電脳世界救世記",
+          {
+            "init_date": 1554739200000,
+            "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
+            "epub_date": 1554768679604,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 3,
+            "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
+            "novel_status": 1,
+            "update_date": 1554739200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "レベル１の最強賢者",
+          {
+            "init_date": 1553270400000,
+            "txt_basename": "等級１的最強賢者.out.txt",
+            "epub_date": 1554768680237,
+            "volume_old": 2,
+            "chapter_old": 5,
+            "volume": 3,
+            "chapter": 20,
+            "epub_basename": "等級１的最強賢者.epub",
+            "update_date": 1554739200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "user_out",
+          "豚公爵に転生したから、今度は君に好きと言いたい",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "豚公爵に転生したから、今度は君に好きと言.out.txt",
+            "epub_date": 1554768684148,
+            "volume_old": 6,
+            "chapter_old": 184,
+            "volume": 6,
+            "chapter": 195,
+            "epub_basename": "豚公爵に転生したから、今度は君に好きと言いたい.epub",
+            "update_date": 1554739200000,
+            "update_count": 10
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -880,14 +965,14 @@
       "レベル１の最強賢者": {
         "init_date": 1553270400000,
         "txt_basename": "等級１的最強賢者.out.txt",
-        "epub_date": 1553299327292,
-        "volume_old": 0,
-        "chapter_old": 0,
-        "volume": 2,
-        "chapter": 5,
+        "epub_date": 1554768680237,
+        "volume_old": 2,
+        "chapter_old": 5,
+        "volume": 3,
+        "chapter": 20,
         "epub_basename": "等級１的最強賢者.epub",
-        "update_date": 1553270400000,
-        "update_count": 1
+        "update_date": 1554739200000,
+        "update_count": 2
       },
       "転生！異世界より愛をこめて": {
         "init_date": 1553356800000,
@@ -971,12 +1056,12 @@
         "update_count": 1
       },
       "豚公爵に転生したから、今度は君に好きと言いたい": {
-        "segment_date": 1550537804715,
+        "segment_date": 1554768656152,
         "segment_old": 1,
-        "segment": 1,
+        "segment": 5,
         "init_date": 1545607228123,
-        "update_date": 1550505600000,
-        "update_count": 10
+        "update_date": 1554739200000,
+        "update_count": 11
       },
       "自称贤者弟子的贤者": {
         "segment_date": 1550360967413,
@@ -1309,14 +1394,14 @@
       "豚公爵に転生したから、今度は君に好きと言いたい": {
         "init_date": 1545494400000,
         "txt_basename": "豚公爵に転生したから、今度は君に好きと言.out.txt",
-        "epub_date": 1550447325271,
-        "volume_old": 7,
+        "epub_date": 1554768684148,
+        "volume_old": 6,
         "chapter_old": 184,
         "volume": 6,
-        "chapter": 184,
+        "chapter": 195,
         "epub_basename": "豚公爵に転生したから、今度は君に好きと言いたい.epub",
-        "update_date": 1552060800000,
-        "update_count": 9
+        "update_date": 1554739200000,
+        "update_count": 10
       },
       "悠久の愚者アズリーの、賢者のすゝめ": {
         "init_date": 1545494400000,
@@ -2556,16 +2641,16 @@
     },
     "cm_out": {
       "リビティウム皇国のブタクサ姫": {
-        "epub_date": 1552781695665,
+        "epub_date": 1554768679169,
         "volume_old": 7,
-        "chapter_old": 219,
+        "chapter_old": 220,
         "volume": 7,
-        "chapter": 220,
+        "chapter": 224,
         "epub_basename": "利貝提姆皇國的豚草姫.epub",
         "init_date": 1545548908164,
         "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-        "update_date": 1552752000000,
-        "update_count": 17
+        "update_date": 1554739200000,
+        "update_count": 18
       }
     },
     "dmzj_out": {
@@ -3188,6 +3273,19 @@
         "epub_basename": "原千金未婚媽媽.epub",
         "novel_status": 256,
         "update_date": 1552838400000,
+        "update_count": 1
+      },
+      "ポンコツ少女の電脳世界救世記": {
+        "init_date": 1554739200000,
+        "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
+        "epub_date": 1554768679604,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 3,
+        "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
+        "novel_status": 1,
+        "update_date": 1554739200000,
         "update_count": 1
       }
     },
@@ -4800,6 +4898,69 @@
         "link": [
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n0463dq&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=129&page=1)"
+        ]
+      },
+      "ポンコツ少女の電脳世界救世記": {
+        "novel": {
+          "title": "ポンコツ少女の電脳世界救世記　～外れスキル『アイテムボックス』は時を超える～",
+          "title_short": "廢柴少女的電腦世界救世記",
+          "title_zh": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～",
+          "author": "kiki",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n0074eg/",
+          "cover": "",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2018-01-30T20:57:00+08:00",
+          "status": "完結済",
+          "novel_status": 1,
+          "series": {
+            "name": "ポンコツ少女の電脳世界救世記　～外れスキル『アイテムボックス』は時を超える～"
+          },
+          "preface": "呂特莉是一名吊車尾的冒險者。儘管她持有方便的技能『物品箱』，但由於它帶有“放進去的物品立即就會腐爛”的bug，她過着甚至連房租也付不出的日子。\n\n不過――她不是人類，而是在某個MMO裡、配備了先進的AI的NPC。\n然後這個MMO『Fairy Story Online（通稱FSO）』即將在20XX年3月31日結束服務。\n玩家將會從世界上一齊消失――而在終結的世界裡，只留下了強大的魔物和弱小的NPC。\n\n當NPC被魔物們逼到絕境時，她終於發現了，『物品箱』除了將物品放進去以外的其他用法。\n運用甚至能超越時空和破壞遊戲功能的技能的力量，她能夠拯救逐漸崩壞的世界嗎。\n\nルトリーは落ちこぼれ冒険者である。彼女は便利なスキル『アイテムボックス』を持ちながらも、”アイテムを入れるとすぐに腐ってしまう”というバグを抱えていたために、家賃すら払えない日々を過ごしていた。\n\nしかし――彼女は人間ではなく、高度なAIを搭載した、とあるMMOのNPCであった。\nそしてMMO『フェアリー・ストーリー・オンライン（通称FSO)』は20XX年3月31日をもってサービスを終了する。\n世界からは一斉にプレイヤーが消え――そして終わった世界には、強力なモンスターと非力なNPCだけが残された。\n\nNPCがモンスターたちに追い詰められる中、彼女はやがて、『アイテムボックス』にアイテムを入れる以外の使いみちがあることに気づく。\n時空すら超え、ゲームの機能すらも破壊するスキルの力を駆使し、彼女は壊れゆく世界を救うことができるのだろうか。\n\nノベルバにも掲載されています。\n\n完結済みです。",
+          "tags": [
+            "MMORPG",
+            "R15",
+            "SF",
+            "VRゲーム[SF]",
+            "node-novel",
+            "syosetu",
+            "ある意味チート",
+            "アイテムボックス",
+            "ガールズラブ",
+            "ゲーム",
+            "シリアス",
+            "スキル",
+            "ダンジョン",
+            "冒険",
+            "女主人公",
+            "完結済",
+            "百合"
+          ]
+        },
+        "contribute": [
+          "Genora"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n0074eg"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n0074eg&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=132&page=1)"
         ]
       },
       "三葉物語": {
@@ -9068,6 +9229,7 @@
         "contribute": [
           "土之女神",
           "守护舞忍",
+          "无限且遥远◆",
           "秋葉怜"
         ],
         "options": {
@@ -12511,7 +12673,7 @@
           "series": {
             "name": ""
           },
-          "preface": "大人気动画「girl＆SYUYA」里存在着一个被嫌弃的人。\n\n那就是德林克公爵家的三男，豚猪公爵，斯诺・德林克。\n\n他拥有在学园中作为被嫌恶者的各种嫌弃要素。而最终等待着豚猪公爵的将会是被放逐的悲惨未来，以及悄悄的深刻爱慕着他，作为他的従者的女孩子也会被主人公ntr的不幸遭遇。\n\n将会包含【从底层奋起】【主人公最強】【豚猪总之先变得幸福】【美女们和豚猪】【会有痩下的帅哥化（不过马上会变肥）】【投机主义】等要素。\n\n\n豚公爵他聰明、堅強、溫柔、  \n然後教人悲傷的是他更不乏毅力。  \n從反面來看的話  \n這『修亞・巴琉捏特』講述的  \n是關於他的悲傷故事  \n\n――『修亞・巴琉捏特』監督上\n\n　大人気アニメ「ガール＆シューヤ」には嫌われ者が存在する。  \n　デニング公爵家三男こと豚公爵、スロウ・デニングだ。  \n　学園中の嫌われ者として、人を見下す、家柄を鼻にかける、デブ、リアルオークなど様々なヘイト要素を持ち、最終的には国を追放される悲惨な未来が豚公爵を待っている。そしてさらに彼が密かに思いを寄せる従者の女の子も主人公に取られてしまうという不遇っぷり。  \n　なんでこんな話をしているかって？  \n　俺が豚公爵に転生してしまったからだ！　そして俺はアニメで人気断トツナンバー１の豚公爵を現実世界でもナンバー１にしてやるんだ！  \n【主人公最強要素あり】【底辺からの成り上がり】【ただ豚が幸せになる話】【アニメ知識による、強くてニューゲーム】  \n\n2016.06.23 ）  \n特別賞を頂き、書籍化します。\n\n底辺から成り上がり、今度は君に好きだと叫ぶッ！【コミカライズ連載中】\n合田拍子（グルグル魔）",
+          "preface": "大人気动画「girl＆SYUYA」里存在着一个被嫌弃的人。\n\n那就是德林克公爵家的三男，豚猪公爵，斯诺・德林克。\n\n他拥有在学园中作为被嫌恶者的各种嫌弃要素。而最终等待着豚猪公爵的将会是被放逐的悲惨未来，以及悄悄的深刻爱慕着他，作为他的従者的女孩子也会被主人公ntr的不幸遭遇。\n\n将会包含【从底层奋起】【主人公最強】【豚猪总之先变得幸福】【美女们和豚猪】【会有痩下的帅哥化（不过马上会变肥）】【投机主义】等要素。\n\n\n豚公爵他聰明、堅強、溫柔、\n然後教人悲傷的是他更不乏毅力。\n從反面來看的話\n這『修亞・巴琉捏特』講述的\n是關於他的悲傷故事\n\n――『修亞・巴琉捏特』監督上\n\n　大人気アニメ「ガール＆シューヤ」には嫌われ者が存在する。\n　デニング公爵家三男こと豚公爵、スロウ・デニングだ。\n　学園中の嫌われ者として、人を見下す、家柄を鼻にかける、デブ、リアルオークなど様々なヘイト要素を持ち、最終的には国を追放される悲惨な未来が豚公爵を待っている。そしてさらに彼が密かに思いを寄せる従者の女の子も主人公に取られてしまうという不遇っぷり。\n　なんでこんな話をしているかって？\n　俺が豚公爵に転生してしまったからだ！　そして俺はアニメで人気断トツナンバー１の豚公爵を現実世界でもナンバー１にしてやるんだ！\n【主人公最強要素あり】【底辺からの成り上がり】【ただ豚が幸せになる話】【アニメ知識による、強くてニューゲーム】\n\n2016.06.23 ）\n特別賞を頂き、書籍化します。\n\n底辺から成り上がり、今度は君に好きだと叫ぶッ！【コミカライズ連載中】\n合田拍子（グルグル魔）",
           "tags": [
             "kakuyomu",
             "node-novel",
@@ -12542,6 +12704,7 @@
           "扁意粉豬仔包",
           "晶体管PN结",
           "最强蛋糕",
+          "枫灵辰梦",
           "比利小子",
           "缘起幻想乡"
         ],
