@@ -1,5 +1,17 @@
 # HISTORY
 
+## 2019-04-10
+
+### Epub
+
+- [書姬吟游錄](wenku8/%E6%9B%B8%E5%A7%AC%E5%90%9F%E6%B8%B8%E9%8C%84) - wenku8
+  <br/>( v: 4 , c: 19, add: 0 )
+
+### Segment
+
+- [書姬吟游錄](wenku8/%E6%9B%B8%E5%A7%AC%E5%90%9F%E6%B8%B8%E9%8C%84) - wenku8
+  <br/>( s: 6 )
+
 ## 2019-04-09
 
 ### Epub
