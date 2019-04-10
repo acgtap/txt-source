@@ -3,6 +3,7 @@
 - title: VRエロゲーやってたら異世界に転生したので、美少女魔王を奴隷化する　〜クロスアウト・セイバー〜
 - title_zh: 玩了VR工口遊戲轉生到異世界、將美少女魔王奴隸化〜跨越世界的救世主〜
 - author: 仁科朝丸
+- illust: TAKTO
 - source: http://novel18.syosetu.com/n3640eg/
 - cover: https://images-na.ssl-images-amazon.com/images/I/81MRO7r-07L.jpg
 - publisher: syosetu
@@ -63,6 +64,8 @@
 - 男性視点
 - 異世界転生
 - 飼い慣らし
+- VR
+-
 
 # contribute
 
@@ -84,6 +87,7 @@
 - [kakuyomu.jp](https://kakuyomu.jp/works/1177354054885380132)
 - [章魚子](https://pan.baidu.com/s/1xOs1KZ4SuEwoXZcgA9rVDQ) wu2f
 - [漫畫](https://manhua.dmzj.com/vryouxizhuanshengyishijietiaojiaomowangmeishaonvcl/ "VR游戏转生异世界调教魔王美少女 clothout·saber")
+-
 
 
 
