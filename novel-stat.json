@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1554739200000,
-    "timestamp": 1554768698021,
+    "todayTimestamp": 1554825600000,
+    "timestamp": 1554860434595,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -548,6 +548,54 @@
             "epub_basename": "豚公爵に転生したから、今度は君に好きと言いたい.epub",
             "update_date": 1554739200000,
             "update_count": 10
+          }
+        ]
+      ]
+    },
+    "1554825600000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "wenku8",
+          "書姬吟游錄",
+          {
+            "init_date": 1554220800000,
+            "txt_basename": "書姬吟遊錄.out.txt",
+            "epub_date": 1554860427111,
+            "volume_old": 4,
+            "chapter_old": 19,
+            "volume": 4,
+            "chapter": 19,
+            "epub_basename": "書姬吟遊錄.epub",
+            "novel_status": 256,
+            "update_date": 1554825600000,
+            "update_count": 2,
+            "segment_date": 1554860408271,
+            "segment_old": 0,
+            "segment": 6
+          }
+        ]
+      ],
+      "epub_count": 1,
+      "epub": [
+        [
+          "wenku8",
+          "書姬吟游錄",
+          {
+            "init_date": 1554220800000,
+            "txt_basename": "書姬吟遊錄.out.txt",
+            "epub_date": 1554860427111,
+            "volume_old": 4,
+            "chapter_old": 19,
+            "volume": 4,
+            "chapter": 19,
+            "epub_basename": "書姬吟遊錄.epub",
+            "novel_status": 256,
+            "update_date": 1554825600000,
+            "update_count": 2,
+            "segment_date": 1554860408271,
+            "segment_old": 0,
+            "segment": 6
           }
         ]
       ]
@@ -2628,15 +2676,18 @@
       "書姬吟游錄": {
         "init_date": 1554220800000,
         "txt_basename": "書姬吟遊錄.out.txt",
-        "epub_date": 1554249806512,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1554860427111,
+        "volume_old": 4,
+        "chapter_old": 19,
         "volume": 4,
         "chapter": 19,
         "epub_basename": "書姬吟遊錄.epub",
         "novel_status": 256,
-        "update_date": 1554220800000,
-        "update_count": 1
+        "update_date": 1554825600000,
+        "update_count": 2,
+        "segment_date": 1554860408271,
+        "segment_old": 0,
+        "segment": 6
       }
     },
     "cm_out": {
