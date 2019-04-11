@@ -10,6 +10,7 @@
 - publisher: syosetu
 - date: 2018-02-10T15:23:00+08:00
 - status: 連載
+- novel_status: 0x0300
 
 ## series
 
@@ -28,7 +29,7 @@
 
 　どこにでもいる社会人、大野晶は自身が運営するゲーム内の「魔王」と呼ばれるキャラにログインしたまま異世界へと飛ばされてしまう。そこで出会った片足が不自由な女の子と旅をし始めるが、圧倒的な力を持つ「魔王」を周囲が放っておくわけがなかった。
 　魔王を討伐しようとする国やら聖女から狙われ、一行は行く先々で騒動を巻き起こす。
-　見た目は魔王、中身は一般人の勘違い系ファンタジー! 
+　見た目は魔王、中身は一般人の勘違い系ファンタジー!
 
 　※この作品はハーメルン様の方でも公開しております。
 　※多忙のため、暫く感想欄は閉じておきます。
@@ -71,7 +72,7 @@
 - 土之女神
 - 秋水長天
 - cvyvgabm
-- 
+-
 
 # options
 
@@ -81,7 +82,7 @@
 
 ## textlayout
 
-- allow_lf2: true
+- allow_lf2: false
 
 # link
 
@@ -89,6 +90,7 @@
 - [重来吧魔王大人](https://tieba.baidu.com/f?kw=%E9%87%8D%E6%9D%A5%E5%90%A7%E9%AD%94%E7%8E%8B%E5%A4%A7%E4%BA%BA)
 - [漫畫](http://tieba.baidu.com/home/main/?un=%E9%A3%84%E9%9B%B6leaf&ie=utf-8&id=04e2e9a384e99bb66c656166ae5f&fr=frs&red_tag=c2986950856) - 飄零leaf
 - http://webaction.jp/Mcomics/
-- 
+- https://shimo.im/docs/7u7GsKC8MKc3wNVp/
+-
 
 
