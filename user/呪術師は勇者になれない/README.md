@@ -4,6 +4,7 @@
 - title_zh1: 咒術師無法成為勇者
 - title_zh2: 咒術師不能當勇者
 - author: 菱影代理
+- illust: 誉
 - source: http://ncode.syosetu.com/n1132dk/
 - cover: https://images-na.ssl-images-amazon.com/images/I/91yzBCP%2BeUL.jpg
 - publisher: syosetu
@@ -39,7 +40,7 @@
 # contribute
 
 - ACG之神上
-- 
+-
 
 # options
 
@@ -56,6 +57,6 @@
 - [dip.jp](https://narou.dip.jp/search.php?text=n1132dk&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [咒术师无法成为勇者吧](https://tieba.baidu.com/f?kw=%E5%92%92%E6%9C%AF%E5%B8%88%E6%97%A0%E6%B3%95%E6%88%90%E4%B8%BA%E5%8B%87%E8%80%85&ie=utf-8 "咒术师无法成为勇者")
 - [acg之神上吧](https://tieba.baidu.com/f?kw=acg%E4%B9%8B%E7%A5%9E%E4%B8%8A&ie=utf-8 "")
-- 
+-
 
 
