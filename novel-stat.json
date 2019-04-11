@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1554825600000,
-    "timestamp": 1554860434595,
+    "todayTimestamp": 1554912000000,
+    "timestamp": 1554941248784,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -599,6 +599,68 @@
           }
         ]
       ]
+    },
+    "1554912000000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "h",
+          "玩了VR工口遊戲轉生到異世界",
+          {
+            "segment_date": 1554941210842,
+            "segment_old": 0,
+            "segment": 1,
+            "init_date": 1554941210842,
+            "txt_basename": "玩了VR工口遊戲轉生到異世界、將美少女魔.out.txt",
+            "epub_date": 1554941238828,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 10,
+            "epub_basename": "玩了VR工口遊戲轉生到異世界、將美少女魔王奴隸化〜跨越世界的救世主〜.epub",
+            "update_date": 1554912000000,
+            "update_count": 1
+          }
+        ]
+      ],
+      "epub_count": 2,
+      "epub": [
+        [
+          "h",
+          "玩了VR工口遊戲轉生到異世界",
+          {
+            "segment_date": 1554941210842,
+            "segment_old": 0,
+            "segment": 1,
+            "init_date": 1554941210842,
+            "txt_basename": "玩了VR工口遊戲轉生到異世界、將美少女魔.out.txt",
+            "epub_date": 1554941238828,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 10,
+            "epub_basename": "玩了VR工口遊戲轉生到異世界、將美少女魔王奴隸化〜跨越世界的救世主〜.epub",
+            "update_date": 1554912000000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "レベル１の最強賢者",
+          {
+            "init_date": 1553270400000,
+            "txt_basename": "等級１的最強賢者.out.txt",
+            "epub_date": 1554941239636,
+            "volume_old": 3,
+            "chapter_old": 20,
+            "volume": 3,
+            "chapter": 20,
+            "epub_basename": "等級１的最強賢者.epub",
+            "update_date": 1554912000000,
+            "update_count": 3
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1013,14 +1075,14 @@
       "レベル１の最強賢者": {
         "init_date": 1553270400000,
         "txt_basename": "等級１的最強賢者.out.txt",
-        "epub_date": 1554768680237,
-        "volume_old": 2,
-        "chapter_old": 5,
+        "epub_date": 1554941239636,
+        "volume_old": 3,
+        "chapter_old": 20,
         "volume": 3,
         "chapter": 20,
         "epub_basename": "等級１的最強賢者.epub",
-        "update_date": 1554739200000,
-        "update_count": 2
+        "update_date": 1554912000000,
+        "update_count": 3
       },
       "転生！異世界より愛をこめて": {
         "init_date": 1553356800000,
@@ -3089,6 +3151,21 @@
       },
       "勇者は犯されたい": {
         "init_date": 1553270400000
+      },
+      "玩了VR工口遊戲轉生到異世界": {
+        "segment_date": 1554941210842,
+        "segment_old": 0,
+        "segment": 1,
+        "init_date": 1554941210842,
+        "txt_basename": "玩了VR工口遊戲轉生到異世界、將美少女魔.out.txt",
+        "epub_date": 1554941238828,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 10,
+        "epub_basename": "玩了VR工口遊戲轉生到異世界、將美少女魔王奴隸化〜跨越世界的救世主〜.epub",
+        "update_date": 1554912000000,
+        "update_count": 1
       }
     },
     "kakuyomu": {
@@ -5611,6 +5688,57 @@
           "[未来与初音](https://pan.baidu.com/s/1kWDMduv) qw4u"
         ]
       },
+      "玩了VR工口遊戲轉生到異世界": {
+        "novel": {
+          "title": "VRエロゲーやってたら異世界に転生したので、美少女魔王を奴隷化する　〜クロスアウト・セイバー〜",
+          "title_zh": "玩了VR工口遊戲轉生到異世界、將美少女魔王奴隸化〜跨越世界的救世主〜",
+          "author": "仁科朝丸",
+          "illust": "TAKTO",
+          "source": "http://novel18.syosetu.com/n3640eg/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/81MRO7r-07L.jpg",
+          "publisher": "syosetu",
+          "date": "2018-07-29T22:21:00+08:00",
+          "status": "連載",
+          "series": {
+            "name": "VRエロゲーやってたら異世界に転生したので、美少女魔王を奴隷化する　〜クロスアウト・セイバー〜"
+          },
+          "preface": "玩VR對應的工口遊戲時發生悲慘意外死亡的主人公，\n因女神的考量而轉生到了遊戲中的異世界。\n\n轉生時得到的恩惠是【馴服（奴隷化）】特化的技能和狀態值。\n\n在這個遊戲中，能脫去女性敵人的衣物並給予快感\n還能將他們招降為自己同伴的一員（奴隷化）。\n\n當主人公在對上BOSS級的強敵時，意外馴服（奴隷化）並吸收了她的能力\n這是得到美少女的他，踏上自由冒險旅程的故事。\n\n\n\n*作者溫馨提醒： 標題末尾有▲代表有一定程度上、例如愛撫Ｈ場景。\n                標題末尾有★代表有正戲的場景描述。\n\n*譯者：本篇譯文皆翻自WEB無刪減版本（小説家になろう），並非文庫版。\n       文中不乏18禁文字敘述，未成年者可參閱刪減版本（カクヨム）。\n\n（追記：書籍版第２巻、ファミ通文庫から発売中です！）\n（コミカライズ決定しました！！　コミックヴァルキリーにて連載予定です！）\n\n　ＶＲ対応のエロゲーをプレイ中に事故死、という悲惨な最期を遂げた主人公は、女神の計らいでゲーム世界に転生させてもらう。\n　転生時の特典として得たのは、【テイム（奴隷化）】特化のスキルとステータス。\n　このゲームでは、女性型のあらゆる敵を脱がし、快感を与えることで、手なずけることができるのだった。\n　ボス級の強敵をサクッとテイムし、その能力を吸収した主人公は、行く先々で美少女を手なずけながら、自由に道を突き進んでいく。\n\n（末尾に▲のあるタイトルには、愛撫程度のＨシーンあり。★のあるタイトルには本番シーンありです）",
+          "tags": [
+            "VR",
+            "node-novel",
+            "novel18",
+            "syosetu",
+            "スキル",
+            "ハーレム",
+            "ファンタジー",
+            "主人公最強",
+            "冒険",
+            "強制脱衣",
+            "残酷な描写あり",
+            "男主人公",
+            "男性視点",
+            "異世界転生",
+            "飼い慣らし"
+          ]
+        },
+        "contribute": [
+          "章魚子"
+        ],
+        "options": {
+          "syosetu": {
+            "txtdownload_id": "1103530"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou18.dip.jp/search.php?text=n3640eg&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[kakuyomu.jp](https://kakuyomu.jp/works/1177354054885380132)",
+          "[章魚子](https://pan.baidu.com/s/1xOs1KZ4SuEwoXZcgA9rVDQ) wu2f",
+          "[漫畫](https://manhua.dmzj.com/vryouxizhuanshengyishijietiaojiaomowangmeishaonvcl/ \"VR游戏转生异世界调教魔王美少女 clothout·saber\")"
+        ]
+      },
       "異世界の男は全滅したようです": {
         "novel": {
           "title": "異世界の男は全滅したようです",
@@ -7677,55 +7805,6 @@
           "[DAJSAY](https://pan.baidu.com/s/1izbzpbNtAFzJcUeT_PiegA)"
         ]
       },
-      "玩了VR工口遊戲轉生到異世界": {
-        "novel": {
-          "title": "VRエロゲーやってたら異世界に転生したので、美少女魔王を奴隷化する　〜クロスアウト・セイバー〜",
-          "title_zh": "玩了VR工口遊戲轉生到異世界、將美少女魔王奴隸化〜跨越世界的救世主〜",
-          "author": "仁科朝丸",
-          "source": "http://novel18.syosetu.com/n3640eg/",
-          "cover": "https://images-na.ssl-images-amazon.com/images/I/81MRO7r-07L.jpg",
-          "publisher": "syosetu",
-          "date": "2018-07-29T22:21:00+08:00",
-          "status": "連載",
-          "series": {
-            "name": "VRエロゲーやってたら異世界に転生したので、美少女魔王を奴隷化する　〜クロスアウト・セイバー〜"
-          },
-          "preface": "玩VR對應的工口遊戲時發生悲慘意外死亡的主人公，\n因女神的考量而轉生到了遊戲中的異世界。\n\n轉生時得到的恩惠是【馴服（奴隷化）】特化的技能和狀態值。\n\n在這個遊戲中，能脫去女性敵人的衣物並給予快感\n還能將他們招降為自己同伴的一員（奴隷化）。\n\n當主人公在對上BOSS級的強敵時，意外馴服（奴隷化）並吸收了她的能力\n這是得到美少女的他，踏上自由冒險旅程的故事。\n\n\n\n*作者溫馨提醒： 標題末尾有▲代表有一定程度上、例如愛撫Ｈ場景。\n                標題末尾有★代表有正戲的場景描述。\n\n*譯者：本篇譯文皆翻自WEB無刪減版本（小説家になろう），並非文庫版。\n       文中不乏18禁文字敘述，未成年者可參閱刪減版本（カクヨム）。\n\n（追記：書籍版第２巻、ファミ通文庫から発売中です！）\n（コミカライズ決定しました！！　コミックヴァルキリーにて連載予定です！）\n\n　ＶＲ対応のエロゲーをプレイ中に事故死、という悲惨な最期を遂げた主人公は、女神の計らいでゲーム世界に転生させてもらう。\n　転生時の特典として得たのは、【テイム（奴隷化）】特化のスキルとステータス。\n　このゲームでは、女性型のあらゆる敵を脱がし、快感を与えることで、手なずけることができるのだった。\n　ボス級の強敵をサクッとテイムし、その能力を吸収した主人公は、行く先々で美少女を手なずけながら、自由に道を突き進んでいく。\n\n（末尾に▲のあるタイトルには、愛撫程度のＨシーンあり。★のあるタイトルには本番シーンありです）",
-          "tags": [
-            "node-novel",
-            "novel18",
-            "syosetu",
-            "スキル",
-            "ハーレム",
-            "ファンタジー",
-            "主人公最強",
-            "冒険",
-            "強制脱衣",
-            "残酷な描写あり",
-            "男主人公",
-            "男性視点",
-            "異世界転生",
-            "飼い慣らし"
-          ]
-        },
-        "contribute": [
-          "章魚子"
-        ],
-        "options": {
-          "syosetu": {
-            "txtdownload_id": "1103530"
-          },
-          "textlayout": {
-            "allow_lf2": true
-          }
-        },
-        "link": [
-          "[dip.jp](https://narou18.dip.jp/search.php?text=n3640eg&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[kakuyomu.jp](https://kakuyomu.jp/works/1177354054885380132)",
-          "[章魚子](https://pan.baidu.com/s/1xOs1KZ4SuEwoXZcgA9rVDQ) wu2f",
-          "[漫畫](https://manhua.dmzj.com/vryouxizhuanshengyishijietiaojiaomowangmeishaonvcl/ \"VR游戏转生异世界调教魔王美少女 clothout·saber\")"
-        ]
-      },
       "甜點転生": {
         "novel": {
           "title": "おかしな転生",
@@ -9000,6 +9079,55 @@
           "[dip.jp](https://narou.dip.jp/search.php?text=n6247dd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[魔王军最强的魔术师是人类吧](https://tieba.baidu.com/f?kw=%E9%AD%94%E7%8E%8B%E5%86%9B%E6%9C%80%E5%BC%BA%E7%9A%84%E9%AD%94%E6%9C%AF%E5%B8%88%E6%98%AF%E4%BA%BA%E7%B1%BB&ie=utf-8 \"魔王军最强的魔术师是人类\")",
           "[第一章登场角色](https://tieba.baidu.com/p/5860443910 \"第一章登场角色\")"
+        ]
+      },
+      "玩了VR工口遊戲轉生到異世界": {
+        "novel": {
+          "title": "VRエロゲーやってたら異世界に転生したので、美少女魔王を奴隷化する　〜クロスアウト・セイバー〜",
+          "title_zh": "玩了VR工口遊戲轉生到異世界、將美少女魔王奴隸化〜跨越世界的救世主〜",
+          "author": "仁科朝丸",
+          "source": "http://novel18.syosetu.com/n3640eg/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/81MRO7r-07L.jpg",
+          "publisher": "syosetu",
+          "date": "2018-07-29T22:21:00+08:00",
+          "status": "連載",
+          "series": {
+            "name": "VRエロゲーやってたら異世界に転生したので、美少女魔王を奴隷化する　〜クロスアウト・セイバー〜"
+          },
+          "preface": "玩VR對應的工口遊戲時發生悲慘意外死亡的主人公，\n因女神的考量而轉生到了遊戲中的異世界。\n\n轉生時得到的恩惠是【馴服（奴隷化）】特化的技能和狀態值。\n\n在這個遊戲中，能脫去女性敵人的衣物並給予快感\n還能將他們招降為自己同伴的一員（奴隷化）。\n\n當主人公在對上BOSS級的強敵時，意外馴服（奴隷化）並吸收了她的能力\n這是得到美少女的他，踏上自由冒險旅程的故事。\n\n\n\n*作者溫馨提醒： 標題末尾有▲代表有一定程度上、例如愛撫Ｈ場景。\n                標題末尾有★代表有正戲的場景描述。\n\n*譯者：本篇譯文皆翻自WEB無刪減版本（小説家になろう），並非文庫版。\n       文中不乏18禁文字敘述，未成年者可參閱刪減版本（カクヨム）。\n\n（追記：書籍版第２巻、ファミ通文庫から発売中です！）\n（コミカライズ決定しました！！　コミックヴァルキリーにて連載予定です！）\n\n　ＶＲ対応のエロゲーをプレイ中に事故死、という悲惨な最期を遂げた主人公は、女神の計らいでゲーム世界に転生させてもらう。\n　転生時の特典として得たのは、【テイム（奴隷化）】特化のスキルとステータス。\n　このゲームでは、女性型のあらゆる敵を脱がし、快感を与えることで、手なずけることができるのだった。\n　ボス級の強敵をサクッとテイムし、その能力を吸収した主人公は、行く先々で美少女を手なずけながら、自由に道を突き進んでいく。\n\n（末尾に▲のあるタイトルには、愛撫程度のＨシーンあり。★のあるタイトルには本番シーンありです）",
+          "tags": [
+            "node-novel",
+            "novel18",
+            "syosetu",
+            "スキル",
+            "ハーレム",
+            "ファンタジー",
+            "主人公最強",
+            "冒険",
+            "強制脱衣",
+            "残酷な描写あり",
+            "男主人公",
+            "男性視点",
+            "異世界転生",
+            "飼い慣らし"
+          ]
+        },
+        "contribute": [
+          "章魚子"
+        ],
+        "options": {
+          "syosetu": {
+            "txtdownload_id": "1103530"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou18.dip.jp/search.php?text=n3640eg&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[kakuyomu.jp](https://kakuyomu.jp/works/1177354054885380132)",
+          "[章魚子](https://pan.baidu.com/s/1xOs1KZ4SuEwoXZcgA9rVDQ) wu2f",
+          "[漫畫](https://manhua.dmzj.com/vryouxizhuanshengyishijietiaojiaomowangmeishaonvcl/ \"VR游戏转生异世界调教魔王美少女 clothout·saber\")"
         ]
       }
     },
@@ -14332,6 +14460,39 @@
           "[comic-walker](https://comic-walker.com/contents/detail/KDCW_EB03200101010000_68/)",
           "[epub](https://mega.nz/#F!4x9RVZLT!Tucgvy-PK--6YV13oaC2LA) - joseph261059",
           "[dm5 漫画](http://www.dm5.com/manhua-xingcunlianjinshushixiangzaichenglijingjingshenghuo/ \"幸存炼金术师想在城里静静生活\")"
+        ]
+      },
+      "異世界に転生したら美少女で女城主だった。": {
+        "novel": {
+          "title": "異世界に転生したら美少女で女城主だった。",
+          "title_zh": "轉生異世界成為美少女城主",
+          "author": "水城みなも",
+          "illust": "冬ゆき",
+          "source": "",
+          "cover": "https://cdn.kdkw.jp/cover_1000/321711/321711000239.jpg",
+          "publisher": "",
+          "date": "",
+          "status": "",
+          "novel_status": 0,
+          "series": {
+            "name": ""
+          },
+          "preface": "转生以来没有挂，也没有特殊技能，可以凭借的只有「美少女力」。她的目标是，称霸三国！\n\n为了帮助一只黑猫，七门景在交通事故中失去了生命——然后转生成为了小国斯登堡的公主大人蒂芙。而公主的灵魂进入了本来的宠物黑猫体内。「把我的身体还我！」就算被这么说景也束手无策。然而，景正处于被步步紧逼，贞操和性命都陷入大危机的状况之中！转生技能什么的一律没有的景，决心用绝世的「美少女力」渡过危机，但——！？成为兴国之美少女制霸三个国家的故事，开幕！",
+          "tags": [
+            "女主人公",
+            "異世界転生",
+            "転生"
+          ]
+        },
+        "contribute": [
+          "牧野诗歌"
+        ],
+        "options": {
+          "textlayout": {}
+        },
+        "link": [
+          "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=67)",
+          "[转生异世界成为美少女城主吧](https://tieba.baidu.com/f?kw=%E8%BD%AC%E7%94%9F%E5%BC%82%E4%B8%96%E7%95%8C%E6%88%90%E4%B8%BA%E7%BE%8E%E5%B0%91%E5%A5%B3%E5%9F%8E%E4%B8%BB&ie=utf-8 \"转生异世界成为美少女城主\")"
         ]
       },
       "緑王の盾と真冬の国": {
