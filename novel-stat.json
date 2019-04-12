@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1554912000000,
-    "timestamp": 1554941248784,
+    "todayTimestamp": 1554998400000,
+    "timestamp": 1555028567384,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -661,6 +661,207 @@
           }
         ]
       ]
+    },
+    "1554998400000": {
+      "segment_count": 3,
+      "segment": [
+        [
+          "girl",
+          "原千金未婚媽媽",
+          {
+            "segment_date": 1555027648439,
+            "segment_old": 2,
+            "segment": 8,
+            "init_date": 1552838400000,
+            "txt_basename": "原千金未婚媽媽.out.txt",
+            "epub_date": 1555028523934,
+            "volume_old": 1,
+            "chapter_old": 5,
+            "volume": 1,
+            "chapter": 21,
+            "epub_basename": "原千金未婚媽媽.epub",
+            "novel_status": 256,
+            "update_date": 1554998400000,
+            "update_count": 2
+          }
+        ],
+        [
+          "user",
+          "四度目は嫌な死属性魔術師",
+          {
+            "segment_date": 1555028190003,
+            "segment_old": 1,
+            "segment": 111,
+            "init_date": 1546302039608,
+            "update_date": 1554998400000,
+            "update_count": 10
+          }
+        ],
+        [
+          "wenku8",
+          "書姬吟游錄",
+          {
+            "init_date": 1554220800000,
+            "txt_basename": "書姬吟遊錄.out.txt",
+            "epub_date": 1555028548489,
+            "volume_old": 4,
+            "chapter_old": 19,
+            "volume": 4,
+            "chapter": 19,
+            "epub_basename": "書姬吟遊錄.epub",
+            "novel_status": 256,
+            "update_date": 1554998400000,
+            "update_count": 3,
+            "segment_date": 1555028504513,
+            "segment_old": 6,
+            "segment": 9
+          }
+        ]
+      ],
+      "epub_count": 8,
+      "epub": [
+        [
+          "girl",
+          "原千金未婚媽媽",
+          {
+            "segment_date": 1555027648439,
+            "segment_old": 2,
+            "segment": 8,
+            "init_date": 1552838400000,
+            "txt_basename": "原千金未婚媽媽.out.txt",
+            "epub_date": 1555028523934,
+            "volume_old": 1,
+            "chapter_old": 5,
+            "volume": 1,
+            "chapter": 21,
+            "epub_basename": "原千金未婚媽媽.epub",
+            "novel_status": 256,
+            "update_date": 1554998400000,
+            "update_count": 2
+          }
+        ],
+        [
+          "otome",
+          "転生王子と憂いの大国",
+          {
+            "init_date": 1554998400000,
+            "txt_basename": "転生王子と憂いの大国.out.txt",
+            "epub_date": 1555028524615,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 4,
+            "chapter": 7,
+            "epub_basename": "転生王子と憂いの大国.epub",
+            "novel_status": 769,
+            "update_date": 1554998400000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "美女と賢者と魔人の剣",
+          {
+            "init_date": 1552752000000,
+            "txt_basename": "美女と賢者と魔人の剣.out.txt",
+            "epub_date": 1555028525065,
+            "volume_old": 2,
+            "chapter_old": 2,
+            "volume": 2,
+            "chapter": 4,
+            "epub_basename": "美女と賢者と魔人の剣.epub",
+            "novel_status": 769,
+            "update_date": 1554998400000,
+            "update_count": 2
+          }
+        ],
+        [
+          "user_out",
+          "呪術師は勇者になれない",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "呪術師は勇者になれない.out.txt",
+            "epub_date": 1555028525987,
+            "volume_old": 2,
+            "chapter_old": 10,
+            "volume": 2,
+            "chapter": 14,
+            "epub_basename": "呪術師は勇者になれない.epub",
+            "update_date": 1554998400000,
+            "update_count": 3
+          }
+        ],
+        [
+          "user_out",
+          "没落予定なので、鍛治職人を目指す",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "没落予定なので、鍛治職人を目指す.out.txt",
+            "epub_date": 1555028530341,
+            "volume_old": 8,
+            "chapter_old": 159,
+            "volume": 8,
+            "chapter": 162,
+            "epub_basename": "没落予定なので、鍛治職人を目指す.epub",
+            "update_date": 1554998400000,
+            "update_count": 7,
+            "novel_status": 768
+          }
+        ],
+        [
+          "user_out",
+          "魔王様、リトライ！",
+          {
+            "epub_date": 1555028533604,
+            "volume_old": 9,
+            "chapter_old": 118,
+            "volume": 10,
+            "chapter": 125,
+            "epub_basename": "魔王様、リトライ！.epub",
+            "init_date": 1545548944955,
+            "txt_basename": "魔王様、リトライ！.out.txt",
+            "update_date": 1554998400000,
+            "update_count": 6,
+            "novel_status": 768
+          }
+        ],
+        [
+          "user_out",
+          "黑之魔王",
+          {
+            "epub_date": 1555028546119,
+            "volume_old": 30,
+            "chapter_old": 561,
+            "volume": 30,
+            "chapter": 569,
+            "init_date": 1545261469203,
+            "epub_basename": "黑之魔王.epub",
+            "txt_basename": "黑之魔王.out.txt",
+            "update_date": 1554998400000,
+            "update_count": 17,
+            "novel_status": 768
+          }
+        ],
+        [
+          "wenku8",
+          "書姬吟游錄",
+          {
+            "init_date": 1554220800000,
+            "txt_basename": "書姬吟遊錄.out.txt",
+            "epub_date": 1555028548489,
+            "volume_old": 4,
+            "chapter_old": 19,
+            "volume": 4,
+            "chapter": 19,
+            "epub_basename": "書姬吟遊錄.epub",
+            "novel_status": 256,
+            "update_date": 1554998400000,
+            "update_count": 3,
+            "segment_date": 1555028504513,
+            "segment_old": 6,
+            "segment": 9
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1062,15 +1263,15 @@
       "美女と賢者と魔人の剣": {
         "init_date": 1552752000000,
         "txt_basename": "美女と賢者と魔人の剣.out.txt",
-        "epub_date": 1552781699938,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1555028525065,
+        "volume_old": 2,
+        "chapter_old": 2,
         "volume": 2,
-        "chapter": 2,
+        "chapter": 4,
         "epub_basename": "美女と賢者と魔人の剣.epub",
         "novel_status": 769,
-        "update_date": 1552752000000,
-        "update_count": 1
+        "update_date": 1554998400000,
+        "update_count": 2
       },
       "レベル１の最強賢者": {
         "init_date": 1553270400000,
@@ -1217,12 +1418,12 @@
         "update_count": 1
       },
       "四度目は嫌な死属性魔術師": {
-        "segment_date": 1552781044230,
-        "segment_old": 2,
-        "segment": 1,
+        "segment_date": 1555028190003,
+        "segment_old": 1,
+        "segment": 111,
         "init_date": 1546302039608,
-        "update_date": 1552752000000,
-        "update_count": 9
+        "update_date": 1554998400000,
+        "update_count": 10
       },
       "誰にでもできる影から助ける魔王討伐": {
         "segment_date": 1546302072698,
@@ -1298,16 +1499,17 @@
     },
     "user_out": {
       "黑之魔王": {
-        "epub_date": 1549669447798,
+        "epub_date": 1555028546119,
         "volume_old": 30,
         "chapter_old": 561,
         "volume": 30,
-        "chapter": 561,
+        "chapter": 569,
         "init_date": 1545261469203,
         "epub_basename": "黑之魔王.epub",
         "txt_basename": "黑之魔王.out.txt",
-        "update_date": 1552060800000,
-        "update_count": 16
+        "update_date": 1554998400000,
+        "update_count": 17,
+        "novel_status": 768
       },
       "火輪を抱いた少女": {
         "epub_date": 1545548942271,
@@ -1323,28 +1525,29 @@
         "update_count": 1
       },
       "魔王様、リトライ！": {
-        "epub_date": 1550361631539,
+        "epub_date": 1555028533604,
         "volume_old": 9,
         "chapter_old": 118,
-        "volume": 9,
-        "chapter": 118,
+        "volume": 10,
+        "chapter": 125,
         "epub_basename": "魔王様、リトライ！.epub",
         "init_date": 1545548944955,
         "txt_basename": "魔王様、リトライ！.out.txt",
-        "update_date": 1552060800000,
-        "update_count": 5
+        "update_date": 1554998400000,
+        "update_count": 6,
+        "novel_status": 768
       },
       "没落予定なので、鍛治職人を目指す": {
         "init_date": 1545494400000,
         "txt_basename": "没落予定なので、鍛治職人を目指す.out.txt",
-        "epub_date": 1552781720978,
+        "epub_date": 1555028530341,
         "volume_old": 8,
-        "chapter_old": 157,
+        "chapter_old": 159,
         "volume": 8,
-        "chapter": 159,
+        "chapter": 162,
         "epub_basename": "没落予定なので、鍛治職人を目指す.epub",
-        "update_date": 1552752000000,
-        "update_count": 6,
+        "update_date": 1554998400000,
+        "update_count": 7,
         "novel_status": 768
       },
       "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～": {
@@ -1791,14 +1994,14 @@
       "呪術師は勇者になれない": {
         "init_date": 1545494400000,
         "txt_basename": "呪術師は勇者になれない.out.txt",
-        "epub_date": 1547940776291,
+        "epub_date": 1555028525987,
         "volume_old": 2,
         "chapter_old": 10,
         "volume": 2,
-        "chapter": 10,
+        "chapter": 14,
         "epub_basename": "呪術師は勇者になれない.epub",
-        "update_date": 1552060800000,
-        "update_count": 2
+        "update_date": 1554998400000,
+        "update_count": 3
       },
       "百魔の主": {
         "init_date": 1545494400000,
@@ -2738,18 +2941,18 @@
       "書姬吟游錄": {
         "init_date": 1554220800000,
         "txt_basename": "書姬吟遊錄.out.txt",
-        "epub_date": 1554860427111,
+        "epub_date": 1555028548489,
         "volume_old": 4,
         "chapter_old": 19,
         "volume": 4,
         "chapter": 19,
         "epub_basename": "書姬吟遊錄.epub",
         "novel_status": 256,
-        "update_date": 1554825600000,
-        "update_count": 2,
-        "segment_date": 1554860408271,
-        "segment_old": 0,
-        "segment": 6
+        "update_date": 1554998400000,
+        "update_count": 3,
+        "segment_date": 1555028504513,
+        "segment_old": 6,
+        "segment": 9
       }
     },
     "cm_out": {
@@ -3156,7 +3359,7 @@
         "segment_date": 1554941210842,
         "segment_old": 0,
         "segment": 1,
-        "init_date": 1554941210842,
+        "init_date": 1554912000000,
         "txt_basename": "玩了VR工口遊戲轉生到異世界、將美少女魔.out.txt",
         "epub_date": 1554941238828,
         "volume_old": 0,
@@ -3388,20 +3591,20 @@
         "update_count": 1
       },
       "原千金未婚媽媽": {
-        "segment_date": 1552866980142,
-        "segment_old": 0,
-        "segment": 2,
+        "segment_date": 1555027648439,
+        "segment_old": 2,
+        "segment": 8,
         "init_date": 1552838400000,
         "txt_basename": "原千金未婚媽媽.out.txt",
-        "epub_date": 1552867140705,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1555028523934,
+        "volume_old": 1,
+        "chapter_old": 5,
         "volume": 1,
-        "chapter": 5,
+        "chapter": 21,
         "epub_basename": "原千金未婚媽媽.epub",
         "novel_status": 256,
-        "update_date": 1552838400000,
-        "update_count": 1
+        "update_date": 1554998400000,
+        "update_count": 2
       },
       "ポンコツ少女の電脳世界救世記": {
         "init_date": 1554739200000,
@@ -3508,6 +3711,21 @@
     "z.bookmark": {
       "緑王の盾と真冬の国": {
         "init_date": 1552320000000
+      }
+    },
+    "otome": {
+      "転生王子と憂いの大国": {
+        "init_date": 1554998400000,
+        "txt_basename": "転生王子と憂いの大国.out.txt",
+        "epub_date": 1555028524615,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 4,
+        "chapter": 7,
+        "epub_basename": "転生王子と憂いの大国.epub",
+        "novel_status": 769,
+        "update_date": 1554998400000,
+        "update_count": 1
       }
     }
   },
@@ -5282,7 +5500,7 @@
           "series": {
             "name": "ざまぁシリーズ"
           },
-          "preface": "　２０１９年、３月９日。ＴＯブックス様より第２巻発売が決定しました！　詳しくはイラストが記載された活動報告をどうぞ！\n　第二章、帝国ざまぁ編始めました！\n　白髪とオッドアイを蛇蝎の如く嫌う帝国貴族、その最高位である公爵家に生まれたシャーリィは、見事な白髪と、紅色と蒼色のオッドアイを持って生まれてきた。\n　血の繋がった家族からも疎まれ、巡り会った自分を愛してくれる婚約者も実の妹に奪われ、冤罪を着せられた上に投獄されてしまう。\n　激しい拷問の末、自分を貶めた全てに復讐を誓い、運良く脱獄に成功したのだが、彼女のお腹には既に元婚約者との間に出来た子供が宿っていた。\n　例え憎い男の血を引いていたとしても、生まれてくる子供に罪はない。せめて無事に生んで、後は孤児院にでも預けようとしたのだが――――\n\n「どうしましょう、私の娘たちが世界一可愛いんですけど」\n\n　お腹を痛めて生んだ我が子の可愛さにノックアウトされたシャーリィ。復讐よりも子育てを選び、帝国を飛び出して隣の王国の辺境の街に移り住んだ彼女は養育費や生活費を稼ぐために冒険者ギルドの扉を開く。目立たず、ひっそりと、帝国に気付かれないように暮らせればいいと思っていたが――――\n\n「シャーリィさん！　王都の近くに天災級の魔物が現れたんですけど、依頼を引き受けてくれませんか！？」\n「断ります。今日は娘たちの学校の宿題を手伝う約束をしていますので」\n\n　十年後、何時の間にか世界トップレベルの冒険者、《白の剣鬼》と呼ばれるようになってしまった。\n\n\n　主人公復讐を止めてますが、後に盛大なざまあが有ります。\n　日間ランキング、早くも１位達成！　皆さまの評価、本当にありがとうございます！",
+          "preface": "魔物猖獗的異世界。\n元贵族千金、夏莉因冤罪而失去了一切。\n\n重生為【不朽】的不死者，成為了斬首災害級魔物，將古龍一刀兩斷那樣的冒险者。但、外表冷酷的她內心卻是—「該怎麼辦！我的女兒們實在太可愛了」重度的女兒控！\n\n拋棄過去的仇恨。那位母親……只希望與至愛的雙胞胎女兒們安靜的生活。直至某日，收到了三天後龍率領的魔物軍團即將進攻城鎮。但是，那天剛好是女兒們的家長日。《白之劍鬼》受世人所恐懼的夏莉，是否能擊破敵軍，順利參加家長日呢？\n\n最強的劍鬼  也是個天媽  冒險幻想！\n\n　２０１９年、３月９日。ＴＯブックス様より第２巻発売が決定しました！　詳しくはイラストが記載された活動報告をどうぞ！\n　第二章、帝国ざまぁ編始めました！\n　白髪とオッドアイを蛇蝎の如く嫌う帝国貴族、その最高位である公爵家に生まれたシャーリィは、見事な白髪と、紅色と蒼色のオッドアイを持って生まれてきた。\n　血の繋がった家族からも疎まれ、巡り会った自分を愛してくれる婚約者も実の妹に奪われ、冤罪を着せられた上に投獄されてしまう。\n　激しい拷問の末、自分を貶めた全てに復讐を誓い、運良く脱獄に成功したのだが、彼女のお腹には既に元婚約者との間に出来た子供が宿っていた。\n　例え憎い男の血を引いていたとしても、生まれてくる子供に罪はない。せめて無事に生んで、後は孤児院にでも預けようとしたのだが――――\n\n「どうしましょう、私の娘たちが世界一可愛いんですけど」\n\n　お腹を痛めて生んだ我が子の可愛さにノックアウトされたシャーリィ。復讐よりも子育てを選び、帝国を飛び出して隣の王国の辺境の街に移り住んだ彼女は養育費や生活費を稼ぐために冒険者ギルドの扉を開く。目立たず、ひっそりと、帝国に気付かれないように暮らせればいいと思っていたが――――\n\n「シャーリィさん！　王都の近くに天災級の魔物が現れたんですけど、依頼を引き受けてくれませんか！？」\n「断ります。今日は娘たちの学校の宿題を手伝う約束をしていますので」\n\n　十年後、何時の間にか世界トップレベルの冒険者、《白の剣鬼》と呼ばれるようになってしまった。\n\n\n　主人公復讐を止めてますが、後に盛大なざまあが有ります。\n　日間ランキング、早くも１位達成！　皆さまの評価、本当にありがとうございます！",
           "tags": [
             "R15",
             "node-novel",
@@ -5328,7 +5546,7 @@
             "novel_id": "n2129ei"
           },
           "textlayout": {
-            "allow_lf2": true
+            "allow_lf2": false
           }
         },
         "link": [
@@ -6566,6 +6784,76 @@
           "[魔王「おら！勇者出て来い！！」勇者「ひぃ！！」](http://blog.livedoor.jp/ayamevip/archives/1472633.html)",
           "[絕對想被打倒的魔王＆絕對不想戰鬥的勇者１](https://home.gamer.com.tw/creationDetail.php?sn=2187237)",
           "[facebook](https://www.facebook.com/uyaihc)"
+        ]
+      }
+    },
+    "otome": {
+      "転生王子と憂いの大国": {
+        "novel": {
+          "title": "転生王子と憂いの大国",
+          "title_zh1": "",
+          "author": "楠　のびる",
+          "illust": "あり子",
+          "illusts": [
+            "あり子",
+            "北国良人"
+          ],
+          "source": "http://ncode.syosetu.com/n1586by/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/91IptcyOvaL.jpg",
+          "publisher": "syosetu",
+          "date": "2019-01-02T23:31:00+08:00",
+          "status": "完結済",
+          "novel_status": 769,
+          "series": {
+            "name": "ハーシェリク 転生王子の英雄譚（転生王子シリーズ）"
+          },
+          "preface": " オタク女である早川涼子は、アラフォーとなる三十五歳の誕生日前日、交通事故によりこの世を去った。そしてファンタジー世界の、しかもその大陸一の大国の金髪碧眼の美形王子様に転生したのだった。\n\n　宝くじがあたったが如く王子様ライフを満喫していたが、実はその大国は王を蔑む臣下、貴族たちの専横、役人の汚職等々かなりまずい状況だった。\n\n　父王を守るため、国民を助ける為、転生した王子ハーシェリクは国の闇と戦う決意をする。\n\n　しかし転生した先の王子は運動神経なし、魔力なし、おまけに美形だと思っていたら王族の中では華がないという残念な王子だった。\n\n　だがそれでも王子は諦めず前世の事務員のスキルと経験を活かし、持ち前の行動力と（オタク的な）頭脳、そして仲間達と共に今立ち上がる。\n\n【続編-転生王子と黄昏の騎士に続きます】",
+          "tags": [
+            "R15",
+            "TS",
+            "TS転生（女→男）",
+            "node-novel",
+            "syosetu",
+            "コメディー",
+            "シリアス",
+            "ファンタジー",
+            "三人称",
+            "主従",
+            "女性向",
+            "家族",
+            "性轉",
+            "戦記",
+            "残酷な描写あり",
+            "王子",
+            "異世界転生"
+          ]
+        },
+        "contribute": [
+          "Rakko",
+          "皮卡喵",
+          "青行灯amber"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "s6899b",
+            "novel_id": "n1586by"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n1586by&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[ハーシェリク 転生王子の英雄譚（転生王子シリーズ）](http://ncode.syosetu.com/s6899b/)",
+          "[转生王子吧](https://tieba.baidu.com/f?kw=%E8%BD%AC%E7%94%9F%E7%8E%8B%E5%AD%90&ie=utf-8&tp=0 \"\")",
+          "[dm5 转生王子的英雄谭](http://www.dm5.com/manhua-zhuanshengwangzideyingxiongtan/)",
+          "[amazon.co.jp](https://www.amazon.co.jp/s/ref=dp_byline_sr_book_1?ie=UTF8&text=%E6%A5%A0+%E3%81%AE%E3%81%B3%E3%82%8B&search-alias=books-jp&field-author=%E6%A5%A0+%E3%81%AE%E3%81%B3%E3%82%8B&sort=relevancerank)"
         ]
       }
     },
@@ -11444,6 +11732,7 @@
           "title_zh1": "咒術師無法成為勇者",
           "title_zh2": "咒術師不能當勇者",
           "author": "菱影代理",
+          "illust": "誉",
           "source": "http://ncode.syosetu.com/n1132dk/",
           "cover": "https://images-na.ssl-images-amazon.com/images/I/91yzBCP%2BeUL.jpg",
           "publisher": "syosetu",
@@ -12984,10 +13273,11 @@
           "publisher": "syosetu",
           "date": "2018-02-10T15:23:00+08:00",
           "status": "連載",
+          "novel_status": 768,
           "series": {
             "name": ""
           },
-          "preface": "　随处可见的社会人士——大野晶（おおの　あきら）在自己运营的游戏内，以被称之为「魔王」角色的登陆状态下，转移到了异世界。\n　他在这里遇到了一位右脚不便的小孩子，并一同启程旅行。然而「魔王」持有压倒性的力量，其他人不可能放任不管。\n　他们被想要讨伐魔王的国家和圣女所盯上，这场引发的骚动最终都把整座王国卷入其中。\n　这是一部外观上是魔王，可其内在是一般人的误会系幻想世界。\n\n　3/30　書籍3巻＆漫画版1巻が発売されます。\n\n　どこにでもいる社会人、大野晶は自身が運営するゲーム内の「魔王」と呼ばれるキャラにログインしたまま異世界へと飛ばされてしまう。そこで出会った片足が不自由な女の子と旅をし始めるが、圧倒的な力を持つ「魔王」を周囲が放っておくわけがなかった。\n　魔王を討伐しようとする国やら聖女から狙われ、一行は行く先々で騒動を巻き起こす。\n　見た目は魔王、中身は一般人の勘違い系ファンタジー! \n\n　※この作品はハーメルン様の方でも公開しております。\n　※多忙のため、暫く感想欄は閉じておきます。",
+          "preface": "　随处可见的社会人士——大野晶（おおの　あきら）在自己运营的游戏内，以被称之为「魔王」角色的登陆状态下，转移到了异世界。\n　他在这里遇到了一位右脚不便的小孩子，并一同启程旅行。然而「魔王」持有压倒性的力量，其他人不可能放任不管。\n　他们被想要讨伐魔王的国家和圣女所盯上，这场引发的骚动最终都把整座王国卷入其中。\n　这是一部外观上是魔王，可其内在是一般人的误会系幻想世界。\n\n　3/30　書籍3巻＆漫画版1巻が発売されます。\n\n　どこにでもいる社会人、大野晶は自身が運営するゲーム内の「魔王」と呼ばれるキャラにログインしたまま異世界へと飛ばされてしまう。そこで出会った片足が不自由な女の子と旅をし始めるが、圧倒的な力を持つ「魔王」を周囲が放っておくわけがなかった。\n　魔王を討伐しようとする国やら聖女から狙われ、一行は行く先々で騒動を巻き起こす。\n　見た目は魔王、中身は一般人の勘違い系ファンタジー!\n\n　※この作品はハーメルン様の方でも公開しております。\n　※多忙のため、暫く感想欄は閉じておきます。",
           "tags": [
             "R15",
             "node-novel",
@@ -13030,46 +13320,57 @@
             "txtdownload_id": "926697"
           },
           "textlayout": {
-            "allow_lf2": true
+            "allow_lf2": false
           }
         },
         "link": [
           "[dip.jp](https://narou.dip.jp/search.php?text=n6789do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[重来吧魔王大人](https://tieba.baidu.com/f?kw=%E9%87%8D%E6%9D%A5%E5%90%A7%E9%AD%94%E7%8E%8B%E5%A4%A7%E4%BA%BA)",
           "[漫畫](http://tieba.baidu.com/home/main/?un=%E9%A3%84%E9%9B%B6leaf&ie=utf-8&id=04e2e9a384e99bb66c656166ae5f&fr=frs&red_tag=c2986950856) - 飄零leaf",
-          "http://webaction.jp/Mcomics/"
+          "http://webaction.jp/Mcomics/",
+          "https://shimo.im/docs/7u7GsKC8MKc3wNVp/"
         ]
       },
       "黑之魔王": {
         "novel": {
           "title": "黒の魔王",
           "author": "菱影代理",
+          "illust": "森野ヒロ",
+          "illusts": [
+            "的場 りょう"
+          ],
           "source": "http://ncode.syosetu.com/n2627t/",
           "cover": "https://2.bp.blogspot.com/-qG7giNZTRuI/VkpMgj44IfI/AAAAAAAAAL4/MldUKuehBaE/s1600/volumen-1-0.jpg",
           "status": "連載",
+          "novel_status": 768,
           "series": {
             "name": "黒の魔王"
           },
-          "preface": "黑乃真央是一个有着凶恶眼神的男高中生。没有女友的他每天仍能享受着和平的高中生活。但是有一天，在没有预兆的情况下黑乃在他所属的文艺部的活动室，头突然痛了起来，然后晕了过去。当他其次醒来的时候等待他的到底是什么……。",
+          "preface": "黑乃真央是一個有著凶惡眼神的男高中生。沒有女友的他每天仍能享受著和平的高中生活。但是有一天，在沒有預兆的情況下黑乃在他所屬的文藝部的活動室，頭突然痛了起來，然後暈了過去。當他其次醒來的時候等待他的到底是什麼……。\n\n黒乃真央は悪い目つきを気にする男子高校生。彼女はいないがそれなりに友人にも恵まれ平和な高校生活を謳歌していた。しかしある日突然、何の前触れも無く黒乃は所属する文芸部の部室で謎の頭痛に襲われ気絶。次に目覚めた時には......。剣と魔法、モンスターの闊歩するオーソドックスな異世界召喚モノ！　※この度、晴れてコミカライズしました！　『コミックウォーカー』『ニコニコ静画』でどうぞご覧ください。これからは、なろう版、書籍版、コミカライズ、ともによろしくお願いいたします！",
           "tags": [
             "BL",
             "R15",
             "syosetu",
+            "コミックウォーカー",
             "シリアス",
+            "ダークファンタジー",
             "ファンタジー",
             "ヤンデレ",
-            "冒险",
             "冒険者",
-            "后宫",
+            "冒險",
             "国家",
-            "异界",
+            "後宮",
             "架空戦記",
             "残酷な描写あり",
             "民族",
             "異世界",
+            "異世界コミック",
+            "異世界転生",
             "異世界転移",
+            "異界",
             "病嬌",
             "穿越",
+            "逆境",
             "魔法",
             "魔王"
           ]
@@ -14552,69 +14853,6 @@
         "link": [
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n6308dg&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[绿王的盾与真冬之国吧](https://tieba.baidu.com/f?kw=%E7%BB%BF%E7%8E%8B%E7%9A%84%E7%9B%BE%E4%B8%8E%E7%9C%9F%E5%86%AC%E4%B9%8B%E5%9B%BD&ie=utf-8 \"绿王的盾与真冬之国\")"
-        ]
-      },
-      "転生王子と憂いの大国": {
-        "novel": {
-          "title": "転生王子と憂いの大国",
-          "title_zh1": "",
-          "author": "楠　のびる",
-          "illust": "あり子",
-          "illusts": [
-            "あり子",
-            "北国良人"
-          ],
-          "source": "http://ncode.syosetu.com/n1586by/",
-          "cover": "https://images-na.ssl-images-amazon.com/images/I/91IptcyOvaL.jpg",
-          "publisher": "syosetu",
-          "date": "2019-01-02T23:31:00+08:00",
-          "status": "完結済",
-          "novel_status": 769,
-          "series": {
-            "name": "ハーシェリク 転生王子の英雄譚（転生王子シリーズ）"
-          },
-          "preface": " オタク女である早川涼子は、アラフォーとなる三十五歳の誕生日前日、交通事故によりこの世を去った。そしてファンタジー世界の、しかもその大陸一の大国の金髪碧眼の美形王子様に転生したのだった。\n\n　宝くじがあたったが如く王子様ライフを満喫していたが、実はその大国は王を蔑む臣下、貴族たちの専横、役人の汚職等々かなりまずい状況だった。\n\n　父王を守るため、国民を助ける為、転生した王子ハーシェリクは国の闇と戦う決意をする。\n\n　しかし転生した先の王子は運動神経なし、魔力なし、おまけに美形だと思っていたら王族の中では華がないという残念な王子だった。\n\n　だがそれでも王子は諦めず前世の事務員のスキルと経験を活かし、持ち前の行動力と（オタク的な）頭脳、そして仲間達と共に今立ち上がる。\n\n【続編-転生王子と黄昏の騎士に続きます】",
-          "tags": [
-            "R15",
-            "TS",
-            "TS転生（女→男）",
-            "node-novel",
-            "syosetu",
-            "コメディー",
-            "シリアス",
-            "ファンタジー",
-            "三人称",
-            "主従",
-            "女性向",
-            "家族",
-            "性轉",
-            "戦記",
-            "残酷な描写あり",
-            "王子",
-            "異世界転生"
-          ]
-        },
-        "options": {
-          "downloadOptions": {
-            "noFilePadend": true,
-            "filePrefixMode": 1,
-            "startIndex": 1
-          },
-          "syosetu": {
-            "txtdownload_id": "",
-            "series_id": "s6899b",
-            "novel_id": "n1586by"
-          },
-          "textlayout": {
-            "allow_lf2": true
-          }
-        },
-        "link": [
-          "[dip.jp](https://narou.nar.jp/search.php?text=n1586by&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[ハーシェリク 転生王子の英雄譚（転生王子シリーズ）](http://ncode.syosetu.com/s6899b/)",
-          "[转生王子吧](https://tieba.baidu.com/f?kw=%E8%BD%AC%E7%94%9F%E7%8E%8B%E5%AD%90&ie=utf-8&tp=0 \"\")",
-          "[dm5 转生王子的英雄谭](http://www.dm5.com/manhua-zhuanshengwangzideyingxiongtan/)",
-          "[amazon.co.jp](https://www.amazon.co.jp/s/ref=dp_byline_sr_book_1?ie=UTF8&text=%E6%A5%A0+%E3%81%AE%E3%81%B3%E3%82%8B&search-alias=books-jp&field-author=%E6%A5%A0+%E3%81%AE%E3%81%B3%E3%82%8B&sort=relevancerank)"
         ]
       }
     },
