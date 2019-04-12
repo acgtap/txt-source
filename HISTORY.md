@@ -1,5 +1,35 @@
 # HISTORY
 
+## 2019-04-12
+
+### Epub
+
+- [原千金未婚媽媽](girl/%E5%8E%9F%E5%8D%83%E9%87%91%E6%9C%AA%E5%A9%9A%E5%AA%BD%E5%AA%BD) - girl
+  <br/>( v: 1 , c: 21, add: 16 )
+- [転生王子と憂いの大国](otome/%E8%BB%A2%E7%94%9F%E7%8E%8B%E5%AD%90%E3%81%A8%E6%86%82%E3%81%84%E3%81%AE%E5%A4%A7%E5%9B%BD) - otome
+  <br/>( v: 4 , c: 7, add: 7 )
+- [美女と賢者と魔人の剣](syosetu/%E7%BE%8E%E5%A5%B3%E3%81%A8%E8%B3%A2%E8%80%85%E3%81%A8%E9%AD%94%E4%BA%BA%E3%81%AE%E5%89%A3) - syosetu
+  <br/>( v: 2 , c: 4, add: 2 )
+- [呪術師は勇者になれない](user_out/%E5%91%AA%E8%A1%93%E5%B8%AB%E3%81%AF%E5%8B%87%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%AA%E3%81%84) - user_out
+  <br/>( v: 2 , c: 14, add: 4 )
+- [没落予定なので、鍛治職人を目指す](user_out/%E6%B2%A1%E8%90%BD%E4%BA%88%E5%AE%9A%E3%81%AA%E3%81%AE%E3%81%A7%E3%80%81%E9%8D%9B%E6%B2%BB%E8%81%B7%E4%BA%BA%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99) - user_out
+  <br/>( v: 8 , c: 162, add: 3 )
+- [魔王様、リトライ！](user_out/%E9%AD%94%E7%8E%8B%E6%A7%98%E3%80%81%E3%83%AA%E3%83%88%E3%83%A9%E3%82%A4%EF%BC%81) - user_out
+  <br/>( v: 10 , c: 125, add: 7 )
+- [黑之魔王](user_out/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B) - user_out
+  <br/>( v: 30 , c: 569, add: 8 )
+- [書姬吟游錄](wenku8/%E6%9B%B8%E5%A7%AC%E5%90%9F%E6%B8%B8%E9%8C%84) - wenku8
+  <br/>( v: 4 , c: 19, add: 0 )
+
+### Segment
+
+- [原千金未婚媽媽](girl/%E5%8E%9F%E5%8D%83%E9%87%91%E6%9C%AA%E5%A9%9A%E5%AA%BD%E5%AA%BD) - girl
+  <br/>( s: 8 )
+- [四度目は嫌な死属性魔術師](user/%E5%9B%9B%E5%BA%A6%E7%9B%AE%E3%81%AF%E5%AB%8C%E3%81%AA%E6%AD%BB%E5%B1%9E%E6%80%A7%E9%AD%94%E8%A1%93%E5%B8%AB) - user
+  <br/>( s: 111 )
+- [書姬吟游錄](wenku8/%E6%9B%B8%E5%A7%AC%E5%90%9F%E6%B8%B8%E9%8C%84) - wenku8
+  <br/>( s: 9 )
+
 ## 2019-04-11
 
 ### Epub
