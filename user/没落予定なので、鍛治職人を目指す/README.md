@@ -71,7 +71,7 @@
 - 风之祭雅
 - ビーム反射
 - 反射REdive
-- 
+-
 
 
 # options
@@ -82,7 +82,7 @@
 
 ## textlayout
 
-- allow_lf2: true
+- allow_lf2: false
 
 # link
 
@@ -90,6 +90,6 @@
 - [没落预订吧](https://tieba.baidu.com/f?kw=%E6%B2%A1%E8%90%BD%E9%A2%84%E8%AE%A2&ie=utf-8 "")
 - [没落予定なので、鍛冶職人を目指す](https://comic-walker.com/contents/detail/KDCW_FS01000044010000_68/) 漫畫
 - [dm5](http://www.dm5.com/manhua-weileniuzhuanmeiluomingyun-maixiangduanyegongjiangzhilu/)
-- 
+-
 
 
