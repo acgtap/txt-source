@@ -4,11 +4,13 @@
 - title_zh: 變成了美少女、但也成了網游廢人。
 - title_zh2: 变成了美少女但也成了网游废人
 - author: 星屑ぽんぽん
+- illust: ネコメガネ
 - source: http://ncode.syosetu.com/n0170db/
-- cover: https://21485.mitemin.net/userpageimage/viewimagebig/icode/i246294/
+- cover: https://images-na.ssl-images-amazon.com/images/I/51prfKzR%2BVL.jpg
 - publisher: syosetu
 - date: 2019-01-15T13:29:00+08:00
 - status: 連載
+- novel_status: 0x0100
 
 ## series
 
@@ -65,6 +67,7 @@
 - 秋葉怜
 - lulala61
 - 紫月的夜梦
+- 閃電小星
 - 
 
 # options
