@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1554998400000,
-    "timestamp": 1555028567384,
+    "todayTimestamp": 1555084800000,
+    "timestamp": 1555114650823,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -862,6 +862,43 @@
           }
         ]
       ]
+    },
+    "1555084800000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "user",
+          "四度目は嫌な死属性魔術師",
+          {
+            "segment_date": 1555114577515,
+            "segment_old": 111,
+            "segment": 116,
+            "init_date": 1546302039608,
+            "update_date": 1555084800000,
+            "update_count": 11
+          }
+        ]
+      ],
+      "epub_count": 1,
+      "epub": [
+        [
+          "user_out",
+          "没落予定なので、鍛治職人を目指す",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "没落予定なので、鍛治職人を目指す.out.txt",
+            "epub_date": 1555114641138,
+            "volume_old": 8,
+            "chapter_old": 162,
+            "volume": 8,
+            "chapter": 162,
+            "epub_basename": "没落予定なので、鍛治職人を目指す.epub",
+            "update_date": 1555084800000,
+            "update_count": 8,
+            "novel_status": 768
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1418,12 +1455,12 @@
         "update_count": 1
       },
       "四度目は嫌な死属性魔術師": {
-        "segment_date": 1555028190003,
-        "segment_old": 1,
-        "segment": 111,
+        "segment_date": 1555114577515,
+        "segment_old": 111,
+        "segment": 116,
         "init_date": 1546302039608,
-        "update_date": 1554998400000,
-        "update_count": 10
+        "update_date": 1555084800000,
+        "update_count": 11
       },
       "誰にでもできる影から助ける魔王討伐": {
         "segment_date": 1546302072698,
@@ -1540,14 +1577,14 @@
       "没落予定なので、鍛治職人を目指す": {
         "init_date": 1545494400000,
         "txt_basename": "没落予定なので、鍛治職人を目指す.out.txt",
-        "epub_date": 1555028530341,
+        "epub_date": 1555114641138,
         "volume_old": 8,
-        "chapter_old": 159,
+        "chapter_old": 162,
         "volume": 8,
         "chapter": 162,
         "epub_basename": "没落予定なので、鍛治職人を目指す.epub",
-        "update_date": 1554998400000,
-        "update_count": 7,
+        "update_date": 1555084800000,
+        "update_count": 8,
         "novel_status": 768
       },
       "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～": {
@@ -12484,7 +12521,7 @@
             "txtdownload_id": "657875"
           },
           "textlayout": {
-            "allow_lf2": true
+            "allow_lf2": false
           }
         },
         "link": [
@@ -14761,6 +14798,74 @@
           "[comic-walker](https://comic-walker.com/contents/detail/KDCW_EB03200101010000_68/)",
           "[epub](https://mega.nz/#F!4x9RVZLT!Tucgvy-PK--6YV13oaC2LA) - joseph261059",
           "[dm5 漫画](http://www.dm5.com/manhua-xingcunlianjinshushixiangzaichenglijingjingshenghuo/ \"幸存炼金术师想在城里静静生活\")"
+        ]
+      },
+      "異世界でスローライフを（願望）": {
+        "novel": {
+          "title": "異世界でスローライフを（願望）",
+          "title_zh1": "異世界的慢生活",
+          "author": "シゲ",
+          "illust": "オウカ",
+          "source": "http://ncode.syosetu.com/n2276dz/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/91wv7bfkG5L.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-04-12T17:40:00+08:00",
+          "status": "連載",
+          "novel_status": 256,
+          "series": {
+            "name": "異世界でスローライフを（願望）"
+          },
+          "preface": "忍宫一树被女神转移到了别的世界，但是可以选择外挂能力\n但是来到不同的世界也不一定要战斗啊。\n如果这样的話，就把外挂能力全部点成战斗以外的技能，不从街上出去，过着悠闲的生活。\n在这样的想法下，忍宫一树用独特技能和生产技能开始了异世界的慢生活。\n\n忍宮一樹は女神によって異世界に転移する事となり、そこでチート能力を選択できることになった。\n\nだが異世界に来てチート能力を貰おうと戦闘しなくてはいけないわけではない。\n\nならばチート能力を全て戦闘以外のスキルにし、街から出ることもなく魔物に遭うこともなくスローライフを送れないものかと。\n\nそんな考えのもと、忍宮一樹のユニークスキルと生産スキルでの異世界生活がスタートした。\n\n注意\n\nハーレム要素強め、基本的にドタバタしてます。\n（願望）が強く出ている作品です。\n\n\nありがたいことにオーバーラップノベルス様より書籍化しています！\n素敵なオウカ様の絵を含んだ、この作品ならではの雰囲気を是非お楽しみください！\n\n※１２月２５日３巻発売しました！！　よろしくー！",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "ご都合展開",
+            "まったり",
+            "シリアス",
+            "スローライフ（願望）",
+            "ハイファンタジー",
+            "ハーレム",
+            "ファンタジー",
+            "冒険",
+            "勇者",
+            "奴隷",
+            "微エロ",
+            "残酷な描写あり",
+            "生産チート",
+            "男主人公",
+            "異世界",
+            "異世界転生",
+            "異世界転移",
+            "錬金",
+            "魔法"
+          ]
+        },
+        "contribute": [
+          "yhj钉宫癌",
+          "勤奋的懒惰的羊"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n2276dz"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n2276dz&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[异世界的慢生活吧](https://tieba.baidu.com/f?kw=%E5%BC%82%E4%B8%96%E7%95%8C%E7%9A%84%E6%85%A2%E7%94%9F%E6%B4%BB&ie=utf-8 \"异世界的慢生活\")"
         ]
       },
       "異世界に転生したら美少女で女城主だった。": {
