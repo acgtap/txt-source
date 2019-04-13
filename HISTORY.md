@@ -1,5 +1,17 @@
 # HISTORY
 
+## 2019-04-13
+
+### Epub
+
+- [没落予定なので、鍛治職人を目指す](user_out/%E6%B2%A1%E8%90%BD%E4%BA%88%E5%AE%9A%E3%81%AA%E3%81%AE%E3%81%A7%E3%80%81%E9%8D%9B%E6%B2%BB%E8%81%B7%E4%BA%BA%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99) - user_out
+  <br/>( v: 8 , c: 162, add: 0 )
+
+### Segment
+
+- [四度目は嫌な死属性魔術師](user/%E5%9B%9B%E5%BA%A6%E7%9B%AE%E3%81%AF%E5%AB%8C%E3%81%AA%E6%AD%BB%E5%B1%9E%E6%80%A7%E9%AD%94%E8%A1%93%E5%B8%AB) - user
+  <br/>( s: 116 )
+
 ## 2019-04-12
 
 ### Epub
