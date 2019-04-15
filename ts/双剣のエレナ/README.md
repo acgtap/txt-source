@@ -81,6 +81,9 @@ Arcadia様では冒頭・序盤以降は完全な新規のお話となります�
 # contribute
 
 - 花果茶
+- 棒棒没有糖
+- 暗夜十刃
+- 
 
 # options
 
@@ -103,4 +106,5 @@ Arcadia様では冒頭・序盤以降は完全な新規のお話となります�
 
 - [双刃的伊莉娜吧](https://tieba.baidu.com/f?kw=%E5%8F%8C%E5%88%83%E7%9A%84%E4%BC%8A%E8%8E%89%E5%A8%9C&ie=utf-8 "双刃的伊莉娜")
 - [花果茶](https://pan.baidu.com/s/1UFWqKcCO3BVqpmCIV8QXeg) - 7a89
+- [棒棒没有糖](https://pan.baidu.com/s/1hsRNIyo) - c5zx
 - 
