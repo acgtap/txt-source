@@ -66,6 +66,7 @@
 # contribute
 
 - 疯一样的苦力怕
+- StarSky_G_
 - 
 
 # options
