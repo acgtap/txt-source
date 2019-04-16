@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1555257600000,
-    "timestamp": 1555288387881,
+    "todayTimestamp": 1555344000000,
+    "timestamp": 1555373628126,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -888,6 +888,68 @@
             "init_date": 1549036800000,
             "update_date": 1555257600000,
             "update_count": 8
+          }
+        ]
+      ]
+    },
+    "1555344000000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "ts",
+          "双剣のエレナ",
+          {
+            "segment_date": 1555373544843,
+            "segment_old": 0,
+            "segment": 3,
+            "init_date": 1555373544843,
+            "txt_basename": "双剣のエレナ.out.txt",
+            "epub_date": 1555373611255,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 6,
+            "chapter": 137,
+            "epub_basename": "双剣のエレナ.epub",
+            "update_date": 1555344000000,
+            "update_count": 1
+          }
+        ]
+      ],
+      "epub_count": 2,
+      "epub": [
+        [
+          "ts",
+          "双剣のエレナ",
+          {
+            "segment_date": 1555373544843,
+            "segment_old": 0,
+            "segment": 3,
+            "init_date": 1555373544843,
+            "txt_basename": "双剣のエレナ.out.txt",
+            "epub_date": 1555373611255,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 6,
+            "chapter": 137,
+            "epub_basename": "双剣のエレナ.epub",
+            "update_date": 1555344000000,
+            "update_count": 1
+          }
+        ],
+        [
+          "ts",
+          "吸血少女は男に戻りたい！",
+          {
+            "init_date": 1555344000000,
+            "txt_basename": "吸血少女想變回男人！.out.txt",
+            "epub_date": 1555373616587,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 5,
+            "chapter": 297,
+            "epub_basename": "吸血少女想變回男人！.epub",
+            "update_date": 1555344000000,
+            "update_count": 1
           }
         ]
       ]
@@ -3700,6 +3762,33 @@
         "novel_status": 256,
         "update_date": 1555171200000,
         "update_count": 1
+      },
+      "双剣のエレナ": {
+        "segment_date": 1555373544843,
+        "segment_old": 0,
+        "segment": 3,
+        "init_date": 1555373544843,
+        "txt_basename": "双剣のエレナ.out.txt",
+        "epub_date": 1555373611255,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 6,
+        "chapter": 137,
+        "epub_basename": "双剣のエレナ.epub",
+        "update_date": 1555344000000,
+        "update_count": 1
+      },
+      "吸血少女は男に戻りたい！": {
+        "init_date": 1555344000000,
+        "txt_basename": "吸血少女想變回男人！.out.txt",
+        "epub_date": 1555373616587,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 5,
+        "chapter": 297,
+        "epub_basename": "吸血少女想變回男人！.epub",
+        "update_date": 1555344000000,
+        "update_count": 1
       }
     },
     "ts_out": {
@@ -5841,6 +5930,63 @@
       }
     },
     "h": {
+      "エッチな召喚士の変態的召喚論": {
+        "novel": {
+          "title": "エッチな召喚士の変態的召喚論",
+          "title_zh1": "召喚士的召喚論",
+          "author": "RYOMA",
+          "authors": [
+            "坂本 いづみ"
+          ],
+          "illust": "坂井 久太",
+          "source": "https://kakuyomu.jp/works/1177354054886310394",
+          "cover": "https://images-fe.ssl-images-amazon.com/images/I/51feeDHgQuL._SY346_.jpg",
+          "publisher": "kakuyomu",
+          "publishers": [
+            "kakuyomu"
+          ],
+          "date": "2019-04-13T07:00:25+08:00",
+          "status": "連載中",
+          "novel_status": 0,
+          "series": {
+            "name": "エッチな召喚士の変態的召喚論"
+          },
+          "preface": "人是为何而召唤怪物呢，我高声如此断言。那就是为了H！ 强大的怪物没有必要。召唤出来的怪物只要可爱就好！ 格雷姆……不需要！ 小恶魔……不需要！ 我追求的只有魅魔！ 人鱼、厄客德娜等有魅力的女性型怪物！\n因此我成为了召唤士。然后召唤女性型怪物。可是，为什么这个召唤系统不能如我所愿地召唤呢……\n\n\n这个物语是变态召唤士为了召唤可爱的怪物而奋斗的冒险活剧。\n\n【書籍版１巻　発売中】　俺はモンスターを性的な目で見ている。\nRYOMA\n\n（注目）3月18日発売に電撃新文芸より書籍１巻が発売されます。WEB版とは違ったエッチな世界をご覧ください。\n\n人はなぜモンスターを召喚するか、俺は声高らかにこう言い切る。それはエッチなことをする為だ！　強いモンスターなど必要ない。召喚するモンスターは可愛ければいいのだ！　ゴーレム・・いらぬ！　レッサーデーモン・・いらぬ！　俺の求めているのはサキュバス！　マーメイド、エキドナなど魅力的な女性型モンスターだけだ！\nなので俺は召喚士になった。そして女性型モンスターを召喚するのだ。だけど、なんだこの召喚システムは・・思い通りに召喚できんではないか・・\n\nこの物語は、変態召喚士が、可愛いモンスターを召喚する為に奮闘する冒険活劇である。",
+          "tags": [
+            "kakuyomu",
+            "node-novel",
+            "novel18",
+            "ちょいエロ",
+            "カクヨムオンリー",
+            "コミカル",
+            "ライトノベル",
+            "冒険",
+            "召喚",
+            "変態",
+            "性描写有り",
+            "異世界ファンタジー"
+          ]
+        },
+        "contribute": [
+          "土之女神"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 0
+          },
+          "kakuyomu": {
+            "novel_id": "1177354054886310394"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[召唤士的召唤论吧](https://tieba.baidu.com/f?kw=%E5%8F%AC%E5%94%A4%E5%A3%AB%E7%9A%84%E5%8F%AC%E5%94%A4%E8%AE%BA&ie=utf-8 \"召唤士的召唤论\")"
+        ]
+      },
       "侯爵嫡男好色物語": {
         "novel": {
           "title": "侯爵嫡男好色物語",
@@ -10951,6 +11097,203 @@
         ]
       }
     },
+    "ts": {
+      "双剣のエレナ": {
+        "novel": {
+          "title": "双剣のエレナ",
+          "title_zh1": "雙刃的伊莉娜",
+          "author": "ながれ",
+          "illust": "",
+          "source": "https://kakuyomu.jp/works/4852201425154978794",
+          "cover": "",
+          "publisher": "kakuyomu",
+          "publishers": [
+            "kakuyomu",
+            "syosetu"
+          ],
+          "date": "2017-12-03T22:11:58+08:00",
+          "status": "連載中",
+          "novel_status": 0,
+          "series": {
+            "name": "双剣のエレナ"
+          },
+          "preface": "請注意 此整合為舊內容 與 作者 搬到 kakuyomu 後的話數有差異\n\n=============\n\n畢安納多王國的英雄艾因斯(特注:性別♂)在魔女卡特琳娜之亂中打敗並消滅了魔女，最終結束了災難，作為代價身體被魔女所詛咒。\n因賢者艾琳瑟的突發奇想魂魄被禁術塞進愛玩用魔法人偶(特注:性別♀)，少女決定在身體因詛咒而消失的剩餘兩年內自由的活著。\n就在這個時候，少女聽說大國奧蘭度舉辦的武術大會上贈給勝利者的獎品裡有可以解除各種詛咒的聖杯。\n心中懷著一絲希望而趕往奧蘭度的艾因斯麵前卻有著一堵名為公會(ギルド)的高牆等待著她。為了參加大會愛伊斯立即尋找打算參加大會的公會，但是願意讓她加入的卻是最弱的公會……\n\n世界を救った英雄の新たなる物語\nながれ\n\n魔女カテリーナの災厄を魔女を討ち滅ぼし終わらせたビエナート王国の英雄アインスはその代償として魔女の呪いをその身に受ける。\n賢者エリーゼの気まぐれか、その魂を禁呪により愛玩用の魔法人形の少女に定着されたアインスは、呪いにより身体が消滅するまでの二年間を自由に生きようと決意するのであった。\nそんな折、大国オーランドで開催されている武術大会の覇者に贈られる賞品の中にあらゆる呪いを解くといわれる聖杯の存在を耳にする。\n僅かな希望を胸にオーランドへと赴いたアインスを待っていたのはギルドという高い壁。大会に参加すべくギルドを探すアインスであったが受け入れてくれたのは最弱なギルドで……。\n\n\n\n\n\nArcadia様に同時投稿しております。\n\nカクヨム様では以前から執筆していた分を加筆・修正せず、そのまま投稿していく予定です。\n\n現行分に関しては日に二話、予約投稿で掲載していき最終的な完結まで書いていきたいと考えていますのでどうぞ宜しくお願いします。\n\nArcadia様では冒頭・序盤以降は完全な新規のお話となります。\n\n\n…続きを読む",
+          "tags": [
+            "TS",
+            "kakuyomu",
+            "node-novel",
+            "syosetu",
+            "冒険",
+            "架空戦記",
+            "異世界ファンタジー",
+            "英雄",
+            "魔女",
+            "魔物"
+          ],
+          "sources": [
+            "http://ncode.syosetu.com/n6628cg"
+          ]
+        },
+        "contribute": [
+          "暗夜十刃",
+          "棒棒没有糖",
+          "花果茶"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFirePrefix": false,
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 0
+          },
+          "kakuyomu": {
+            "novel_id": "4852201425154978794"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[双刃的伊莉娜吧](https://tieba.baidu.com/f?kw=%E5%8F%8C%E5%88%83%E7%9A%84%E4%BC%8A%E8%8E%89%E5%A8%9C&ie=utf-8 \"双刃的伊莉娜\")",
+          "[花果茶](https://pan.baidu.com/s/1UFWqKcCO3BVqpmCIV8QXeg) - 7a89",
+          "[棒棒没有糖](https://pan.baidu.com/s/1hsRNIyo) - c5zx"
+        ]
+      },
+      "吸血少女は男に戻りたい！": {
+        "novel": {
+          "title": "吸血少女は男に戻りたい！",
+          "title_zh": "吸血少女想變回男人！",
+          "title_zh1": "吸血鬼少女想变回男人！",
+          "author": "秋野　錦",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n4236dr/",
+          "cover": "",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-03-23T20:16:00+08:00",
+          "status": "連載",
+          "novel_status": 0,
+          "series": {
+            "name": "吸血少女は男に戻りたい！"
+          },
+          "preface": "在剑与魔法的世界中转生的少年有一件令他烦恼的事，那就是因为废材女神的失误而被转生成了女孩子。原废人玩家成为露娜.雷文顿，决意要取回男人的身体而在异世界中生活下去。\n没错，这一切都是为了能和女孩子卿卿我我！\n但是，现实无法一帆风顺的露娜身边涌现出了各种难题。\n最终露娜能否跨越众多困难取回男人的身体呢！？\n\n剣と魔法の異世界に転生した少年には一つの悩み事があった。それはポンコツ女神の手違いで女の子に転生してしまったこと。廃人ゲーマー改めルナ・レストンは男に戻ることを決意し異世界を生き抜いていく。\nすべてはそう、女の子と気兼ねなくいちゃいちゃするために！\nしかし、現実はそうそううまくはいかずルナのもとには様々な問題が浮上してくる。\n果たしてルナは数多の難題を乗り越え男に戻ることが出来るのか！？",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "イラスト（挿絵）有り",
+            "ガールズラブ",
+            "ケモノ娘",
+            "シリアスギャグ",
+            "スキル",
+            "ネット小説大賞七",
+            "ハイファンタジー",
+            "ファンタジー",
+            "主人公最強（予定）",
+            "冒険ファンタジー",
+            "剣と魔法",
+            "女主人公",
+            "残酷な描写あり",
+            "異世界転生",
+            "異能力バトル",
+            "百合ハーレム",
+            "種族チート",
+            "能天気主人公",
+            "ＴＳ"
+          ]
+        },
+        "contribute": [
+          "StarSky_G_",
+          "疯一样的苦力怕"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n4236dr"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n4236dr&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[吸血鬼少女想变回男人吧](https://tieba.baidu.com/f?kw=%E5%90%B8%E8%A1%80%E9%AC%BC%E5%B0%91%E5%A5%B3%E6%83%B3%E5%8F%98%E5%9B%9E%E7%94%B7%E4%BA%BA&ie=utf-8 \"吸血鬼少女想变回男人\")"
+        ]
+      },
+      "變成了美少女、但也成了網游廢人。": {
+        "novel": {
+          "title": "美少女になったけど、ネトゲ廃人やってます。",
+          "title_zh": "變成了美少女、但也成了網游廢人。",
+          "title_zh2": "变成了美少女但也成了网游废人",
+          "author": "星屑ぽんぽん",
+          "illust": "ネコメガネ",
+          "source": "http://ncode.syosetu.com/n0170db/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/51prfKzR%2BVL.jpg",
+          "publisher": "syosetu",
+          "date": "2019-01-15T13:29:00+08:00",
+          "status": "連載",
+          "novel_status": 256,
+          "series": {
+            "name": "美少女になったけど、ネトゲ廃人やってます。"
+          },
+          "preface": "【講談社、Kラノベブックス様より書籍化いたします】\n　愛の告白に大失敗した高校生、訊太郎。\n　彼の災難は続き、ニュースで話題の性転化病を発症してしまう。性別が逆転し、銀髪美少女に変貌した彼は、ショックのあまりVRゲームで現実逃避を計ることにした……。\n\n　現実と同じ少女姿でプレイしてしまい、他のプレイヤーからはゴミスキルと言われている錬金術を、ひたすら極めていく訊太郎(じんたろう)。\n\n『傭兵となって、戦う、奪う、支配する、探索する、開拓する、生産する、その生き方は自由』と謳われたクラン・クランのゲーム世界で、彼は様々な傭兵(プレイヤー)と出会い、ほっこりと成長していく。\n　そんな訊太郎は、一緒にゲーム内で遊ぶリア友たちに自分の姿をバグだと言い張り、現実で美少女になってしまったことを秘密にしながら冒険するのであった。\n\n　夏休みが終われば、学校で顔を合わせることになるのに。\n\n　これは、いずれ軍閣クラスや国家クラスの傭兵団を相手に、一歩も引けを取らない『戦争』をやり遂げてみせる、錬金術士のお話。\n\n　一介の男子高校生が突如、美少女化してしまうと果たしてどうなるのだろうか。\n　答えはヒキコモリ、廃ネトゲーマー。\n　\n【★マークの話は、読者さまから頂いたイラスト付きです】\n【祝　PV2000万突破。ユニーク320万人突破】",
+          "tags": [
+            "TS",
+            "VRMMO",
+            "VRゲーム",
+            "node-novel",
+            "syosetu",
+            "ほのぼの",
+            "アイテム無双",
+            "チート",
+            "ファンタジー",
+            "主人公最強",
+            "性転換",
+            "戦術",
+            "書籍化",
+            "次元の観測者な娘",
+            "網游",
+            "美少女",
+            "銀髪ようじょ",
+            "錬金術"
+          ]
+        },
+        "contribute": [
+          "lulala61",
+          "秋葉怜",
+          "紫月的夜梦",
+          "閃電小星"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "undefined",
+            "novel_id": "n0170db"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n0170db&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[变成了美少女但也成了网游废人吧](https://tieba.baidu.com/f?kw=%E5%8F%98%E6%88%90%E4%BA%86%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%BD%86%E4%B9%9F%E6%88%90%E4%BA%86%E7%BD%91%E6%B8%B8%E5%BA%9F%E4%BA%BA&ie=utf-8 \"变成了美少女但也成了网游废人\")",
+          "[地名装备名技能名人名等简单整合（不含角色介绍有的人名）](https://tieba.baidu.com/p/5603770798 \"地名装备名技能名人名等简单整合（不含角色介绍有的人名）\")",
+          "[twitter](https://twitter.com/hosikuzuponpon)"
+        ]
+      }
+    },
     "ts_out": {
       "幼女転生": {
         "novel": {
@@ -11025,73 +11368,6 @@
           "https://lolitensei.com/",
           "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=82&page=1)",
           "[loli转生吧](https://tieba.baidu.com/f?kw=loli%E8%BD%AC%E7%94%9F&ie=utf-8 \"\")"
-        ]
-      }
-    },
-    "ts": {
-      "變成了美少女、但也成了網游廢人。": {
-        "novel": {
-          "title": "美少女になったけど、ネトゲ廃人やってます。",
-          "title_zh": "變成了美少女、但也成了網游廢人。",
-          "title_zh2": "变成了美少女但也成了网游废人",
-          "author": "星屑ぽんぽん",
-          "illust": "ネコメガネ",
-          "source": "http://ncode.syosetu.com/n0170db/",
-          "cover": "https://images-na.ssl-images-amazon.com/images/I/51prfKzR%2BVL.jpg",
-          "publisher": "syosetu",
-          "date": "2019-01-15T13:29:00+08:00",
-          "status": "連載",
-          "novel_status": 256,
-          "series": {
-            "name": "美少女になったけど、ネトゲ廃人やってます。"
-          },
-          "preface": "【講談社、Kラノベブックス様より書籍化いたします】\n　愛の告白に大失敗した高校生、訊太郎。\n　彼の災難は続き、ニュースで話題の性転化病を発症してしまう。性別が逆転し、銀髪美少女に変貌した彼は、ショックのあまりVRゲームで現実逃避を計ることにした……。\n\n　現実と同じ少女姿でプレイしてしまい、他のプレイヤーからはゴミスキルと言われている錬金術を、ひたすら極めていく訊太郎(じんたろう)。\n\n『傭兵となって、戦う、奪う、支配する、探索する、開拓する、生産する、その生き方は自由』と謳われたクラン・クランのゲーム世界で、彼は様々な傭兵(プレイヤー)と出会い、ほっこりと成長していく。\n　そんな訊太郎は、一緒にゲーム内で遊ぶリア友たちに自分の姿をバグだと言い張り、現実で美少女になってしまったことを秘密にしながら冒険するのであった。\n\n　夏休みが終われば、学校で顔を合わせることになるのに。\n\n　これは、いずれ軍閣クラスや国家クラスの傭兵団を相手に、一歩も引けを取らない『戦争』をやり遂げてみせる、錬金術士のお話。\n\n　一介の男子高校生が突如、美少女化してしまうと果たしてどうなるのだろうか。\n　答えはヒキコモリ、廃ネトゲーマー。\n　\n【★マークの話は、読者さまから頂いたイラスト付きです】\n【祝　PV2000万突破。ユニーク320万人突破】",
-          "tags": [
-            "TS",
-            "VRMMO",
-            "VRゲーム",
-            "node-novel",
-            "syosetu",
-            "ほのぼの",
-            "アイテム無双",
-            "チート",
-            "ファンタジー",
-            "主人公最強",
-            "性転換",
-            "戦術",
-            "書籍化",
-            "次元の観測者な娘",
-            "網游",
-            "美少女",
-            "銀髪ようじょ",
-            "錬金術"
-          ]
-        },
-        "contribute": [
-          "lulala61",
-          "秋葉怜",
-          "紫月的夜梦",
-          "閃電小星"
-        ],
-        "options": {
-          "downloadOptions": {
-            "noFilePadend": true,
-            "filePrefixMode": 1,
-            "startIndex": 1
-          },
-          "syosetu": {
-            "txtdownload_id": "undefined",
-            "novel_id": "n0170db"
-          },
-          "textlayout": {
-            "allow_lf2": true
-          }
-        },
-        "link": [
-          "[dip.jp](https://narou.nar.jp/search.php?text=n0170db&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[变成了美少女但也成了网游废人吧](https://tieba.baidu.com/f?kw=%E5%8F%98%E6%88%90%E4%BA%86%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%BD%86%E4%B9%9F%E6%88%90%E4%BA%86%E7%BD%91%E6%B8%B8%E5%BA%9F%E4%BA%BA&ie=utf-8 \"变成了美少女但也成了网游废人\")",
-          "[地名装备名技能名人名等简单整合（不含角色介绍有的人名）](https://tieba.baidu.com/p/5603770798 \"地名装备名技能名人名等简单整合（不含角色介绍有的人名）\")",
-          "[twitter](https://twitter.com/hosikuzuponpon)"
         ]
       }
     },
