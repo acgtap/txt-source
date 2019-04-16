@@ -2,6 +2,7 @@
 
 - title: 双剣のエレナ
 - title_zh1: 雙刃的伊莉娜
+- title_zh2: 雙劍的伊莉娜
 - author: ながれ
 - illust:
 - source: https://kakuyomu.jp/works/4852201425154978794
@@ -100,7 +101,7 @@ Arcadia様では冒頭・序盤以降は完全な新規のお話となります�
 
 ## textlayout
 
-- allow_lf2: true
+- allow_lf2: false
 
 # link
 
