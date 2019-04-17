@@ -90,4 +90,5 @@
 - [转生王子吧](https://tieba.baidu.com/f?kw=%E8%BD%AC%E7%94%9F%E7%8E%8B%E5%AD%90&ie=utf-8&tp=0 "")
 - [dm5 转生王子的英雄谭](http://www.dm5.com/manhua-zhuanshengwangzideyingxiongtan/)
 - [amazon.co.jp](https://www.amazon.co.jp/s/ref=dp_byline_sr_book_1?ie=UTF8&text=%E6%A5%A0+%E3%81%AE%E3%81%B3%E3%82%8B&search-alias=books-jp&field-author=%E6%A5%A0+%E3%81%AE%E3%81%B3%E3%82%8B&sort=relevancerank)
+- https://pan.baidu.com/s/1wp1unzWp2fBZC9aTJHAIFQ bqv7
 -
