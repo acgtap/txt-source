@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1555430400000,
-    "timestamp": 1555478825514,
+    "todayTimestamp": 1555516800000,
+    "timestamp": 1555546540629,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -993,6 +993,108 @@
             "init_date": 1555478814143,
             "update_date": 1555430400000,
             "update_count": 1
+          }
+        ]
+      ]
+    },
+    "1555516800000": {
+      "segment_count": 2,
+      "segment": [
+        [
+          "otome",
+          "転生王子と憂いの大国",
+          {
+            "init_date": 1554998400000,
+            "txt_basename": "転生王子と憂いの大国.out.txt",
+            "epub_date": 1555546518327,
+            "volume_old": 4,
+            "chapter_old": 7,
+            "volume": 4,
+            "chapter": 11,
+            "epub_basename": "転生王子と憂いの大国.epub",
+            "novel_status": 769,
+            "update_date": 1555516800000,
+            "update_count": 2,
+            "segment_date": 1555546310596,
+            "segment_old": 0,
+            "segment": 1
+          }
+        ],
+        [
+          "ts",
+          "吸血少女は男に戻りたい！",
+          {
+            "init_date": 1555344000000,
+            "txt_basename": "吸血少女想變回男人！.out.txt",
+            "epub_date": 1555546524495,
+            "volume_old": 5,
+            "chapter_old": 297,
+            "volume": 5,
+            "chapter": 297,
+            "epub_basename": "吸血少女想變回男人！.epub",
+            "update_date": 1555516800000,
+            "update_count": 2,
+            "segment_date": 1555546498826,
+            "segment_old": 0,
+            "segment": 11
+          }
+        ]
+      ],
+      "epub_count": 3,
+      "epub": [
+        [
+          "otome",
+          "転生王子と憂いの大国",
+          {
+            "init_date": 1554998400000,
+            "txt_basename": "転生王子と憂いの大国.out.txt",
+            "epub_date": 1555546518327,
+            "volume_old": 4,
+            "chapter_old": 7,
+            "volume": 4,
+            "chapter": 11,
+            "epub_basename": "転生王子と憂いの大国.epub",
+            "novel_status": 769,
+            "update_date": 1555516800000,
+            "update_count": 2,
+            "segment_date": 1555546310596,
+            "segment_old": 0,
+            "segment": 1
+          }
+        ],
+        [
+          "ts",
+          "吸血少女は男に戻りたい！",
+          {
+            "init_date": 1555344000000,
+            "txt_basename": "吸血少女想變回男人！.out.txt",
+            "epub_date": 1555546524495,
+            "volume_old": 5,
+            "chapter_old": 297,
+            "volume": 5,
+            "chapter": 297,
+            "epub_basename": "吸血少女想變回男人！.epub",
+            "update_date": 1555516800000,
+            "update_count": 2,
+            "segment_date": 1555546498826,
+            "segment_old": 0,
+            "segment": 11
+          }
+        ],
+        [
+          "ts_out",
+          "双剣のエレナ",
+          {
+            "txt_basename": "双剣のエレナ.out.txt",
+            "epub_date": 1555546527899,
+            "volume_old": 9,
+            "chapter_old": 164,
+            "volume": 11,
+            "chapter": 167,
+            "epub_basename": "双剣のエレナ.epub",
+            "init_date": 1555430400000,
+            "update_date": 1555516800000,
+            "update_count": 2
           }
         ]
       ]
@@ -3824,14 +3926,17 @@
       "吸血少女は男に戻りたい！": {
         "init_date": 1555344000000,
         "txt_basename": "吸血少女想變回男人！.out.txt",
-        "epub_date": 1555373616587,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1555546524495,
+        "volume_old": 5,
+        "chapter_old": 297,
         "volume": 5,
         "chapter": 297,
         "epub_basename": "吸血少女想變回男人！.epub",
-        "update_date": 1555344000000,
-        "update_count": 1
+        "update_date": 1555516800000,
+        "update_count": 2,
+        "segment_date": 1555546498826,
+        "segment_old": 0,
+        "segment": 11
       }
     },
     "ts_out": {
@@ -3849,15 +3954,15 @@
       },
       "双剣のエレナ": {
         "txt_basename": "双剣のエレナ.out.txt",
-        "epub_date": 1555478814143,
-        "volume_old": 0,
-        "chapter_old": 0,
-        "volume": 9,
-        "chapter": 164,
+        "epub_date": 1555546527899,
+        "volume_old": 9,
+        "chapter_old": 164,
+        "volume": 11,
+        "chapter": 167,
         "epub_basename": "双剣のエレナ.epub",
-        "init_date": 1555478814143,
-        "update_date": 1555430400000,
-        "update_count": 1
+        "init_date": 1555430400000,
+        "update_date": 1555516800000,
+        "update_count": 2
       }
     },
     "game": {
@@ -3906,15 +4011,18 @@
       "転生王子と憂いの大国": {
         "init_date": 1554998400000,
         "txt_basename": "転生王子と憂いの大国.out.txt",
-        "epub_date": 1555028524615,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1555546518327,
+        "volume_old": 4,
+        "chapter_old": 7,
         "volume": 4,
-        "chapter": 7,
+        "chapter": 11,
         "epub_basename": "転生王子と憂いの大国.epub",
         "novel_status": 769,
-        "update_date": 1554998400000,
-        "update_count": 1
+        "update_date": 1555516800000,
+        "update_count": 2,
+        "segment_date": 1555546310596,
+        "segment_old": 0,
+        "segment": 1
       }
     }
   },
@@ -7100,7 +7208,8 @@
           "[ハーシェリク 転生王子の英雄譚（転生王子シリーズ）](http://ncode.syosetu.com/s6899b/)",
           "[转生王子吧](https://tieba.baidu.com/f?kw=%E8%BD%AC%E7%94%9F%E7%8E%8B%E5%AD%90&ie=utf-8&tp=0 \"\")",
           "[dm5 转生王子的英雄谭](http://www.dm5.com/manhua-zhuanshengwangzideyingxiongtan/)",
-          "[amazon.co.jp](https://www.amazon.co.jp/s/ref=dp_byline_sr_book_1?ie=UTF8&text=%E6%A5%A0+%E3%81%AE%E3%81%B3%E3%82%8B&search-alias=books-jp&field-author=%E6%A5%A0+%E3%81%AE%E3%81%B3%E3%82%8B&sort=relevancerank)"
+          "[amazon.co.jp](https://www.amazon.co.jp/s/ref=dp_byline_sr_book_1?ie=UTF8&text=%E6%A5%A0+%E3%81%AE%E3%81%B3%E3%82%8B&search-alias=books-jp&field-author=%E6%A5%A0+%E3%81%AE%E3%81%B3%E3%82%8B&sort=relevancerank)",
+          "https://pan.baidu.com/s/1wp1unzWp2fBZC9aTJHAIFQ bqv7"
         ]
       }
     },
@@ -11173,7 +11282,7 @@
           "series": {
             "name": "双剣のエレナ"
           },
-          "preface": "畢安納多王國的英雄艾因斯(特注:性別♂)在魔女卡特琳娜之亂中打敗並消滅了魔女，最終結束了災難，作為代價身體被魔女所詛咒。\n因賢者艾琳瑟的突發奇想魂魄被禁術塞進愛玩用魔法人偶(特注:性別♀)，少女決定在身體因詛咒而消失的剩餘兩年內自由的活著。\n就在這個時候，少女聽說大國奧蘭度舉辦的武術大會上贈給勝利者的獎品裡有可以解除各種詛咒的聖杯。\n心中懷著一絲希望而趕往奧蘭度的艾因斯麵前卻有著一堵名為公會(ギルド)的高牆等待著她。為了參加大會愛伊斯立即尋找打算參加大會的公會，但是願意讓她加入的卻是最弱的公會……\n\n世界を救った英雄の新たなる物語\nながれ\n\n魔女カテリーナの災厄を魔女を討ち滅ぼし終わらせたビエナート王国の英雄アインスはその代償として魔女の呪いをその身に受ける。\n賢者エリーゼの気まぐれか、その魂を禁呪により愛玩用の魔法人形の少女に定着されたアインスは、呪いにより身体が消滅するまでの二年間を自由に生きようと決意するのであった。\nそんな折、大国オーランドで開催されている武術大会の覇者に贈られる賞品の中にあらゆる呪いを解くといわれる聖杯の存在を耳にする。\n僅かな希望を胸にオーランドへと赴いたアインスを待っていたのはギルドという高い壁。大会に参加すべくギルドを探すアインスであったが受け入れてくれたのは最弱なギルドで……。\n\n\n\n\n\nArcadia様に同時投稿しております。\n\nカクヨム様では以前から執筆していた分を加筆・修正せず、そのまま投稿していく予定です。\n\n現行分に関しては日に二話、予約投稿で掲載していき最終的な完結まで書いていきたいと考えていますのでどうぞ宜しくお願いします。\n\nArcadia様では冒頭・序盤以降は完全な新規のお話となります。\n\n\n…続きを読む",
+          "preface": "畢安納多王國的英雄艾因斯(特注:性別♂)在魔女卡特琳娜之亂中打敗並消滅了魔女，最終結束了災難，作為代價身體被魔女所詛咒。\n因賢者艾琳瑟的突發奇想魂魄被禁術塞進愛玩用魔法人偶(特注:性別♀)，少女決定在身體因詛咒而消失的剩餘兩年內自由的活著。\n就在這個時候，少女聽說大國奧蘭度舉辦的武術大會上贈給勝利者的獎品裡有可以解除各種詛咒的聖杯。\n心中懷著一絲希望而趕往奧蘭度的艾因斯面前卻有著一堵名為公會(ギルド)的高牆等待著她。為了參加大會愛伊斯立即尋找打算參加大會的公會，但是願意讓她加入的卻是最弱的公會……\n\n世界を救った英雄の新たなる物語\nながれ\n\n魔女カテリーナの災厄を魔女を討ち滅ぼし終わらせたビエナート王国の英雄アインスはその代償として魔女の呪いをその身に受ける。\n賢者エリーゼの気まぐれか、その魂を禁呪により愛玩用の魔法人形の少女に定着されたアインスは、呪いにより身体が消滅するまでの二年間を自由に生きようと決意するのであった。\nそんな折、大国オーランドで開催されている武術大会の覇者に贈られる賞品の中にあらゆる呪いを解くといわれる聖杯の存在を耳にする。\n僅かな希望を胸にオーランドへと赴いたアインスを待っていたのはギルドという高い壁。大会に参加すべくギルドを探すアインスであったが受け入れてくれたのは最弱なギルドで……。\n\n\n\n\n\nArcadia様に同時投稿しております。\n\nカクヨム様では以前から執筆していた分を加筆・修正せず、そのまま投稿していく予定です。\n\n現行分に関しては日に二話、予約投稿で掲載していき最終的な完結まで書いていきたいと考えていますのでどうぞ宜しくお願いします。\n\nArcadia様では冒頭・序盤以降は完全な新規のお話となります。\n\n\n…続きを読む",
           "tags": [
             "TS",
             "kakuyomu",
@@ -11198,7 +11307,8 @@
           "我是风吹啦",
           "暗夜十刃",
           "棒棒没有糖",
-          "花果茶"
+          "花果茶",
+          "花音神野"
         ],
         "options": {
           "downloadOptions": {
@@ -11361,7 +11471,7 @@
             "novel_id": "n4236dr"
           },
           "textlayout": {
-            "allow_lf2": true
+            "allow_lf2": false
           }
         },
         "link": [
