@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1555516800000,
-    "timestamp": 1555546540629,
+    "todayTimestamp": 1555603200000,
+    "timestamp": 1555633008086,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1095,6 +1095,144 @@
             "init_date": 1555430400000,
             "update_date": 1555516800000,
             "update_count": 2
+          }
+        ]
+      ]
+    },
+    "1555603200000": {
+      "segment_count": 3,
+      "segment": [
+        [
+          "girl",
+          "十歳の最強魔導師",
+          {
+            "segment_date": 1555632736142,
+            "segment_old": 0,
+            "segment": 16,
+            "init_date": 1555632736142,
+            "txt_basename": "十歳の最強魔導師.out.txt",
+            "epub_date": 1555632986008,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 132,
+            "epub_basename": "十歳の最強魔導師.epub",
+            "novel_status": 256,
+            "update_date": 1555603200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "ts",
+          "双剣のエレナ",
+          {
+            "segment_date": 1555632894009,
+            "segment_old": 3,
+            "segment": 1,
+            "init_date": 1555344000000,
+            "txt_basename": "双剣のエレナ.out.txt",
+            "epub_date": 1555373611255,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 6,
+            "chapter": 137,
+            "epub_basename": "双剣のエレナ.epub",
+            "update_date": 1555603200000,
+            "update_count": 3
+          }
+        ],
+        [
+          "ts",
+          "吸血少女は男に戻りたい！",
+          {
+            "init_date": 1555344000000,
+            "txt_basename": "吸血少女想變回男人！.out.txt",
+            "epub_date": 1555632991522,
+            "volume_old": 5,
+            "chapter_old": 297,
+            "volume": 5,
+            "chapter": 297,
+            "epub_basename": "吸血少女想變回男人！.epub",
+            "update_date": 1555603200000,
+            "update_count": 3,
+            "segment_date": 1555632933735,
+            "segment_old": 11,
+            "segment": 16
+          }
+        ]
+      ],
+      "epub_count": 4,
+      "epub": [
+        [
+          "cm",
+          "転生魔術師が運営するタワーダンジョン　～罠にかけてエロいことをしよう！～",
+          {
+            "init_date": 1555603200000,
+            "txt_basename": "轉生魔術師營運的迷宮塔.out.txt",
+            "epub_date": 1555632982095,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 1,
+            "epub_basename": "轉生魔術師營運的迷宮塔.epub",
+            "novel_status": 256,
+            "update_date": 1555603200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "girl",
+          "十歳の最強魔導師",
+          {
+            "segment_date": 1555632736142,
+            "segment_old": 0,
+            "segment": 16,
+            "init_date": 1555632736142,
+            "txt_basename": "十歳の最強魔導師.out.txt",
+            "epub_date": 1555632986008,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 132,
+            "epub_basename": "十歳の最強魔導師.epub",
+            "novel_status": 256,
+            "update_date": 1555603200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "ts",
+          "吸血少女は男に戻りたい！",
+          {
+            "init_date": 1555344000000,
+            "txt_basename": "吸血少女想變回男人！.out.txt",
+            "epub_date": 1555632991522,
+            "volume_old": 5,
+            "chapter_old": 297,
+            "volume": 5,
+            "chapter": 297,
+            "epub_basename": "吸血少女想變回男人！.epub",
+            "update_date": 1555603200000,
+            "update_count": 3,
+            "segment_date": 1555632933735,
+            "segment_old": 11,
+            "segment": 16
+          }
+        ],
+        [
+          "ts_out",
+          "双剣のエレナ",
+          {
+            "txt_basename": "双剣のエレナ.out.txt",
+            "epub_date": 1555632994970,
+            "volume_old": 11,
+            "chapter_old": 167,
+            "volume": 11,
+            "chapter": 167,
+            "epub_basename": "双剣のエレナ.epub",
+            "init_date": 1555430400000,
+            "update_date": 1555603200000,
+            "update_count": 3
           }
         ]
       ]
@@ -2989,6 +3127,19 @@
         "update_date": 1552060800000,
         "update_count": 3,
         "txt_basename": "Ａ級冒險者的悠閒生活.out.txt"
+      },
+      "転生魔術師が運営するタワーダンジョン　～罠にかけてエロいことをしよう！～": {
+        "init_date": 1555603200000,
+        "txt_basename": "轉生魔術師營運的迷宮塔.out.txt",
+        "epub_date": 1555632982095,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 1,
+        "epub_basename": "轉生魔術師營運的迷宮塔.epub",
+        "novel_status": 256,
+        "update_date": 1555603200000,
+        "update_count": 1
       }
     },
     "mirronight": {
@@ -3854,6 +4005,22 @@
         "novel_status": 1,
         "update_date": 1554739200000,
         "update_count": 1
+      },
+      "十歳の最強魔導師": {
+        "segment_date": 1555632736142,
+        "segment_old": 0,
+        "segment": 16,
+        "init_date": 1555632736142,
+        "txt_basename": "十歳の最強魔導師.out.txt",
+        "epub_date": 1555632986008,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 132,
+        "epub_basename": "十歳の最強魔導師.epub",
+        "novel_status": 256,
+        "update_date": 1555603200000,
+        "update_count": 1
       }
     },
     "modern": {
@@ -3909,9 +4076,9 @@
         "update_count": 1
       },
       "双剣のエレナ": {
-        "segment_date": 1555478793302,
+        "segment_date": 1555632894009,
         "segment_old": 3,
-        "segment": 3,
+        "segment": 1,
         "init_date": 1555344000000,
         "txt_basename": "双剣のエレナ.out.txt",
         "epub_date": 1555373611255,
@@ -3920,23 +4087,23 @@
         "volume": 6,
         "chapter": 137,
         "epub_basename": "双剣のエレナ.epub",
-        "update_date": 1555430400000,
-        "update_count": 2
+        "update_date": 1555603200000,
+        "update_count": 3
       },
       "吸血少女は男に戻りたい！": {
         "init_date": 1555344000000,
         "txt_basename": "吸血少女想變回男人！.out.txt",
-        "epub_date": 1555546524495,
+        "epub_date": 1555632991522,
         "volume_old": 5,
         "chapter_old": 297,
         "volume": 5,
         "chapter": 297,
         "epub_basename": "吸血少女想變回男人！.epub",
-        "update_date": 1555516800000,
-        "update_count": 2,
-        "segment_date": 1555546498826,
-        "segment_old": 0,
-        "segment": 11
+        "update_date": 1555603200000,
+        "update_count": 3,
+        "segment_date": 1555632933735,
+        "segment_old": 11,
+        "segment": 16
       }
     },
     "ts_out": {
@@ -3954,15 +4121,15 @@
       },
       "双剣のエレナ": {
         "txt_basename": "双剣のエレナ.out.txt",
-        "epub_date": 1555546527899,
-        "volume_old": 9,
-        "chapter_old": 164,
+        "epub_date": 1555632994970,
+        "volume_old": 11,
+        "chapter_old": 167,
         "volume": 11,
         "chapter": 167,
         "epub_basename": "双剣のエレナ.epub",
         "init_date": 1555430400000,
-        "update_date": 1555516800000,
-        "update_count": 2
+        "update_date": 1555603200000,
+        "update_count": 3
       }
     },
     "game": {
@@ -4529,6 +4696,61 @@
             "allow_lf2": true
           }
         }
+      },
+      "転生魔術師が運営するタワーダンジョン　～罠にかけてエロいことをしよう！～": {
+        "novel": {
+          "title": "転生魔術師が運営するタワーダンジョン　～罠にかけてエロいことをしよう！～",
+          "title_zh": "轉生魔術師營運的迷宮塔",
+          "author": "クリスタラー桜井",
+          "illust": "TAKTO",
+          "source": "http://novel18.syosetu.com/n4848da/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/81QS6ohBe3L.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2016-12-18T00:00:00+08:00",
+          "status": "連載",
+          "novel_status": 256,
+          "series": {
+            "name": "転生魔術師が運営するタワーダンジョン　～罠にかけてエロいことをしよう！～"
+          },
+          "preface": "※キングノベルス様より書籍版が大好評発売中です!!\n書き下ろし短編や美麗イラストもございますので、ぜひともお手にとってみて下さい！\n\n大魔術師の息子として転生した、趣味オナニーのオタクな主人公。\n彼は生まれ変わったら死ぬほど女を抱くことを目標に生きてきた。\n\n二十歳になったある時、先祖が封印した魔王が復活するということで、\n再び封印する役目を負う。\n\n魔王が封印されているのは、攻略不可能されているタワーダンジョン。\n\nひょんなことから魔王と意気投合した彼は、\nタワーダンジョンに罠を張り、やってくる女たちとセックスをしまくる！",
+          "tags": [
+            "node-novel",
+            "novel18",
+            "syosetu",
+            "エロトラップ",
+            "ダンジョン経営",
+            "ハーレム",
+            "メイド",
+            "主人公チート級",
+            "書籍化",
+            "男性向け",
+            "異世界ファンタジー",
+            "魔王",
+            "魔術師"
+          ]
+        },
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n4848da"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou18.nar.jp](https://narou18.nar.jp/search.php?text=n4848da&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[转生魔术师运营的迷宫塔吧](https://tieba.baidu.com/f?kw=%E8%BD%AC%E7%94%9F%E9%AD%94%E6%9C%AF%E5%B8%88%E8%BF%90%E8%90%A5%E7%9A%84%E8%BF%B7%E5%AE%AB%E5%A1%94&ie=utf-8 \"转生魔术师运营的迷宫塔\")"
+        ]
       },
       "魔王の始め方": {
         "novel": {
@@ -5778,6 +6000,66 @@
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n4719ff&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "https://tieba.baidu.com/p/6028562307",
           "[你这种家伙别想打赢魔王吧](https://tieba.baidu.com/f?kw=%E4%BD%A0%E8%BF%99%E7%A7%8D%E5%AE%B6%E4%BC%99%E5%88%AB%E6%83%B3%E6%89%93%E8%B5%A2%E9%AD%94%E7%8E%8B&ie=utf-8&tp=0 \"你这种家伙别想打赢魔王\")"
+        ]
+      },
+      "十歳の最強魔導師": {
+        "novel": {
+          "title": "十歳の最強魔導師",
+          "title_zh1": "",
+          "author": "天乃聖樹",
+          "illust": "フカヒレ",
+          "source": "http://ncode.syosetu.com/n6583dj/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/91xxwY7IZML.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-04-13T19:00:00+08:00",
+          "status": "連載",
+          "novel_status": 256,
+          "series": {
+            "name": "十歳の最強魔導師"
+          },
+          "preface": "十歲的少女菲利斯，在魔石礦山工作的奴隸。\n但是，無限的魔法耐性能看見是非常驚人的才能，變成進入魔法學校入學的事。\n被溫柔的人們守護著，用猛烈速度成長才能的菲利斯。\n將那個力量入手，森羅萬象的勢力採取行動。\n\n她是非常厲害的魔導師而不知道，只有菲利斯。\n菲利斯今天也能吃很多飯的話就滿足了！\n\n※書籍版の５巻が１１月３０日に発売されます！\n（https://herobunko.com/books/hero45/9072/）\n\n「自分が最強だと知らない」最強の魔導師、出現！\n\n十歳の少女フェリスは、魔石鉱山で働く奴隷だった。\nしかし、魔法耐性が無限という凄まじい才能を見出され、魔法学校へ入学することになる。\n優しい人たちに見守られ、猛スピードで才能を伸ばしていくフェリス。\nその力を手に入れようと、有象無象の勢力が動き出す。\n\n彼女が凄い魔導師だということを知らないのは、フェリスだけ。\nフェリスは今日もごはんがいっぱい食べられれば満足です！",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "チート",
+            "ハイファンタジー",
+            "ハッピーエンド",
+            "ファンタジー",
+            "人外",
+            "俺TUEEE",
+            "剣と魔法",
+            "女主人公",
+            "学園",
+            "少女",
+            "残酷な描写あり",
+            "無双",
+            "異世界",
+            "魔法"
+          ]
+        },
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n6583dj"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n6583dj&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[十岁的最强魔导师吧](https://tieba.baidu.com/f?kw=%E5%8D%81%E5%B2%81%E7%9A%84%E6%9C%80%E5%BC%BA%E9%AD%94%E5%AF%BC%E5%B8%88&ie=utf-8 \"十岁的最强魔导师\")",
+          "[esjzone](https://www.esjzone.cc/detail/1550107034.html)"
         ]
       },
       "原千金未婚媽媽": {
@@ -11294,6 +11576,7 @@
             "架空戦記",
             "残酷な描写あり",
             "異世界ファンタジー",
+            "百合",
             "英雄",
             "魔女",
             "魔物"
@@ -11303,6 +11586,7 @@
           ]
         },
         "contribute": [
+          "卡莉奥丝特萝",
           "愛爾柏塔",
           "我是风吹啦",
           "暗夜十刃",
