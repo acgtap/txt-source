@@ -5,7 +5,7 @@
 - title_zh2: 喰人转移者的异世界复仇谭
 - author: kiki
 - source: http://ncode.syosetu.com/n7933eb/
-- cover: 
+- cover:
 - publisher: syosetu
 - date: 2017-11-28T21:51:00+08:00
 - status: 完結済
@@ -53,6 +53,7 @@
 - 異世界転移
 - 百合ハーレム
 - 魔法
+- 百合
 
 # contribute
 
@@ -68,6 +69,7 @@
 - mana63905
 - 污浊不堪
 - 贪吃的小羔羊
+- 怕来上课
 - 
 
 # options
@@ -78,7 +80,7 @@
 
 ## textlayout
 
-- allow_lf2: true
+- allow_lf2: false
 
 # link
 
