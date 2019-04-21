@@ -55,7 +55,8 @@
 - 未来
 - 琥珀眼
 - 衰退
--
+- ESJZone
+- 
 
 # contribute
 
@@ -81,4 +82,5 @@
 - https://shonenjumpplus.com/episode/10834108156642569336
 - [dm5](http://www.dm5.com/manhua-liedengyandezhuanshengmoshushi/)
 - [劣等眼的转生魔术师吧](https://tieba.baidu.com/f?kw=%E5%8A%A3%E7%AD%89%E7%9C%BC%E7%9A%84%E8%BD%AC%E7%94%9F%E9%AD%94%E6%9C%AF%E5%B8%88&ie=utf-8&tp=0 "劣等眼的转生魔术师")
--
+- https://www.esjzone.cc/detail/1552238185.html
+- 
