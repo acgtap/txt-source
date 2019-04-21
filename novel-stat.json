@@ -1,7 +1,7 @@
 {
   "meta": {
     "todayTimestamp": 1555776000000,
-    "timestamp": 1555805652651,
+    "timestamp": 1555816807982,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -674,7 +674,7 @@
       ]
     },
     "1555776000000": {
-      "segment_count": 4,
+      "segment_count": 5,
       "segment": [
         [
           "girl",
@@ -684,11 +684,11 @@
             "segment_old": 1,
             "segment": 10,
             "init_date": 1549641600000,
-            "epub_date": 1555805640764,
+            "epub_date": 1555816797158,
             "volume_old": 1,
             "chapter_old": 60,
             "volume": 1,
-            "chapter": 86,
+            "chapter": 87,
             "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
             "novel_status": 256,
             "update_date": 1555776000000,
@@ -737,10 +737,22 @@
         ],
         [
           "girl",
+          "你這種傢伙別想打贏魔王",
+          {
+            "init_date": 1550505600000,
+            "segment_date": 1555816773871,
+            "segment_old": 16,
+            "segment": 9,
+            "update_date": 1555776000000,
+            "update_count": 6
+          }
+        ],
+        [
+          "girl",
           "傀儡契約_(n4719ff)",
           {
             "init_date": 1551715200000,
-            "epub_date": 1555805641718,
+            "epub_date": 1555816797557,
             "volume_old": 1,
             "chapter_old": 3,
             "volume": 1,
@@ -785,11 +797,11 @@
             "segment_old": 1,
             "segment": 10,
             "init_date": 1549641600000,
-            "epub_date": 1555805640764,
+            "epub_date": 1555816797158,
             "volume_old": 1,
             "chapter_old": 60,
             "volume": 1,
-            "chapter": 86,
+            "chapter": 87,
             "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
             "novel_status": 256,
             "update_date": 1555776000000,
@@ -841,7 +853,7 @@
           "傀儡契約_(n4719ff)",
           {
             "init_date": 1551715200000,
-            "epub_date": 1555805641718,
+            "epub_date": 1555816797557,
             "volume_old": 1,
             "chapter_old": 3,
             "volume": 1,
@@ -3465,11 +3477,11 @@
         "segment_old": 1,
         "segment": 10,
         "init_date": 1549641600000,
-        "epub_date": 1555805640764,
+        "epub_date": 1555816797158,
         "volume_old": 1,
         "chapter_old": 60,
         "volume": 1,
-        "chapter": 86,
+        "chapter": 87,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
         "update_date": 1555776000000,
@@ -3526,11 +3538,11 @@
       },
       "你這種傢伙別想打贏魔王": {
         "init_date": 1550505600000,
-        "segment_date": 1555287283560,
+        "segment_date": 1555816773871,
         "segment_old": 16,
-        "segment": 16,
-        "update_date": 1555257600000,
-        "update_count": 5
+        "segment": 9,
+        "update_date": 1555776000000,
+        "update_count": 6
       },
       "JKハルは異世界で娼婦になった": {
         "segment_date": 1551484322490,
@@ -3550,7 +3562,7 @@
       },
       "傀儡契約_(n4719ff)": {
         "init_date": 1551715200000,
-        "epub_date": 1555805641718,
+        "epub_date": 1555816797557,
         "volume_old": 1,
         "chapter_old": 3,
         "volume": 1,
