@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1555776000000,
-    "timestamp": 1555816807982,
+    "todayTimestamp": 1555862400000,
+    "timestamp": 1555892618687,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -885,6 +885,23 @@
           }
         ]
       ]
+    },
+    "1555862400000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "user",
+          "四度目は嫌な死属性魔術師",
+          {
+            "segment_date": 1555892590697,
+            "segment_old": 116,
+            "segment": 16,
+            "init_date": 1546302039608,
+            "update_date": 1555862400000,
+            "update_count": 12
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1441,12 +1458,12 @@
         "update_count": 1
       },
       "四度目は嫌な死属性魔術師": {
-        "segment_date": 1555114577515,
-        "segment_old": 111,
-        "segment": 116,
+        "segment_date": 1555892590697,
+        "segment_old": 116,
+        "segment": 16,
         "init_date": 1546302039608,
-        "update_date": 1555084800000,
-        "update_count": 11
+        "update_date": 1555862400000,
+        "update_count": 12
       },
       "誰にでもできる影から助ける魔王討伐": {
         "segment_date": 1546302072698,
@@ -7057,6 +7074,7 @@
           },
           "preface": "　＊書籍化決まりました。ダッシュエックス文庫より２０１８年７月２５日に１巻発売予定です！\n\n\n　生まれ持った眼の色によって能力が決められる世界で、圧倒的な力を持った天才魔術師がいた。\n\n　男の名前はアベル。\n　最強の力を持つアベルは理想の世界を求めて、遥か未来に魂を転生させる。\n\n　しかし、未来の世界では何故かアベルの持つ至高の目が『劣等眼』と呼ばれ、バカにされるようになっていた。\n\n　過去からやってきた最強の英雄は、自由気ままに未来の魔術師たちの常識をぶち壊していく。",
           "tags": [
+            "ESJZone",
             "R15",
             "node-novel",
             "novelba",
@@ -7091,7 +7109,8 @@
         "link": [
           "https://shonenjumpplus.com/episode/10834108156642569336",
           "[dm5](http://www.dm5.com/manhua-liedengyandezhuanshengmoshushi/)",
-          "[劣等眼的转生魔术师吧](https://tieba.baidu.com/f?kw=%E5%8A%A3%E7%AD%89%E7%9C%BC%E7%9A%84%E8%BD%AC%E7%94%9F%E9%AD%94%E6%9C%AF%E5%B8%88&ie=utf-8&tp=0 \"劣等眼的转生魔术师\")"
+          "[劣等眼的转生魔术师吧](https://tieba.baidu.com/f?kw=%E5%8A%A3%E7%AD%89%E7%9C%BC%E7%9A%84%E8%BD%AC%E7%94%9F%E9%AD%94%E6%9C%AF%E5%B8%88&ie=utf-8&tp=0 \"劣等眼的转生魔术师\")",
+          "https://www.esjzone.cc/detail/1552238185.html"
         ]
       }
     },
