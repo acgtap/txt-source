@@ -90,6 +90,7 @@
 - cate50503
 - 天禅子酱
 - ah21ling
+- ReadBook642
 - 
 
 # options
