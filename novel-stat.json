@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1555948800000,
-    "timestamp": 1555892618687,
+    "todayTimestamp": 1556035200000,
+    "timestamp": 1556064952238,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -902,6 +902,123 @@
           }
         ]
       ]
+    },
+    "1556035200000": {
+      "segment_count": 2,
+      "segment": [
+        [
+          "girl",
+          "魔王の娘の百合戦記",
+          {
+            "init_date": 1555776000000,
+            "txt_basename": "魔王の娘の百合戦記.out.txt",
+            "epub_date": 1556064937649,
+            "volume_old": 1,
+            "chapter_old": 1,
+            "volume": 1,
+            "chapter": 4,
+            "epub_basename": "魔王の娘の百合戦記.epub",
+            "novel_status": 256,
+            "update_date": 1556035200000,
+            "update_count": 2,
+            "segment_date": 1556064891982,
+            "segment_old": 0,
+            "segment": 2
+          }
+        ],
+        [
+          "syosetu",
+          "陰の実力者になりたくて！_(n0611em)",
+          {
+            "segment_date": 1556064913835,
+            "segment_old": 3,
+            "segment": 14,
+            "init_date": 1545521322627,
+            "update_date": 1556035200000,
+            "update_count": 6
+          }
+        ]
+      ],
+      "epub_count": 4,
+      "epub": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1555805601744,
+            "segment_old": 1,
+            "segment": 10,
+            "init_date": 1549641600000,
+            "epub_date": 1556064934014,
+            "volume_old": 1,
+            "chapter_old": 87,
+            "volume": 1,
+            "chapter": 89,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1556035200000,
+            "update_count": 12,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "十歳の最強魔導師",
+          {
+            "segment_date": 1555632736142,
+            "segment_old": 0,
+            "segment": 16,
+            "init_date": 1555603200000,
+            "txt_basename": "十歳の最強魔導師.out.txt",
+            "epub_date": 1556064937208,
+            "volume_old": 1,
+            "chapter_old": 132,
+            "volume": 1,
+            "chapter": 135,
+            "epub_basename": "十歳の最強魔導師.epub",
+            "novel_status": 256,
+            "update_date": 1556035200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "girl",
+          "魔王の娘の百合戦記",
+          {
+            "init_date": 1555776000000,
+            "txt_basename": "魔王の娘の百合戦記.out.txt",
+            "epub_date": 1556064937649,
+            "volume_old": 1,
+            "chapter_old": 1,
+            "volume": 1,
+            "chapter": 4,
+            "epub_basename": "魔王の娘の百合戦記.epub",
+            "novel_status": 256,
+            "update_date": 1556035200000,
+            "update_count": 2,
+            "segment_date": 1556064891982,
+            "segment_old": 0,
+            "segment": 2
+          }
+        ],
+        [
+          "syosetu_out",
+          "陰の実力者になりたくて！_(n0611em)",
+          {
+            "epub_date": 1556064941282,
+            "volume_old": 9,
+            "chapter_old": 179,
+            "volume": 9,
+            "chapter": 189,
+            "epub_basename": "想要成為影之實力者.epub",
+            "init_date": 1545548940691,
+            "txt_basename": "想要成為影之實力者.out.txt",
+            "update_date": 1556035200000,
+            "update_count": 7,
+            "novel_status": 768
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -954,12 +1071,12 @@
         "init_date": 1545521307326
       },
       "陰の実力者になりたくて！_(n0611em)": {
-        "segment_date": 1550620176729,
-        "segment_old": 1,
-        "segment": 3,
+        "segment_date": 1556064913835,
+        "segment_old": 3,
+        "segment": 14,
         "init_date": 1545521322627,
-        "update_date": 1550592000000,
-        "update_count": 5
+        "update_date": 1556035200000,
+        "update_count": 6
       },
       "最強職《竜騎士》から初級職《運び屋》": {
         "init_date": 1545494400000,
@@ -2130,16 +2247,16 @@
         "update_count": 2
       },
       "陰の実力者になりたくて！_(n0611em)": {
-        "epub_date": 1550620205688,
+        "epub_date": 1556064941282,
         "volume_old": 9,
         "chapter_old": 179,
         "volume": 9,
-        "chapter": 179,
+        "chapter": 189,
         "epub_basename": "想要成為影之實力者.epub",
         "init_date": 1545548940691,
         "txt_basename": "想要成為影之實力者.out.txt",
-        "update_date": 1552060800000,
-        "update_count": 6,
+        "update_date": 1556035200000,
+        "update_count": 7,
         "novel_status": 768
       },
       "勇者的活躍從現在才開始！": {
@@ -3494,15 +3611,15 @@
         "segment_old": 1,
         "segment": 10,
         "init_date": 1549641600000,
-        "epub_date": 1555816797158,
+        "epub_date": 1556064934014,
         "volume_old": 1,
-        "chapter_old": 60,
+        "chapter_old": 87,
         "volume": 1,
-        "chapter": 87,
+        "chapter": 89,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1555776000000,
-        "update_count": 11,
+        "update_date": 1556035200000,
+        "update_count": 12,
         "txt_basename": "Genocide Online ～極惡千.out.txt"
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
@@ -3684,28 +3801,31 @@
         "segment": 16,
         "init_date": 1555603200000,
         "txt_basename": "十歳の最強魔導師.out.txt",
-        "epub_date": 1555632986008,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1556064937208,
+        "volume_old": 1,
+        "chapter_old": 132,
         "volume": 1,
-        "chapter": 132,
+        "chapter": 135,
         "epub_basename": "十歳の最強魔導師.epub",
         "novel_status": 256,
-        "update_date": 1555603200000,
-        "update_count": 1
+        "update_date": 1556035200000,
+        "update_count": 2
       },
       "魔王の娘の百合戦記": {
         "init_date": 1555776000000,
         "txt_basename": "魔王の娘の百合戦記.out.txt",
-        "epub_date": 1555805642339,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1556064937649,
+        "volume_old": 1,
+        "chapter_old": 1,
         "volume": 1,
-        "chapter": 1,
+        "chapter": 4,
         "epub_basename": "魔王の娘の百合戦記.epub",
         "novel_status": 256,
-        "update_date": 1555776000000,
-        "update_count": 1
+        "update_date": 1556035200000,
+        "update_count": 2,
+        "segment_date": 1556064891982,
+        "segment_old": 0,
+        "segment": 2
       }
     },
     "modern": {
@@ -9519,6 +9639,7 @@
         },
         "contribute": [
           "King丶lost",
+          "ReadBook642",
           "SOSZ0Z",
           "XarbitraryX",
           "ah21ling",
