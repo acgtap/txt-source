@@ -1,5 +1,25 @@
 # HISTORY
 
+## 2019-04-24
+
+### Epub
+
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( v: 1 , c: 89, add: 2 )
+- [十歳の最強魔導師](girl/%E5%8D%81%E6%AD%B3%E3%81%AE%E6%9C%80%E5%BC%B7%E9%AD%94%E5%B0%8E%E5%B8%AB) - girl
+  <br/>( v: 1 , c: 135, add: 3 )
+- [魔王の娘の百合戦記](girl/%E9%AD%94%E7%8E%8B%E3%81%AE%E5%A8%98%E3%81%AE%E7%99%BE%E5%90%88%E6%88%A6%E8%A8%98) - girl
+  <br/>( v: 1 , c: 4, add: 3 )
+- [陰の実力者になりたくて！_(n0611em)](syosetu_out/%E9%99%B0%E3%81%AE%E5%AE%9F%E5%8A%9B%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%8F%E3%81%A6%EF%BC%81_(n0611em)) - syosetu_out
+  <br/>( v: 9 , c: 189, add: 10 )
+
+### Segment
+
+- [魔王の娘の百合戦記](girl/%E9%AD%94%E7%8E%8B%E3%81%AE%E5%A8%98%E3%81%AE%E7%99%BE%E5%90%88%E6%88%A6%E8%A8%98) - girl
+  <br/>( s: 2 )
+- [陰の実力者になりたくて！_(n0611em)](syosetu/%E9%99%B0%E3%81%AE%E5%AE%9F%E5%8A%9B%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%8F%E3%81%A6%EF%BC%81_(n0611em)) - syosetu
+  <br/>( s: 14 )
+
 ## 2019-04-22
 
 ### Segment
