@@ -3,13 +3,13 @@
 - title: ゆるふわ農家の文字化けスキル　～異世界でカタログ通販やってます～
 - title_zh: 悠閑農家與亂碼技能　在異世界網購雜貨
 - author: 白石　新
-- illust:
+- illust: ももいろね
 - source: http://ncode.syosetu.com/n7352fa/
-- cover:
+- cover: https://images-na.ssl-images-amazon.com/images/I/91qExOqZLhL.jpg
 - publisher: syosetu
 - date: 2019-02-08T18:47:00+08:00
 - status: 連載
-- novel_status: 0x0000
+- novel_status: 0x0100
 
 ## series
 
