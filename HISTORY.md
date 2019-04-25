@@ -1,5 +1,31 @@
 # HISTORY
 
+## 2019-04-25
+
+### Epub
+
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( v: 1 , c: 91, add: 2 )
+- [ポンコツ少女の電脳世界救世記](girl/%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E5%B0%91%E5%A5%B3%E3%81%AE%E9%9B%BB%E8%84%B3%E4%B8%96%E7%95%8C%E6%95%91%E4%B8%96%E8%A8%98) - girl
+  <br/>( v: 1 , c: 8, add: 1 )
+- [魔王の娘の百合戦記](girl/%E9%AD%94%E7%8E%8B%E3%81%AE%E5%A8%98%E3%81%AE%E7%99%BE%E5%90%88%E6%88%A6%E8%A8%98) - girl
+  <br/>( v: 1 , c: 5, add: 1 )
+- [悠閑農家與亂碼技能](syosetu/%E6%82%A0%E9%96%91%E8%BE%B2%E5%AE%B6%E8%88%87%E4%BA%82%E7%A2%BC%E6%8A%80%E8%83%BD) - syosetu
+  <br/>( v: 1 , c: 100, add: 10 )
+- [最強呪族転生](syosetu_out/%E6%9C%80%E5%BC%B7%E5%91%AA%E6%97%8F%E8%BB%A2%E7%94%9F) - syosetu_out
+  <br/>( v: 8 , c: 307, add: 58 )
+- [転生ごときで逃げられるとでも、兄さん？](yandere_out/%E8%BB%A2%E7%94%9F%E3%81%94%E3%81%A8%E3%81%8D%E3%81%A7%E9%80%83%E3%81%92%E3%82%89%E3%82%8C%E3%82%8B%E3%81%A8%E3%81%A7%E3%82%82%E3%80%81%E5%85%84%E3%81%95%E3%82%93%EF%BC%9F) - yandere_out
+  <br/>( v: 5 , c: 111, add: 3 )
+
+### Segment
+
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( s: 1 )
+- [ポンコツ少女の電脳世界救世記](girl/%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E5%B0%91%E5%A5%B3%E3%81%AE%E9%9B%BB%E8%84%B3%E4%B8%96%E7%95%8C%E6%95%91%E4%B8%96%E8%A8%98) - girl
+  <br/>( s: 1 )
+- [悠閑農家與亂碼技能](syosetu/%E6%82%A0%E9%96%91%E8%BE%B2%E5%AE%B6%E8%88%87%E4%BA%82%E7%A2%BC%E6%8A%80%E8%83%BD) - syosetu
+  <br/>( s: 4 )
+
 ## 2019-04-24
 
 ### Epub
