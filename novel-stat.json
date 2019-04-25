@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1556035200000,
-    "timestamp": 1556064952238,
+    "todayTimestamp": 1556121600000,
+    "timestamp": 1556151487293,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1019,6 +1019,186 @@
           }
         ]
       ]
+    },
+    "1556121600000": {
+      "segment_count": 3,
+      "segment": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1556151331709,
+            "segment_old": 10,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1556151459730,
+            "volume_old": 1,
+            "chapter_old": 89,
+            "volume": 1,
+            "chapter": 91,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1556121600000,
+            "update_count": 13,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "ポンコツ少女の電脳世界救世記",
+          {
+            "init_date": 1554739200000,
+            "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
+            "epub_date": 1556151460226,
+            "volume_old": 1,
+            "chapter_old": 7,
+            "volume": 1,
+            "chapter": 8,
+            "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
+            "novel_status": 1,
+            "update_date": 1556121600000,
+            "update_count": 3,
+            "segment_date": 1556151336714,
+            "segment_old": 1,
+            "segment": 1
+          }
+        ],
+        [
+          "syosetu",
+          "悠閑農家與亂碼技能",
+          {
+            "init_date": 1552752000000,
+            "txt_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.out.txt",
+            "epub_date": 1556151462969,
+            "volume_old": 1,
+            "chapter_old": 90,
+            "volume": 1,
+            "chapter": 100,
+            "epub_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.epub",
+            "update_date": 1556121600000,
+            "update_count": 3,
+            "segment_date": 1556151353031,
+            "segment_old": 20,
+            "segment": 4,
+            "novel_status": 256
+          }
+        ]
+      ],
+      "epub_count": 6,
+      "epub": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1556151331709,
+            "segment_old": 10,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1556151459730,
+            "volume_old": 1,
+            "chapter_old": 89,
+            "volume": 1,
+            "chapter": 91,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1556121600000,
+            "update_count": 13,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "ポンコツ少女の電脳世界救世記",
+          {
+            "init_date": 1554739200000,
+            "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
+            "epub_date": 1556151460226,
+            "volume_old": 1,
+            "chapter_old": 7,
+            "volume": 1,
+            "chapter": 8,
+            "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
+            "novel_status": 1,
+            "update_date": 1556121600000,
+            "update_count": 3,
+            "segment_date": 1556151336714,
+            "segment_old": 1,
+            "segment": 1
+          }
+        ],
+        [
+          "girl",
+          "魔王の娘の百合戦記",
+          {
+            "init_date": 1555776000000,
+            "txt_basename": "魔王の娘の百合戦記.out.txt",
+            "epub_date": 1556151460698,
+            "volume_old": 1,
+            "chapter_old": 4,
+            "volume": 1,
+            "chapter": 5,
+            "epub_basename": "魔王の娘の百合戦記.epub",
+            "novel_status": 256,
+            "update_date": 1556121600000,
+            "update_count": 3,
+            "segment_date": 1556064891982,
+            "segment_old": 0,
+            "segment": 2
+          }
+        ],
+        [
+          "syosetu",
+          "悠閑農家與亂碼技能",
+          {
+            "init_date": 1552752000000,
+            "txt_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.out.txt",
+            "epub_date": 1556151462969,
+            "volume_old": 1,
+            "chapter_old": 90,
+            "volume": 1,
+            "chapter": 100,
+            "epub_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.epub",
+            "update_date": 1556121600000,
+            "update_count": 3,
+            "segment_date": 1556151353031,
+            "segment_old": 20,
+            "segment": 4,
+            "novel_status": 256
+          }
+        ],
+        [
+          "syosetu_out",
+          "最強呪族転生",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "最強呪族転生.out.txt",
+            "epub_date": 1556151469269,
+            "volume_old": 6,
+            "chapter_old": 249,
+            "volume": 8,
+            "chapter": 307,
+            "epub_basename": "最強呪族転生.epub",
+            "update_date": 1556121600000,
+            "update_count": 7
+          }
+        ],
+        [
+          "yandere_out",
+          "転生ごときで逃げられるとでも、兄さん？",
+          {
+            "txt_basename": "以為轉個生就能逃掉嗎，哥哥？.out.txt",
+            "epub_date": 1556151473543,
+            "volume_old": 5,
+            "chapter_old": 108,
+            "volume": 5,
+            "chapter": 111,
+            "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
+            "init_date": 1549036800000,
+            "update_date": 1556121600000,
+            "update_count": 9
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1405,17 +1585,18 @@
       "悠閑農家與亂碼技能": {
         "init_date": 1552752000000,
         "txt_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.out.txt",
-        "epub_date": 1552867142846,
+        "epub_date": 1556151462969,
         "volume_old": 1,
         "chapter_old": 90,
         "volume": 1,
-        "chapter": 90,
+        "chapter": 100,
         "epub_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.epub",
-        "update_date": 1552838400000,
-        "update_count": 2,
-        "segment_date": 1552866988594,
-        "segment_old": 0,
-        "segment": 20
+        "update_date": 1556121600000,
+        "update_count": 3,
+        "segment_date": 1556151353031,
+        "segment_old": 20,
+        "segment": 4,
+        "novel_status": 256
       },
       "美女と賢者と魔人の剣": {
         "init_date": 1552752000000,
@@ -2668,14 +2849,14 @@
       "最強呪族転生": {
         "init_date": 1545494400000,
         "txt_basename": "最強呪族転生.out.txt",
-        "epub_date": 1552781705041,
+        "epub_date": 1556151469269,
         "volume_old": 6,
-        "chapter_old": 236,
-        "volume": 6,
-        "chapter": 249,
+        "chapter_old": 249,
+        "volume": 8,
+        "chapter": 307,
         "epub_basename": "最強呪族転生.epub",
-        "update_date": 1552752000000,
-        "update_count": 6
+        "update_date": 1556121600000,
+        "update_count": 7
       },
       "魔王学院の不適合者": {
         "init_date": 1545494400000,
@@ -3594,32 +3775,32 @@
     "yandere_out": {
       "転生ごときで逃げられるとでも、兄さん？": {
         "txt_basename": "以為轉個生就能逃掉嗎，哥哥？.out.txt",
-        "epub_date": 1555288361123,
+        "epub_date": 1556151473543,
         "volume_old": 5,
-        "chapter_old": 94,
+        "chapter_old": 108,
         "volume": 5,
-        "chapter": 108,
+        "chapter": 111,
         "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
         "init_date": 1549036800000,
-        "update_date": 1555257600000,
-        "update_count": 8
+        "update_date": 1556121600000,
+        "update_count": 9
       }
     },
     "girl": {
       "Genocide Online ～極惡千金的玩遊戲日記～": {
-        "segment_date": 1555805601744,
-        "segment_old": 1,
-        "segment": 10,
+        "segment_date": 1556151331709,
+        "segment_old": 10,
+        "segment": 1,
         "init_date": 1549641600000,
-        "epub_date": 1556064934014,
+        "epub_date": 1556151459730,
         "volume_old": 1,
-        "chapter_old": 87,
+        "chapter_old": 89,
         "volume": 1,
-        "chapter": 89,
+        "chapter": 91,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1556035200000,
-        "update_count": 12,
+        "update_date": 1556121600000,
+        "update_count": 13,
         "txt_basename": "Genocide Online ～極惡千.out.txt"
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
@@ -3782,17 +3963,17 @@
       "ポンコツ少女の電脳世界救世記": {
         "init_date": 1554739200000,
         "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
-        "epub_date": 1555805641452,
+        "epub_date": 1556151460226,
         "volume_old": 1,
-        "chapter_old": 3,
+        "chapter_old": 7,
         "volume": 1,
-        "chapter": 7,
+        "chapter": 8,
         "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
         "novel_status": 1,
-        "update_date": 1555776000000,
-        "update_count": 2,
-        "segment_date": 1555805611307,
-        "segment_old": 0,
+        "update_date": 1556121600000,
+        "update_count": 3,
+        "segment_date": 1556151336714,
+        "segment_old": 1,
         "segment": 1
       },
       "十歳の最強魔導師": {
@@ -3814,15 +3995,15 @@
       "魔王の娘の百合戦記": {
         "init_date": 1555776000000,
         "txt_basename": "魔王の娘の百合戦記.out.txt",
-        "epub_date": 1556064937649,
+        "epub_date": 1556151460698,
         "volume_old": 1,
-        "chapter_old": 1,
+        "chapter_old": 4,
         "volume": 1,
-        "chapter": 4,
+        "chapter": 5,
         "epub_basename": "魔王の娘の百合戦記.epub",
         "novel_status": 256,
-        "update_date": 1556035200000,
-        "update_count": 2,
+        "update_date": 1556121600000,
+        "update_count": 3,
         "segment_date": 1556064891982,
         "segment_old": 0,
         "segment": 2
@@ -5956,6 +6137,71 @@
           "https://www.novelupdates.com/series/even-though-im-a-former-noble-and-a-single-mother-my-daughters-are-too-cute-and-working-as-an-adventurer-isnt-too-much-of-a-hassle/"
         ]
       },
+      "惡役轉生但是為什麼會變成這樣": {
+        "novel": {
+          "title": "悪役転生だけどどうしてこうなった。",
+          "title_zh1": "惡役轉生但是為什麼會變成這樣",
+          "author": "関村イムヤ",
+          "illust": "山下 ナナオ",
+          "source": "http://ncode.syosetu.com/n6613ck/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/91UFnt6W9vL.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-02-25T04:09:00+08:00",
+          "status": "",
+          "novel_status": 256,
+          "series": {
+            "name": "悪役転生だけどどうしてこうなった。"
+          },
+          "preface": "　ファンタジー系乙女ゲーの世界の悪役令嬢として転生したエリザ・カルディアは、貴族の娘にも関わらず恋愛ゲームの世界というイメージからは縁遠い幼少期を送る事になる。そもそものゲームの舞台となる学園生活まで生きていられるかすら疑わしいとはどういう事なのか。ゲーム世界では華やかな学園生活に関係ないとばかりに殆ど登場すらしなかった隣国の情勢の変化から、まだ幼女なのに武器を持たねばならない立場になっていく。\n　一体どうしてこうなった。\n\n　チート能力はありません。魔法も使えません。倫理観は、生まれ変わってちょっとおかしくなったかもしれない。\n\n　二稿版になります。旧版よりもゆっくり展開です。\n\n　アリアンローズ様より書籍版全三巻が発売中です。こちらもよろしくお願いいたします。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "シリアス",
+            "ダーク",
+            "チート能力無し",
+            "ハイファンタジー〔ファンタジー〕",
+            "乙女ゲーム",
+            "女主人公",
+            "女装",
+            "宗教",
+            "宮廷陰謀劇",
+            "悪役",
+            "悪役令嬢転生",
+            "成り上がり",
+            "戦争",
+            "時々ほのぼの",
+            "残酷な描写あり",
+            "男装",
+            "異世界転生",
+            "貴族",
+            "領地経営"
+          ]
+        },
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "s1455c",
+            "novel_id": "n6613ck"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n6613ck/)",
+          "[悪役転生だけどどうしてこうなった。](http://ncode.syosetu.com/s1455c/)",
+          "[恶役转生但是为什么会变成这样吧](https://tieba.baidu.com/f?kw=%E6%81%B6%E5%BD%B9%E8%BD%AC%E7%94%9F%E4%BD%86%E6%98%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%8F%98%E6%88%90%E8%BF%99%E6%A0%B7&ie=utf-8&tp=0 \"恶役转生但是为什么会变成这样\")"
+        ]
+      },
       "最強的吸血姬渴望妹妹": {
         "novel": {
           "title": "最强的吸血姬渴望妹妹",
@@ -6150,7 +6396,8 @@
         },
         "contribute": [
           "6757",
-          "JUS0422"
+          "JUS0422",
+          "虚雪之葎"
         ],
         "options": {
           "downloadOptions": {
@@ -10734,13 +10981,13 @@
           "title": "ゆるふわ農家の文字化けスキル　～異世界でカタログ通販やってます～",
           "title_zh": "悠閑農家與亂碼技能　在異世界網購雜貨",
           "author": "白石　新",
-          "illust": "",
+          "illust": "ももいろね",
           "source": "http://ncode.syosetu.com/n7352fa/",
-          "cover": "",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/91qExOqZLhL.jpg",
           "publisher": "syosetu",
           "date": "2019-02-08T18:47:00+08:00",
           "status": "連載",
-          "novel_status": 0,
+          "novel_status": 256,
           "series": {
             "name": "ゆるふわ農家の文字化けスキル　～異世界でカタログ通販やってます～"
           },
