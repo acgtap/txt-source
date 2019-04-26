@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1556121600000,
-    "timestamp": 1556151487293,
+    "todayTimestamp": 1556208000000,
+    "timestamp": 1556238024165,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1199,6 +1199,28 @@
           }
         ]
       ]
+    },
+    "1556208000000": {
+      "epub_count": 1,
+      "epub": [
+        [
+          "user_out",
+          "黑之魔王",
+          {
+            "epub_date": 1556238009052,
+            "volume_old": 30,
+            "chapter_old": 572,
+            "volume": 30,
+            "chapter": 573,
+            "init_date": 1545261469203,
+            "epub_basename": "黑之魔王.epub",
+            "txt_basename": "黑之魔王.out.txt",
+            "update_date": 1556208000000,
+            "update_count": 19,
+            "novel_status": 768
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1837,16 +1859,16 @@
     },
     "user_out": {
       "黑之魔王": {
-        "epub_date": 1555288331114,
+        "epub_date": 1556238009052,
         "volume_old": 30,
-        "chapter_old": 569,
+        "chapter_old": 572,
         "volume": 30,
-        "chapter": 572,
+        "chapter": 573,
         "init_date": 1545261469203,
         "epub_basename": "黑之魔王.epub",
         "txt_basename": "黑之魔王.out.txt",
-        "update_date": 1555257600000,
-        "update_count": 18,
+        "update_date": 1556208000000,
+        "update_count": 19,
         "novel_status": 768
       },
       "火輪を抱いた少女": {
