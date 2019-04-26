@@ -1,5 +1,12 @@
 # HISTORY
 
+## 2019-04-26
+
+### Epub
+
+- [黑之魔王](user_out/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B) - user_out
+  <br/>( v: 30 , c: 573, add: 1 )
+
 ## 2019-04-25
 
 ### Epub
