@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1556208000000,
-    "timestamp": 1556238024165,
+    "todayTimestamp": 1556294400000,
+    "timestamp": 1556324220244,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1221,6 +1221,71 @@
           }
         ]
       ]
+    },
+    "1556294400000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "h",
+          "俺が淫魔術で奴隷ハーレムを作る話",
+          {
+            "segment_date": 1556324185855,
+            "segment_old": 0,
+            "segment": 1,
+            "init_date": 1556324185855,
+            "txt_basename": "我仰賴淫魔術建立了奴隸後宮.out.txt",
+            "epub_date": 1556324210562,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 4,
+            "epub_basename": "我仰賴淫魔術建立了奴隸後宮.epub",
+            "novel_status": 256,
+            "update_date": 1556294400000,
+            "update_count": 1
+          }
+        ]
+      ],
+      "epub_count": 2,
+      "epub": [
+        [
+          "h",
+          "俺が淫魔術で奴隷ハーレムを作る話",
+          {
+            "segment_date": 1556324185855,
+            "segment_old": 0,
+            "segment": 1,
+            "init_date": 1556324185855,
+            "txt_basename": "我仰賴淫魔術建立了奴隸後宮.out.txt",
+            "epub_date": 1556324210562,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 4,
+            "epub_basename": "我仰賴淫魔術建立了奴隸後宮.epub",
+            "novel_status": 256,
+            "update_date": 1556294400000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "宵の国戦記",
+          {
+            "init_date": 1556294400000,
+            "txt_basename": "宵の国戦記.out.txt",
+            "epub_date": 1556324211699,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 6,
+            "epub_basename": "宵の国戦記.epub",
+            "novel_status": 256,
+            "update_date": 1556294400000,
+            "update_count": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1656,6 +1721,19 @@
         "epub_basename": "転生！異世界より愛をこめて.epub",
         "novel_status": 257,
         "update_date": 1553356800000,
+        "update_count": 1
+      },
+      "宵の国戦記": {
+        "init_date": 1556294400000,
+        "txt_basename": "宵の国戦記.out.txt",
+        "epub_date": 1556324211699,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 6,
+        "epub_basename": "宵の国戦記.epub",
+        "novel_status": 256,
+        "update_date": 1556294400000,
         "update_count": 1
       }
     },
@@ -3744,6 +3822,22 @@
         "chapter": 10,
         "epub_basename": "玩了VR工口遊戲轉生到異世界、將美少女魔王奴隸化〜跨越世界的救世主〜.epub",
         "update_date": 1554912000000,
+        "update_count": 1
+      },
+      "俺が淫魔術で奴隷ハーレムを作る話": {
+        "segment_date": 1556324185855,
+        "segment_old": 0,
+        "segment": 1,
+        "init_date": 1556324185855,
+        "txt_basename": "我仰賴淫魔術建立了奴隸後宮.out.txt",
+        "epub_date": 1556324210562,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 4,
+        "epub_basename": "我仰賴淫魔術建立了奴隸後宮.epub",
+        "novel_status": 256,
+        "update_date": 1556294400000,
         "update_count": 1
       }
     },
@@ -6645,6 +6739,78 @@
         "link": [
           "[dip.jp](https://narou18.nar.jp/search.php?text=n9598df&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[侯爵嫡男好色物语吧](https://tieba.baidu.com/f?kw=%E4%BE%AF%E7%88%B5%E5%AB%A1%E7%94%B7%E5%A5%BD%E8%89%B2%E7%89%A9%E8%AF%AD&ie=utf-8 \"侯爵嫡男好色物语\")"
+        ]
+      },
+      "俺が淫魔術で奴隷ハーレムを作る話": {
+        "novel": {
+          "title": "俺が淫魔術で奴隷ハーレムを作る話",
+          "title_zh": "我仰賴淫魔術建立了奴隸後宮",
+          "author": "黒水蛇",
+          "illust": "誉",
+          "source": "http://novel18.syosetu.com/n6061cm/",
+          "cover": "http://nox-novels.jp/wordpress/wp-content/uploads/2016/01/------------_1-1.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2017-02-26T18:41:00+08:00",
+          "status": "連載",
+          "novel_status": 256,
+          "series": {
+            "name": "俺が淫魔術で奴隷ハーレムを作る話"
+          },
+          "preface": "這個是天使和魔族與人類以及亞人所居住的異世界。在那裏有一位男性被召喚出來。魔族告知該男子是為了收集魔力而被召喚過來，不過、該男子為了回收魔力而選擇的手段是「凌辱」。將女人調教成奴隸直到墮落為止。究竟那男子會朝向…。\n\n\n標題有附加◆的話是含有色情場景　\n※則是附有激烈的凌辱描寫\n×則是有附加上除了主角以外第三者的女主角凌辱\n\n※　ノクスノベルス様より書籍版発売中です！ 三巻は2／10発売予定。よろしくお願い致します！　※\n\n天使と魔族と人間。そして亜人の住む異世界。其処へ呼び出された一人の男。魔族に魔力を集めるように告げられた男が回収手段として選んだのは「陵辱」　女を調教し奴隷に落とし行き着く先は…。\n※誤字脱字の指摘はどんどんお願い致します。\nタイトルに◆の付く話はエロシーンが　\n※が付く話には激しい陵辱描写が　\n×の付く話には主人公以外の第三者によるヒロインの陵辱があります。\n\n天使/堕天使/竜娘/獣娘/エルフ/淫魔/使い魔/シスター/聖女/女勇者/機械娘/スライム娘/　などヒロイン多人数型のハーレム形成物語となっています。\n\n※一三六話にて本編完結致しました。",
+          "tags": [
+            "NTR",
+            "TS",
+            "node-novel",
+            "novel18",
+            "syosetu",
+            "ふたなり",
+            "スライム",
+            "ファンタジー",
+            "メイド",
+            "レイプ",
+            "一時的なNTR",
+            "奴隷",
+            "強姦",
+            "快楽堕ち",
+            "書籍化",
+            "残酷な描写あり",
+            "淫語",
+            "男性向け",
+            "異種族ハーレム",
+            "監禁",
+            "第三者のヒロイン陵辱",
+            "触手",
+            "調教"
+          ],
+          "title_tieba": "咱用吟魔立创建随从乐园"
+        },
+        "contribute": [
+          "黑尋亦"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n6061cm"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou18.nar.jp](https://narou18.nar.jp/search.php?text=%E4%BF%BA%E3%81%8C%E6%B7%AB%E9%AD%94%E8%A1%93%E3%81%A7%E5%A5%B4%E9%9A%B7%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8B%E8%A9%B1&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://novel18.syosetu.com/novelview/infotop/ncode/n6061cm/)",
+          "[石墨整合帖](https://shimo.im/docs/1CUShfWuAdMHJoFe/read)",
+          "[譯名整合](https://shimo.im/docs/TFRNRXb4TuEgw1vd)",
+          "[咱用吟魔立创建随从乐园吧](https://tieba.baidu.com/f?kw=%E5%92%B1%E7%94%A8%E5%90%9F%E9%AD%94%E7%AB%8B%E5%88%9B%E5%BB%BA%E9%9A%8F%E4%BB%8E%E4%B9%90%E5%9B%AD&ie=utf-8 \"咱用吟魔立创建随从乐园\")"
         ]
       },
       "在喪屍橫行的世界裡唯獨我不被襲擊": {
@@ -10937,6 +11103,71 @@
         "link": [
           "[dip.jp](https://narou.dip.jp/search.php?text=n8109cq&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[婚约者恋上我的妹妹吧](https://tieba.baidu.com/f?kw=%E5%A9%9A%E7%BA%A6%E8%80%85%E6%81%8B%E4%B8%8A%E6%88%91%E7%9A%84%E5%A6%B9%E5%A6%B9&ie=utf-8 \"婚约者恋上我的妹妹\")"
+        ]
+      },
+      "宵の国戦記": {
+        "novel": {
+          "title": "宵の国戦記（■旧題：最強の暗黒騎士は定時で帰りたい！ ）",
+          "title_zh1": "夜之國戰記",
+          "author": "長月東葭",
+          "illust": "こぞう",
+          "source": "http://ncode.syosetu.com/n6116dk/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/91MEZ4gIqyL.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-04-20T22:49:00+08:00",
+          "status": "連載",
+          "novel_status": 256,
+          "series": {
+            "name": "宵の国戦記（■旧題：最強の暗黒騎士は定時で帰りたい！ ）"
+          },
+          "preface": "從現代日本，轉生為劍與魔法的異世界已經400年了。\n研究武藝和魔法，成為魔族軍最強的黑闇騎士的主人公，從事著保護魔族領土不受人類侵略的任務。\n\n這樣的主人公，有完成工作之後的『樂趣』。\n但是，最近由於人類領土的動盪，其樂趣正在被剝奪。\n為了守護治癒的時間，主人公拔出了『魔劍』。\n\n陰謀、憎愛、戰斗全開的陰謀和黑暗幻想。\n魔族VS人類。角色各自的故事以群像劇的形式展開的戰記。\n\nドラゴンノベルス様より「宵の国戦記」書籍版、発売中です。\n\n【毎週土曜、昼11時、定期更新中！】\n\n【第3回カクヨムWeb小説コンテスト、異世界ファンタジー部門、特別賞をいただきました！】\n\n現代日本から、剣と魔法の異世界に転生して400年。武芸と魔法を究め、魔族軍最強の暗黒騎士として成り上がった主人公は、人間領の侵攻から魔族領を護る任務に就いていた。\n\nそんな主人公には、仕事を終えてからの“楽しみ”がある。\n\nしかしこのところ、人間領の不穏な動きのために、その楽しみが奪われつつあった。\n癒やしの時間を護るため、主人公は“魔剣”を抜く。\n\n陰謀・憎愛・バトル全開の、ドロドロダークファンタジー。\n\n魔族VS人間。キャラクターそれぞれの物語が群像劇調に展開していく戦記もの。\n\n注）\n第2部以降、シリアスパートオンリーとなります。シリアス展開が苦手な方はご注意下さい。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "オリジナル戦記",
+            "シリアス",
+            "ダーク",
+            "ダークファンタジー",
+            "ハイファンタジー",
+            "ハイファンタジー〔ファンタジー〕",
+            "ファンタジー",
+            "人外",
+            "剣と魔法",
+            "戦記",
+            "残酷な描写あり",
+            "男主人公",
+            "異世界転生",
+            "群像劇"
+          ],
+          "source_kakuyomu": "https://kakuyomu.jp/works/1177354054881454400"
+        },
+        "contribute": [
+          "我就是不知道忘"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n6116dk"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n6116dk&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n6116dk/)",
+          "[夜之国战记吧](https://tieba.baidu.com/f?kw=%E5%A4%9C%E4%B9%8B%E5%9B%BD%E6%88%98%E8%AE%B0&ie=utf-8&tp=0 \"\")",
+          "https://www.esjzone.cc/detail/1555820905.html"
         ]
       },
       "復讐は天罰を呼び、魔術士はぽやぽやを楽しみたい": {
