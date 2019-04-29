@@ -3,12 +3,17 @@
 - title: 奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～
 - title_zh: 除了成為奴隸商人以外別無選擇喲？～後宮？那好吃嗎？
 - author: カラユミ
+- illust: neropaso
 - source: http://ncode.syosetu.com/n8567do/
 - cover: https://images-na.ssl-images-amazon.com/images/I/91sSsOf1oqL.jpg
 - publisher: syosetu
 - date: 2019-01-18T10:35:00+08:00
 - status: 完結済
-- novel_status: 0x0001
+- novel_status: 0x0301
+
+## illusts
+
+- ごまし
 
 ## series
 
@@ -61,6 +66,11 @@
 
 - 忍野忍
 - Yuki
+- 半支蜡烛♬
+- 缘指逝的水滴
+- 月下空城♂
+- 懒惰的鹹鱼
+- jemiwyl
 - 
 
 # options
@@ -86,6 +96,7 @@
 - [除了成为奴隶商人以外别无选择吧](https://tieba.baidu.com/f?kw=%E9%99%A4%E4%BA%86%E6%88%90%E4%B8%BA%E5%A5%B4%E9%9A%B6%E5%95%86%E4%BA%BA%E4%BB%A5%E5%A4%96%E5%88%AB%E6%97%A0%E9%80%89%E6%8B%A9&ie=utf-8 "除了成为奴隶商人以外别无选择")
 - [dm5](http://www.dm5.com/manhua-chulechengweinulishangrenyiwaibiewuxuanzeyo-hougong-nahaochima/)
 - [over-lap.co.jp](https://over-lap.co.jp/narou/865542509/)
+- https://masiro.moe/forum.php?mod=forumdisplay&fid=110
 - 
 
 
