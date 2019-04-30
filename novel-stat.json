@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1556467200000,
-    "timestamp": 1556497062027,
+    "todayTimestamp": 1556553600000,
+    "timestamp": 1556584021719,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -519,6 +519,121 @@
           }
         ]
       ]
+    },
+    "1556553600000": {
+      "segment_count": 3,
+      "segment": [
+        [
+          "girl",
+          "原千金未婚媽媽",
+          {
+            "segment_date": 1556583632963,
+            "segment_old": 8,
+            "segment": 5,
+            "init_date": 1552838400000,
+            "txt_basename": "原千金未婚媽媽.out.txt",
+            "epub_date": 1556584007855,
+            "volume_old": 1,
+            "chapter_old": 21,
+            "volume": 2,
+            "chapter": 32,
+            "epub_basename": "原千金未婚媽媽.epub",
+            "novel_status": 256,
+            "update_date": 1556553600000,
+            "update_count": 3
+          }
+        ],
+        [
+          "user",
+          "黑之魔王",
+          {
+            "segment_date": 1556583962897,
+            "segment_old": 26,
+            "segment": 5,
+            "init_date": 1545261427757,
+            "update_date": 1556553600000,
+            "update_count": 16
+          }
+        ],
+        [
+          "yandere",
+          "転生ごときで逃げられるとでも、兄さん？",
+          {
+            "segment_date": 1556583988121,
+            "segment_old": 12,
+            "segment": 1,
+            "init_date": 1548604800000,
+            "epub_date": 1548977895318,
+            "volume_old": 5,
+            "chapter_old": 79,
+            "volume": 5,
+            "chapter": 79,
+            "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
+            "update_date": 1556553600000,
+            "update_count": 10
+          }
+        ]
+      ],
+      "epub_count": 3,
+      "epub": [
+        [
+          "family",
+          "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生",
+          {
+            "init_date": 1552147200000,
+            "txt_basename": "被剝奪了冒險者執照的大叔，得到了愛女悠閒.out.txt",
+            "epub_date": 1556584006084,
+            "volume_old": 1,
+            "chapter_old": 2,
+            "volume": 1,
+            "chapter": 5,
+            "epub_basename": "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生.epub",
+            "novel_status": 768,
+            "update_date": 1556553600000,
+            "update_count": 3,
+            "segment_date": 1552261885555,
+            "segment_old": 0,
+            "segment": 1
+          }
+        ],
+        [
+          "girl",
+          "原千金未婚媽媽",
+          {
+            "segment_date": 1556583632963,
+            "segment_old": 8,
+            "segment": 5,
+            "init_date": 1552838400000,
+            "txt_basename": "原千金未婚媽媽.out.txt",
+            "epub_date": 1556584007855,
+            "volume_old": 1,
+            "chapter_old": 21,
+            "volume": 2,
+            "chapter": 32,
+            "epub_basename": "原千金未婚媽媽.epub",
+            "novel_status": 256,
+            "update_date": 1556553600000,
+            "update_count": 3
+          }
+        ],
+        [
+          "syosetu",
+          "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～",
+          {
+            "init_date": 1547913600000,
+            "epub_date": 1556584009356,
+            "volume_old": 1,
+            "chapter_old": 1,
+            "volume": 2,
+            "chapter": 32,
+            "epub_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？那好吃嗎？.epub",
+            "novel_status": 769,
+            "update_date": 1556553600000,
+            "update_count": 3,
+            "txt_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？.out.txt"
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -770,15 +885,15 @@
       },
       "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～": {
         "init_date": 1547913600000,
-        "epub_date": 1547940769808,
+        "epub_date": 1556584009356,
         "volume_old": 1,
         "chapter_old": 1,
-        "volume": 1,
-        "chapter": 1,
+        "volume": 2,
+        "chapter": 32,
         "epub_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？那好吃嗎？.epub",
-        "novel_status": 1,
-        "update_date": 1552060800000,
-        "update_count": 2,
+        "novel_status": 769,
+        "update_date": 1556553600000,
+        "update_count": 3,
         "txt_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？.out.txt"
       },
       "帰ってきた元勇者": {
@@ -1004,12 +1119,12 @@
     },
     "user": {
       "黑之魔王": {
-        "segment_date": 1555287537398,
-        "segment_old": 164,
-        "segment": 26,
+        "segment_date": 1556583962897,
+        "segment_old": 26,
+        "segment": 5,
         "init_date": 1545261427757,
-        "update_date": 1555257600000,
-        "update_count": 15
+        "update_date": 1556553600000,
+        "update_count": 16
       },
       "火輪を抱いた少女": {
         "segment_date": 1545548707385,
@@ -3125,9 +3240,9 @@
     },
     "yandere": {
       "転生ごときで逃げられるとでも、兄さん？": {
-        "segment_date": 1555288290946,
-        "segment_old": 1,
-        "segment": 12,
+        "segment_date": 1556583988121,
+        "segment_old": 12,
+        "segment": 1,
         "init_date": 1548604800000,
         "epub_date": 1548977895318,
         "volume_old": 5,
@@ -3135,8 +3250,8 @@
         "volume": 5,
         "chapter": 79,
         "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
-        "update_date": 1555257600000,
-        "update_count": 9
+        "update_date": 1556553600000,
+        "update_count": 10
       }
     },
     "mirronight_out": {
@@ -3326,20 +3441,20 @@
         "update_count": 1
       },
       "原千金未婚媽媽": {
-        "segment_date": 1555027648439,
-        "segment_old": 2,
-        "segment": 8,
+        "segment_date": 1556583632963,
+        "segment_old": 8,
+        "segment": 5,
         "init_date": 1552838400000,
         "txt_basename": "原千金未婚媽媽.out.txt",
-        "epub_date": 1555028523934,
+        "epub_date": 1556584007855,
         "volume_old": 1,
-        "chapter_old": 5,
-        "volume": 1,
-        "chapter": 21,
+        "chapter_old": 21,
+        "volume": 2,
+        "chapter": 32,
         "epub_basename": "原千金未婚媽媽.epub",
         "novel_status": 256,
-        "update_date": 1554998400000,
-        "update_count": 2
+        "update_date": 1556553600000,
+        "update_count": 3
       },
       "ポンコツ少女の電脳世界救世記": {
         "init_date": 1554739200000,
@@ -3532,15 +3647,15 @@
       "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生": {
         "init_date": 1552147200000,
         "txt_basename": "被剝奪了冒險者執照的大叔，得到了愛女悠閒.out.txt",
-        "epub_date": 1552261931229,
+        "epub_date": 1556584006084,
         "volume_old": 1,
-        "chapter_old": 1,
+        "chapter_old": 2,
         "volume": 1,
-        "chapter": 2,
+        "chapter": 5,
         "epub_basename": "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生.epub",
         "novel_status": 768,
-        "update_date": 1552233600000,
-        "update_count": 2,
+        "update_date": 1556553600000,
+        "update_count": 3,
         "segment_date": 1552261885555,
         "segment_old": 0,
         "segment": 1
@@ -4760,7 +4875,10 @@
           "title_tieba": "得到了爱女悠闲的讴歌人生"
         },
         "contribute": [
-          "人生就像除錯"
+          "七七七千愛",
+          "人生就像除錯",
+          "烈火寒冰",
+          "聖光武士愛迪生"
         ],
         "options": {
           "downloadOptions": {
@@ -4780,7 +4898,8 @@
         "link": [
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n0442em&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[得到了爱女悠闲的讴歌人生吧](https://tieba.baidu.com/f?kw=%E5%BE%97%E5%88%B0%E4%BA%86%E7%88%B1%E5%A5%B3%E6%82%A0%E9%97%B2%E7%9A%84%E8%AE%B4%E6%AD%8C%E4%BA%BA%E7%94%9F&ie=utf-8 \"得到了爱女悠闲的讴歌人生\")",
-          "[dm5](http://www.dm5.com/manhua-beibaoduolemaoxianzhezhizhaodedashu/)"
+          "[dm5](http://www.dm5.com/manhua-beibaoduolemaoxianzhezhizhaodedashu/)",
+          "https://masiro.moe/forum.php?mod=forumdisplay&fid=142&page=1"
         ]
       }
     },
@@ -7919,12 +8038,16 @@
           "title": "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～",
           "title_zh": "除了成為奴隸商人以外別無選擇喲？～後宮？那好吃嗎？",
           "author": "カラユミ",
+          "illust": "neropaso",
+          "illusts": [
+            "ごまし"
+          ],
           "source": "http://ncode.syosetu.com/n8567do/",
           "cover": "https://images-na.ssl-images-amazon.com/images/I/91sSsOf1oqL.jpg",
           "publisher": "syosetu",
           "date": "2019-01-18T10:35:00+08:00",
           "status": "完結済",
-          "novel_status": 1,
+          "novel_status": 769,
           "series": {
             "name": "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～"
           },
@@ -7956,7 +8079,12 @@
         },
         "contribute": [
           "Yuki",
-          "忍野忍"
+          "jemiwyl",
+          "半支蜡烛♬",
+          "忍野忍",
+          "懒惰的鹹鱼",
+          "月下空城♂",
+          "缘指逝的水滴"
         ],
         "options": {
           "downloadOptions": {
@@ -7976,7 +8104,8 @@
           "[dip.jp](https://narou.nar.jp/search.php?text=n8567do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[除了成为奴隶商人以外别无选择吧](https://tieba.baidu.com/f?kw=%E9%99%A4%E4%BA%86%E6%88%90%E4%B8%BA%E5%A5%B4%E9%9A%B6%E5%95%86%E4%BA%BA%E4%BB%A5%E5%A4%96%E5%88%AB%E6%97%A0%E9%80%89%E6%8B%A9&ie=utf-8 \"除了成为奴隶商人以外别无选择\")",
           "[dm5](http://www.dm5.com/manhua-chulechengweinulishangrenyiwaibiewuxuanzeyo-hougong-nahaochima/)",
-          "[over-lap.co.jp](https://over-lap.co.jp/narou/865542509/)"
+          "[over-lap.co.jp](https://over-lap.co.jp/narou/865542509/)",
+          "https://masiro.moe/forum.php?mod=forumdisplay&fid=110"
         ]
       },
       "婚約者は、私の妹に恋をする": {
