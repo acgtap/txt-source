@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1556553600000,
-    "timestamp": 1556584021719,
+    "todayTimestamp": 1556640000000,
+    "timestamp": 1556669924095,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -631,6 +631,31 @@
             "update_date": 1556553600000,
             "update_count": 3,
             "txt_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？.out.txt"
+          }
+        ]
+      ]
+    },
+    "1556640000000": {
+      "epub_count": 1,
+      "epub": [
+        [
+          "girl",
+          "原千金未婚媽媽",
+          {
+            "segment_date": 1556583632963,
+            "segment_old": 8,
+            "segment": 5,
+            "init_date": 1552838400000,
+            "txt_basename": "原千金未婚媽媽.out.txt",
+            "epub_date": 1556669917110,
+            "volume_old": 2,
+            "chapter_old": 32,
+            "volume": 2,
+            "chapter": 32,
+            "epub_basename": "原千金未婚媽媽.epub",
+            "novel_status": 256,
+            "update_date": 1556640000000,
+            "update_count": 4
           }
         ]
       ]
@@ -3446,15 +3471,15 @@
         "segment": 5,
         "init_date": 1552838400000,
         "txt_basename": "原千金未婚媽媽.out.txt",
-        "epub_date": 1556584007855,
-        "volume_old": 1,
-        "chapter_old": 21,
+        "epub_date": 1556669917110,
+        "volume_old": 2,
+        "chapter_old": 32,
         "volume": 2,
         "chapter": 32,
         "epub_basename": "原千金未婚媽媽.epub",
         "novel_status": 256,
-        "update_date": 1556553600000,
-        "update_count": 3
+        "update_date": 1556640000000,
+        "update_count": 4
       },
       "ポンコツ少女の電脳世界救世記": {
         "init_date": 1554739200000,
@@ -5613,6 +5638,7 @@
           "title_en1": "Even Though I'm a Former Noble and a Single Mother, My Daughters are too Cute and Working as an Adventurer Isn't Too Much of a Hassle"
         },
         "contribute": [
+          "enterpr1se",
           "nyancats2012"
         ],
         "options": {
