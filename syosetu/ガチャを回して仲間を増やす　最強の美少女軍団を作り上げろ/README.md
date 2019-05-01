@@ -61,6 +61,8 @@
 - 第五kira
 - -妖妖幻想
 - 蝶舞凝汐
+- 绿军骑士
+- 升级鬼泣
 - 
 
 # options
@@ -89,7 +91,5 @@
 - https://comic.pixiv.net/works/4659
 - [通过扭蛋增加同伴吧](https://tieba.baidu.com/f?kw=%E9%80%9A%E8%BF%87%E6%89%AD%E8%9B%8B%E5%A2%9E%E5%8A%A0%E5%90%8C%E4%BC%B4&ie=utf-8 "通过扭蛋增加同伴")
 - http://www.dm5.com/manhua-tongguoniudanzengjiatongban-zuochengzuiqiangmeishaonvjuntuan/
+- [升级鬼泣 txt](https://pan.baidu.com/s/1Ttcs8p_fQfBd0w3j5yp4Jw) 2gm2
 - 
-
-
-
