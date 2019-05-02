@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1556640000000,
-    "timestamp": 1556669924095,
+    "todayTimestamp": 1556726400000,
+    "timestamp": 1556756379594,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -659,6 +659,54 @@
           }
         ]
       ]
+    },
+    "1556726400000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "syosetu",
+          "ガチャを回して仲間を増やす　最強の美少女軍団を作り上げろ",
+          {
+            "segment_date": 1556756344667,
+            "segment_old": 0,
+            "segment": 24,
+            "init_date": 1556756344667,
+            "txt_basename": "通過扭蛋增加同伴　建立最強美少女軍團.out.txt",
+            "epub_date": 1556756369746,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 194,
+            "epub_basename": "通過扭蛋增加同伴　建立最強美少女軍團.epub",
+            "novel_status": 768,
+            "update_date": 1556726400000,
+            "update_count": 1
+          }
+        ]
+      ],
+      "epub_count": 1,
+      "epub": [
+        [
+          "syosetu",
+          "ガチャを回して仲間を増やす　最強の美少女軍団を作り上げろ",
+          {
+            "segment_date": 1556756344667,
+            "segment_old": 0,
+            "segment": 24,
+            "init_date": 1556756344667,
+            "txt_basename": "通過扭蛋增加同伴　建立最強美少女軍團.out.txt",
+            "epub_date": 1556756369746,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 194,
+            "epub_basename": "通過扭蛋增加同伴　建立最強美少女軍團.epub",
+            "novel_status": 768,
+            "update_date": 1556726400000,
+            "update_count": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1139,6 +1187,22 @@
         "epub_basename": "從Lv2開始開掛的原勇者候補悠閑的異世界生活.epub",
         "novel_status": 768,
         "update_date": 1556380800000,
+        "update_count": 1
+      },
+      "ガチャを回して仲間を増やす　最強の美少女軍団を作り上げろ": {
+        "segment_date": 1556756344667,
+        "segment_old": 0,
+        "segment": 24,
+        "init_date": 1556756344667,
+        "txt_basename": "通過扭蛋增加同伴　建立最強美少女軍團.out.txt",
+        "epub_date": 1556756369746,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 194,
+        "epub_basename": "通過扭蛋增加同伴　建立最強美少女軍團.epub",
+        "novel_status": 768,
+        "update_date": 1556726400000,
         "update_count": 1
       }
     },
@@ -7506,6 +7570,77 @@
         "link": [
           "[dip.jp](https://narou.dip.jp/search.php?text=n8366dn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[以剪切粘贴在这个世界生活吧](https://tieba.baidu.com/f?kw=%E4%BB%A5%E5%89%AA%E5%88%87%E7%B2%98%E8%B4%B4%E5%9C%A8%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB&ie=utf-8 \"以剪切粘贴在这个世界生活\")"
+        ]
+      },
+      "ガチャを回して仲間を増やす　最強の美少女軍団を作り上げろ": {
+        "novel": {
+          "title": "ガチャを回して仲間を増やす　最強の美少女軍団を作り上げろ",
+          "title_zh": "通過扭蛋增加同伴　建立最強美少女軍團",
+          "title_zh2": "通过扭蛋增加同伴，做成最强美少女军团",
+          "author": "ちんくるり",
+          "illust": "イセ川ヤスタカ",
+          "illusts": [
+            "晴野しゅー"
+          ],
+          "source": "http://ncode.syosetu.com/n1896dc/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/81p6ljkh-RL.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-04-28T22:14:00+08:00",
+          "status": "連載",
+          "novel_status": 768,
+          "series": {
+            "name": "ガチャを回して仲間を増やす　最強の美少女軍団を作り上げろ"
+          },
+          "preface": "當前，某款社交游戲正風靡一時，依托可愛精致的立繪和詳細的人設博得無數玩家的好感，每當全新限定UR出現時必定會有無數氪金玩家為之瘋狂。\n一位信仰著0點扭蛋的玩家像平時一樣正坐著面對著手機畫面，用顫抖的手指按下了扭蛋按鈕，得到UR道具的同時不知為何被邀請到了異世界。\n而眼前能夠依賴的只有全部信息都初始化的社交游戲？！\n為了抽出可愛的女孩子，從氪金向氪命覺醒，揮舞著撬棍和鍋蓋，以創造出一個異世界最強的美少女軍團作為目標奮鬥！\n\n　今巷で話題となっているソーシャルゲーム。それにのめり込む一人の男性がいた。\n　彼はいつものようにガチャを回していると、何故か異世界へと招待されてしまう。\n　頼りになるのはスマホに入ったソシャゲガチャ。\n　排出されるのは便利な道具とチートな装備と美少女キャラクター。\n　そして彼は、異世界最強の美少女軍団を作り上げることを目指す。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "ご都合主義",
+            "ガチャ",
+            "チート",
+            "ハイファンタジー",
+            "ハイファンタジー〔ファンタジー〕",
+            "ハーレム？",
+            "ファンタジー",
+            "仲間が最強",
+            "残酷な描写あり",
+            "異世界転移"
+          ]
+        },
+        "contribute": [
+          "-妖妖幻想",
+          "升级鬼泣",
+          "第五kira",
+          "绿军骑士",
+          "蝶舞凝汐"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n1896dc"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n1896dc&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n1896dc/)",
+          "http://comicride.jp/gatya/",
+          "https://comic.pixiv.net/works/4659",
+          "[通过扭蛋增加同伴吧](https://tieba.baidu.com/f?kw=%E9%80%9A%E8%BF%87%E6%89%AD%E8%9B%8B%E5%A2%9E%E5%8A%A0%E5%90%8C%E4%BC%B4&ie=utf-8 \"通过扭蛋增加同伴\")",
+          "http://www.dm5.com/manhua-tongguoniudanzengjiatongban-zuochengzuiqiangmeishaonvjuntuan/",
+          "[升级鬼泣 txt](https://pan.baidu.com/s/1Ttcs8p_fQfBd0w3j5yp4Jw) 2gm2"
         ]
       },
       "チートで賢者な俺は異世界に革命を起こす": {
