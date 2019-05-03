@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1556726400000,
-    "timestamp": 1556756379594,
+    "todayTimestamp": 1556812800000,
+    "timestamp": 1556843749576,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -707,6 +707,297 @@
           }
         ]
       ]
+    },
+    "1556812800000": {
+      "segment_count": 6,
+      "segment": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1556842740198,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1556843712883,
+            "volume_old": 1,
+            "chapter_old": 91,
+            "volume": 1,
+            "chapter": 98,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1556812800000,
+            "update_count": 14,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "エリナの成長物語（引き籠り女神の転生）",
+          {
+            "init_date": 1552492800000,
+            "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
+            "epub_date": 1556843713485,
+            "volume_old": 1,
+            "chapter_old": 12,
+            "volume": 1,
+            "chapter": 15,
+            "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
+            "update_date": 1556812800000,
+            "update_count": 6,
+            "segment_date": 1556842746376,
+            "segment_old": 2,
+            "segment": 3
+          }
+        ],
+        [
+          "girl",
+          "傀儡契約_(n4719ff)",
+          {
+            "init_date": 1551715200000,
+            "epub_date": 1556843714254,
+            "volume_old": 1,
+            "chapter_old": 4,
+            "volume": 1,
+            "chapter": 6,
+            "epub_basename": "傀儡契約.epub",
+            "update_date": 1556812800000,
+            "update_count": 6,
+            "txt_basename": "傀儡契約.out.txt",
+            "segment_date": 1556842808541,
+            "segment_old": 1,
+            "segment": 1
+          }
+        ],
+        [
+          "girl",
+          "魔王の娘の百合戦記",
+          {
+            "init_date": 1555776000000,
+            "txt_basename": "魔王の娘の百合戦記.out.txt",
+            "epub_date": 1556843714865,
+            "volume_old": 1,
+            "chapter_old": 5,
+            "volume": 1,
+            "chapter": 7,
+            "epub_basename": "魔王の娘の百合戦記.epub",
+            "novel_status": 256,
+            "update_date": 1556812800000,
+            "update_count": 4,
+            "segment_date": 1556842813471,
+            "segment_old": 2,
+            "segment": 3
+          }
+        ],
+        [
+          "ts",
+          "自称贤者弟子的贤者",
+          {
+            "segment_date": 1556843056195,
+            "segment_old": 0,
+            "segment": 76,
+            "init_date": 1556843056195,
+            "update_date": 1556812800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "四度目は嫌な死属性魔術師",
+          {
+            "segment_date": 1556843688195,
+            "segment_old": 16,
+            "segment": 14,
+            "init_date": 1546302039608,
+            "update_date": 1556812800000,
+            "update_count": 13
+          }
+        ]
+      ],
+      "epub_count": 10,
+      "epub": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1556842740198,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1556843712883,
+            "volume_old": 1,
+            "chapter_old": 91,
+            "volume": 1,
+            "chapter": 98,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1556812800000,
+            "update_count": 14,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "エリナの成長物語（引き籠り女神の転生）",
+          {
+            "init_date": 1552492800000,
+            "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
+            "epub_date": 1556843713485,
+            "volume_old": 1,
+            "chapter_old": 12,
+            "volume": 1,
+            "chapter": 15,
+            "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
+            "update_date": 1556812800000,
+            "update_count": 6,
+            "segment_date": 1556842746376,
+            "segment_old": 2,
+            "segment": 3
+          }
+        ],
+        [
+          "girl",
+          "ポンコツ少女の電脳世界救世記",
+          {
+            "init_date": 1554739200000,
+            "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
+            "epub_date": 1556843713935,
+            "volume_old": 1,
+            "chapter_old": 8,
+            "volume": 1,
+            "chapter": 10,
+            "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
+            "novel_status": 1,
+            "update_date": 1556812800000,
+            "update_count": 4,
+            "segment_date": 1556151336714,
+            "segment_old": 1,
+            "segment": 1
+          }
+        ],
+        [
+          "girl",
+          "傀儡契約_(n4719ff)",
+          {
+            "init_date": 1551715200000,
+            "epub_date": 1556843714254,
+            "volume_old": 1,
+            "chapter_old": 4,
+            "volume": 1,
+            "chapter": 6,
+            "epub_basename": "傀儡契約.epub",
+            "update_date": 1556812800000,
+            "update_count": 6,
+            "txt_basename": "傀儡契約.out.txt",
+            "segment_date": 1556842808541,
+            "segment_old": 1,
+            "segment": 1
+          }
+        ],
+        [
+          "girl",
+          "魔王の娘の百合戦記",
+          {
+            "init_date": 1555776000000,
+            "txt_basename": "魔王の娘の百合戦記.out.txt",
+            "epub_date": 1556843714865,
+            "volume_old": 1,
+            "chapter_old": 5,
+            "volume": 1,
+            "chapter": 7,
+            "epub_basename": "魔王の娘の百合戦記.epub",
+            "novel_status": 256,
+            "update_date": 1556812800000,
+            "update_count": 4,
+            "segment_date": 1556842813471,
+            "segment_old": 2,
+            "segment": 3
+          }
+        ],
+        [
+          "girl_out",
+          "你這種傢伙別想打贏魔王",
+          {
+            "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
+            "epub_date": 1556843719132,
+            "volume_old": 15,
+            "chapter_old": 117,
+            "volume": 15,
+            "chapter": 123,
+            "epub_basename": "你這種傢伙別想打贏魔王.epub",
+            "novel_status": 769,
+            "init_date": 1550505600000,
+            "update_date": 1556812800000,
+            "update_count": 6
+          }
+        ],
+        [
+          "h_out",
+          "玩了VR工口遊戲轉生到異世界",
+          {
+            "txt_basename": "玩了VR工口遊戲轉生到異世界、將美少女魔.out.txt",
+            "epub_date": 1556843719787,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 9,
+            "epub_basename": "玩了VR工口遊戲轉生到異世界、將美少女魔王奴隸化〜跨越世界的救世主〜.epub",
+            "init_date": 1556843719787,
+            "update_date": 1556812800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "リアリスト魔王による聖域なき異世界改革",
+          {
+            "init_date": 1556812800000,
+            "txt_basename": "現實主義魔王的異世界改革.out.txt",
+            "epub_date": 1556843727220,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 1,
+            "epub_basename": "現實主義魔王的異世界改革.epub",
+            "novel_status": 768,
+            "update_date": 1556812800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "ts",
+          "葉隠桜は嘆かない",
+          {
+            "init_date": 1556812800000,
+            "txt_basename": "葉隱櫻不悲嘆.out.txt",
+            "epub_date": 1556843727399,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 1,
+            "epub_basename": "葉隱櫻不悲嘆.epub",
+            "update_date": 1556812800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "ts_out",
+          "自称贤者弟子的贤者",
+          {
+            "txt_basename": "自称贤者弟子的贤者.out.txt",
+            "epub_date": 1556843733870,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 7,
+            "chapter": 312,
+            "epub_basename": "自称贤者弟子的贤者.epub",
+            "novel_status": 768,
+            "init_date": 1556843733870,
+            "update_date": 1556812800000,
+            "update_count": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1193,7 +1484,7 @@
         "segment_date": 1556756344667,
         "segment_old": 0,
         "segment": 24,
-        "init_date": 1556756344667,
+        "init_date": 1556726400000,
         "txt_basename": "通過扭蛋增加同伴　建立最強美少女軍團.out.txt",
         "epub_date": 1556756369746,
         "volume_old": 0,
@@ -1203,6 +1494,19 @@
         "epub_basename": "通過扭蛋增加同伴　建立最強美少女軍團.epub",
         "novel_status": 768,
         "update_date": 1556726400000,
+        "update_count": 1
+      },
+      "リアリスト魔王による聖域なき異世界改革": {
+        "init_date": 1556812800000,
+        "txt_basename": "現實主義魔王的異世界改革.out.txt",
+        "epub_date": 1556843727220,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 1,
+        "epub_basename": "現實主義魔王的異世界改革.epub",
+        "novel_status": 768,
+        "update_date": 1556812800000,
         "update_count": 1
       }
     },
@@ -1325,12 +1629,12 @@
         "update_count": 1
       },
       "四度目は嫌な死属性魔術師": {
-        "segment_date": 1555892590697,
-        "segment_old": 116,
-        "segment": 16,
+        "segment_date": 1556843688195,
+        "segment_old": 16,
+        "segment": 14,
         "init_date": 1546302039608,
-        "update_date": 1555862400000,
-        "update_count": 12
+        "update_date": 1556812800000,
+        "update_count": 13
       },
       "誰にでもできる影から助ける魔王討伐": {
         "segment_date": 1546302072698,
@@ -3070,6 +3374,18 @@
         "update_count": 2,
         "epub_date": 1553299326902,
         "novel_status": 257
+      },
+      "玩了VR工口遊戲轉生到異世界": {
+        "txt_basename": "玩了VR工口遊戲轉生到異世界、將美少女魔.out.txt",
+        "epub_date": 1556843719787,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 9,
+        "epub_basename": "玩了VR工口遊戲轉生到異世界、將美少女魔王奴隸化〜跨越世界的救世主〜.epub",
+        "init_date": 1556843719787,
+        "update_date": 1556812800000,
+        "update_count": 1
       }
     },
     "kakuyomu_out": {
@@ -3373,19 +3689,19 @@
     },
     "girl": {
       "Genocide Online ～極惡千金的玩遊戲日記～": {
-        "segment_date": 1556151331709,
-        "segment_old": 10,
+        "segment_date": 1556842740198,
+        "segment_old": 1,
         "segment": 1,
         "init_date": 1549641600000,
-        "epub_date": 1556151459730,
+        "epub_date": 1556843712883,
         "volume_old": 1,
-        "chapter_old": 89,
+        "chapter_old": 91,
         "volume": 1,
-        "chapter": 91,
+        "chapter": 98,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1556121600000,
-        "update_count": 13,
+        "update_date": 1556812800000,
+        "update_count": 14,
         "txt_basename": "Genocide Online ～極惡千.out.txt"
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
@@ -3462,16 +3778,16 @@
       },
       "傀儡契約_(n4719ff)": {
         "init_date": 1551715200000,
-        "epub_date": 1555816797557,
+        "epub_date": 1556843714254,
         "volume_old": 1,
-        "chapter_old": 3,
+        "chapter_old": 4,
         "volume": 1,
-        "chapter": 4,
+        "chapter": 6,
         "epub_basename": "傀儡契約.epub",
-        "update_date": 1555776000000,
-        "update_count": 5,
+        "update_date": 1556812800000,
+        "update_count": 6,
         "txt_basename": "傀儡契約.out.txt",
-        "segment_date": 1555805616167,
+        "segment_date": 1556842808541,
         "segment_old": 1,
         "segment": 1
       },
@@ -3492,17 +3808,17 @@
       "エリナの成長物語（引き籠り女神の転生）": {
         "init_date": 1552492800000,
         "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
-        "epub_date": 1555805641158,
+        "epub_date": 1556843713485,
         "volume_old": 1,
-        "chapter_old": 10,
+        "chapter_old": 12,
         "volume": 1,
-        "chapter": 12,
+        "chapter": 15,
         "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
-        "update_date": 1555776000000,
-        "update_count": 5,
-        "segment_date": 1555805606776,
-        "segment_old": 4,
-        "segment": 2
+        "update_date": 1556812800000,
+        "update_count": 6,
+        "segment_date": 1556842746376,
+        "segment_old": 2,
+        "segment": 3
       },
       "三葉物語": {
         "init_date": 1552665600000,
@@ -3548,15 +3864,15 @@
       "ポンコツ少女の電脳世界救世記": {
         "init_date": 1554739200000,
         "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
-        "epub_date": 1556151460226,
+        "epub_date": 1556843713935,
         "volume_old": 1,
-        "chapter_old": 7,
+        "chapter_old": 8,
         "volume": 1,
-        "chapter": 8,
+        "chapter": 10,
         "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
         "novel_status": 1,
-        "update_date": 1556121600000,
-        "update_count": 3,
+        "update_date": 1556812800000,
+        "update_count": 4,
         "segment_date": 1556151336714,
         "segment_old": 1,
         "segment": 1
@@ -3580,18 +3896,18 @@
       "魔王の娘の百合戦記": {
         "init_date": 1555776000000,
         "txt_basename": "魔王の娘の百合戦記.out.txt",
-        "epub_date": 1556151460698,
+        "epub_date": 1556843714865,
         "volume_old": 1,
-        "chapter_old": 4,
+        "chapter_old": 5,
         "volume": 1,
-        "chapter": 5,
+        "chapter": 7,
         "epub_basename": "魔王の娘の百合戦記.epub",
         "novel_status": 256,
-        "update_date": 1556121600000,
-        "update_count": 3,
-        "segment_date": 1556064891982,
-        "segment_old": 0,
-        "segment": 2
+        "update_date": 1556812800000,
+        "update_count": 4,
+        "segment_date": 1556842813471,
+        "segment_old": 2,
+        "segment": 3
       }
     },
     "modern": {
@@ -3614,16 +3930,16 @@
     "girl_out": {
       "你這種傢伙別想打贏魔王": {
         "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
-        "epub_date": 1555200815266,
+        "epub_date": 1556843719132,
         "volume_old": 15,
-        "chapter_old": 115,
+        "chapter_old": 117,
         "volume": 15,
-        "chapter": 117,
+        "chapter": 123,
         "epub_basename": "你這種傢伙別想打贏魔王.epub",
         "novel_status": 769,
         "init_date": 1550505600000,
-        "update_date": 1555171200000,
-        "update_count": 5
+        "update_date": 1556812800000,
+        "update_count": 6
       }
     },
     "ts": {
@@ -3678,6 +3994,26 @@
       },
       "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～": {
         "init_date": 1555689600000
+      },
+      "自称贤者弟子的贤者": {
+        "segment_date": 1556843056195,
+        "segment_old": 0,
+        "segment": 76,
+        "init_date": 1556843056195,
+        "update_date": 1556812800000,
+        "update_count": 1
+      },
+      "葉隠桜は嘆かない": {
+        "init_date": 1556812800000,
+        "txt_basename": "葉隱櫻不悲嘆.out.txt",
+        "epub_date": 1556843727399,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 1,
+        "epub_basename": "葉隱櫻不悲嘆.epub",
+        "update_date": 1556812800000,
+        "update_count": 1
       }
     },
     "ts_out": {
@@ -3715,6 +4051,19 @@
         "epub_basename": "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～.epub",
         "init_date": 1555689600000,
         "update_date": 1555689600000,
+        "update_count": 1
+      },
+      "自称贤者弟子的贤者": {
+        "txt_basename": "自称贤者弟子的贤者.out.txt",
+        "epub_date": 1556843733870,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 7,
+        "chapter": 312,
+        "epub_basename": "自称贤者弟子的贤者.epub",
+        "novel_status": 768,
+        "init_date": 1556843733870,
+        "update_date": 1556812800000,
         "update_count": 1
       }
     },
@@ -5396,6 +5745,7 @@
           ]
         },
         "contribute": [
+          "6757",
           "Genora"
         ],
         "options": {
@@ -6054,7 +6404,8 @@
             "百合",
             "魔法",
             "魔王"
-          ]
+          ],
+          "title_zh3": "你这种家伙别想打赢魔王"
         },
         "contribute": [
           "6667787#6757",
@@ -6342,57 +6693,6 @@
           "[未来与初音](https://pan.baidu.com/s/1kWDMduv) qw4u"
         ]
       },
-      "玩了VR工口遊戲轉生到異世界": {
-        "novel": {
-          "title": "VRエロゲーやってたら異世界に転生したので、美少女魔王を奴隷化する　〜クロスアウト・セイバー〜",
-          "title_zh": "玩了VR工口遊戲轉生到異世界、將美少女魔王奴隸化〜跨越世界的救世主〜",
-          "author": "仁科朝丸",
-          "illust": "TAKTO",
-          "source": "http://novel18.syosetu.com/n3640eg/",
-          "cover": "https://images-na.ssl-images-amazon.com/images/I/81MRO7r-07L.jpg",
-          "publisher": "syosetu",
-          "date": "2018-07-29T22:21:00+08:00",
-          "status": "連載",
-          "series": {
-            "name": "VRエロゲーやってたら異世界に転生したので、美少女魔王を奴隷化する　〜クロスアウト・セイバー〜"
-          },
-          "preface": "玩VR對應的工口遊戲時發生悲慘意外死亡的主人公，\n因女神的考量而轉生到了遊戲中的異世界。\n\n轉生時得到的恩惠是【馴服（奴隷化）】特化的技能和狀態值。\n\n在這個遊戲中，能脫去女性敵人的衣物並給予快感\n還能將他們招降為自己同伴的一員（奴隷化）。\n\n當主人公在對上BOSS級的強敵時，意外馴服（奴隷化）並吸收了她的能力\n這是得到美少女的他，踏上自由冒險旅程的故事。\n\n\n\n*作者溫馨提醒： 標題末尾有▲代表有一定程度上、例如愛撫Ｈ場景。\n                標題末尾有★代表有正戲的場景描述。\n\n*譯者：本篇譯文皆翻自WEB無刪減版本（小説家になろう），並非文庫版。\n       文中不乏18禁文字敘述，未成年者可參閱刪減版本（カクヨム）。\n\n（追記：書籍版第２巻、ファミ通文庫から発売中です！）\n（コミカライズ決定しました！！　コミックヴァルキリーにて連載予定です！）\n\n　ＶＲ対応のエロゲーをプレイ中に事故死、という悲惨な最期を遂げた主人公は、女神の計らいでゲーム世界に転生させてもらう。\n　転生時の特典として得たのは、【テイム（奴隷化）】特化のスキルとステータス。\n　このゲームでは、女性型のあらゆる敵を脱がし、快感を与えることで、手なずけることができるのだった。\n　ボス級の強敵をサクッとテイムし、その能力を吸収した主人公は、行く先々で美少女を手なずけながら、自由に道を突き進んでいく。\n\n（末尾に▲のあるタイトルには、愛撫程度のＨシーンあり。★のあるタイトルには本番シーンありです）",
-          "tags": [
-            "VR",
-            "node-novel",
-            "novel18",
-            "syosetu",
-            "スキル",
-            "ハーレム",
-            "ファンタジー",
-            "主人公最強",
-            "冒険",
-            "強制脱衣",
-            "残酷な描写あり",
-            "男主人公",
-            "男性視点",
-            "異世界転生",
-            "飼い慣らし"
-          ]
-        },
-        "contribute": [
-          "章魚子"
-        ],
-        "options": {
-          "syosetu": {
-            "txtdownload_id": "1103530"
-          },
-          "textlayout": {
-            "allow_lf2": true
-          }
-        },
-        "link": [
-          "[dip.jp](https://narou18.dip.jp/search.php?text=n3640eg&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[kakuyomu.jp](https://kakuyomu.jp/works/1177354054885380132)",
-          "[章魚子](https://pan.baidu.com/s/1xOs1KZ4SuEwoXZcgA9rVDQ) wu2f",
-          "[漫畫](https://manhua.dmzj.com/vryouxizhuanshengyishijietiaojiaomowangmeishaonvcl/ \"VR游戏转生异世界调教魔王美少女 clothout·saber\")"
-        ]
-      },
       "異世界の男は全滅したようです": {
         "novel": {
           "title": "異世界の男は全滅したようです",
@@ -6645,6 +6945,57 @@
           "[dip.jp](https://narou18.nar.jp/search.php?text=n7623br&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "http://lscj.ys168.com/",
           "https://tieba.baidu.com/p/4254108193?red_tag=0127070180"
+        ]
+      },
+      "玩了VR工口遊戲轉生到異世界": {
+        "novel": {
+          "title": "VRエロゲーやってたら異世界に転生したので、美少女魔王を奴隷化する　〜クロスアウト・セイバー〜",
+          "title_zh": "玩了VR工口遊戲轉生到異世界、將美少女魔王奴隸化〜跨越世界的救世主〜",
+          "author": "仁科朝丸",
+          "illust": "TAKTO",
+          "source": "http://novel18.syosetu.com/n3640eg/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/81MRO7r-07L.jpg",
+          "publisher": "syosetu",
+          "date": "2018-07-29T22:21:00+08:00",
+          "status": "連載",
+          "series": {
+            "name": "VRエロゲーやってたら異世界に転生したので、美少女魔王を奴隷化する　〜クロスアウト・セイバー〜"
+          },
+          "preface": "玩VR對應的工口遊戲時發生悲慘意外死亡的主人公，\n因女神的考量而轉生到了遊戲中的異世界。\n\n轉生時得到的恩惠是【馴服（奴隷化）】特化的技能和狀態值。\n\n在這個遊戲中，能脫去女性敵人的衣物並給予快感\n還能將他們招降為自己同伴的一員（奴隷化）。\n\n當主人公在對上BOSS級的強敵時，意外馴服（奴隷化）並吸收了她的能力\n這是得到美少女的他，踏上自由冒險旅程的故事。\n\n\n\n*作者溫馨提醒： 標題末尾有▲代表有一定程度上、例如愛撫Ｈ場景。\n                標題末尾有★代表有正戲的場景描述。\n\n*譯者：本篇譯文皆翻自WEB無刪減版本（小説家になろう），並非文庫版。\n       文中不乏18禁文字敘述，未成年者可參閱刪減版本（カクヨム）。\n\n（追記：書籍版第２巻、ファミ通文庫から発売中です！）\n（コミカライズ決定しました！！　コミックヴァルキリーにて連載予定です！）\n\n　ＶＲ対応のエロゲーをプレイ中に事故死、という悲惨な最期を遂げた主人公は、女神の計らいでゲーム世界に転生させてもらう。\n　転生時の特典として得たのは、【テイム（奴隷化）】特化のスキルとステータス。\n　このゲームでは、女性型のあらゆる敵を脱がし、快感を与えることで、手なずけることができるのだった。\n　ボス級の強敵をサクッとテイムし、その能力を吸収した主人公は、行く先々で美少女を手なずけながら、自由に道を突き進んでいく。\n\n（末尾に▲のあるタイトルには、愛撫程度のＨシーンあり。★のあるタイトルには本番シーンありです）",
+          "tags": [
+            "VR",
+            "node-novel",
+            "novel18",
+            "syosetu",
+            "スキル",
+            "ハーレム",
+            "ファンタジー",
+            "主人公最強",
+            "冒険",
+            "強制脱衣",
+            "残酷な描写あり",
+            "男主人公",
+            "男性視点",
+            "異世界転生",
+            "飼い慣らし"
+          ]
+        },
+        "contribute": [
+          "章魚子"
+        ],
+        "options": {
+          "syosetu": {
+            "txtdownload_id": "1103530"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou18.dip.jp/search.php?text=n3640eg&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[kakuyomu.jp](https://kakuyomu.jp/works/1177354054885380132)",
+          "[章魚子](https://pan.baidu.com/s/1xOs1KZ4SuEwoXZcgA9rVDQ) wu2f",
+          "[漫畫](https://manhua.dmzj.com/vryouxizhuanshengyishijietiaojiaomowangmeishaonvcl/ \"VR游戏转生异世界调教魔王美少女 clothout·saber\")"
         ]
       }
     },
@@ -7746,6 +8097,79 @@
         "link": [
           "[dip.jp](https://narou.dip.jp/search.php?text=n1489eq&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[尼特的慵懒异世界吧](https://tieba.baidu.com/f?kw=%E5%B0%BC%E7%89%B9%E7%9A%84%E6%85%B5%E6%87%92%E5%BC%82%E4%B8%96%E7%95%8C&ie=utf-8 \"尼特的慵懒异世界\")"
+        ]
+      },
+      "リアリスト魔王による聖域なき異世界改革": {
+        "novel": {
+          "title": "リアリスト魔王による聖域なき異世界改革",
+          "title_zh": "現實主義魔王的異世界改革",
+          "author": "羽田遼亮",
+          "illust": "ゆーげん",
+          "illusts": [
+            "铃木マナツ"
+          ],
+          "source": "http://ncode.syosetu.com/n2360eu/",
+          "cover": "http://dengekionline.com/elem/000/001/868/1868009/006_cs1w1_1000x718.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-04-28T09:14:00+08:00",
+          "status": "連載",
+          "novel_status": 768,
+          "series": {
+            "name": "リアリスト魔王による聖域なき異世界改革"
+          },
+          "preface": "在腐朽的城堡裡，作為魔王醒來的亞斯特。\n有前世知識的他，作為徹底的『現實主義者』經營著領地。\n\n「魔王大人，你為什麼要襲擊等級1的勇者？」\n「在長大之前打倒。這就是兵法。」\n\n「魔王大人，你打算把偽幣送到敵國去嗎？」\n「讓敵國的經濟陷入混亂，自取滅亡」\n\n「人狼部隊攻過來了。你用銀子彈嗎？」\n「不是子彈，而是大炮」\n\n就這樣『改革』了舊體制的亞斯特。\n成為民眾和部下都喜愛的領主的他，不久就被稱為歷代最強的魔王。\n\n【書籍版、好評発売中！　コミカライズ連載中！】\n\n朽ち果てた城で、魔王として目覚めたアシト。\n『前世の知識』がある彼は、徹底的な『リアリスト』として領地を経営していく。\n\n「魔王様、なんでレベル1の勇者を襲うんですか？」\n「育ちきる前に倒す。それが兵法だ」 \n\n「魔王様、偽金を敵国に送ってどうするのですか？」\n「敵国の経済を混乱させて自滅させる」\n\n「人狼部隊が攻めてきました。銀の弾丸を使いますか？」\n「弾丸ではなく、大砲をぶち込め」\n\nこうして古い体質を『改革』したアシト。\n民衆からも部下からも愛される領主になった彼は、やがて歴代最強の魔王と呼ばれることになる。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "さすごしゅ",
+            "オリジナル戦記",
+            "コミカライズ",
+            "ハイファンタジー",
+            "ハイファンタジー〔ファンタジー〕",
+            "ファンタジー",
+            "マキャベリズム",
+            "主人公最強",
+            "内政",
+            "外交",
+            "戦争",
+            "書籍化",
+            "歴史上の英雄",
+            "残酷な描写あり",
+            "現実主義者",
+            "異世界",
+            "知略",
+            "知識チート",
+            "魔法"
+          ]
+        },
+        "contribute": [
+          "動漫我生命"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n2360eu"
+          },
+          "textlayout": {
+            "allow_lf2": false
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n2360eu&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n2360eu/)",
+          "http://www.dm5.com/manhua-xianshizhuyimowangdeyishijiegaige/",
+          "[现实主义魔王的异世界改革吧](https://tieba.baidu.com/f?kw=%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E9%AD%94%E7%8E%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E6%94%B9%E9%9D%A9&ie=utf-8 \"现实主义魔王的异世界改革\")",
+          "https://comic-walker.com/contents/detail/KDCW_AM01200774010000_68/"
         ]
       },
       "レベル１の最強賢者": {
@@ -11658,55 +12082,6 @@
           "[魔王军最强的魔术师是人类吧](https://tieba.baidu.com/f?kw=%E9%AD%94%E7%8E%8B%E5%86%9B%E6%9C%80%E5%BC%BA%E7%9A%84%E9%AD%94%E6%9C%AF%E5%B8%88%E6%98%AF%E4%BA%BA%E7%B1%BB&ie=utf-8 \"魔王军最强的魔术师是人类\")",
           "[第一章登场角色](https://tieba.baidu.com/p/5860443910 \"第一章登场角色\")"
         ]
-      },
-      "玩了VR工口遊戲轉生到異世界": {
-        "novel": {
-          "title": "VRエロゲーやってたら異世界に転生したので、美少女魔王を奴隷化する　〜クロスアウト・セイバー〜",
-          "title_zh": "玩了VR工口遊戲轉生到異世界、將美少女魔王奴隸化〜跨越世界的救世主〜",
-          "author": "仁科朝丸",
-          "source": "http://novel18.syosetu.com/n3640eg/",
-          "cover": "https://images-na.ssl-images-amazon.com/images/I/81MRO7r-07L.jpg",
-          "publisher": "syosetu",
-          "date": "2018-07-29T22:21:00+08:00",
-          "status": "連載",
-          "series": {
-            "name": "VRエロゲーやってたら異世界に転生したので、美少女魔王を奴隷化する　〜クロスアウト・セイバー〜"
-          },
-          "preface": "玩VR對應的工口遊戲時發生悲慘意外死亡的主人公，\n因女神的考量而轉生到了遊戲中的異世界。\n\n轉生時得到的恩惠是【馴服（奴隷化）】特化的技能和狀態值。\n\n在這個遊戲中，能脫去女性敵人的衣物並給予快感\n還能將他們招降為自己同伴的一員（奴隷化）。\n\n當主人公在對上BOSS級的強敵時，意外馴服（奴隷化）並吸收了她的能力\n這是得到美少女的他，踏上自由冒險旅程的故事。\n\n\n\n*作者溫馨提醒： 標題末尾有▲代表有一定程度上、例如愛撫Ｈ場景。\n                標題末尾有★代表有正戲的場景描述。\n\n*譯者：本篇譯文皆翻自WEB無刪減版本（小説家になろう），並非文庫版。\n       文中不乏18禁文字敘述，未成年者可參閱刪減版本（カクヨム）。\n\n（追記：書籍版第２巻、ファミ通文庫から発売中です！）\n（コミカライズ決定しました！！　コミックヴァルキリーにて連載予定です！）\n\n　ＶＲ対応のエロゲーをプレイ中に事故死、という悲惨な最期を遂げた主人公は、女神の計らいでゲーム世界に転生させてもらう。\n　転生時の特典として得たのは、【テイム（奴隷化）】特化のスキルとステータス。\n　このゲームでは、女性型のあらゆる敵を脱がし、快感を与えることで、手なずけることができるのだった。\n　ボス級の強敵をサクッとテイムし、その能力を吸収した主人公は、行く先々で美少女を手なずけながら、自由に道を突き進んでいく。\n\n（末尾に▲のあるタイトルには、愛撫程度のＨシーンあり。★のあるタイトルには本番シーンありです）",
-          "tags": [
-            "node-novel",
-            "novel18",
-            "syosetu",
-            "スキル",
-            "ハーレム",
-            "ファンタジー",
-            "主人公最強",
-            "冒険",
-            "強制脱衣",
-            "残酷な描写あり",
-            "男主人公",
-            "男性視点",
-            "異世界転生",
-            "飼い慣らし"
-          ]
-        },
-        "contribute": [
-          "章魚子"
-        ],
-        "options": {
-          "syosetu": {
-            "txtdownload_id": "1103530"
-          },
-          "textlayout": {
-            "allow_lf2": true
-          }
-        },
-        "link": [
-          "[dip.jp](https://narou18.dip.jp/search.php?text=n3640eg&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[kakuyomu.jp](https://kakuyomu.jp/works/1177354054885380132)",
-          "[章魚子](https://pan.baidu.com/s/1xOs1KZ4SuEwoXZcgA9rVDQ) wu2f",
-          "[漫畫](https://manhua.dmzj.com/vryouxizhuanshengyishijietiaojiaomowangmeishaonvcl/ \"VR游戏转生异世界调教魔王美少女 clothout·saber\")"
-        ]
       }
     },
     "ts_out": {
@@ -11930,6 +12305,80 @@
           "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=82&page=1)",
           "[loli转生吧](https://tieba.baidu.com/f?kw=loli%E8%BD%AC%E7%94%9F&ie=utf-8 \"\")"
         ]
+      },
+      "自称贤者弟子的贤者": {
+        "novel": {
+          "title": "自稱賢者弟子的賢者",
+          "title_jp": "賢者の弟子を名乗る賢者",
+          "author": "りゅうせんひろつぐ",
+          "illusts": [
+            "藤ちょこ",
+            "すえみつぢっか"
+          ],
+          "source": "http://ncode.syosetu.com/n6829bd/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/91Qk3leml-L.jpg",
+          "publisher": "syosetu",
+          "date": "2018-07-26T19:52:00+08:00",
+          "status": "連載",
+          "novel_status": 768,
+          "series": {
+            "name": "賢者の弟子を名乗る賢者"
+          },
+          "preface": "在VRMMO游戏ArcEarthonline中，扮演九贤者之一，召唤师邓布鲁夫・冈达德亚一角的咲森鉴，突然在游戏的梦境中发生了逆转，跌落进了已经成为了现实的游戏世界中。\n\n而且，老练威严的贤者居然变成了楚楚可怜的少女。。。 \n这样岂不是要让建立至今贤者的威严就此瓦解！\n想到这些的咲森鉴决定，用贤者弟子米拉的名义\n\n转生后的美少女冒险梦幻的金字塔，开幕！",
+          "tags": [
+            "MMO",
+            "TS",
+            "VRMMO",
+            "node-novel",
+            "syosetu",
+            "ファンタジー",
+            "ロリジジイ？",
+            "ロリババア",
+            "冒険",
+            "冒險",
+            "奇幻",
+            "性転換",
+            "残酷な描写あり",
+            "異世界",
+            "異世界転移",
+            "穿越",
+            "賢者",
+            "遊戲",
+            "魔法"
+          ]
+        },
+        "contribute": [
+          "6667787#6757",
+          "Aster",
+          "BrianZSYJ",
+          "ReadBook642",
+          "blackkanon",
+          "chenyushang",
+          "iop78988",
+          "michaelbb2DkN",
+          "whoisit080",
+          "◆葉籽◆",
+          "一梯退三歩",
+          "乃木板初桂",
+          "休闲飛",
+          "奈落的红叶",
+          "崇寅之月",
+          "影宝醬",
+          "星煌之羽",
+          "百元便当",
+          "贤狼赫萝",
+          "邊緣佳",
+          "重子葉"
+        ],
+        "options": {
+          "textlayout": {}
+        },
+        "link": [
+          "[dip.jp](https://narou.dip.jp/search.php?text=n6829bd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[自称贤者弟子的贤者](https://tieba.baidu.com/f?kw=%E8%87%AA%E7%A7%B0%E8%B4%A4%E8%80%85%E5%BC%9F%E5%AD%90%E7%9A%84%E8%B4%A4%E8%80%85&ie=utf-8 \"自称贤者弟子的贤者\")",
+          "[epub / txt 持續更新](https://tieba.baidu.com/p/5664828470) <== 推薦觀看此版本",
+          "[dm5](http://www.dm5.com/manhua-zichenxianzhedizidexianzhe/)"
+        ]
       }
     },
     "ts": {
@@ -12000,6 +12449,74 @@
         "link": [
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n4236dr&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[吸血鬼少女想变回男人吧](https://tieba.baidu.com/f?kw=%E5%90%B8%E8%A1%80%E9%AC%BC%E5%B0%91%E5%A5%B3%E6%83%B3%E5%8F%98%E5%9B%9E%E7%94%B7%E4%BA%BA&ie=utf-8 \"吸血鬼少女想变回男人\")"
+        ]
+      },
+      "葉隠桜は嘆かない": {
+        "novel": {
+          "title": "葉隠桜は嘆かない",
+          "title_zh": "葉隱櫻不悲嘆",
+          "author": "玖洞",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n4912do/",
+          "cover": "",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-05-02T01:10:00+08:00",
+          "status": "連載",
+          "novel_status": 0,
+          "series": {
+            "name": "葉隠桜は嘆かない"
+          },
+          "preface": "――空が割れ、現代社会に魔獣が現れるようになった世界。\n\n魔獣に対抗するために『魔法少女』と呼ばれる少女たちが活躍するようになって早三十年。\nとある路地の片隅で、一人の少年が死にかけていた。\n\n「小僧。お前、救われたいか？」\n\nそう言って、黒猫は少年の顔を覗き込んだ。\n\n血に塗れた四肢を引きずりながら、霞みそうな意識の中で、少年はしっかりと頷いた。\nたとえそれが悪魔の取引だと分かっていても。\n\n黒猫は嗤う。\n\n「そうか。――ならば巣食ってやる」\n\n――その日、誰も知らない路地裏で一人の『魔法少女』が生まれた。\n『彼女』は決して嘆かない。たとえどんな未来が待ち受けていようとも。\n\n※日本を舞台にした現代ファンタジーです。TS注意。\n\n2019/1/23　改稿開始。連載中。",
+          "tags": [
+            "ESN大賞",
+            "HJ大賞2019",
+            "R15",
+            "node-novel",
+            "syosetu",
+            "ややシリアス",
+            "ファンタジー",
+            "ローファンタジー",
+            "ローファンタジー〔ファンタジー〕",
+            "人間賛歌",
+            "友情",
+            "変身",
+            "天災",
+            "怪獣",
+            "残酷な描写あり",
+            "現代",
+            "男主人公",
+            "異能力バトル",
+            "神様",
+            "魔法少女",
+            "ＴＳ"
+          ]
+        },
+        "contribute": [
+          "6757",
+          "虚雪之葎"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n4912do"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n4912do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n4912do/)",
+          "[叶隐樱不悲叹吧](https://tieba.baidu.com/f?kw=%E5%8F%B6%E9%9A%90%E6%A8%B1%E4%B8%8D%E6%82%B2%E5%8F%B9&ie=utf-8&tp=0 \"叶隐樱不悲叹\")"
         ]
       },
       "變成了美少女、但也成了網游廢人。": {
@@ -13914,80 +14431,6 @@
           "[dip.jp](https://narou.dip.jp/search.php?text=n5645ci&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[1~131TXT](https://tieba.baidu.com/p/4747288886 \"1~131TXT\")",
           "[轮到自己转移去异世界](https://tieba.baidu.com/f?kw=%E8%BD%AE%E5%88%B0%E8%87%AA%E5%B7%B1%E8%BD%AC%E7%A7%BB%E5%8E%BB%E5%BC%82%E4%B8%96%E7%95%8C)"
-        ]
-      },
-      "自称贤者弟子的贤者": {
-        "novel": {
-          "title": "自稱賢者弟子的賢者",
-          "title_jp": "賢者の弟子を名乗る賢者",
-          "author": "りゅうせんひろつぐ",
-          "illusts": [
-            "藤ちょこ",
-            "すえみつぢっか"
-          ],
-          "source": "http://ncode.syosetu.com/n6829bd/",
-          "cover": "https://images-na.ssl-images-amazon.com/images/I/91Qk3leml-L.jpg",
-          "publisher": "syosetu",
-          "date": "2018-07-26T19:52:00+08:00",
-          "status": "連載",
-          "novel_status": 768,
-          "series": {
-            "name": "賢者の弟子を名乗る賢者"
-          },
-          "preface": "在VRMMO游戏ArcEarthonline中，扮演九贤者之一，召唤师邓布鲁夫・冈达德亚一角的咲森鉴，突然在游戏的梦境中发生了逆转，跌落进了已经成为了现实的游戏世界中。\n\n而且，老练威严的贤者居然变成了楚楚可怜的少女。。。 \n这样岂不是要让建立至今贤者的威严就此瓦解！\n想到这些的咲森鉴决定，用贤者弟子米拉的名义\n\n转生后的美少女冒险梦幻的金字塔，开幕！",
-          "tags": [
-            "MMO",
-            "TS",
-            "VRMMO",
-            "node-novel",
-            "syosetu",
-            "ファンタジー",
-            "ロリジジイ？",
-            "ロリババア",
-            "冒険",
-            "冒險",
-            "奇幻",
-            "性転換",
-            "残酷な描写あり",
-            "異世界",
-            "異世界転移",
-            "穿越",
-            "賢者",
-            "遊戲",
-            "魔法"
-          ]
-        },
-        "contribute": [
-          "6667787#6757",
-          "Aster",
-          "BrianZSYJ",
-          "ReadBook642",
-          "blackkanon",
-          "chenyushang",
-          "iop78988",
-          "michaelbb2DkN",
-          "whoisit080",
-          "◆葉籽◆",
-          "一梯退三歩",
-          "乃木板初桂",
-          "休闲飛",
-          "奈落的红叶",
-          "崇寅之月",
-          "影宝醬",
-          "星煌之羽",
-          "百元便当",
-          "贤狼赫萝",
-          "邊緣佳",
-          "重子葉"
-        ],
-        "options": {
-          "textlayout": {}
-        },
-        "link": [
-          "[dip.jp](https://narou.dip.jp/search.php?text=n6829bd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[自称贤者弟子的贤者](https://tieba.baidu.com/f?kw=%E8%87%AA%E7%A7%B0%E8%B4%A4%E8%80%85%E5%BC%9F%E5%AD%90%E7%9A%84%E8%B4%A4%E8%80%85&ie=utf-8 \"自称贤者弟子的贤者\")",
-          "[epub / txt 持續更新](https://tieba.baidu.com/p/5664828470) <== 推薦使用觀看此版本",
-          "[dm5](http://www.dm5.com/manhua-zichenxianzhedizidexianzhe/)"
         ]
       },
       "蘇りの魔王": {

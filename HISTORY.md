@@ -1,5 +1,45 @@
 # HISTORY
 
+## 2019-05-03
+
+### Epub
+
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( v: 1 , c: 98, add: 7 )
+- [エリナの成長物語（引き籠り女神の転生）](girl/%E3%82%A8%E3%83%AA%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7%E7%89%A9%E8%AA%9E%EF%BC%88%E5%BC%95%E3%81%8D%E7%B1%A0%E3%82%8A%E5%A5%B3%E7%A5%9E%E3%81%AE%E8%BB%A2%E7%94%9F%EF%BC%89) - girl
+  <br/>( v: 1 , c: 15, add: 3 )
+- [ポンコツ少女の電脳世界救世記](girl/%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E5%B0%91%E5%A5%B3%E3%81%AE%E9%9B%BB%E8%84%B3%E4%B8%96%E7%95%8C%E6%95%91%E4%B8%96%E8%A8%98) - girl
+  <br/>( v: 1 , c: 10, add: 2 )
+- [傀儡契約_(n4719ff)](girl/%E5%82%80%E5%84%A1%E5%A5%91%E7%B4%84_(n4719ff)) - girl
+  <br/>( v: 1 , c: 6, add: 2 )
+- [魔王の娘の百合戦記](girl/%E9%AD%94%E7%8E%8B%E3%81%AE%E5%A8%98%E3%81%AE%E7%99%BE%E5%90%88%E6%88%A6%E8%A8%98) - girl
+  <br/>( v: 1 , c: 7, add: 2 )
+- [你這種傢伙別想打贏魔王](girl_out/%E4%BD%A0%E9%80%99%E7%A8%AE%E5%82%A2%E4%BC%99%E5%88%A5%E6%83%B3%E6%89%93%E8%B4%8F%E9%AD%94%E7%8E%8B) - girl_out
+  <br/>( v: 15 , c: 123, add: 6 )
+- [玩了VR工口遊戲轉生到異世界](h_out/%E7%8E%A9%E4%BA%86VR%E5%B7%A5%E5%8F%A3%E9%81%8A%E6%88%B2%E8%BD%89%E7%94%9F%E5%88%B0%E7%95%B0%E4%B8%96%E7%95%8C) - h_out
+  <br/>( v: 1 , c: 9, add: 9 )
+- [リアリスト魔王による聖域なき異世界改革](syosetu/%E3%83%AA%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%88%E9%AD%94%E7%8E%8B%E3%81%AB%E3%82%88%E3%82%8B%E8%81%96%E5%9F%9F%E3%81%AA%E3%81%8D%E7%95%B0%E4%B8%96%E7%95%8C%E6%94%B9%E9%9D%A9) - syosetu
+  <br/>( v: 1 , c: 1, add: 1 )
+- [葉隠桜は嘆かない](ts/%E8%91%89%E9%9A%A0%E6%A1%9C%E3%81%AF%E5%98%86%E3%81%8B%E3%81%AA%E3%81%84) - ts
+  <br/>( v: 1 , c: 1, add: 1 )
+- [自称贤者弟子的贤者](ts_out/%E8%87%AA%E7%A7%B0%E8%B4%A4%E8%80%85%E5%BC%9F%E5%AD%90%E7%9A%84%E8%B4%A4%E8%80%85) - ts_out
+  <br/>( v: 7 , c: 312, add: 312 )
+
+### Segment
+
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( s: 1 )
+- [エリナの成長物語（引き籠り女神の転生）](girl/%E3%82%A8%E3%83%AA%E3%83%8A%E3%81%AE%E6%88%90%E9%95%B7%E7%89%A9%E8%AA%9E%EF%BC%88%E5%BC%95%E3%81%8D%E7%B1%A0%E3%82%8A%E5%A5%B3%E7%A5%9E%E3%81%AE%E8%BB%A2%E7%94%9F%EF%BC%89) - girl
+  <br/>( s: 3 )
+- [傀儡契約_(n4719ff)](girl/%E5%82%80%E5%84%A1%E5%A5%91%E7%B4%84_(n4719ff)) - girl
+  <br/>( s: 1 )
+- [魔王の娘の百合戦記](girl/%E9%AD%94%E7%8E%8B%E3%81%AE%E5%A8%98%E3%81%AE%E7%99%BE%E5%90%88%E6%88%A6%E8%A8%98) - girl
+  <br/>( s: 3 )
+- [自称贤者弟子的贤者](ts/%E8%87%AA%E7%A7%B0%E8%B4%A4%E8%80%85%E5%BC%9F%E5%AD%90%E7%9A%84%E8%B4%A4%E8%80%85) - ts
+  <br/>( s: 76 )
+- [四度目は嫌な死属性魔術師](user/%E5%9B%9B%E5%BA%A6%E7%9B%AE%E3%81%AF%E5%AB%8C%E3%81%AA%E6%AD%BB%E5%B1%9E%E6%80%A7%E9%AD%94%E8%A1%93%E5%B8%AB) - user
+  <br/>( s: 14 )
+
 ## 2019-05-02
 
 ### Epub
