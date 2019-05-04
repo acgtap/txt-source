@@ -90,7 +90,7 @@
 
 ## textlayout
 
-- allow_lf2: true
+- allow_lf2: false
 
 # link
 
@@ -98,7 +98,5 @@
 - [我异世界的姐妹很不自重吧](https://tieba.baidu.com/f?kw=%E6%88%91%E5%BC%82%E4%B8%96%E7%95%8C%E7%9A%84%E5%A7%90%E5%A6%B9%E5%BE%88%E4%B8%8D%E8%87%AA%E9%87%8D&ie=utf-8 "我异世界的姐妹很不自重")
 - [masiro.moe](http://masiro.moe/forum.php?mod=forumdisplay&fid=61&page=1)
 - https://comic-walker.com/contents/detail/KDCW_MF00000039010000_68/
+- [二階堂真紅 txt](https://drive.google.com/drive/folders/1Mt1hL7QtayCwhCWXacp-UZY4Kw9bcbGI)
 - 
-
-
-
