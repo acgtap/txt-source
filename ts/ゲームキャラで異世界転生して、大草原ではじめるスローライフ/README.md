@@ -101,6 +101,5 @@ VRMMO全盛期にレトロ系MMORPGをプレイしていた主人公は、いつ
 - [narou.nar.jp](https://narou.nar.jp/search.php?text=n1695cq&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n1695cq/)
 - [以游戏角色的异世界转生～由大草原开始的慢节奏生活～](https://tieba.baidu.com/p/6031960273?red_tag=0288847927)
+- [以游戏角色的异世界转生吧](https://tieba.baidu.com/f?kw=%E4%BB%A5%E6%B8%B8%E6%88%8F%E8%A7%92%E8%89%B2%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E8%BD%AC%E7%94%9F&ie=utf-8 "以游戏角色的异世界转生")
 - 
-
-
