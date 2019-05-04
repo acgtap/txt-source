@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1556812800000,
-    "timestamp": 1556843749576,
+    "todayTimestamp": 1556899200000,
+    "timestamp": 1556929247089,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -998,6 +998,78 @@
           }
         ]
       ]
+    },
+    "1556899200000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "user",
+          "魔王様、リトライ！",
+          {
+            "segment_date": 1556929213468,
+            "segment_old": 24,
+            "segment": 7,
+            "init_date": 1545521369284,
+            "update_date": 1556899200000,
+            "update_count": 6
+          }
+        ]
+      ],
+      "epub_count": 3,
+      "epub": [
+        [
+          "girl",
+          "傀儡契約_(n4719ff)",
+          {
+            "init_date": 1551715200000,
+            "epub_date": 1556929234193,
+            "volume_old": 1,
+            "chapter_old": 6,
+            "volume": 1,
+            "chapter": 6,
+            "epub_basename": "傀儡契約.epub",
+            "update_date": 1556899200000,
+            "update_count": 7,
+            "txt_basename": "傀儡契約.out.txt",
+            "segment_date": 1556842808541,
+            "segment_old": 1,
+            "segment": 1
+          }
+        ],
+        [
+          "ts",
+          "ゲームキャラで異世界転生して、大草原ではじめるスローライフ",
+          {
+            "init_date": 1556899200000,
+            "txt_basename": "以游戲角色的異世界轉生～由大草原開始的慢.out.txt",
+            "epub_date": 1556929234888,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 3,
+            "epub_basename": "以游戲角色的異世界轉生～由大草原開始的慢節奏生活～.epub",
+            "novel_status": 257,
+            "update_date": 1556899200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "ts",
+          "朝起きたら銀髪ロリ吸血鬼になっていた（小並感）",
+          {
+            "init_date": 1556899200000,
+            "txt_basename": "早上起來變成銀髮蘿莉吸血鬼了.out.txt",
+            "epub_date": 1556929237499,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 18,
+            "epub_basename": "早上起來變成銀髮蘿莉吸血鬼了.epub",
+            "update_date": 1556899200000,
+            "update_count": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1526,12 +1598,12 @@
         "init_date": 1545521341885
       },
       "魔王様、リトライ！": {
-        "segment_date": 1550361110020,
-        "segment_old": 3,
-        "segment": 24,
+        "segment_date": 1556929213468,
+        "segment_old": 24,
+        "segment": 7,
         "init_date": 1545521369284,
-        "update_date": 1550332800000,
-        "update_count": 5
+        "update_date": 1556899200000,
+        "update_count": 6
       },
       "虫虫酱むいむいたん": {
         "init_date": 1545494400000,
@@ -3383,7 +3455,7 @@
         "volume": 1,
         "chapter": 9,
         "epub_basename": "玩了VR工口遊戲轉生到異世界、將美少女魔王奴隸化〜跨越世界的救世主〜.epub",
-        "init_date": 1556843719787,
+        "init_date": 1556812800000,
         "update_date": 1556812800000,
         "update_count": 1
       }
@@ -3778,14 +3850,14 @@
       },
       "傀儡契約_(n4719ff)": {
         "init_date": 1551715200000,
-        "epub_date": 1556843714254,
+        "epub_date": 1556929234193,
         "volume_old": 1,
-        "chapter_old": 4,
+        "chapter_old": 6,
         "volume": 1,
         "chapter": 6,
         "epub_basename": "傀儡契約.epub",
-        "update_date": 1556812800000,
-        "update_count": 6,
+        "update_date": 1556899200000,
+        "update_count": 7,
         "txt_basename": "傀儡契約.out.txt",
         "segment_date": 1556842808541,
         "segment_old": 1,
@@ -3999,7 +4071,7 @@
         "segment_date": 1556843056195,
         "segment_old": 0,
         "segment": 76,
-        "init_date": 1556843056195,
+        "init_date": 1556812800000,
         "update_date": 1556812800000,
         "update_count": 1
       },
@@ -4013,6 +4085,31 @@
         "chapter": 1,
         "epub_basename": "葉隱櫻不悲嘆.epub",
         "update_date": 1556812800000,
+        "update_count": 1
+      },
+      "ゲームキャラで異世界転生して、大草原ではじめるスローライフ": {
+        "init_date": 1556899200000,
+        "txt_basename": "以游戲角色的異世界轉生～由大草原開始的慢.out.txt",
+        "epub_date": 1556929234888,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 3,
+        "epub_basename": "以游戲角色的異世界轉生～由大草原開始的慢節奏生活～.epub",
+        "novel_status": 257,
+        "update_date": 1556899200000,
+        "update_count": 1
+      },
+      "朝起きたら銀髪ロリ吸血鬼になっていた（小並感）": {
+        "init_date": 1556899200000,
+        "txt_basename": "早上起來變成銀髮蘿莉吸血鬼了.out.txt",
+        "epub_date": 1556929237499,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 18,
+        "epub_basename": "早上起來變成銀髮蘿莉吸血鬼了.epub",
+        "update_date": 1556899200000,
         "update_count": 1
       }
     },
@@ -4062,7 +4159,7 @@
         "chapter": 312,
         "epub_basename": "自称贤者弟子的贤者.epub",
         "novel_status": 768,
-        "init_date": 1556843733870,
+        "init_date": 1556812800000,
         "update_date": 1556812800000,
         "update_count": 1
       }
@@ -12084,6 +12181,351 @@
         ]
       }
     },
+    "ts": {
+      "ゲームキャラで異世界転生して、大草原ではじめるスローライフ": {
+        "novel": {
+          "title": "ゲームキャラで異世界転生して、大草原ではじめるスローライフ",
+          "title_zh": "以游戲角色的異世界轉生～由大草原開始的慢節奏生活～",
+          "author": "鏑木ハルカ",
+          "illust": "にゅむ",
+          "source": "http://ncode.syosetu.com/n1695cq/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/71ll0bwfZbL.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-04-28T00:37:00+08:00",
+          "status": "完結済",
+          "novel_status": 257,
+          "series": {
+            "name": "ゲームキャラで異世界転生して、大草原ではじめるスローライフ"
+          },
+          "preface": "故事是讲述主角「优米露」和「亞瑠莎」在异世界转移后，身处于一望无际的大草原，两人相依为命，只好靠着大草原内迷宫的资源生活。途中和各样的人相遇所发生的故事。\n故事主要都是讲述主角两人互相卖萌，作死。\n轻快的故事内容和没有胃痛的主线，绝对可以作为洗涤心灵的小说。\n\n内容的要点大既就是\n1.主角1号为TS Loli (重点)\n2.主角2号是幺力女(初期)\n3.主角1号偶尔会作死(可以想像成优米露是物理版的尤莉)\n4.這是一個Loli养育幺力女，最后后被吃掉的故事！\n\nVRMMO全盛期にレトロ系MMORPGをプレイしていた主人公は、いつの間にか異世界に放り出された。しかも大平原のど真ん中、目の前には迷宮があるだけ。そこで保護した幼女と生き抜く為に物作りに励む。\nやがて別のゲームからの転移者とも出会い、手を取り合ったり戦ったりしつつ成長する話です。\n\nこの作品はTS（性転換）要素および若干の性的な表現を含みます。苦手な方はご注意ください。\n\n第6回ネット小説大賞で入賞しました。\n201902/09　ゲームキャラで異世界転生して、大草原ではじめるスローライフと改題して発売しました。\n\n旧題：ゲームキャラで異世界転生　～トップランナーはよろず屋さん～",
+          "tags": [
+            "GLっぽい要素有",
+            "R15",
+            "ROリスペクト",
+            "TS",
+            "node-novel",
+            "syosetu",
+            "ご都合主義",
+            "ほのぼの",
+            "ものづくり",
+            "チート",
+            "ハイファンタジー",
+            "ハイファンタジー〔ファンタジー〕",
+            "ファンタジー",
+            "主人公最強",
+            "完結済",
+            "書籍化作品",
+            "残酷な描写あり",
+            "異世界転生",
+            "異世界転移",
+            "異能力バトル",
+            "百合",
+            "転移者複数出現します"
+          ]
+        },
+        "contribute": [
+          "月宮鍵"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n1695cq"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n1695cq&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n1695cq/)",
+          "[以游戏角色的异世界转生～由大草原开始的慢节奏生活～](https://tieba.baidu.com/p/6031960273?red_tag=0288847927)"
+        ]
+      },
+      "吸血少女は男に戻りたい！": {
+        "novel": {
+          "title": "吸血少女は男に戻りたい！",
+          "title_zh": "吸血少女想變回男人！",
+          "title_zh1": "吸血鬼少女想变回男人！",
+          "author": "秋野　錦",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n4236dr/",
+          "cover": "",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-03-23T20:16:00+08:00",
+          "status": "連載",
+          "novel_status": 0,
+          "series": {
+            "name": "吸血少女は男に戻りたい！"
+          },
+          "preface": "在剑与魔法的世界中转生的少年有一件令他烦恼的事，那就是因为废材女神的失误而被转生成了女孩子。原废人玩家成为露娜.雷文顿，决意要取回男人的身体而在异世界中生活下去。\n没错，这一切都是为了能和女孩子卿卿我我！\n但是，现实无法一帆风顺的露娜身边涌现出了各种难题。\n最终露娜能否跨越众多困难取回男人的身体呢！？\n\n剣と魔法の異世界に転生した少年には一つの悩み事があった。それはポンコツ女神の手違いで女の子に転生してしまったこと。廃人ゲーマー改めルナ・レストンは男に戻ることを決意し異世界を生き抜いていく。\nすべてはそう、女の子と気兼ねなくいちゃいちゃするために！\nしかし、現実はそうそううまくはいかずルナのもとには様々な問題が浮上してくる。\n果たしてルナは数多の難題を乗り越え男に戻ることが出来るのか！？",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "イラスト（挿絵）有り",
+            "ガールズラブ",
+            "ケモノ娘",
+            "シリアスギャグ",
+            "スキル",
+            "ネット小説大賞七",
+            "ハイファンタジー",
+            "ファンタジー",
+            "主人公最強（予定）",
+            "冒険ファンタジー",
+            "剣と魔法",
+            "女主人公",
+            "残酷な描写あり",
+            "異世界転生",
+            "異能力バトル",
+            "百合ハーレム",
+            "種族チート",
+            "能天気主人公",
+            "ＴＳ"
+          ]
+        },
+        "contribute": [
+          "StarSky_G_",
+          "疯一样的苦力怕"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n4236dr"
+          },
+          "textlayout": {
+            "allow_lf2": false
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n4236dr&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[吸血鬼少女想变回男人吧](https://tieba.baidu.com/f?kw=%E5%90%B8%E8%A1%80%E9%AC%BC%E5%B0%91%E5%A5%B3%E6%83%B3%E5%8F%98%E5%9B%9E%E7%94%B7%E4%BA%BA&ie=utf-8 \"吸血鬼少女想变回男人\")"
+        ]
+      },
+      "朝起きたら銀髪ロリ吸血鬼になっていた（小並感）": {
+        "novel": {
+          "title": "朝起きたら銀髪ロリ吸血鬼になっていた（小並感）",
+          "title_zh": "早上起來變成銀髮蘿莉吸血鬼了",
+          "author": "バッグパス",
+          "authors": [
+            "バックパス"
+          ],
+          "illust": "ひみつ",
+          "source": "http://novel18.syosetu.com/n8176ca/",
+          "cover": "https://img1.mitemin.net/60/zs/32zr1d589x6fy0tc8trgfng2dn0_r8g_k4_sf_6p11.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2018-03-10T07:32:00+08:00",
+          "status": "連載",
+          "novel_status": 0,
+          "series": {
+            "name": "朝起きたら銀髪ロリ吸血鬼になっていた（小並感）"
+          },
+          "preface": "朝目覚めたら、銀髪美少女（推定12歳）になっていた----\n\n人生詰みかけ枯れかけ壮年サラリーマン柳生鉄馬（42歳♂）は、これで完璧詰んだと諦観しながらも、\"己\"の物語を読み解き始めることとなる。\n\nという、「朝起きたら銀髪ロリ吸血鬼になっていた（小並感）」の完全版（18禁）です。「秘密の袋とじ」的なものとして、扱ってもらえれば幸いです。",
+          "tags": [
+            "R15",
+            "R18",
+            "TS（性転換）",
+            "node-novel",
+            "novel18",
+            "syosetu",
+            "ぼっち系",
+            "ノクターンノベルズ(男性向け)",
+            "レイプ",
+            "主人公は最強系？",
+            "吸血鬼",
+            "女主人公",
+            "成長",
+            "残酷な描写あり",
+            "男性向け",
+            "転生",
+            "鬼畜系"
+          ],
+          "source_old": "http://ncode.syosetu.com/n4983ca",
+          "title_en1": "When I Woke Up in the Morning I Became a Silver Haired Loli Vampire"
+        },
+        "contribute": [
+          "LWLQLR",
+          "偷午睡懒癌S",
+          "名纸owo",
+          "暂时不想起名字",
+          "流光之迹",
+          "虚雪之葎"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n8176ca"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou18.nar.jp](https://narou18.nar.jp/search.php?text=n8176ca&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://novel18.syosetu.com/novelview/infotop/ncode/n8176ca/)",
+          "[早上起来变成银发萝莉吸血鬼了吧](https://tieba.baidu.com/f?kw=%E6%97%A9%E4%B8%8A%E8%B5%B7%E6%9D%A5%E5%8F%98%E6%88%90%E9%93%B6%E5%8F%91%E8%90%9D%E8%8E%89%E5%90%B8%E8%A1%80%E9%AC%BC%E4%BA%86&ie=utf-8 \"早上起来变成银发萝莉吸血鬼了\")"
+        ]
+      },
+      "葉隠桜は嘆かない": {
+        "novel": {
+          "title": "葉隠桜は嘆かない",
+          "title_zh": "葉隱櫻不悲嘆",
+          "author": "玖洞",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n4912do/",
+          "cover": "",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-05-02T01:10:00+08:00",
+          "status": "連載",
+          "novel_status": 0,
+          "series": {
+            "name": "葉隠桜は嘆かない"
+          },
+          "preface": "――空が割れ、現代社会に魔獣が現れるようになった世界。\n\n魔獣に対抗するために『魔法少女』と呼ばれる少女たちが活躍するようになって早三十年。\nとある路地の片隅で、一人の少年が死にかけていた。\n\n「小僧。お前、救われたいか？」\n\nそう言って、黒猫は少年の顔を覗き込んだ。\n\n血に塗れた四肢を引きずりながら、霞みそうな意識の中で、少年はしっかりと頷いた。\nたとえそれが悪魔の取引だと分かっていても。\n\n黒猫は嗤う。\n\n「そうか。――ならば巣食ってやる」\n\n――その日、誰も知らない路地裏で一人の『魔法少女』が生まれた。\n『彼女』は決して嘆かない。たとえどんな未来が待ち受けていようとも。\n\n※日本を舞台にした現代ファンタジーです。TS注意。\n\n2019/1/23　改稿開始。連載中。",
+          "tags": [
+            "ESN大賞",
+            "HJ大賞2019",
+            "R15",
+            "node-novel",
+            "syosetu",
+            "ややシリアス",
+            "ファンタジー",
+            "ローファンタジー",
+            "ローファンタジー〔ファンタジー〕",
+            "人間賛歌",
+            "友情",
+            "変身",
+            "天災",
+            "怪獣",
+            "残酷な描写あり",
+            "現代",
+            "男主人公",
+            "異能力バトル",
+            "神様",
+            "魔法少女",
+            "ＴＳ"
+          ]
+        },
+        "contribute": [
+          "6757",
+          "虚雪之葎"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n4912do"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n4912do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n4912do/)",
+          "[叶隐樱不悲叹吧](https://tieba.baidu.com/f?kw=%E5%8F%B6%E9%9A%90%E6%A8%B1%E4%B8%8D%E6%82%B2%E5%8F%B9&ie=utf-8&tp=0 \"叶隐樱不悲叹\")"
+        ]
+      },
+      "變成了美少女、但也成了網游廢人。": {
+        "novel": {
+          "title": "美少女になったけど、ネトゲ廃人やってます。",
+          "title_zh": "變成了美少女、但也成了網游廢人。",
+          "title_zh2": "变成了美少女但也成了网游废人",
+          "author": "星屑ぽんぽん",
+          "illust": "ネコメガネ",
+          "source": "http://ncode.syosetu.com/n0170db/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/51prfKzR%2BVL.jpg",
+          "publisher": "syosetu",
+          "date": "2019-01-15T13:29:00+08:00",
+          "status": "連載",
+          "novel_status": 256,
+          "series": {
+            "name": "美少女になったけど、ネトゲ廃人やってます。"
+          },
+          "preface": "【講談社、Kラノベブックス様より書籍化いたします】\n　愛の告白に大失敗した高校生、訊太郎。\n　彼の災難は続き、ニュースで話題の性転化病を発症してしまう。性別が逆転し、銀髪美少女に変貌した彼は、ショックのあまりVRゲームで現実逃避を計ることにした……。\n\n　現実と同じ少女姿でプレイしてしまい、他のプレイヤーからはゴミスキルと言われている錬金術を、ひたすら極めていく訊太郎(じんたろう)。\n\n『傭兵となって、戦う、奪う、支配する、探索する、開拓する、生産する、その生き方は自由』と謳われたクラン・クランのゲーム世界で、彼は様々な傭兵(プレイヤー)と出会い、ほっこりと成長していく。\n　そんな訊太郎は、一緒にゲーム内で遊ぶリア友たちに自分の姿をバグだと言い張り、現実で美少女になってしまったことを秘密にしながら冒険するのであった。\n\n　夏休みが終われば、学校で顔を合わせることになるのに。\n\n　これは、いずれ軍閣クラスや国家クラスの傭兵団を相手に、一歩も引けを取らない『戦争』をやり遂げてみせる、錬金術士のお話。\n\n　一介の男子高校生が突如、美少女化してしまうと果たしてどうなるのだろうか。\n　答えはヒキコモリ、廃ネトゲーマー。\n　\n【★マークの話は、読者さまから頂いたイラスト付きです】\n【祝　PV2000万突破。ユニーク320万人突破】",
+          "tags": [
+            "TS",
+            "VRMMO",
+            "VRゲーム",
+            "node-novel",
+            "syosetu",
+            "ほのぼの",
+            "アイテム無双",
+            "チート",
+            "ファンタジー",
+            "主人公最強",
+            "性転換",
+            "戦術",
+            "書籍化",
+            "次元の観測者な娘",
+            "網游",
+            "美少女",
+            "銀髪ようじょ",
+            "錬金術"
+          ]
+        },
+        "contribute": [
+          "lulala61",
+          "秋葉怜",
+          "紫月的夜梦",
+          "閃電小星"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "undefined",
+            "novel_id": "n0170db"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n0170db&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[变成了美少女但也成了网游废人吧](https://tieba.baidu.com/f?kw=%E5%8F%98%E6%88%90%E4%BA%86%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%BD%86%E4%B9%9F%E6%88%90%E4%BA%86%E7%BD%91%E6%B8%B8%E5%BA%9F%E4%BA%BA&ie=utf-8 \"变成了美少女但也成了网游废人\")",
+          "[地名装备名技能名人名等简单整合（不含角色介绍有的人名）](https://tieba.baidu.com/p/5603770798 \"地名装备名技能名人名等简单整合（不含角色介绍有的人名）\")",
+          "[twitter](https://twitter.com/hosikuzuponpon)"
+        ]
+      }
+    },
     "ts_out": {
       "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～": {
         "novel": {
@@ -12378,210 +12820,6 @@
           "[自称贤者弟子的贤者](https://tieba.baidu.com/f?kw=%E8%87%AA%E7%A7%B0%E8%B4%A4%E8%80%85%E5%BC%9F%E5%AD%90%E7%9A%84%E8%B4%A4%E8%80%85&ie=utf-8 \"自称贤者弟子的贤者\")",
           "[epub / txt 持續更新](https://tieba.baidu.com/p/5664828470) <== 推薦觀看此版本",
           "[dm5](http://www.dm5.com/manhua-zichenxianzhedizidexianzhe/)"
-        ]
-      }
-    },
-    "ts": {
-      "吸血少女は男に戻りたい！": {
-        "novel": {
-          "title": "吸血少女は男に戻りたい！",
-          "title_zh": "吸血少女想變回男人！",
-          "title_zh1": "吸血鬼少女想变回男人！",
-          "author": "秋野　錦",
-          "illust": "",
-          "source": "http://ncode.syosetu.com/n4236dr/",
-          "cover": "",
-          "publisher": "syosetu",
-          "publishers": [
-            "syosetu"
-          ],
-          "date": "2019-03-23T20:16:00+08:00",
-          "status": "連載",
-          "novel_status": 0,
-          "series": {
-            "name": "吸血少女は男に戻りたい！"
-          },
-          "preface": "在剑与魔法的世界中转生的少年有一件令他烦恼的事，那就是因为废材女神的失误而被转生成了女孩子。原废人玩家成为露娜.雷文顿，决意要取回男人的身体而在异世界中生活下去。\n没错，这一切都是为了能和女孩子卿卿我我！\n但是，现实无法一帆风顺的露娜身边涌现出了各种难题。\n最终露娜能否跨越众多困难取回男人的身体呢！？\n\n剣と魔法の異世界に転生した少年には一つの悩み事があった。それはポンコツ女神の手違いで女の子に転生してしまったこと。廃人ゲーマー改めルナ・レストンは男に戻ることを決意し異世界を生き抜いていく。\nすべてはそう、女の子と気兼ねなくいちゃいちゃするために！\nしかし、現実はそうそううまくはいかずルナのもとには様々な問題が浮上してくる。\n果たしてルナは数多の難題を乗り越え男に戻ることが出来るのか！？",
-          "tags": [
-            "R15",
-            "node-novel",
-            "syosetu",
-            "イラスト（挿絵）有り",
-            "ガールズラブ",
-            "ケモノ娘",
-            "シリアスギャグ",
-            "スキル",
-            "ネット小説大賞七",
-            "ハイファンタジー",
-            "ファンタジー",
-            "主人公最強（予定）",
-            "冒険ファンタジー",
-            "剣と魔法",
-            "女主人公",
-            "残酷な描写あり",
-            "異世界転生",
-            "異能力バトル",
-            "百合ハーレム",
-            "種族チート",
-            "能天気主人公",
-            "ＴＳ"
-          ]
-        },
-        "contribute": [
-          "StarSky_G_",
-          "疯一样的苦力怕"
-        ],
-        "options": {
-          "downloadOptions": {
-            "noFilePadend": true,
-            "filePrefixMode": 1,
-            "startIndex": 1
-          },
-          "syosetu": {
-            "txtdownload_id": "",
-            "series_id": "",
-            "novel_id": "n4236dr"
-          },
-          "textlayout": {
-            "allow_lf2": false
-          }
-        },
-        "link": [
-          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n4236dr&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[吸血鬼少女想变回男人吧](https://tieba.baidu.com/f?kw=%E5%90%B8%E8%A1%80%E9%AC%BC%E5%B0%91%E5%A5%B3%E6%83%B3%E5%8F%98%E5%9B%9E%E7%94%B7%E4%BA%BA&ie=utf-8 \"吸血鬼少女想变回男人\")"
-        ]
-      },
-      "葉隠桜は嘆かない": {
-        "novel": {
-          "title": "葉隠桜は嘆かない",
-          "title_zh": "葉隱櫻不悲嘆",
-          "author": "玖洞",
-          "illust": "",
-          "source": "http://ncode.syosetu.com/n4912do/",
-          "cover": "",
-          "publisher": "syosetu",
-          "publishers": [
-            "syosetu"
-          ],
-          "date": "2019-05-02T01:10:00+08:00",
-          "status": "連載",
-          "novel_status": 0,
-          "series": {
-            "name": "葉隠桜は嘆かない"
-          },
-          "preface": "――空が割れ、現代社会に魔獣が現れるようになった世界。\n\n魔獣に対抗するために『魔法少女』と呼ばれる少女たちが活躍するようになって早三十年。\nとある路地の片隅で、一人の少年が死にかけていた。\n\n「小僧。お前、救われたいか？」\n\nそう言って、黒猫は少年の顔を覗き込んだ。\n\n血に塗れた四肢を引きずりながら、霞みそうな意識の中で、少年はしっかりと頷いた。\nたとえそれが悪魔の取引だと分かっていても。\n\n黒猫は嗤う。\n\n「そうか。――ならば巣食ってやる」\n\n――その日、誰も知らない路地裏で一人の『魔法少女』が生まれた。\n『彼女』は決して嘆かない。たとえどんな未来が待ち受けていようとも。\n\n※日本を舞台にした現代ファンタジーです。TS注意。\n\n2019/1/23　改稿開始。連載中。",
-          "tags": [
-            "ESN大賞",
-            "HJ大賞2019",
-            "R15",
-            "node-novel",
-            "syosetu",
-            "ややシリアス",
-            "ファンタジー",
-            "ローファンタジー",
-            "ローファンタジー〔ファンタジー〕",
-            "人間賛歌",
-            "友情",
-            "変身",
-            "天災",
-            "怪獣",
-            "残酷な描写あり",
-            "現代",
-            "男主人公",
-            "異能力バトル",
-            "神様",
-            "魔法少女",
-            "ＴＳ"
-          ]
-        },
-        "contribute": [
-          "6757",
-          "虚雪之葎"
-        ],
-        "options": {
-          "downloadOptions": {
-            "noFilePadend": true,
-            "filePrefixMode": 1,
-            "startIndex": 1
-          },
-          "syosetu": {
-            "txtdownload_id": "",
-            "series_id": "",
-            "novel_id": "n4912do"
-          },
-          "textlayout": {
-            "allow_lf2": true
-          }
-        },
-        "link": [
-          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n4912do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n4912do/)",
-          "[叶隐樱不悲叹吧](https://tieba.baidu.com/f?kw=%E5%8F%B6%E9%9A%90%E6%A8%B1%E4%B8%8D%E6%82%B2%E5%8F%B9&ie=utf-8&tp=0 \"叶隐樱不悲叹\")"
-        ]
-      },
-      "變成了美少女、但也成了網游廢人。": {
-        "novel": {
-          "title": "美少女になったけど、ネトゲ廃人やってます。",
-          "title_zh": "變成了美少女、但也成了網游廢人。",
-          "title_zh2": "变成了美少女但也成了网游废人",
-          "author": "星屑ぽんぽん",
-          "illust": "ネコメガネ",
-          "source": "http://ncode.syosetu.com/n0170db/",
-          "cover": "https://images-na.ssl-images-amazon.com/images/I/51prfKzR%2BVL.jpg",
-          "publisher": "syosetu",
-          "date": "2019-01-15T13:29:00+08:00",
-          "status": "連載",
-          "novel_status": 256,
-          "series": {
-            "name": "美少女になったけど、ネトゲ廃人やってます。"
-          },
-          "preface": "【講談社、Kラノベブックス様より書籍化いたします】\n　愛の告白に大失敗した高校生、訊太郎。\n　彼の災難は続き、ニュースで話題の性転化病を発症してしまう。性別が逆転し、銀髪美少女に変貌した彼は、ショックのあまりVRゲームで現実逃避を計ることにした……。\n\n　現実と同じ少女姿でプレイしてしまい、他のプレイヤーからはゴミスキルと言われている錬金術を、ひたすら極めていく訊太郎(じんたろう)。\n\n『傭兵となって、戦う、奪う、支配する、探索する、開拓する、生産する、その生き方は自由』と謳われたクラン・クランのゲーム世界で、彼は様々な傭兵(プレイヤー)と出会い、ほっこりと成長していく。\n　そんな訊太郎は、一緒にゲーム内で遊ぶリア友たちに自分の姿をバグだと言い張り、現実で美少女になってしまったことを秘密にしながら冒険するのであった。\n\n　夏休みが終われば、学校で顔を合わせることになるのに。\n\n　これは、いずれ軍閣クラスや国家クラスの傭兵団を相手に、一歩も引けを取らない『戦争』をやり遂げてみせる、錬金術士のお話。\n\n　一介の男子高校生が突如、美少女化してしまうと果たしてどうなるのだろうか。\n　答えはヒキコモリ、廃ネトゲーマー。\n　\n【★マークの話は、読者さまから頂いたイラスト付きです】\n【祝　PV2000万突破。ユニーク320万人突破】",
-          "tags": [
-            "TS",
-            "VRMMO",
-            "VRゲーム",
-            "node-novel",
-            "syosetu",
-            "ほのぼの",
-            "アイテム無双",
-            "チート",
-            "ファンタジー",
-            "主人公最強",
-            "性転換",
-            "戦術",
-            "書籍化",
-            "次元の観測者な娘",
-            "網游",
-            "美少女",
-            "銀髪ようじょ",
-            "錬金術"
-          ]
-        },
-        "contribute": [
-          "lulala61",
-          "秋葉怜",
-          "紫月的夜梦",
-          "閃電小星"
-        ],
-        "options": {
-          "downloadOptions": {
-            "noFilePadend": true,
-            "filePrefixMode": 1,
-            "startIndex": 1
-          },
-          "syosetu": {
-            "txtdownload_id": "undefined",
-            "novel_id": "n0170db"
-          },
-          "textlayout": {
-            "allow_lf2": true
-          }
-        },
-        "link": [
-          "[dip.jp](https://narou.nar.jp/search.php?text=n0170db&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[变成了美少女但也成了网游废人吧](https://tieba.baidu.com/f?kw=%E5%8F%98%E6%88%90%E4%BA%86%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%BD%86%E4%B9%9F%E6%88%90%E4%BA%86%E7%BD%91%E6%B8%B8%E5%BA%9F%E4%BA%BA&ie=utf-8 \"变成了美少女但也成了网游废人\")",
-          "[地名装备名技能名人名等简单整合（不含角色介绍有的人名）](https://tieba.baidu.com/p/5603770798 \"地名装备名技能名人名等简单整合（不含角色介绍有的人名）\")",
-          "[twitter](https://twitter.com/hosikuzuponpon)"
         ]
       }
     },
