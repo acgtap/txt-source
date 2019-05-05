@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1556899200000,
-    "timestamp": 1556929247089,
+    "todayTimestamp": 1556985600000,
+    "timestamp": 1557015665207,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1067,6 +1067,108 @@
             "epub_basename": "早上起來變成銀髮蘿莉吸血鬼了.epub",
             "update_date": 1556899200000,
             "update_count": 1
+          }
+        ]
+      ]
+    },
+    "1556985600000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1557015524783,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1557015647965,
+            "volume_old": 1,
+            "chapter_old": 98,
+            "volume": 1,
+            "chapter": 100,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1556985600000,
+            "update_count": 15,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ]
+      ],
+      "epub_count": 4,
+      "epub": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1557015524783,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1557015647965,
+            "volume_old": 1,
+            "chapter_old": 98,
+            "volume": 1,
+            "chapter": 100,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1556985600000,
+            "update_count": 15,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "十歳の最強魔導師",
+          {
+            "segment_date": 1555632736142,
+            "segment_old": 0,
+            "segment": 16,
+            "init_date": 1555603200000,
+            "txt_basename": "十歳の最強魔導師.out.txt",
+            "epub_date": 1557015651204,
+            "volume_old": 1,
+            "chapter_old": 135,
+            "volume": 1,
+            "chapter": 141,
+            "epub_basename": "十歳の最強魔導師.epub",
+            "novel_status": 256,
+            "update_date": 1556985600000,
+            "update_count": 3
+          }
+        ],
+        [
+          "ts",
+          "ゲームキャラで異世界転生して、大草原ではじめるスローライフ",
+          {
+            "init_date": 1556899200000,
+            "txt_basename": "以游戲角色的異世界轉生～由大草原開始的慢.out.txt",
+            "epub_date": 1557015651700,
+            "volume_old": 1,
+            "chapter_old": 3,
+            "volume": 1,
+            "chapter": 3,
+            "epub_basename": "以游戲角色的異世界轉生～由大草原開始的慢節奏生活～.epub",
+            "novel_status": 257,
+            "update_date": 1556985600000,
+            "update_count": 2
+          }
+        ],
+        [
+          "user_out",
+          "誰にでもできる影から助ける魔王討伐",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "誰都能做到的暗中協助魔王討伐.out.txt",
+            "epub_date": 1557015653727,
+            "volume_old": 9,
+            "chapter_old": 40,
+            "volume": 13,
+            "chapter": 62,
+            "epub_basename": "誰都能做到的暗中協助魔王討伐.epub",
+            "update_date": 1556985600000,
+            "update_count": 4,
+            "novel_status": 768
           }
         ]
       ]
@@ -2174,14 +2276,15 @@
       "誰にでもできる影から助ける魔王討伐": {
         "init_date": 1545494400000,
         "txt_basename": "誰都能做到的暗中協助魔王討伐.out.txt",
-        "epub_date": 1546903882033,
-        "volume_old": 10,
+        "epub_date": 1557015653727,
+        "volume_old": 9,
         "chapter_old": 40,
-        "volume": 9,
-        "chapter": 40,
+        "volume": 13,
+        "chapter": 62,
         "epub_basename": "誰都能做到的暗中協助魔王討伐.epub",
-        "update_date": 1552060800000,
-        "update_count": 3
+        "update_date": 1556985600000,
+        "update_count": 4,
+        "novel_status": 768
       },
       "俺の死亡フラグが留まるところを知らない": {
         "init_date": 1545494400000,
@@ -3761,19 +3864,19 @@
     },
     "girl": {
       "Genocide Online ～極惡千金的玩遊戲日記～": {
-        "segment_date": 1556842740198,
+        "segment_date": 1557015524783,
         "segment_old": 1,
         "segment": 1,
         "init_date": 1549641600000,
-        "epub_date": 1556843712883,
+        "epub_date": 1557015647965,
         "volume_old": 1,
-        "chapter_old": 91,
+        "chapter_old": 98,
         "volume": 1,
-        "chapter": 98,
+        "chapter": 100,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1556812800000,
-        "update_count": 14,
+        "update_date": 1556985600000,
+        "update_count": 15,
         "txt_basename": "Genocide Online ～極惡千.out.txt"
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
@@ -3955,15 +4058,15 @@
         "segment": 16,
         "init_date": 1555603200000,
         "txt_basename": "十歳の最強魔導師.out.txt",
-        "epub_date": 1556064937208,
+        "epub_date": 1557015651204,
         "volume_old": 1,
-        "chapter_old": 132,
+        "chapter_old": 135,
         "volume": 1,
-        "chapter": 135,
+        "chapter": 141,
         "epub_basename": "十歳の最強魔導師.epub",
         "novel_status": 256,
-        "update_date": 1556035200000,
-        "update_count": 2
+        "update_date": 1556985600000,
+        "update_count": 3
       },
       "魔王の娘の百合戦記": {
         "init_date": 1555776000000,
@@ -4090,15 +4193,15 @@
       "ゲームキャラで異世界転生して、大草原ではじめるスローライフ": {
         "init_date": 1556899200000,
         "txt_basename": "以游戲角色的異世界轉生～由大草原開始的慢.out.txt",
-        "epub_date": 1556929234888,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1557015651700,
+        "volume_old": 1,
+        "chapter_old": 3,
         "volume": 1,
         "chapter": 3,
         "epub_basename": "以游戲角色的異世界轉生～由大草原開始的慢節奏生活～.epub",
         "novel_status": 257,
-        "update_date": 1556899200000,
-        "update_count": 1
+        "update_date": 1556985600000,
+        "update_count": 2
       },
       "朝起きたら銀髪ロリ吸血鬼になっていた（小並感）": {
         "init_date": 1556899200000,
@@ -12247,7 +12350,8 @@
         "link": [
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n1695cq&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n1695cq/)",
-          "[以游戏角色的异世界转生～由大草原开始的慢节奏生活～](https://tieba.baidu.com/p/6031960273?red_tag=0288847927)"
+          "[以游戏角色的异世界转生～由大草原开始的慢节奏生活～](https://tieba.baidu.com/p/6031960273?red_tag=0288847927)",
+          "[以游戏角色的异世界转生吧](https://tieba.baidu.com/f?kw=%E4%BB%A5%E6%B8%B8%E6%88%8F%E8%A7%92%E8%89%B2%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E8%BD%AC%E7%94%9F&ie=utf-8 \"以游戏角色的异世界转生\")"
         ]
       },
       "吸血少女は男に戻りたい！": {
@@ -14724,29 +14828,47 @@
           "title": "誰にでもできる影から助ける魔王討伐",
           "title_zh": "誰都能做到的暗中協助魔王討伐",
           "author": "槻影",
+          "illust": "bob",
+          "illusts": [
+            "貴島煉瓦"
+          ],
           "source": "https://kakuyomu.jp/works/1177354054880238351",
           "cover": "https://images-na.ssl-images-amazon.com/images/I/81iY8SzcvtL.jpg",
           "publisher": "kakuyomu",
           "date": "2018-01-17T23:00:45+08:00",
           "status": "連載中",
+          "novel_status": 768,
           "series": {
             "name": "誰にでもできる影から助ける魔王討伐"
           },
-          "preface": "これは……ビジネスだ\n槻影\n\n魔王クラノスが人類に宣戦布告して十年。\n強大極まりないクラノスの軍に劣勢に立たされ、退っ引きならない状態に陥った王国は教会の持つ禁断の秘奥、英雄召喚の実施を決定した。\n\n召喚された聖勇者、藤堂直継の栄えあるパーティメンバーにプリースト（ヒーラー）として選ばれた俺は、残りのパーティメンバーとして選ばれた二人、魔導師と剣士が原石であり、まだ第一線で戦える実力にない事に気づく。\n果たして俺は魔王からの尖兵をしのぎ切り、勇者とその仲間達をレベルアップさせることはできるのか！？\n\n\n＊＊＊＊\nエンターブレインさんより書籍、三巻まで発売中。\nそれぞれ書き下ろし他ステータスなどが収録されていますのでよろしくお願いします。\n\nまた、ComicWalkerにて漫画版が連載中です。詳しくは近況ノートをご確認ください。\n\n引き続き、Web版書籍版共々よろしくお願いします。",
+          "preface": "魔王庫拉諾斯對人類發出宣戰公告後十年。\n面對強大的庫拉諾斯軍人類位居劣勢，陷入到進退維谷狀態的王國決定實施教會所持有的禁斷的極秘奧義，英雄召喚。\n被光榮的以牧師（回覆役）的身份選為召喚而來的聖勇者，藤堂直繼的隊伍成員的我\n察覺到了其餘被選為隊伍成員的兩人是魔導師和劍士的原石，尚不具有能在第一線戰鬥的實力。\n我終究能否抵禦魔王的尖兵，讓勇者及其同伴升級嗎！？\n\nこれは……ビジネスだ\n槻影\n\n魔王クラノスが人類に宣戦布告して十年。\n強大極まりないクラノスの軍に劣勢に立たされ、退っ引きならない状態に陥った王国は教会の持つ禁断の秘奥、英雄召喚の実施を決定した。\n\n召喚された聖勇者、藤堂直継の栄えあるパーティメンバーにプリースト（ヒーラー）として選ばれた俺は、残りのパーティメンバーとして選ばれた二人、魔導師と剣士が原石であり、まだ第一線で戦える実力にない事に気づく。\n果たして俺は魔王からの尖兵をしのぎ切り、勇者とその仲間達をレベルアップさせることはできるのか！？\n\n\n＊＊＊＊\nエンターブレインさんより書籍、三巻まで発売中。\nそれぞれ書き下ろし他ステータスなどが収録されていますのでよろしくお願いします。\n\nまた、ComicWalkerにて漫画版が連載中です。詳しくは近況ノートをご確認ください。\n\n引き続き、Web版書籍版共々よろしくお願いします。",
           "tags": [
             "kakuyomu",
             "node-novel",
+            "オタク向け(女性)",
+            "オタク向け(男性)",
+            "カクヨム",
             "カクヨムオンリー",
+            "コミカライズ",
+            "コミックウォーカー",
+            "コミックウォーカー発",
             "ヒーラー",
             "ファンタジー",
             "プリースト",
             "ライトノベル",
+            "ラノベ原作",
             "勇者",
+            "女性向け",
+            "男性向け",
+            "異世界コミック",
             "異世界ファンタジー",
+            "異世界モノ",
+            "転生",
             "魔王"
           ]
         },
         "contribute": [
+          "二階堂真紅",
           "弒澪",
           "海市蜃楼谁不识",
           "絨質墮菌",
@@ -14754,13 +14876,15 @@
         ],
         "options": {
           "textlayout": {
-            "allow_lf2": true
+            "allow_lf2": false
           }
         },
         "link": [
           "[谁都能做到的暗中协助魔王讨伐](https://tieba.baidu.com/f?kw=%E8%B0%81%E9%83%BD%E8%83%BD%E5%81%9A%E5%88%B0%E7%9A%84%E6%9A%97%E4%B8%AD%E5%8D%8F%E5%8A%A9%E9%AD%94%E7%8E%8B%E8%AE%A8%E4%BC%90&ie=utf-8 \"谁都能做到的暗中协助魔王讨伐\")",
           "[我异世界的姐妹很不自重吧](https://tieba.baidu.com/f?kw=%E6%88%91%E5%BC%82%E4%B8%96%E7%95%8C%E7%9A%84%E5%A7%90%E5%A6%B9%E5%BE%88%E4%B8%8D%E8%87%AA%E9%87%8D&ie=utf-8 \"我异世界的姐妹很不自重\")",
-          "[masiro.moe](http://masiro.moe/forum.php?mod=forumdisplay&fid=61&page=1)"
+          "[masiro.moe](http://masiro.moe/forum.php?mod=forumdisplay&fid=61&page=1)",
+          "https://comic-walker.com/contents/detail/KDCW_MF00000039010000_68/",
+          "[二階堂真紅 txt](https://drive.google.com/drive/folders/1Mt1hL7QtayCwhCWXacp-UZY4Kw9bcbGI)"
         ]
       },
       "豚公爵に転生したから、今度は君に好きと言いたい": {

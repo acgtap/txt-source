@@ -1,5 +1,23 @@
 # HISTORY
 
+## 2019-05-05
+
+### Epub
+
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( v: 1 , c: 100, add: 2 )
+- [十歳の最強魔導師](girl/%E5%8D%81%E6%AD%B3%E3%81%AE%E6%9C%80%E5%BC%B7%E9%AD%94%E5%B0%8E%E5%B8%AB) - girl
+  <br/>( v: 1 , c: 141, add: 6 )
+- [ゲームキャラで異世界転生して、大草原ではじめるスローライフ](ts/%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%A7%E7%95%B0%E4%B8%96%E7%95%8C%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%A6%E3%80%81%E5%A4%A7%E8%8D%89%E5%8E%9F%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95) - ts
+  <br/>( v: 1 , c: 3, add: 0 )
+- [誰にでもできる影から助ける魔王討伐](user_out/%E8%AA%B0%E3%81%AB%E3%81%A7%E3%82%82%E3%81%A7%E3%81%8D%E3%82%8B%E5%BD%B1%E3%81%8B%E3%82%89%E5%8A%A9%E3%81%91%E3%82%8B%E9%AD%94%E7%8E%8B%E8%A8%8E%E4%BC%90) - user_out
+  <br/>( v: 13 , c: 62, add: 22 )
+
+### Segment
+
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( s: 1 )
+
 ## 2019-05-04
 
 ### Epub
