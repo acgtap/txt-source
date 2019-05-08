@@ -11,6 +11,11 @@
 - status:
 - novel_status: 0x0100
 
+## sources
+
+- http://ncode.syosetu.com/n0708cs/
+- 
+
 ## illusts
 
 
@@ -60,9 +65,26 @@
 - 異世界転生
 - 貴族
 - 領地経営
+- その他
+- その他〔その他〕
+- ファンタジー
+- 前世
+- 外伝
+- 夢
+- 救いはありません
+- 
 
 # contribute
 
+- 土之女神
+- 可可雪松子
+- sombremal
+- treeking0
+- redsandy0
+- 56965速度
+- 温血的蛇
+- IIPUGII
+- 
 
 # options
 
@@ -87,4 +109,5 @@
 - [小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n6613ck/)
 - [悪役転生だけどどうしてこうなった。](http://ncode.syosetu.com/s1455c/)
 - [恶役转生但是为什么会变成这样吧](https://tieba.baidu.com/f?kw=%E6%81%B6%E5%BD%B9%E8%BD%AC%E7%94%9F%E4%BD%86%E6%98%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%8F%98%E6%88%90%E8%BF%99%E6%A0%B7&ie=utf-8&tp=0 "恶役转生但是为什么会变成这样")
+- [整合](https://tieba.baidu.com/p/4757720966 "整合")
 - 
