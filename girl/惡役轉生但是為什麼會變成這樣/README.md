@@ -117,4 +117,6 @@
 - [恶役转生但是为什么会变成这样吧](https://tieba.baidu.com/f?kw=%E6%81%B6%E5%BD%B9%E8%BD%AC%E7%94%9F%E4%BD%86%E6%98%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%8F%98%E6%88%90%E8%BF%99%E6%A0%B7&ie=utf-8&tp=0 "恶役转生但是为什么会变成这样")
 - [整合](https://tieba.baidu.com/p/4757720966 "整合")
 - [登場人物／用語／簡易年表](https://tieba.baidu.com/p/5516247077 "登場人物／用語／簡易年表")
+- https://shimo.im/sheets/DW0LrSVl1IsgwxhW/MODOC
+- https://pan.baidu.com/s/1agMUJlDXOpYFJx7bxRHSbg bfgp
 - 
