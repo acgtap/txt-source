@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1557331200000,
-    "timestamp": 1557361646384,
+    "todayTimestamp": 1557417600000,
+    "timestamp": 1557444908274,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -921,6 +921,59 @@
             "update_date": 1557331200000,
             "update_count": 20,
             "novel_status": 768
+          }
+        ]
+      ]
+    },
+    "1557417600000": {
+      "epub_count": 3,
+      "epub": [
+        [
+          "girl",
+          "chase　～何度ループしてもあなたを救えない物語～",
+          {
+            "init_date": 1557417600000,
+            "txt_basename": "chase　～即使輪回無數次也無法拯救你.out.txt",
+            "epub_date": 1557444893638,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 1,
+            "epub_basename": "chase　～即使輪回無數次也無法拯救你的故事～.epub",
+            "update_date": 1557417600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "girl",
+          "幼馴染二人から告白され困惑するも勢いで３Ｐに持ちこもうとする女の子の話",
+          {
+            "init_date": 1557417600000,
+            "txt_basename": "關於一個被兩名青梅竹馬告白之後、雖然困惑.out.txt",
+            "epub_date": 1557444893941,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 1,
+            "epub_basename": "關於一個被兩名青梅竹馬告白之後、雖然困惑但還是順勢而為打算搞3P的女孩子的故事.epub",
+            "update_date": 1557417600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user_out",
+          "回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 146,
+            "chapter": 167,
+            "txt_basename": "回復術士重來人生.out.txt",
+            "epub_date": 1557444901226,
+            "volume_old": 7,
+            "volume": 8,
+            "epub_basename": "回復術士重來人生.epub",
+            "update_date": 1557417600000,
+            "update_count": 4
           }
         ]
       ]
@@ -1948,15 +2001,15 @@
       },
       "回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～": {
         "init_date": 1545494400000,
-        "chapter_old": 143,
-        "chapter": 146,
+        "chapter_old": 146,
+        "chapter": 167,
         "txt_basename": "回復術士重來人生.out.txt",
-        "epub_date": 1552686709693,
+        "epub_date": 1557444901226,
         "volume_old": 7,
-        "volume": 7,
+        "volume": 8,
         "epub_basename": "回復術士重來人生.epub",
-        "update_date": 1552665600000,
-        "update_count": 3
+        "update_date": 1557417600000,
+        "update_count": 4
       },
       "帰ってきてもファンタジー！？": {
         "init_date": 1545494400000,
@@ -3849,6 +3902,30 @@
         "novel_status": 256,
         "update_date": 1557331200000,
         "update_count": 1
+      },
+      "chase　～何度ループしてもあなたを救えない物語～": {
+        "init_date": 1557417600000,
+        "txt_basename": "chase　～即使輪回無數次也無法拯救你.out.txt",
+        "epub_date": 1557444893638,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 1,
+        "epub_basename": "chase　～即使輪回無數次也無法拯救你的故事～.epub",
+        "update_date": 1557417600000,
+        "update_count": 1
+      },
+      "幼馴染二人から告白され困惑するも勢いで３Ｐに持ちこもうとする女の子の話": {
+        "init_date": 1557417600000,
+        "txt_basename": "關於一個被兩名青梅竹馬告白之後、雖然困惑.out.txt",
+        "epub_date": 1557444893941,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 1,
+        "epub_basename": "關於一個被兩名青梅竹馬告白之後、雖然困惑但還是順勢而為打算搞3P的女孩子的故事.epub",
+        "update_date": 1557417600000,
+        "update_count": 1
       }
     },
     "modern": {
@@ -5377,6 +5454,66 @@
       }
     },
     "girl": {
+      "chase　～何度ループしてもあなたを救えない物語～": {
+        "novel": {
+          "title": "chase　～何度ループしてもあなたを救えない物語～",
+          "title_zh": "chase　～即使輪回無數次也無法拯救你的故事～",
+          "author": "kiki",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n2654ev/",
+          "cover": "",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "Invalid date",
+          "status": "短編",
+          "novel_status": 0,
+          "series": {
+            "name": "chase　～何度ループしてもあなたを救えない物語～"
+          },
+          "preface": "",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "ガールズラブ",
+            "シリアス",
+            "タイムリープ",
+            "ハッピーエンド",
+            "恋愛",
+            "残酷な描写あり",
+            "現代",
+            "現実世界[恋愛]",
+            "現実世界〔恋愛〕",
+            "百合",
+            "青春"
+          ]
+        },
+        "contribute": [
+          "pinshi519"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n2654ev"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n2654ev&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n2654ev/)",
+          "https://www.lightnovel.cn/thread-939937-1-1.html"
+        ]
+      },
       "Free Life Fantasy Online ～人外姫様、始めました～": {
         "novel": {
           "title": "Free Life Fantasy Online ～人外姫様、始めました～",
@@ -6041,6 +6178,64 @@
           "[ざまぁシリーズ](http://ncode.syosetu.com/s8227d/)",
           "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=130&page=1)",
           "https://www.novelupdates.com/series/even-though-im-a-former-noble-and-a-single-mother-my-daughters-are-too-cute-and-working-as-an-adventurer-isnt-too-much-of-a-hassle/"
+        ]
+      },
+      "幼馴染二人から告白され困惑するも勢いで３Ｐに持ちこもうとする女の子の話": {
+        "novel": {
+          "title": "幼馴染二人から告白され困惑するも勢いで３Ｐに持ちこもうとする女の子の話",
+          "title_zh": "關於一個被兩名青梅竹馬告白之後、雖然困惑但還是順勢而為打算搞3P的女孩子的故事",
+          "author": "kiki",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n7857eu/",
+          "cover": "",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "Invalid date",
+          "status": "短編",
+          "novel_status": 0,
+          "series": {
+            "name": "幼馴染二人から告白され困惑するも勢いで３Ｐに持ちこもうとする女の子の話"
+          },
+          "preface": "",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "ガールズラブ",
+            "ギャグ",
+            "ノリと勢い",
+            "ラブコメ",
+            "女主人公",
+            "恋愛",
+            "現代",
+            "現実世界[恋愛]",
+            "現実世界〔恋愛〕",
+            "百合"
+          ]
+        },
+        "contribute": [
+          "kosudarika"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n7857eu"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n7857eu&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n7857eu/)"
         ]
       },
       "惡役轉生但是為什麼會變成這樣": {
