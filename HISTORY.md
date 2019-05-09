@@ -1,5 +1,14 @@
 # HISTORY
 
+## 2019-05-09
+
+### Epub
+
+- [惡役轉生但是為什麼會變成這樣](girl/%E6%83%A1%E5%BD%B9%E8%BD%89%E7%94%9F%E4%BD%86%E6%98%AF%E7%82%BA%E4%BB%80%E9%BA%BC%E6%9C%83%E8%AE%8A%E6%88%90%E9%80%99%E6%A8%A3) - girl
+  <br/>( v: 10 , c: 148, add: 148 )
+- [黑之魔王](user_out/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B) - user_out
+  <br/>( v: 31 , c: 579, add: 6 )
+
 ## 2019-05-08
 
 ### Epub
