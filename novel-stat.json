@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1557244800000,
-    "timestamp": 1557274953138,
+    "todayTimestamp": 1557331200000,
+    "timestamp": 1557361646384,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -885,6 +885,45 @@
           }
         ]
       ]
+    },
+    "1557331200000": {
+      "epub_count": 2,
+      "epub": [
+        [
+          "girl",
+          "惡役轉生但是為什麼會變成這樣",
+          {
+            "init_date": 1557331200000,
+            "txt_basename": "惡役轉生但是為什麼會變成這樣.out.txt",
+            "epub_date": 1557361605355,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 10,
+            "chapter": 148,
+            "epub_basename": "惡役轉生但是為什麼會變成這樣.epub",
+            "novel_status": 256,
+            "update_date": 1557331200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user_out",
+          "黑之魔王",
+          {
+            "epub_date": 1557361621738,
+            "volume_old": 30,
+            "chapter_old": 573,
+            "volume": 31,
+            "chapter": 579,
+            "init_date": 1545261469203,
+            "epub_basename": "黑之魔王.epub",
+            "txt_basename": "黑之魔王.out.txt",
+            "update_date": 1557331200000,
+            "update_count": 20,
+            "novel_status": 768
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1597,16 +1636,16 @@
     },
     "user_out": {
       "黑之魔王": {
-        "epub_date": 1556238009052,
+        "epub_date": 1557361621738,
         "volume_old": 30,
-        "chapter_old": 572,
-        "volume": 30,
-        "chapter": 573,
+        "chapter_old": 573,
+        "volume": 31,
+        "chapter": 579,
         "init_date": 1545261469203,
         "epub_basename": "黑之魔王.epub",
         "txt_basename": "黑之魔王.out.txt",
-        "update_date": 1556208000000,
-        "update_count": 19,
+        "update_date": 1557331200000,
+        "update_count": 20,
         "novel_status": 768
       },
       "火輪を抱いた少女": {
@@ -3797,6 +3836,19 @@
         "segment_date": 1556842813471,
         "segment_old": 2,
         "segment": 3
+      },
+      "惡役轉生但是為什麼會變成這樣": {
+        "init_date": 1557331200000,
+        "txt_basename": "惡役轉生但是為什麼會變成這樣.out.txt",
+        "epub_date": 1557361605355,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 10,
+        "chapter": 148,
+        "epub_basename": "惡役轉生但是為什麼會變成這樣.epub",
+        "novel_status": 256,
+        "update_date": 1557331200000,
+        "update_count": 1
       }
     },
     "modern": {
@@ -6014,11 +6066,17 @@
             "R15",
             "node-novel",
             "syosetu",
+            "その他",
+            "その他〔その他〕",
             "シリアス",
             "ダーク",
             "チート能力無し",
             "ハイファンタジー〔ファンタジー〕",
+            "ファンタジー",
             "乙女ゲーム",
+            "前世",
+            "外伝",
+            "夢",
             "女主人公",
             "女装",
             "宗教",
@@ -6027,14 +6085,34 @@
             "悪役令嬢転生",
             "成り上がり",
             "戦争",
+            "救いはありません",
             "時々ほのぼの",
             "残酷な描写あり",
             "男装",
             "異世界転生",
             "貴族",
             "領地経営"
+          ],
+          "sources": [
+            "http://ncode.syosetu.com/n0708cs/"
           ]
         },
+        "contribute": [
+          "56965速度",
+          "IIPUGII",
+          "MoneyOnlyOK",
+          "Orsted1号",
+          "redsandy0",
+          "sombremal",
+          "treeking0",
+          "十面绘",
+          "可可雪松子",
+          "土之女神",
+          "尘埃院长",
+          "很大书虫",
+          "温血的蛇",
+          "腹黑的轩轩"
+        ],
         "options": {
           "downloadOptions": {
             "noFilePadend": true,
@@ -6053,7 +6131,11 @@
         "link": [
           "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n6613ck/)",
           "[悪役転生だけどどうしてこうなった。](http://ncode.syosetu.com/s1455c/)",
-          "[恶役转生但是为什么会变成这样吧](https://tieba.baidu.com/f?kw=%E6%81%B6%E5%BD%B9%E8%BD%AC%E7%94%9F%E4%BD%86%E6%98%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%8F%98%E6%88%90%E8%BF%99%E6%A0%B7&ie=utf-8&tp=0 \"恶役转生但是为什么会变成这样\")"
+          "[恶役转生但是为什么会变成这样吧](https://tieba.baidu.com/f?kw=%E6%81%B6%E5%BD%B9%E8%BD%AC%E7%94%9F%E4%BD%86%E6%98%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%8F%98%E6%88%90%E8%BF%99%E6%A0%B7&ie=utf-8&tp=0 \"恶役转生但是为什么会变成这样\")",
+          "[整合](https://tieba.baidu.com/p/4757720966 \"整合\")",
+          "[登場人物／用語／簡易年表](https://tieba.baidu.com/p/5516247077 \"登場人物／用語／簡易年表\")",
+          "https://shimo.im/sheets/DW0LrSVl1IsgwxhW/MODOC",
+          "https://pan.baidu.com/s/1agMUJlDXOpYFJx7bxRHSbg bfgp"
         ]
       },
       "最強的吸血姬渴望妹妹": {
@@ -14887,6 +14969,7 @@
           "成萌新这件事",
           "把傷疤當做酒窩",
           "无尽神行靴",
+          "望虫",
           "歌利亚",
           "歪空の姬",
           "永恒",
