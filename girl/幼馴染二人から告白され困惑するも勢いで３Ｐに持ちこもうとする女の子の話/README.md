@@ -66,5 +66,5 @@
 
 - [narou.nar.jp](https://narou.nar.jp/search.php?text=n7857eu&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n7857eu/)
-
-
+- https://masiro.moe/forum.php?mod=viewthread&tid=6535&extra=page%3D1
+- 
