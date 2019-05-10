@@ -3,6 +3,7 @@
 - title: 魔王の娘の百合戦記〜TS転生した勇者は可愛い魔族やモン娘に囲まれた平穏な暮らしを守りたい～
 - title_zh1: 魔王的女儿百合战记
 - title_zh2: 魔王之女的百合战记
+- title_zh3: 魔王女儿的百合战记
 - title_short: 魔王の娘の百合戦記
 - author: 新生べっこう飴
 - illust: みすみ
@@ -92,4 +93,5 @@
 
 - [narou.nar.jp](https://narou.nar.jp/search.php?text=n3487fe&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [魔王的女儿百合战记吧](https://tieba.baidu.com/f?kw=%E9%AD%94%E7%8E%8B%E7%9A%84%E5%A5%B3%E5%84%BF%E7%99%BE%E5%90%88%E6%88%98%E8%AE%B0&ie=utf-8 "魔王的女儿百合战记")
+- https://book.uki.moe/book-2/
 - 
