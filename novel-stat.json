@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1557417600000,
-    "timestamp": 1557444908274,
+    "todayTimestamp": 1557504000000,
+    "timestamp": 1557531278495,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -974,6 +974,47 @@
             "epub_basename": "回復術士重來人生.epub",
             "update_date": 1557417600000,
             "update_count": 4
+          }
+        ]
+      ]
+    },
+    "1557504000000": {
+      "epub_count": 2,
+      "epub": [
+        [
+          "girl",
+          "幼馴染二人から告白され困惑するも勢いで３Ｐに持ちこもうとする女の子の話",
+          {
+            "init_date": 1557417600000,
+            "txt_basename": "關於一個被兩名青梅竹馬告白之後、雖然困惑.out.txt",
+            "epub_date": 1557531269942,
+            "volume_old": 1,
+            "chapter_old": 1,
+            "volume": 1,
+            "chapter": 1,
+            "epub_basename": "關於一個被兩名青梅竹馬告白之後、雖然困惑但還是順勢而為打算搞3P的女孩子的故事.epub",
+            "update_date": 1557504000000,
+            "update_count": 2
+          }
+        ],
+        [
+          "girl",
+          "魔王の娘の百合戦記",
+          {
+            "init_date": 1555776000000,
+            "txt_basename": "魔王の娘の百合戦記.out.txt",
+            "epub_date": 1557531271939,
+            "volume_old": 1,
+            "chapter_old": 9,
+            "volume": 1,
+            "chapter": 9,
+            "epub_basename": "魔王の娘の百合戦記.epub",
+            "novel_status": 256,
+            "update_date": 1557504000000,
+            "update_count": 6,
+            "segment_date": 1556842813471,
+            "segment_old": 2,
+            "segment": 3
           }
         ]
       ]
@@ -3877,15 +3918,15 @@
       "魔王の娘の百合戦記": {
         "init_date": 1555776000000,
         "txt_basename": "魔王の娘の百合戦記.out.txt",
-        "epub_date": 1557274942465,
+        "epub_date": 1557531271939,
         "volume_old": 1,
-        "chapter_old": 7,
+        "chapter_old": 9,
         "volume": 1,
         "chapter": 9,
         "epub_basename": "魔王の娘の百合戦記.epub",
         "novel_status": 256,
-        "update_date": 1557244800000,
-        "update_count": 5,
+        "update_date": 1557504000000,
+        "update_count": 6,
         "segment_date": 1556842813471,
         "segment_old": 2,
         "segment": 3
@@ -3918,14 +3959,14 @@
       "幼馴染二人から告白され困惑するも勢いで３Ｐに持ちこもうとする女の子の話": {
         "init_date": 1557417600000,
         "txt_basename": "關於一個被兩名青梅竹馬告白之後、雖然困惑.out.txt",
-        "epub_date": 1557444893941,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1557531269942,
+        "volume_old": 1,
+        "chapter_old": 1,
         "volume": 1,
         "chapter": 1,
         "epub_basename": "關於一個被兩名青梅竹馬告白之後、雖然困惑但還是順勢而為打算搞3P的女孩子的故事.epub",
-        "update_date": 1557417600000,
-        "update_count": 1
+        "update_date": 1557504000000,
+        "update_count": 2
       }
     },
     "modern": {
@@ -6235,7 +6276,8 @@
         },
         "link": [
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n7857eu&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n7857eu/)"
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n7857eu/)",
+          "https://masiro.moe/forum.php?mod=viewthread&tid=6535&extra=page%3D1"
         ]
       },
       "惡役轉生但是為什麼會變成這樣": {
@@ -6524,7 +6566,8 @@
             "異世界",
             "百合",
             "魔王の娘"
-          ]
+          ],
+          "title_zh3": "魔王女儿的百合战记"
         },
         "contribute": [
           "6757",
@@ -6548,7 +6591,8 @@
         },
         "link": [
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n3487fe&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[魔王的女儿百合战记吧](https://tieba.baidu.com/f?kw=%E9%AD%94%E7%8E%8B%E7%9A%84%E5%A5%B3%E5%84%BF%E7%99%BE%E5%90%88%E6%88%98%E8%AE%B0&ie=utf-8 \"魔王的女儿百合战记\")"
+          "[魔王的女儿百合战记吧](https://tieba.baidu.com/f?kw=%E9%AD%94%E7%8E%8B%E7%9A%84%E5%A5%B3%E5%84%BF%E7%99%BE%E5%90%88%E6%88%98%E8%AE%B0&ie=utf-8 \"魔王的女儿百合战记\")",
+          "https://book.uki.moe/book-2/"
         ]
       }
     },
