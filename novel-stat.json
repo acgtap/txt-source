@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1557504000000,
-    "timestamp": 1557531278495,
+    "todayTimestamp": 1557590400000,
+    "timestamp": 1557618009547,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1018,6 +1018,168 @@
           }
         ]
       ]
+    },
+    "1557590400000": {
+      "segment_count": 3,
+      "segment": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1557617683529,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1557617958884,
+            "volume_old": 1,
+            "chapter_old": 103,
+            "volume": 1,
+            "chapter": 107,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1557590400000,
+            "update_count": 17,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "傀儡契約_(n4719ff)",
+          {
+            "init_date": 1551715200000,
+            "epub_date": 1557617960192,
+            "volume_old": 1,
+            "chapter_old": 6,
+            "volume": 1,
+            "chapter": 8,
+            "epub_basename": "傀儡契約.epub",
+            "update_date": 1557590400000,
+            "update_count": 8,
+            "txt_basename": "傀儡契約.out.txt",
+            "segment_date": 1557617695860,
+            "segment_old": 1,
+            "segment": 4
+          }
+        ],
+        [
+          "girl",
+          "原千金未婚媽媽",
+          {
+            "segment_date": 1557617711180,
+            "segment_old": 5,
+            "segment": 2,
+            "init_date": 1552838400000,
+            "txt_basename": "原千金未婚媽媽.out.txt",
+            "epub_date": 1557617962172,
+            "volume_old": 2,
+            "chapter_old": 32,
+            "volume": 2,
+            "chapter": 39,
+            "epub_basename": "原千金未婚媽媽.epub",
+            "novel_status": 256,
+            "update_date": 1557590400000,
+            "update_count": 5
+          }
+        ]
+      ],
+      "epub_count": 5,
+      "epub": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1557617683529,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1557617958884,
+            "volume_old": 1,
+            "chapter_old": 103,
+            "volume": 1,
+            "chapter": 107,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1557590400000,
+            "update_count": 17,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "ポンコツ少女の電脳世界救世記",
+          {
+            "init_date": 1554739200000,
+            "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
+            "epub_date": 1557617959674,
+            "volume_old": 1,
+            "chapter_old": 11,
+            "volume": 1,
+            "chapter": 12,
+            "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
+            "novel_status": 1,
+            "update_date": 1557590400000,
+            "update_count": 6,
+            "segment_date": 1556151336714,
+            "segment_old": 1,
+            "segment": 1
+          }
+        ],
+        [
+          "girl",
+          "傀儡契約_(n4719ff)",
+          {
+            "init_date": 1551715200000,
+            "epub_date": 1557617960192,
+            "volume_old": 1,
+            "chapter_old": 6,
+            "volume": 1,
+            "chapter": 8,
+            "epub_basename": "傀儡契約.epub",
+            "update_date": 1557590400000,
+            "update_count": 8,
+            "txt_basename": "傀儡契約.out.txt",
+            "segment_date": 1557617695860,
+            "segment_old": 1,
+            "segment": 4
+          }
+        ],
+        [
+          "girl",
+          "原千金未婚媽媽",
+          {
+            "segment_date": 1557617711180,
+            "segment_old": 5,
+            "segment": 2,
+            "init_date": 1552838400000,
+            "txt_basename": "原千金未婚媽媽.out.txt",
+            "epub_date": 1557617962172,
+            "volume_old": 2,
+            "chapter_old": 32,
+            "volume": 2,
+            "chapter": 39,
+            "epub_basename": "原千金未婚媽媽.epub",
+            "novel_status": 256,
+            "update_date": 1557590400000,
+            "update_count": 5
+          }
+        ],
+        [
+          "user_out",
+          "豚公爵に転生したから、今度は君に好きと言いたい",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "豚公爵に転生したから、今度は君に好きと言.out.txt",
+            "epub_date": 1557617967999,
+            "volume_old": 6,
+            "chapter_old": 195,
+            "volume": 6,
+            "chapter": 202,
+            "epub_basename": "豚公爵に転生したから、今度は君に好きと言いたい.epub",
+            "update_date": 1557590400000,
+            "update_count": 11
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1938,14 +2100,14 @@
       "豚公爵に転生したから、今度は君に好きと言いたい": {
         "init_date": 1545494400000,
         "txt_basename": "豚公爵に転生したから、今度は君に好きと言.out.txt",
-        "epub_date": 1554768684148,
+        "epub_date": 1557617967999,
         "volume_old": 6,
-        "chapter_old": 184,
+        "chapter_old": 195,
         "volume": 6,
-        "chapter": 195,
+        "chapter": 202,
         "epub_basename": "豚公爵に転生したから、今度は君に好きと言いたい.epub",
-        "update_date": 1554739200000,
-        "update_count": 10
+        "update_date": 1557590400000,
+        "update_count": 11
       },
       "悠久の愚者アズリーの、賢者のすゝめ": {
         "init_date": 1545494400000,
@@ -3710,19 +3872,19 @@
     },
     "girl": {
       "Genocide Online ～極惡千金的玩遊戲日記～": {
-        "segment_date": 1557015524783,
+        "segment_date": 1557617683529,
         "segment_old": 1,
         "segment": 1,
         "init_date": 1549641600000,
-        "epub_date": 1557274927341,
+        "epub_date": 1557617958884,
         "volume_old": 1,
-        "chapter_old": 100,
+        "chapter_old": 103,
         "volume": 1,
-        "chapter": 103,
+        "chapter": 107,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1557244800000,
-        "update_count": 16,
+        "update_date": 1557590400000,
+        "update_count": 17,
         "txt_basename": "Genocide Online ～極惡千.out.txt"
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
@@ -3799,18 +3961,18 @@
       },
       "傀儡契約_(n4719ff)": {
         "init_date": 1551715200000,
-        "epub_date": 1556929234193,
+        "epub_date": 1557617960192,
         "volume_old": 1,
         "chapter_old": 6,
         "volume": 1,
-        "chapter": 6,
+        "chapter": 8,
         "epub_basename": "傀儡契約.epub",
-        "update_date": 1556899200000,
-        "update_count": 7,
+        "update_date": 1557590400000,
+        "update_count": 8,
         "txt_basename": "傀儡契約.out.txt",
-        "segment_date": 1556842808541,
+        "segment_date": 1557617695860,
         "segment_old": 1,
-        "segment": 1
+        "segment": 4
       },
       "村民轉生武器使": {
         "segment_date": 1557274901407,
@@ -3868,33 +4030,33 @@
         "update_count": 1
       },
       "原千金未婚媽媽": {
-        "segment_date": 1556583632963,
-        "segment_old": 8,
-        "segment": 5,
+        "segment_date": 1557617711180,
+        "segment_old": 5,
+        "segment": 2,
         "init_date": 1552838400000,
         "txt_basename": "原千金未婚媽媽.out.txt",
-        "epub_date": 1556669917110,
+        "epub_date": 1557617962172,
         "volume_old": 2,
         "chapter_old": 32,
         "volume": 2,
-        "chapter": 32,
+        "chapter": 39,
         "epub_basename": "原千金未婚媽媽.epub",
         "novel_status": 256,
-        "update_date": 1556640000000,
-        "update_count": 4
+        "update_date": 1557590400000,
+        "update_count": 5
       },
       "ポンコツ少女の電脳世界救世記": {
         "init_date": 1554739200000,
         "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
-        "epub_date": 1557274937925,
+        "epub_date": 1557617959674,
         "volume_old": 1,
-        "chapter_old": 10,
+        "chapter_old": 11,
         "volume": 1,
-        "chapter": 11,
+        "chapter": 12,
         "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
         "novel_status": 1,
-        "update_date": 1557244800000,
-        "update_count": 5,
+        "update_date": 1557590400000,
+        "update_count": 6,
         "segment_date": 1556151336714,
         "segment_old": 1,
         "segment": 1

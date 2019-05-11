@@ -1,5 +1,29 @@
 # HISTORY
 
+## 2019-05-12
+
+### Epub
+
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( v: 1 , c: 107, add: 4 )
+- [ポンコツ少女の電脳世界救世記](girl/%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E5%B0%91%E5%A5%B3%E3%81%AE%E9%9B%BB%E8%84%B3%E4%B8%96%E7%95%8C%E6%95%91%E4%B8%96%E8%A8%98) - girl
+  <br/>( v: 1 , c: 12, add: 1 )
+- [傀儡契約_(n4719ff)](girl/%E5%82%80%E5%84%A1%E5%A5%91%E7%B4%84_(n4719ff)) - girl
+  <br/>( v: 1 , c: 8, add: 2 )
+- [原千金未婚媽媽](girl/%E5%8E%9F%E5%8D%83%E9%87%91%E6%9C%AA%E5%A9%9A%E5%AA%BD%E5%AA%BD) - girl
+  <br/>( v: 2 , c: 39, add: 7 )
+- [豚公爵に転生したから、今度は君に好きと言いたい](user_out/%E8%B1%9A%E5%85%AC%E7%88%B5%E3%81%AB%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E3%81%8B%E3%82%89%E3%80%81%E4%BB%8A%E5%BA%A6%E3%81%AF%E5%90%9B%E3%81%AB%E5%A5%BD%E3%81%8D%E3%81%A8%E8%A8%80%E3%81%84%E3%81%9F%E3%81%84) - user_out
+  <br/>( v: 6 , c: 202, add: 7 )
+
+### Segment
+
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( s: 1 )
+- [傀儡契約_(n4719ff)](girl/%E5%82%80%E5%84%A1%E5%A5%91%E7%B4%84_(n4719ff)) - girl
+  <br/>( s: 4 )
+- [原千金未婚媽媽](girl/%E5%8E%9F%E5%8D%83%E9%87%91%E6%9C%AA%E5%A9%9A%E5%AA%BD%E5%AA%BD) - girl
+  <br/>( s: 2 )
+
 ## 2019-05-11
 
 ### Epub
