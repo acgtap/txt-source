@@ -117,6 +117,5 @@
 - [ざまぁシリーズ](http://ncode.syosetu.com/s8227d/)
 - [masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=130&page=1)
 - https://www.novelupdates.com/series/even-though-im-a-former-noble-and-a-single-mother-my-daughters-are-too-cute-and-working-as-an-adventurer-isnt-too-much-of-a-hassle/
--
-
+- 
 
