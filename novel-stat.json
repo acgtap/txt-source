@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1557590400000,
-    "timestamp": 1557618009547,
+    "todayTimestamp": 1557676800000,
+    "timestamp": 1557704256729,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1180,6 +1180,64 @@
           }
         ]
       ]
+    },
+    "1557676800000": {
+      "segment_count": 2,
+      "segment": [
+        [
+          "syosetu",
+          "レベル１の最強賢者",
+          {
+            "init_date": 1553270400000,
+            "txt_basename": "等級１的最強賢者.out.txt",
+            "epub_date": 1557704218098,
+            "volume_old": 3,
+            "chapter_old": 20,
+            "volume": 4,
+            "chapter": 37,
+            "epub_basename": "等級１的最強賢者.epub",
+            "update_date": 1557676800000,
+            "update_count": 4,
+            "segment_date": 1557704077189,
+            "segment_old": 0,
+            "segment": 15
+          }
+        ],
+        [
+          "user",
+          "俺の死亡フラグが留まるところを知らない",
+          {
+            "init_date": 1547913600000,
+            "segment_date": 1557704168193,
+            "segment_old": 1,
+            "segment": 30,
+            "update_date": 1557676800000,
+            "update_count": 2
+          }
+        ]
+      ],
+      "epub_count": 1,
+      "epub": [
+        [
+          "syosetu",
+          "レベル１の最強賢者",
+          {
+            "init_date": 1553270400000,
+            "txt_basename": "等級１的最強賢者.out.txt",
+            "epub_date": 1557704218098,
+            "volume_old": 3,
+            "chapter_old": 20,
+            "volume": 4,
+            "chapter": 37,
+            "epub_basename": "等級１的最強賢者.epub",
+            "update_date": 1557676800000,
+            "update_count": 4,
+            "segment_date": 1557704077189,
+            "segment_old": 0,
+            "segment": 15
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1595,14 +1653,17 @@
       "レベル１の最強賢者": {
         "init_date": 1553270400000,
         "txt_basename": "等級１的最強賢者.out.txt",
-        "epub_date": 1554941239636,
+        "epub_date": 1557704218098,
         "volume_old": 3,
         "chapter_old": 20,
-        "volume": 3,
-        "chapter": 20,
+        "volume": 4,
+        "chapter": 37,
         "epub_basename": "等級１的最強賢者.epub",
-        "update_date": 1554912000000,
-        "update_count": 3
+        "update_date": 1557676800000,
+        "update_count": 4,
+        "segment_date": 1557704077189,
+        "segment_old": 0,
+        "segment": 15
       },
       "転生！異世界より愛をこめて": {
         "init_date": 1553356800000,
@@ -1844,11 +1905,11 @@
       },
       "俺の死亡フラグが留まるところを知らない": {
         "init_date": 1547913600000,
-        "segment_date": 1552867057356,
-        "segment_old": 0,
-        "segment": 1,
-        "update_date": 1552838400000,
-        "update_count": 1
+        "segment_date": 1557704168193,
+        "segment_old": 1,
+        "segment": 30,
+        "update_date": 1557676800000,
+        "update_count": 2
       },
       "呪術師は勇者になれない": {
         "init_date": 1547913600000
@@ -8578,7 +8639,7 @@
           "author": "木塚 麻弥",
           "illust": "",
           "source": "http://ncode.syosetu.com/n1563fd/",
-          "cover": "",
+          "cover": "https://cdn-image.alphapolis.co.jp/cover/827249005/500x711/5c82e89a-df28-4d66-94a2-25f3ac113c6e",
           "publisher": "syosetu",
           "publishers": [
             "syosetu"
@@ -8610,9 +8671,13 @@
             "異世界転移",
             "精霊",
             "賢者"
+          ],
+          "sources": [
+            "https://www.alphapolis.co.jp/novel/732537330/827249005"
           ]
         },
         "contribute": [
+          "Chris Liu",
           "土之女神",
           "守护舞忍",
           "无限且遥远◆",
@@ -8635,7 +8700,8 @@
         },
         "link": [
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n1563fd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[等级1的最强贤者吧](https://tieba.baidu.com/f?kw=%E7%AD%89%E7%BA%A71%E7%9A%84%E6%9C%80%E5%BC%BA%E8%B4%A4%E8%80%85&ie=utf-8 \"等级1的最强贤者\")"
+          "[等级1的最强贤者吧](https://tieba.baidu.com/f?kw=%E7%AD%89%E7%BA%A71%E7%9A%84%E6%9C%80%E5%BC%BA%E8%B4%A4%E8%80%85&ie=utf-8 \"等级1的最强贤者\")",
+          "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=131&page=1)"
         ]
       },
       "世界最強の後衛　～迷宮国の新人探索者～": {
