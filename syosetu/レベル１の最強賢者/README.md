@@ -6,11 +6,15 @@
 - author: 木塚 麻弥
 - illust:
 - source: http://ncode.syosetu.com/n1563fd/
-- cover:
+- cover: https://cdn-image.alphapolis.co.jp/cover/827249005/500x711/5c82e89a-df28-4d66-94a2-25f3ac113c6e
 - publisher: syosetu
 - date: 2019-03-21T19:40:00+08:00
 - status: 連載
 - novel_status: 0x0000
+
+## sources
+
+- https://www.alphapolis.co.jp/novel/732537330/827249005
 
 ## illusts
 
@@ -119,7 +123,8 @@
 - 守护舞忍
 - 土之女神
 - 无限且遥远◆
--
+- Chris Liu
+- 
 
 
 # options
@@ -144,4 +149,6 @@
 
 - [narou.nar.jp](https://narou.nar.jp/search.php?text=n1563fd&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索
 - [等级1的最强贤者吧](https://tieba.baidu.com/f?kw=%E7%AD%89%E7%BA%A71%E7%9A%84%E6%9C%80%E5%BC%BA%E8%B4%A4%E8%80%85&ie=utf-8 "等级1的最强贤者")
+- [masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=131&page=1)
 -
+
