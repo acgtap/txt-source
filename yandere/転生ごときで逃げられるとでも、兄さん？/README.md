@@ -97,5 +97,6 @@
 - [被病娇妹妹爱的死去活来](https://tieba.baidu.com/f?kw=%E8%A2%AB%E7%97%85%E5%A8%87%E5%A6%B9%E5%A6%B9%E7%88%B1%E7%9A%84%E6%AD%BB%E5%8E%BB%E6%B4%BB%E6%9D%A5&ie=utf-8 "被病娇妹妹爱的死去活来")
 - [石墨整合](https://shimo.im/docs/ARkNdGT5kR00USzY)
 - [百石尤莉叶](https://pan.baidu.com/s/1rH5E_HUXw6KzyqWZHoUVCg) - z9sa
+- https://masiro.moe/forum.php?mod=forumdisplay&fid=116
 -
 
