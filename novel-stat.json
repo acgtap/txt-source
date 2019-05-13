@@ -1,686 +1,11 @@
 {
   "meta": {
-    "todayTimestamp": 1557676800000,
-    "timestamp": 1557704256729,
+    "todayTimestamp": 1557763200000,
+    "timestamp": 1557791177256,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
   "history": {
-    "1556553600000": {
-      "segment_count": 3,
-      "segment": [
-        [
-          "girl",
-          "原千金未婚媽媽",
-          {
-            "segment_date": 1556583632963,
-            "segment_old": 8,
-            "segment": 5,
-            "init_date": 1552838400000,
-            "txt_basename": "原千金未婚媽媽.out.txt",
-            "epub_date": 1556584007855,
-            "volume_old": 1,
-            "chapter_old": 21,
-            "volume": 2,
-            "chapter": 32,
-            "epub_basename": "原千金未婚媽媽.epub",
-            "novel_status": 256,
-            "update_date": 1556553600000,
-            "update_count": 3
-          }
-        ],
-        [
-          "user",
-          "黑之魔王",
-          {
-            "segment_date": 1556583962897,
-            "segment_old": 26,
-            "segment": 5,
-            "init_date": 1545261427757,
-            "update_date": 1556553600000,
-            "update_count": 16
-          }
-        ],
-        [
-          "yandere",
-          "転生ごときで逃げられるとでも、兄さん？",
-          {
-            "segment_date": 1556583988121,
-            "segment_old": 12,
-            "segment": 1,
-            "init_date": 1548604800000,
-            "epub_date": 1548977895318,
-            "volume_old": 5,
-            "chapter_old": 79,
-            "volume": 5,
-            "chapter": 79,
-            "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
-            "update_date": 1556553600000,
-            "update_count": 10
-          }
-        ]
-      ],
-      "epub_count": 3,
-      "epub": [
-        [
-          "family",
-          "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生",
-          {
-            "init_date": 1552147200000,
-            "txt_basename": "被剝奪了冒險者執照的大叔，得到了愛女悠閒.out.txt",
-            "epub_date": 1556584006084,
-            "volume_old": 1,
-            "chapter_old": 2,
-            "volume": 1,
-            "chapter": 5,
-            "epub_basename": "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生.epub",
-            "novel_status": 768,
-            "update_date": 1556553600000,
-            "update_count": 3,
-            "segment_date": 1552261885555,
-            "segment_old": 0,
-            "segment": 1
-          }
-        ],
-        [
-          "girl",
-          "原千金未婚媽媽",
-          {
-            "segment_date": 1556583632963,
-            "segment_old": 8,
-            "segment": 5,
-            "init_date": 1552838400000,
-            "txt_basename": "原千金未婚媽媽.out.txt",
-            "epub_date": 1556584007855,
-            "volume_old": 1,
-            "chapter_old": 21,
-            "volume": 2,
-            "chapter": 32,
-            "epub_basename": "原千金未婚媽媽.epub",
-            "novel_status": 256,
-            "update_date": 1556553600000,
-            "update_count": 3
-          }
-        ],
-        [
-          "syosetu",
-          "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～",
-          {
-            "init_date": 1547913600000,
-            "epub_date": 1556584009356,
-            "volume_old": 1,
-            "chapter_old": 1,
-            "volume": 2,
-            "chapter": 32,
-            "epub_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？那好吃嗎？.epub",
-            "novel_status": 769,
-            "update_date": 1556553600000,
-            "update_count": 3,
-            "txt_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？.out.txt"
-          }
-        ]
-      ]
-    },
-    "1556640000000": {
-      "epub_count": 1,
-      "epub": [
-        [
-          "girl",
-          "原千金未婚媽媽",
-          {
-            "segment_date": 1556583632963,
-            "segment_old": 8,
-            "segment": 5,
-            "init_date": 1552838400000,
-            "txt_basename": "原千金未婚媽媽.out.txt",
-            "epub_date": 1556669917110,
-            "volume_old": 2,
-            "chapter_old": 32,
-            "volume": 2,
-            "chapter": 32,
-            "epub_basename": "原千金未婚媽媽.epub",
-            "novel_status": 256,
-            "update_date": 1556640000000,
-            "update_count": 4
-          }
-        ]
-      ]
-    },
-    "1556726400000": {
-      "segment_count": 1,
-      "segment": [
-        [
-          "syosetu",
-          "ガチャを回して仲間を増やす　最強の美少女軍団を作り上げろ",
-          {
-            "segment_date": 1556756344667,
-            "segment_old": 0,
-            "segment": 24,
-            "init_date": 1556756344667,
-            "txt_basename": "通過扭蛋增加同伴　建立最強美少女軍團.out.txt",
-            "epub_date": 1556756369746,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 194,
-            "epub_basename": "通過扭蛋增加同伴　建立最強美少女軍團.epub",
-            "novel_status": 768,
-            "update_date": 1556726400000,
-            "update_count": 1
-          }
-        ]
-      ],
-      "epub_count": 1,
-      "epub": [
-        [
-          "syosetu",
-          "ガチャを回して仲間を増やす　最強の美少女軍団を作り上げろ",
-          {
-            "segment_date": 1556756344667,
-            "segment_old": 0,
-            "segment": 24,
-            "init_date": 1556756344667,
-            "txt_basename": "通過扭蛋增加同伴　建立最強美少女軍團.out.txt",
-            "epub_date": 1556756369746,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 194,
-            "epub_basename": "通過扭蛋增加同伴　建立最強美少女軍團.epub",
-            "novel_status": 768,
-            "update_date": 1556726400000,
-            "update_count": 1
-          }
-        ]
-      ]
-    },
-    "1556812800000": {
-      "segment_count": 6,
-      "segment": [
-        [
-          "girl",
-          "Genocide Online ～極惡千金的玩遊戲日記～",
-          {
-            "segment_date": 1556842740198,
-            "segment_old": 1,
-            "segment": 1,
-            "init_date": 1549641600000,
-            "epub_date": 1556843712883,
-            "volume_old": 1,
-            "chapter_old": 91,
-            "volume": 1,
-            "chapter": 98,
-            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
-            "novel_status": 256,
-            "update_date": 1556812800000,
-            "update_count": 14,
-            "txt_basename": "Genocide Online ～極惡千.out.txt"
-          }
-        ],
-        [
-          "girl",
-          "エリナの成長物語（引き籠り女神の転生）",
-          {
-            "init_date": 1552492800000,
-            "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
-            "epub_date": 1556843713485,
-            "volume_old": 1,
-            "chapter_old": 12,
-            "volume": 1,
-            "chapter": 15,
-            "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
-            "update_date": 1556812800000,
-            "update_count": 6,
-            "segment_date": 1556842746376,
-            "segment_old": 2,
-            "segment": 3
-          }
-        ],
-        [
-          "girl",
-          "傀儡契約_(n4719ff)",
-          {
-            "init_date": 1551715200000,
-            "epub_date": 1556843714254,
-            "volume_old": 1,
-            "chapter_old": 4,
-            "volume": 1,
-            "chapter": 6,
-            "epub_basename": "傀儡契約.epub",
-            "update_date": 1556812800000,
-            "update_count": 6,
-            "txt_basename": "傀儡契約.out.txt",
-            "segment_date": 1556842808541,
-            "segment_old": 1,
-            "segment": 1
-          }
-        ],
-        [
-          "girl",
-          "魔王の娘の百合戦記",
-          {
-            "init_date": 1555776000000,
-            "txt_basename": "魔王の娘の百合戦記.out.txt",
-            "epub_date": 1556843714865,
-            "volume_old": 1,
-            "chapter_old": 5,
-            "volume": 1,
-            "chapter": 7,
-            "epub_basename": "魔王の娘の百合戦記.epub",
-            "novel_status": 256,
-            "update_date": 1556812800000,
-            "update_count": 4,
-            "segment_date": 1556842813471,
-            "segment_old": 2,
-            "segment": 3
-          }
-        ],
-        [
-          "ts",
-          "自称贤者弟子的贤者",
-          {
-            "segment_date": 1556843056195,
-            "segment_old": 0,
-            "segment": 76,
-            "init_date": 1556843056195,
-            "update_date": 1556812800000,
-            "update_count": 1
-          }
-        ],
-        [
-          "user",
-          "四度目は嫌な死属性魔術師",
-          {
-            "segment_date": 1556843688195,
-            "segment_old": 16,
-            "segment": 14,
-            "init_date": 1546302039608,
-            "update_date": 1556812800000,
-            "update_count": 13
-          }
-        ]
-      ],
-      "epub_count": 10,
-      "epub": [
-        [
-          "girl",
-          "Genocide Online ～極惡千金的玩遊戲日記～",
-          {
-            "segment_date": 1556842740198,
-            "segment_old": 1,
-            "segment": 1,
-            "init_date": 1549641600000,
-            "epub_date": 1556843712883,
-            "volume_old": 1,
-            "chapter_old": 91,
-            "volume": 1,
-            "chapter": 98,
-            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
-            "novel_status": 256,
-            "update_date": 1556812800000,
-            "update_count": 14,
-            "txt_basename": "Genocide Online ～極惡千.out.txt"
-          }
-        ],
-        [
-          "girl",
-          "エリナの成長物語（引き籠り女神の転生）",
-          {
-            "init_date": 1552492800000,
-            "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
-            "epub_date": 1556843713485,
-            "volume_old": 1,
-            "chapter_old": 12,
-            "volume": 1,
-            "chapter": 15,
-            "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
-            "update_date": 1556812800000,
-            "update_count": 6,
-            "segment_date": 1556842746376,
-            "segment_old": 2,
-            "segment": 3
-          }
-        ],
-        [
-          "girl",
-          "ポンコツ少女の電脳世界救世記",
-          {
-            "init_date": 1554739200000,
-            "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
-            "epub_date": 1556843713935,
-            "volume_old": 1,
-            "chapter_old": 8,
-            "volume": 1,
-            "chapter": 10,
-            "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
-            "novel_status": 1,
-            "update_date": 1556812800000,
-            "update_count": 4,
-            "segment_date": 1556151336714,
-            "segment_old": 1,
-            "segment": 1
-          }
-        ],
-        [
-          "girl",
-          "傀儡契約_(n4719ff)",
-          {
-            "init_date": 1551715200000,
-            "epub_date": 1556843714254,
-            "volume_old": 1,
-            "chapter_old": 4,
-            "volume": 1,
-            "chapter": 6,
-            "epub_basename": "傀儡契約.epub",
-            "update_date": 1556812800000,
-            "update_count": 6,
-            "txt_basename": "傀儡契約.out.txt",
-            "segment_date": 1556842808541,
-            "segment_old": 1,
-            "segment": 1
-          }
-        ],
-        [
-          "girl",
-          "魔王の娘の百合戦記",
-          {
-            "init_date": 1555776000000,
-            "txt_basename": "魔王の娘の百合戦記.out.txt",
-            "epub_date": 1556843714865,
-            "volume_old": 1,
-            "chapter_old": 5,
-            "volume": 1,
-            "chapter": 7,
-            "epub_basename": "魔王の娘の百合戦記.epub",
-            "novel_status": 256,
-            "update_date": 1556812800000,
-            "update_count": 4,
-            "segment_date": 1556842813471,
-            "segment_old": 2,
-            "segment": 3
-          }
-        ],
-        [
-          "girl_out",
-          "你這種傢伙別想打贏魔王",
-          {
-            "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
-            "epub_date": 1556843719132,
-            "volume_old": 15,
-            "chapter_old": 117,
-            "volume": 15,
-            "chapter": 123,
-            "epub_basename": "你這種傢伙別想打贏魔王.epub",
-            "novel_status": 769,
-            "init_date": 1550505600000,
-            "update_date": 1556812800000,
-            "update_count": 6
-          }
-        ],
-        [
-          "h_out",
-          "玩了VR工口遊戲轉生到異世界",
-          {
-            "txt_basename": "玩了VR工口遊戲轉生到異世界、將美少女魔.out.txt",
-            "epub_date": 1556843719787,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 9,
-            "epub_basename": "玩了VR工口遊戲轉生到異世界、將美少女魔王奴隸化〜跨越世界的救世主〜.epub",
-            "init_date": 1556843719787,
-            "update_date": 1556812800000,
-            "update_count": 1
-          }
-        ],
-        [
-          "syosetu",
-          "リアリスト魔王による聖域なき異世界改革",
-          {
-            "init_date": 1556812800000,
-            "txt_basename": "現實主義魔王的異世界改革.out.txt",
-            "epub_date": 1556843727220,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 1,
-            "epub_basename": "現實主義魔王的異世界改革.epub",
-            "novel_status": 768,
-            "update_date": 1556812800000,
-            "update_count": 1
-          }
-        ],
-        [
-          "ts",
-          "葉隠桜は嘆かない",
-          {
-            "init_date": 1556812800000,
-            "txt_basename": "葉隱櫻不悲嘆.out.txt",
-            "epub_date": 1556843727399,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 1,
-            "epub_basename": "葉隱櫻不悲嘆.epub",
-            "update_date": 1556812800000,
-            "update_count": 1
-          }
-        ],
-        [
-          "ts_out",
-          "自称贤者弟子的贤者",
-          {
-            "txt_basename": "自称贤者弟子的贤者.out.txt",
-            "epub_date": 1556843733870,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 7,
-            "chapter": 312,
-            "epub_basename": "自称贤者弟子的贤者.epub",
-            "novel_status": 768,
-            "init_date": 1556843733870,
-            "update_date": 1556812800000,
-            "update_count": 1
-          }
-        ]
-      ]
-    },
-    "1556899200000": {
-      "segment_count": 1,
-      "segment": [
-        [
-          "user",
-          "魔王様、リトライ！",
-          {
-            "segment_date": 1556929213468,
-            "segment_old": 24,
-            "segment": 7,
-            "init_date": 1545521369284,
-            "update_date": 1556899200000,
-            "update_count": 6
-          }
-        ]
-      ],
-      "epub_count": 3,
-      "epub": [
-        [
-          "girl",
-          "傀儡契約_(n4719ff)",
-          {
-            "init_date": 1551715200000,
-            "epub_date": 1556929234193,
-            "volume_old": 1,
-            "chapter_old": 6,
-            "volume": 1,
-            "chapter": 6,
-            "epub_basename": "傀儡契約.epub",
-            "update_date": 1556899200000,
-            "update_count": 7,
-            "txt_basename": "傀儡契約.out.txt",
-            "segment_date": 1556842808541,
-            "segment_old": 1,
-            "segment": 1
-          }
-        ],
-        [
-          "ts",
-          "ゲームキャラで異世界転生して、大草原ではじめるスローライフ",
-          {
-            "init_date": 1556899200000,
-            "txt_basename": "以游戲角色的異世界轉生～由大草原開始的慢.out.txt",
-            "epub_date": 1556929234888,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 3,
-            "epub_basename": "以游戲角色的異世界轉生～由大草原開始的慢節奏生活～.epub",
-            "novel_status": 257,
-            "update_date": 1556899200000,
-            "update_count": 1
-          }
-        ],
-        [
-          "ts",
-          "朝起きたら銀髪ロリ吸血鬼になっていた（小並感）",
-          {
-            "init_date": 1556899200000,
-            "txt_basename": "早上起來變成銀髮蘿莉吸血鬼了.out.txt",
-            "epub_date": 1556929237499,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 18,
-            "epub_basename": "早上起來變成銀髮蘿莉吸血鬼了.epub",
-            "update_date": 1556899200000,
-            "update_count": 1
-          }
-        ]
-      ]
-    },
-    "1556985600000": {
-      "segment_count": 1,
-      "segment": [
-        [
-          "girl",
-          "Genocide Online ～極惡千金的玩遊戲日記～",
-          {
-            "segment_date": 1557015524783,
-            "segment_old": 1,
-            "segment": 1,
-            "init_date": 1549641600000,
-            "epub_date": 1557015647965,
-            "volume_old": 1,
-            "chapter_old": 98,
-            "volume": 1,
-            "chapter": 100,
-            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
-            "novel_status": 256,
-            "update_date": 1556985600000,
-            "update_count": 15,
-            "txt_basename": "Genocide Online ～極惡千.out.txt"
-          }
-        ]
-      ],
-      "epub_count": 4,
-      "epub": [
-        [
-          "girl",
-          "Genocide Online ～極惡千金的玩遊戲日記～",
-          {
-            "segment_date": 1557015524783,
-            "segment_old": 1,
-            "segment": 1,
-            "init_date": 1549641600000,
-            "epub_date": 1557015647965,
-            "volume_old": 1,
-            "chapter_old": 98,
-            "volume": 1,
-            "chapter": 100,
-            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
-            "novel_status": 256,
-            "update_date": 1556985600000,
-            "update_count": 15,
-            "txt_basename": "Genocide Online ～極惡千.out.txt"
-          }
-        ],
-        [
-          "girl",
-          "十歳の最強魔導師",
-          {
-            "segment_date": 1555632736142,
-            "segment_old": 0,
-            "segment": 16,
-            "init_date": 1555603200000,
-            "txt_basename": "十歳の最強魔導師.out.txt",
-            "epub_date": 1557015651204,
-            "volume_old": 1,
-            "chapter_old": 135,
-            "volume": 1,
-            "chapter": 141,
-            "epub_basename": "十歳の最強魔導師.epub",
-            "novel_status": 256,
-            "update_date": 1556985600000,
-            "update_count": 3
-          }
-        ],
-        [
-          "ts",
-          "ゲームキャラで異世界転生して、大草原ではじめるスローライフ",
-          {
-            "init_date": 1556899200000,
-            "txt_basename": "以游戲角色的異世界轉生～由大草原開始的慢.out.txt",
-            "epub_date": 1557015651700,
-            "volume_old": 1,
-            "chapter_old": 3,
-            "volume": 1,
-            "chapter": 3,
-            "epub_basename": "以游戲角色的異世界轉生～由大草原開始的慢節奏生活～.epub",
-            "novel_status": 257,
-            "update_date": 1556985600000,
-            "update_count": 2
-          }
-        ],
-        [
-          "user_out",
-          "誰にでもできる影から助ける魔王討伐",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "誰都能做到的暗中協助魔王討伐.out.txt",
-            "epub_date": 1557015653727,
-            "volume_old": 9,
-            "chapter_old": 40,
-            "volume": 13,
-            "chapter": 62,
-            "epub_basename": "誰都能做到的暗中協助魔王討伐.epub",
-            "update_date": 1556985600000,
-            "update_count": 4,
-            "novel_status": 768
-          }
-        ]
-      ]
-    },
-    "1557158400000": {
-      "epub_count": 1,
-      "epub": [
-        [
-          "user_out",
-          "誰にでもできる影から助ける魔王討伐",
-          {
-            "init_date": 1545494400000,
-            "txt_basename": "誰都能做到的暗中協助魔王討伐.out.txt",
-            "epub_date": 1557188447090,
-            "volume_old": 13,
-            "chapter_old": 62,
-            "volume": 13,
-            "chapter": 62,
-            "epub_basename": "誰都能做到的暗中協助魔王討伐.epub",
-            "update_date": 1557158400000,
-            "update_count": 5,
-            "novel_status": 768
-          }
-        ]
-      ]
-    },
     "1557244800000": {
       "segment_count": 3,
       "segment": [
@@ -1238,6 +563,379 @@
           }
         ]
       ]
+    },
+    "1557763200000": {
+      "segment_count": 7,
+      "segment": [
+        [
+          "dmzj",
+          "食銹末世錄",
+          {
+            "segment_date": 1557790545881,
+            "segment_old": 0,
+            "segment": 23,
+            "init_date": 1557790545881,
+            "txt_basename": "食銹末世錄.out.txt",
+            "epub_date": 1557791090041,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 23,
+            "epub_basename": "食銹末世錄.epub",
+            "novel_status": 256,
+            "update_date": 1557763200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "dmzj",
+          "魔法師塔塔",
+          {
+            "segment_date": 1557790566399,
+            "segment_old": 0,
+            "segment": 12,
+            "init_date": 1557790566399,
+            "txt_basename": "魔法師塔塔.out.txt",
+            "epub_date": 1557791091487,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 12,
+            "epub_basename": "魔法師塔塔.epub",
+            "novel_status": 256,
+            "update_date": 1557763200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1557790591264,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1557791094744,
+            "volume_old": 1,
+            "chapter_old": 107,
+            "volume": 1,
+            "chapter": 108,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1557763200000,
+            "update_count": 18,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "エリナの成長物語（引き籠り女神の転生）",
+          {
+            "init_date": 1552492800000,
+            "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
+            "epub_date": 1557791095473,
+            "volume_old": 1,
+            "chapter_old": 16,
+            "volume": 1,
+            "chapter": 17,
+            "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
+            "update_date": 1557763200000,
+            "update_count": 8,
+            "segment_date": 1557790597433,
+            "segment_old": 3,
+            "segment": 1
+          }
+        ],
+        [
+          "girl",
+          "王女殿下はお怒りのようです",
+          {
+            "segment_date": 1557790614389,
+            "segment_old": 0,
+            "segment": 26,
+            "init_date": 1557790614389,
+            "txt_basename": "王女殿下はお怒りのようです.out.txt",
+            "epub_date": 1557791097053,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 26,
+            "epub_basename": "王女殿下はお怒りのようです.epub",
+            "novel_status": 256,
+            "update_date": 1557763200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "h",
+          "俺が淫魔術で奴隷ハーレムを作る話",
+          {
+            "segment_date": 1557790622664,
+            "segment_old": 1,
+            "segment": 2,
+            "init_date": 1556294400000,
+            "txt_basename": "我仰賴淫魔術建立了奴隸後宮.out.txt",
+            "epub_date": 1557791099823,
+            "volume_old": 1,
+            "chapter_old": 4,
+            "volume": 1,
+            "chapter": 6,
+            "epub_basename": "我仰賴淫魔術建立了奴隸後宮.epub",
+            "novel_status": 256,
+            "update_date": 1557763200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu",
+          "願わくばこの手に幸福を",
+          {
+            "segment_date": 1557790684545,
+            "segment_old": 0,
+            "segment": 1,
+            "init_date": 1557790684545,
+            "txt_basename": "願わくばこの手に幸福を.out.txt",
+            "epub_date": 1557791100286,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 1,
+            "epub_basename": "願わくばこの手に幸福を.epub",
+            "novel_status": 768,
+            "update_date": 1557763200000,
+            "update_count": 1
+          }
+        ]
+      ],
+      "epub_count": 12,
+      "epub": [
+        [
+          "dmzj",
+          "食銹末世錄",
+          {
+            "segment_date": 1557790545881,
+            "segment_old": 0,
+            "segment": 23,
+            "init_date": 1557790545881,
+            "txt_basename": "食銹末世錄.out.txt",
+            "epub_date": 1557791090041,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 23,
+            "epub_basename": "食銹末世錄.epub",
+            "novel_status": 256,
+            "update_date": 1557763200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "dmzj",
+          "魔法師塔塔",
+          {
+            "segment_date": 1557790566399,
+            "segment_old": 0,
+            "segment": 12,
+            "init_date": 1557790566399,
+            "txt_basename": "魔法師塔塔.out.txt",
+            "epub_date": 1557791091487,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 12,
+            "epub_basename": "魔法師塔塔.epub",
+            "novel_status": 256,
+            "update_date": 1557763200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1557790591264,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1557791094744,
+            "volume_old": 1,
+            "chapter_old": 107,
+            "volume": 1,
+            "chapter": 108,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1557763200000,
+            "update_count": 18,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "エリナの成長物語（引き籠り女神の転生）",
+          {
+            "init_date": 1552492800000,
+            "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
+            "epub_date": 1557791095473,
+            "volume_old": 1,
+            "chapter_old": 16,
+            "volume": 1,
+            "chapter": 17,
+            "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
+            "update_date": 1557763200000,
+            "update_count": 8,
+            "segment_date": 1557790597433,
+            "segment_old": 3,
+            "segment": 1
+          }
+        ],
+        [
+          "girl",
+          "ポンコツ少女の電脳世界救世記",
+          {
+            "init_date": 1554739200000,
+            "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
+            "epub_date": 1557791096044,
+            "volume_old": 1,
+            "chapter_old": 12,
+            "volume": 1,
+            "chapter": 13,
+            "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
+            "novel_status": 1,
+            "update_date": 1557763200000,
+            "update_count": 7,
+            "segment_date": 1556151336714,
+            "segment_old": 1,
+            "segment": 1
+          }
+        ],
+        [
+          "girl",
+          "王女殿下はお怒りのようです",
+          {
+            "segment_date": 1557790614389,
+            "segment_old": 0,
+            "segment": 26,
+            "init_date": 1557790614389,
+            "txt_basename": "王女殿下はお怒りのようです.out.txt",
+            "epub_date": 1557791097053,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 26,
+            "epub_basename": "王女殿下はお怒りのようです.epub",
+            "novel_status": 256,
+            "update_date": 1557763200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "h",
+          "俺が淫魔術で奴隷ハーレムを作る話",
+          {
+            "segment_date": 1557790622664,
+            "segment_old": 1,
+            "segment": 2,
+            "init_date": 1556294400000,
+            "txt_basename": "我仰賴淫魔術建立了奴隸後宮.out.txt",
+            "epub_date": 1557791099823,
+            "volume_old": 1,
+            "chapter_old": 4,
+            "volume": 1,
+            "chapter": 6,
+            "epub_basename": "我仰賴淫魔術建立了奴隸後宮.epub",
+            "novel_status": 256,
+            "update_date": 1557763200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu",
+          "願わくばこの手に幸福を",
+          {
+            "segment_date": 1557790684545,
+            "segment_old": 0,
+            "segment": 1,
+            "init_date": 1557790684545,
+            "txt_basename": "願わくばこの手に幸福を.out.txt",
+            "epub_date": 1557791100286,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 1,
+            "epub_basename": "願わくばこの手に幸福を.epub",
+            "novel_status": 768,
+            "update_date": 1557763200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu_out",
+          "望まぬ不死の冒険者",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "事與願違的不死冒險者.out.txt",
+            "epub_date": 1557791109158,
+            "volume_old": 14,
+            "chapter_old": 307,
+            "volume": 14,
+            "chapter": 350,
+            "epub_basename": "事與願違的不死冒險者.epub",
+            "update_date": 1557763200000,
+            "update_count": 14,
+            "novel_status": 768
+          }
+        ],
+        [
+          "ts_out",
+          "自称贤者弟子的贤者",
+          {
+            "txt_basename": "自称贤者弟子的贤者.out.txt",
+            "epub_date": 1557791118115,
+            "volume_old": 7,
+            "chapter_old": 312,
+            "volume": 7,
+            "chapter": 313,
+            "epub_basename": "自称贤者弟子的贤者.epub",
+            "novel_status": 768,
+            "init_date": 1556812800000,
+            "update_date": 1557763200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "user_out",
+          "俺の死亡フラグが留まるところを知らない",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "不知我的死亡flag將於何處停止.out.txt",
+            "epub_date": 1557791121268,
+            "volume_old": 5,
+            "chapter_old": 105,
+            "volume": 5,
+            "chapter": 107,
+            "epub_basename": "不知我的死亡flag將於何處停止.epub",
+            "update_date": 1557763200000,
+            "update_count": 4,
+            "novel_status": 256
+          }
+        ],
+        [
+          "yandere_out",
+          "転生ごときで逃げられるとでも、兄さん？",
+          {
+            "txt_basename": "以為轉個生就能逃掉嗎，哥哥？.out.txt",
+            "epub_date": 1557791126379,
+            "volume_old": 5,
+            "chapter_old": 111,
+            "volume": 5,
+            "chapter": 115,
+            "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
+            "init_date": 1549036800000,
+            "update_date": 1557763200000,
+            "update_count": 10
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1750,6 +1448,22 @@
         "epub_basename": "現實主義魔王的異世界改革.epub",
         "novel_status": 768,
         "update_date": 1556812800000,
+        "update_count": 1
+      },
+      "願わくばこの手に幸福を": {
+        "segment_date": 1557790684545,
+        "segment_old": 0,
+        "segment": 1,
+        "init_date": 1557790684545,
+        "txt_basename": "願わくばこの手に幸福を.out.txt",
+        "epub_date": 1557791100286,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 1,
+        "epub_basename": "願わくばこの手に幸福を.epub",
+        "novel_status": 768,
+        "update_date": 1557763200000,
         "update_count": 1
       }
     },
@@ -2358,14 +2072,14 @@
       "俺の死亡フラグが留まるところを知らない": {
         "init_date": 1545494400000,
         "txt_basename": "不知我的死亡flag將於何處停止.out.txt",
-        "epub_date": 1552867146903,
+        "epub_date": 1557791121268,
         "volume_old": 5,
-        "chapter_old": 104,
+        "chapter_old": 105,
         "volume": 5,
-        "chapter": 105,
+        "chapter": 107,
         "epub_basename": "不知我的死亡flag將於何處停止.epub",
-        "update_date": 1552838400000,
-        "update_count": 3,
+        "update_date": 1557763200000,
+        "update_count": 4,
         "novel_status": 256
       },
       "破壊の御子": {
@@ -2707,14 +2421,14 @@
       "望まぬ不死の冒険者": {
         "init_date": 1545494400000,
         "txt_basename": "事與願違的不死冒險者.out.txt",
-        "epub_date": 1555200821340,
-        "volume_old": 13,
-        "chapter_old": 255,
+        "epub_date": 1557791109158,
+        "volume_old": 14,
+        "chapter_old": 307,
         "volume": 14,
-        "chapter": 307,
+        "chapter": 350,
         "epub_basename": "事與願違的不死冒險者.epub",
-        "update_date": 1555171200000,
-        "update_count": 13,
+        "update_date": 1557763200000,
+        "update_count": 14,
         "novel_status": 768
       },
       "無職の英雄　(n6683ej)": {
@@ -3757,6 +3471,38 @@
       },
       "不是真正同伴的我被逐出了勇者隊伍，因此決定在邊境過上慢生活": {
         "init_date": 1548172800000
+      },
+      "食銹末世錄": {
+        "segment_date": 1557790545881,
+        "segment_old": 0,
+        "segment": 23,
+        "init_date": 1557790545881,
+        "txt_basename": "食銹末世錄.out.txt",
+        "epub_date": 1557791090041,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 23,
+        "epub_basename": "食銹末世錄.epub",
+        "novel_status": 256,
+        "update_date": 1557763200000,
+        "update_count": 1
+      },
+      "魔法師塔塔": {
+        "segment_date": 1557790566399,
+        "segment_old": 0,
+        "segment": 12,
+        "init_date": 1557790566399,
+        "txt_basename": "魔法師塔塔.out.txt",
+        "epub_date": 1557791091487,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 12,
+        "epub_basename": "魔法師塔塔.epub",
+        "novel_status": 256,
+        "update_date": 1557763200000,
+        "update_count": 1
       }
     },
     "zh": {
@@ -3854,20 +3600,20 @@
         "update_count": 1
       },
       "俺が淫魔術で奴隷ハーレムを作る話": {
-        "segment_date": 1556324185855,
-        "segment_old": 0,
-        "segment": 1,
+        "segment_date": 1557790622664,
+        "segment_old": 1,
+        "segment": 2,
         "init_date": 1556294400000,
         "txt_basename": "我仰賴淫魔術建立了奴隸後宮.out.txt",
-        "epub_date": 1556324210562,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1557791099823,
+        "volume_old": 1,
+        "chapter_old": 4,
         "volume": 1,
-        "chapter": 4,
+        "chapter": 6,
         "epub_basename": "我仰賴淫魔術建立了奴隸後宮.epub",
         "novel_status": 256,
-        "update_date": 1556294400000,
-        "update_count": 1
+        "update_date": 1557763200000,
+        "update_count": 2
       }
     },
     "kakuyomu": {
@@ -3920,32 +3666,32 @@
     "yandere_out": {
       "転生ごときで逃げられるとでも、兄さん？": {
         "txt_basename": "以為轉個生就能逃掉嗎，哥哥？.out.txt",
-        "epub_date": 1556151473543,
+        "epub_date": 1557791126379,
         "volume_old": 5,
-        "chapter_old": 108,
+        "chapter_old": 111,
         "volume": 5,
-        "chapter": 111,
+        "chapter": 115,
         "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
         "init_date": 1549036800000,
-        "update_date": 1556121600000,
-        "update_count": 9
+        "update_date": 1557763200000,
+        "update_count": 10
       }
     },
     "girl": {
       "Genocide Online ～極惡千金的玩遊戲日記～": {
-        "segment_date": 1557617683529,
+        "segment_date": 1557790591264,
         "segment_old": 1,
         "segment": 1,
         "init_date": 1549641600000,
-        "epub_date": 1557617958884,
+        "epub_date": 1557791094744,
         "volume_old": 1,
-        "chapter_old": 103,
+        "chapter_old": 107,
         "volume": 1,
-        "chapter": 107,
+        "chapter": 108,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1557590400000,
-        "update_count": 17,
+        "update_date": 1557763200000,
+        "update_count": 18,
         "txt_basename": "Genocide Online ～極惡千.out.txt"
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
@@ -4053,17 +3799,17 @@
       "エリナの成長物語（引き籠り女神の転生）": {
         "init_date": 1552492800000,
         "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
-        "epub_date": 1557274937373,
+        "epub_date": 1557791095473,
         "volume_old": 1,
-        "chapter_old": 15,
+        "chapter_old": 16,
         "volume": 1,
-        "chapter": 16,
+        "chapter": 17,
         "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
-        "update_date": 1557244800000,
-        "update_count": 7,
-        "segment_date": 1556842746376,
-        "segment_old": 2,
-        "segment": 3
+        "update_date": 1557763200000,
+        "update_count": 8,
+        "segment_date": 1557790597433,
+        "segment_old": 3,
+        "segment": 1
       },
       "三葉物語": {
         "init_date": 1552665600000,
@@ -4109,15 +3855,15 @@
       "ポンコツ少女の電脳世界救世記": {
         "init_date": 1554739200000,
         "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
-        "epub_date": 1557617959674,
+        "epub_date": 1557791096044,
         "volume_old": 1,
-        "chapter_old": 11,
+        "chapter_old": 12,
         "volume": 1,
-        "chapter": 12,
+        "chapter": 13,
         "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
         "novel_status": 1,
-        "update_date": 1557590400000,
-        "update_count": 6,
+        "update_date": 1557763200000,
+        "update_count": 7,
         "segment_date": 1556151336714,
         "segment_old": 1,
         "segment": 1
@@ -4190,6 +3936,22 @@
         "epub_basename": "關於一個被兩名青梅竹馬告白之後、雖然困惑但還是順勢而為打算搞3P的女孩子的故事.epub",
         "update_date": 1557504000000,
         "update_count": 2
+      },
+      "王女殿下はお怒りのようです": {
+        "segment_date": 1557790614389,
+        "segment_old": 0,
+        "segment": 26,
+        "init_date": 1557790614389,
+        "txt_basename": "王女殿下はお怒りのようです.out.txt",
+        "epub_date": 1557791097053,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 26,
+        "epub_basename": "王女殿下はお怒りのようです.epub",
+        "novel_status": 256,
+        "update_date": 1557763200000,
+        "update_count": 1
       }
     },
     "modern": {
@@ -4362,16 +4124,16 @@
       },
       "自称贤者弟子的贤者": {
         "txt_basename": "自称贤者弟子的贤者.out.txt",
-        "epub_date": 1556843733870,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1557791118115,
+        "volume_old": 7,
+        "chapter_old": 312,
         "volume": 7,
-        "chapter": 312,
+        "chapter": 313,
         "epub_basename": "自称贤者弟子的贤者.epub",
         "novel_status": 768,
         "init_date": 1556812800000,
-        "update_date": 1556812800000,
-        "update_count": 1
+        "update_date": 1557763200000,
+        "update_count": 2
       }
     },
     "game": {
@@ -5509,6 +5271,106 @@
           "[web-ace](https://web-ace.jp/youngaceup/contents/1000013/)",
           "[Web1至550 简体txt](https://tieba.baidu.com/p/5918492604) - [14tJI4O4b8WFBQqPgQ95g-w](https://pan.baidu.com/s/14tJI4O4b8WFBQqPgQ95g-w) - db76"
         ]
+      }
+    },
+    "dmzj": {
+      "食銹末世錄": {
+        "novel": {
+          "title": "錆喰いビスコ",
+          "title_zh": "食銹末世錄",
+          "author": "瘤久保 慎司",
+          "illust": "赤岸K",
+          "illusts": [
+            "mocha"
+          ],
+          "source": "http://q.dmzj.com/2661/index.shtml",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/71%2BbOKGKEVL.jpg",
+          "publisher": "",
+          "publishers": [
+            "dmzj"
+          ],
+          "date": "2019-05-10T13:22:45+08:00",
+          "status": "连载中",
+          "novel_status": 256,
+          "series": {
+            "name": "食锈末世录"
+          },
+          "preface": "　　穿梭于能够锈蚀一切，使人类陷入死亡威胁的「锈蚀风」中，\n　　迅猛粗暴的「蕈菇守护者」赤星毕斯可。\n　　他为了拯救师父，而踏上寻找灵药蕈菇「食锈」的旅程。\n　　毕斯可带著搭档──美貌的少年医师美禄，\n　　投身波澜万丈的冒险中。\n　　他们行经宽广的埼玉铁沙漠、\n　　由毁灭文明的防卫兵器残骸架构而成的城镇、\n　　大章鱼盘据的废弃地下铁路线──\n　　严苛路途中面临的各种威胁，都以美禄的灵机一动，\n　　与毕斯可的必中蕈菇箭一举贯穿！\n　　但旅途的前方却有邪恶县知事的奸计等著他们──",
+          "tags": [
+            "dmzj",
+            "node-novel",
+            "冒险",
+            "日本",
+            "轻之国度"
+          ]
+        },
+        "contribute": [
+          "Kasou",
+          "何阳"
+        ],
+        "options": {
+          "dmzj": {
+            "novel_id": "2661"
+          },
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 4,
+            "startIndex": 1
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "https://twitter.com/cobkubo"
+        ]
+      },
+      "魔法師塔塔": {
+        "novel": {
+          "title": "タタの魔法使い",
+          "title_zh1": "魔法師塔塔",
+          "author": "うーぱー",
+          "illust": "佐藤 ショウジ",
+          "source": "http://q.dmzj.com/2658/index.shtml",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/51ZiWIMzbXL.jpg",
+          "publisher": "",
+          "publishers": [
+            "dmzj"
+          ],
+          "date": "2019-05-09T15:51:53+08:00",
+          "status": "连载中",
+          "novel_status": 256,
+          "series": {
+            "name": "魔法师塔塔"
+          },
+          "preface": "　　2015年7月22日12点20分。\n　　自称异世界魔法师的谜样女性塔塔突然间出现在弘桥高中一年A班的教室。\n　　这正是有如童话「哈梅尔的吹笛人」的情节\n　　而有此名称的公立高中消失事件的开端。\n　　「我决定要实现这所学校中所有人的心愿。」\n　　如同魔法师的宣言，学校学生写在\n　　国中毕业纪念册上的「将来的梦想」全部实现。\n　　一切愿望全部实现的世界──\n　　最终造成超过两百人牺牲的求生旅程就此揭开序幕……",
+          "tags": [
+            "dmzj",
+            "node-novel",
+            "冒险",
+            "日本",
+            "魔法"
+          ]
+        },
+        "contribute": [
+          "天使动漫",
+          "轻之国度",
+          "轻之国度录入组",
+          "陈士晋"
+        ],
+        "options": {
+          "dmzj": {
+            "novel_id": "2658"
+          },
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 4,
+            "startIndex": 1
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        }
       }
     },
     "epub_out": {
@@ -6745,6 +6607,77 @@
           "[lightnovel](https://www.lightnovel.cn/thread-940273-1-1.html)"
         ]
       },
+      "王女殿下はお怒りのようです": {
+        "novel": {
+          "title": "王女殿下はお怒りのようです",
+          "title_zh1": "王女陛下生气了",
+          "title_zh2": "王女殿下似乎要生气",
+          "author": "八ツ橋皓",
+          "illust": "凪白みと",
+          "source": "http://ncode.syosetu.com/n4072er/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/71K7cd6gb4L.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-05-11T18:35:00+08:00",
+          "status": "連載",
+          "novel_status": 256,
+          "series": {
+            "name": "王女殿下はお怒りのようです＜WEB版＞"
+          },
+          "preface": "作為王女的最強魔術師蕾蒂希爾，在戰爭中死去，向著千年後的世界轉生了。\n她因為沒有魔力而被周圍人認為是一個無能的大小姐，但對蕾蒂希爾來說是一個使用\"魔術\"的奇才。\n在這之後蕾蒂希爾在學園裡看到了千年之後的\"魔術\"後感到了震驚——被那劣質的東西激怒！不能忍受的蕾蒂希爾用\"魔術\"震撼了學院，也被國王所知曉，蕾蒂希爾的\"魔術\"研究全部都化為夢成為泡影？！\n\n將和前世的伴侶相似的少年吉克和被冷落的大小姐米蘭達蕾特一起卷入，重生後改變的王女殿下以自己的道路前進！超越常識的最強魔術譚，開幕！\n\n---\n\n戦乱の世に生きて死んだ最強魔術師の王女が、太平の世に無能の公爵令嬢として転生。\nどうやら周囲の人間にも家族にも嫌われているというかなり詰んだ状況にあるらしく、加えて王女時代の常識とも何一つ噛み合わない。\nいろいろと物申したいことはあるけど、とりあえず一つだけ言わせてほしい。\n\nこの世界の魔術レベル低すぎっっっっ！！！\n\n【書籍版】オーバーラップ文庫より①巻発売中\n2019年4月25日に②巻が発売！\n***コミカライズ決定しました***",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "ざまぁ",
+            "ほのぼの？",
+            "オリジナル戦記",
+            "シリアス少々",
+            "チート",
+            "ハッピーエンド",
+            "女主人公",
+            "婚約破棄",
+            "学園",
+            "恋愛",
+            "日常",
+            "残酷な描写あり",
+            "異世界[恋愛]",
+            "異世界〔恋愛〕",
+            "魔法",
+            "魔術"
+          ]
+        },
+        "contribute": [
+          "Gaburiru",
+          "吾辈喜欢银毛"
+        ],
+        "options": {
+          "dmzj": {
+            "novel_id": "2654"
+          },
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n4072er"
+          },
+          "textlayout": {
+            "allow_lf2": false
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n4072er&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n4072er/)",
+          "https://github.com/Gaburiru/lightnovels/",
+          "[王女殿下似乎要生气吧](https://tieba.baidu.com/f?kw=%E7%8E%8B%E5%A5%B3%E6%AE%BF%E4%B8%8B%E4%BC%BC%E4%B9%8E%E8%A6%81%E7%94%9F%E6%B0%94&ie=utf-8 \"王女殿下似乎要生气\")"
+        ]
+      },
       "魔王の娘の百合戦記": {
         "novel": {
           "title": "魔王の娘の百合戦記〜TS転生した勇者は可愛い魔族やモン娘に囲まれた平穏な暮らしを守りたい～",
@@ -7072,6 +7005,7 @@
           "title_tieba": "咱用吟魔立创建随从乐园"
         },
         "contribute": [
+          "暗風月",
           "黑尋亦"
         ],
         "options": {
@@ -7094,7 +7028,9 @@
           "[小説情報](https://novel18.syosetu.com/novelview/infotop/ncode/n6061cm/)",
           "[石墨整合帖](https://shimo.im/docs/1CUShfWuAdMHJoFe/read)",
           "[譯名整合](https://shimo.im/docs/TFRNRXb4TuEgw1vd)",
-          "[咱用吟魔立创建随从乐园吧](https://tieba.baidu.com/f?kw=%E5%92%B1%E7%94%A8%E5%90%9F%E9%AD%94%E7%AB%8B%E5%88%9B%E5%BB%BA%E9%9A%8F%E4%BB%8E%E4%B9%90%E5%9B%AD&ie=utf-8 \"咱用吟魔立创建随从乐园\")"
+          "[咱用吟魔立创建随从乐园吧](https://tieba.baidu.com/f?kw=%E5%92%B1%E7%94%A8%E5%90%9F%E9%AD%94%E7%AB%8B%E5%88%9B%E5%BB%BA%E9%9A%8F%E4%BB%8E%E4%B9%90%E5%9B%AD&ie=utf-8 \"咱用吟魔立创建随从乐园\")",
+          "https://drive.google.com/drive/folders/1Fw-AK-pHVGkWmBvVV19DiIDd6vDF5Y4q",
+          "http://t.cn/EooW1kf"
         ]
       },
       "在喪屍橫行的世界裡唯獨我不被襲擊": {
@@ -10029,6 +9965,91 @@
         "link": [
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n9475bv&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[转生在异世界对你倾注爱吧](https://tieba.baidu.com/f?kw=%E8%BD%AC%E7%94%9F%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E5%AF%B9%E4%BD%A0%E5%80%BE%E6%B3%A8%E7%88%B1&ie=utf-8 \"转生在异世界对你倾注爱\")"
+        ]
+      },
+      "願わくばこの手に幸福を": {
+        "novel": {
+          "title": "願わくばこの手に幸福を",
+          "title_zh1": "愿你手拥幸福",
+          "author": "ショーン田中",
+          "illust": "おちゃう",
+          "illusts": [
+            "メイジ"
+          ],
+          "source": "http://ncode.syosetu.com/n3170ed/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/91Fehvils2L.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-05-11T23:15:00+08:00",
+          "status": "連載",
+          "novel_status": 768,
+          "series": {
+            "name": "願わくばこの手に幸福を"
+          },
+          "preface": "孤兒出身的路基斯是個平凡的男人，沒有什麼特別的才幹，\n跟著冒險者的師傅多年只學到凡庸的武藝跟髒活的惡巧，\n唯一比常人優勝一點的大慨就只有能在暗中視物吧。\n\n直至大災害席卷大陸，魔獸大舉進攻，多少國度就此覆滅，多少英雄冒起然後殞落。\n最終教會組成救世主一行踏上反擊的旅途，路奇斯為了追隨自小愛慕的青梅竹馬阿雷耶諾也加入隊伍之中，\n但凡人之才的他又如何與隊中的英傑相提並論？\n他只能負責打雜守夜，聽救世主跟他愉快的後宮在帳中行樂，\n路上被阿雷耶諾以外眾女各種霸凌蔑視。\n\n即使如此，一無所有的自己也沒法放棄唯一僅存對阿雷耶諾的感情離去。\n他想、如果哪天終於聽見帳中與救世主一起的是阿雷耶諾，自己就會絕望了吧。\n在失意與惰性的日子中，奇妙的黑影向他伸手\n“我可以給予你機會，將一切重啟，讓你把人生重來”\n\n但是黑影並沒有給予路基斯外掛，\n這世界沒有數字等級技能鑑定遊戲系統，\n即使知道未來，沒有超人的實力也沒有名聲，想要掌握機會又談何容易。\n練不起來的主角不會突然發現隱世潛力，單單努力早已證明是徒勞，\n即使重來一次，路基斯又能成就什麼？\n\n願わくばこの手に幸福を\n這是一個沒被上天眷顧的人，\n在愛恨與矛盾中爭紮，以勇氣與覺悟違逆命運，\n…還有收集病嬌的故事\n\n\n救世の旅に同行を続けるルーギス。\nその中で彼の役割は、雑用や夜番。\n女達からは疎まれ、冷たい視線を与えられる日々。\n\nだが幼馴染のアリュエノの存在だけが、彼をパーティに繋ぎ止めていた。\n例え、彼女が救世者と呼ばれる男に心奪われていたとしても。\n\n失意と惰性の日々。\nそんな中に訪れた影は告げる。\n\n「貴様に機会を与えてやろう。全てを塗りつぶし、人生という絵画を描き直す機会を！」\n\n＊2017/9/25　第一部完結（第一章～第三章）\n　2018/4/30　第二部完結（第四章～第九章）\n　2018/10/31 第三部完結（第十章～第十二章）\n　現在第四部を連載中です\n\n＊2018/9/10　TOブックス様より第一巻発売\n　2019/2/9　 TOブックス様より第二巻発売\n\n＊コンプエース様よりメイジ様執筆にてコミカライズ頂ける事となりました。\n　2019/4/26発売のコンプエース様6月号より連載予定です。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "やり直し",
+            "オリジナル戦記",
+            "ギャグ",
+            "コメディー",
+            "コメディー〔文芸〕",
+            "スクールラブ",
+            "タイムリープ",
+            "ダーク",
+            "ハイファンタジー",
+            "ハイファンタジー〔ファンタジー〕",
+            "ハーレム",
+            "パラレルワールド",
+            "ヒストリカル",
+            "ヒストリカル - やり直し",
+            "ファンタジー",
+            "ラブコメ",
+            "冒険",
+            "学園",
+            "復讐",
+            "日常",
+            "残酷な描写あり",
+            "現代",
+            "男主人公",
+            "異能力バトル",
+            "西洋",
+            "青春",
+            "魔法"
+          ],
+          "sources": [
+            "https://ncode.syosetu.com/n5298fh/"
+          ]
+        },
+        "contribute": [
+          "ACG之神上",
+          "xrayxray"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n3170ed"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n3170ed&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n3170ed/)",
+          "[超級病嬌大戰 【願わくばこの手に幸福を】](https://forum.gamer.com.tw/C.php?bsn=60415&snA=8477&tnum=1)",
+          "[愿你手拥幸福吧](https://tieba.baidu.com/f?kw=%E6%84%BF%E4%BD%A0%E6%89%8B%E6%8B%A5%E5%B9%B8%E7%A6%8F&ie=utf-8 \"愿你手拥幸福\")",
+          "https://web-ace.jp/compace/contents/395/"
         ]
       }
     },
@@ -16436,7 +16457,8 @@
           "[dip.jp](https://narou.nar.jp/search.php?text=n7437dj&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[被病娇妹妹爱的死去活来](https://tieba.baidu.com/f?kw=%E8%A2%AB%E7%97%85%E5%A8%87%E5%A6%B9%E5%A6%B9%E7%88%B1%E7%9A%84%E6%AD%BB%E5%8E%BB%E6%B4%BB%E6%9D%A5&ie=utf-8 \"被病娇妹妹爱的死去活来\")",
           "[石墨整合](https://shimo.im/docs/ARkNdGT5kR00USzY)",
-          "[百石尤莉叶](https://pan.baidu.com/s/1rH5E_HUXw6KzyqWZHoUVCg) - z9sa"
+          "[百石尤莉叶](https://pan.baidu.com/s/1rH5E_HUXw6KzyqWZHoUVCg) - z9sa",
+          "https://masiro.moe/forum.php?mod=forumdisplay&fid=116"
         ]
       }
     },
