@@ -76,6 +76,8 @@
 # contribute
 
 - 黑尋亦
+- 暗風月
+- 
 
 # options
 
@@ -102,4 +104,7 @@
 - [石墨整合帖](https://shimo.im/docs/1CUShfWuAdMHJoFe/read)
 - [譯名整合](https://shimo.im/docs/TFRNRXb4TuEgw1vd)
 - [咱用吟魔立创建随从乐园吧](https://tieba.baidu.com/f?kw=%E5%92%B1%E7%94%A8%E5%90%9F%E9%AD%94%E7%AB%8B%E5%88%9B%E5%BB%BA%E9%9A%8F%E4%BB%8E%E4%B9%90%E5%9B%AD&ie=utf-8 "咱用吟魔立创建随从乐园")
+- https://drive.google.com/drive/folders/1Fw-AK-pHVGkWmBvVV19DiIDd6vDF5Y4q
+- http://t.cn/EooW1kf
 - 
+
