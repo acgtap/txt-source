@@ -6,7 +6,7 @@
 - author: 厨二好き/白米良
 - illust: たかやＫｉ
 - source: http://ncode.syosetu.com/n8611bv/
-- cover: http://img.wkcdn.com/image/2/2080/2080s.jpg
+- cover: https://images-fe.ssl-images-amazon.com/images/I/B1X4-2ypCUS._SL250_FMpng_.png
 - publisher: 其他文库
 - status: 連載
 - novel_status: 0x0700
