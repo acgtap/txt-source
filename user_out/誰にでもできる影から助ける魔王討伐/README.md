@@ -84,6 +84,7 @@
 - 弒澪
 - 飒君CONAN
 - 二階堂真紅
+- 卡斯特里安
 - 
 
 # options
@@ -100,3 +101,4 @@
 - https://comic-walker.com/contents/detail/KDCW_MF00000039010000_68/
 - [二階堂真紅 txt](https://drive.google.com/drive/folders/1Mt1hL7QtayCwhCWXacp-UZY4Kw9bcbGI)
 - 
+
