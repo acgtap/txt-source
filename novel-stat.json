@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1557763200000,
-    "timestamp": 1557791177256,
+    "todayTimestamp": 1557849600000,
+    "timestamp": 1557882549522,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -936,6 +936,28 @@
           }
         ]
       ]
+    },
+    "1557849600000": {
+      "epub_count": 1,
+      "epub": [
+        [
+          "user_out",
+          "黑之魔王",
+          {
+            "epub_date": 1557882504717,
+            "volume_old": 31,
+            "chapter_old": 579,
+            "volume": 31,
+            "chapter": 582,
+            "init_date": 1545261469203,
+            "epub_basename": "黑之魔王.epub",
+            "txt_basename": "黑之魔王.out.txt",
+            "update_date": 1557849600000,
+            "update_count": 21,
+            "novel_status": 768
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1454,7 +1476,7 @@
         "segment_date": 1557790684545,
         "segment_old": 0,
         "segment": 1,
-        "init_date": 1557790684545,
+        "init_date": 1557763200000,
         "txt_basename": "願わくばこの手に幸福を.out.txt",
         "epub_date": 1557791100286,
         "volume_old": 0,
@@ -1667,16 +1689,16 @@
     },
     "user_out": {
       "黑之魔王": {
-        "epub_date": 1557361621738,
-        "volume_old": 30,
-        "chapter_old": 573,
+        "epub_date": 1557882504717,
+        "volume_old": 31,
+        "chapter_old": 579,
         "volume": 31,
-        "chapter": 579,
+        "chapter": 582,
         "init_date": 1545261469203,
         "epub_basename": "黑之魔王.epub",
         "txt_basename": "黑之魔王.out.txt",
-        "update_date": 1557331200000,
-        "update_count": 20,
+        "update_date": 1557849600000,
+        "update_count": 21,
         "novel_status": 768
       },
       "火輪を抱いた少女": {
@@ -3476,7 +3498,7 @@
         "segment_date": 1557790545881,
         "segment_old": 0,
         "segment": 23,
-        "init_date": 1557790545881,
+        "init_date": 1557763200000,
         "txt_basename": "食銹末世錄.out.txt",
         "epub_date": 1557791090041,
         "volume_old": 0,
@@ -3492,7 +3514,7 @@
         "segment_date": 1557790566399,
         "segment_old": 0,
         "segment": 12,
-        "init_date": 1557790566399,
+        "init_date": 1557763200000,
         "txt_basename": "魔法師塔塔.out.txt",
         "epub_date": 1557791091487,
         "volume_old": 0,
@@ -3941,7 +3963,7 @@
         "segment_date": 1557790614389,
         "segment_old": 0,
         "segment": 26,
-        "init_date": 1557790614389,
+        "init_date": 1557763200000,
         "txt_basename": "王女殿下はお怒りのようです.out.txt",
         "epub_date": 1557791097053,
         "volume_old": 0,
