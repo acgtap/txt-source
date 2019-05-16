@@ -3,6 +3,7 @@
 - title: 王女殿下はお怒りのようです
 - title_zh1: 王女陛下生气了
 - title_zh2: 王女殿下似乎要生气
+- title_zh3: 王女殿下生气了
 - author: 八ツ橋皓
 - illust: 凪白みと
 - source: http://ncode.syosetu.com/n4072er/
