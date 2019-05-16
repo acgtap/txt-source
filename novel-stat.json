@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1557849600000,
-    "timestamp": 1557882549522,
+    "todayTimestamp": 1557936000000,
+    "timestamp": 1557962425834,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -955,6 +955,67 @@
             "update_date": 1557849600000,
             "update_count": 21,
             "novel_status": 768
+          }
+        ]
+      ]
+    },
+    "1557936000000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "wenku8",
+          "平凡職業造就世界最強",
+          {
+            "segment_date": 1557962296979,
+            "segment_old": 150,
+            "segment": 72,
+            "init_date": 1548345600000,
+            "epub_date": 1549842429160,
+            "volume_old": 13,
+            "chapter_old": 109,
+            "volume": 27,
+            "chapter": 456,
+            "epub_basename": "平凡職業造就世界最強.epub",
+            "update_date": 1557936000000,
+            "update_count": 18,
+            "novel_status": 1792
+          }
+        ]
+      ],
+      "epub_count": 2,
+      "epub": [
+        [
+          "user_out",
+          "誰にでもできる影から助ける魔王討伐",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "誰都能做到的暗中協助魔王討伐.out.txt",
+            "epub_date": 1557962352772,
+            "volume_old": 13,
+            "chapter_old": 62,
+            "volume": 15,
+            "chapter": 72,
+            "epub_basename": "誰都能做到的暗中協助魔王討伐.epub",
+            "update_date": 1557936000000,
+            "update_count": 6,
+            "novel_status": 768
+          }
+        ],
+        [
+          "wenku8_out",
+          "平凡職業造就世界最強",
+          {
+            "txt_basename": "平凡職業造就世界最強.out.txt",
+            "epub_date": 1557962377154,
+            "volume_old": 27,
+            "chapter_old": 462,
+            "volume": 27,
+            "chapter": 464,
+            "epub_basename": "平凡職業造就世界最強.epub",
+            "novel_status": 1792,
+            "init_date": 1549900800000,
+            "update_date": 1557936000000,
+            "update_count": 10
           }
         ]
       ]
@@ -2081,14 +2142,14 @@
       "誰にでもできる影から助ける魔王討伐": {
         "init_date": 1545494400000,
         "txt_basename": "誰都能做到的暗中協助魔王討伐.out.txt",
-        "epub_date": 1557188447090,
+        "epub_date": 1557962352772,
         "volume_old": 13,
         "chapter_old": 62,
-        "volume": 13,
-        "chapter": 62,
+        "volume": 15,
+        "chapter": 72,
         "epub_basename": "誰都能做到的暗中協助魔王討伐.epub",
-        "update_date": 1557158400000,
-        "update_count": 5,
+        "update_date": 1557936000000,
+        "update_count": 6,
         "novel_status": 768
       },
       "俺の死亡フラグが留まるところを知らない": {
@@ -3103,9 +3164,9 @@
         "txt_basename": "不吉波普系列.out.txt"
       },
       "平凡職業造就世界最強": {
-        "segment_date": 1555288266227,
-        "segment_old": 1,
-        "segment": 150,
+        "segment_date": 1557962296979,
+        "segment_old": 150,
+        "segment": 72,
         "init_date": 1548345600000,
         "epub_date": 1549842429160,
         "volume_old": 13,
@@ -3113,8 +3174,8 @@
         "volume": 27,
         "chapter": 456,
         "epub_basename": "平凡職業造就世界最強.epub",
-        "update_date": 1555257600000,
-        "update_count": 17,
+        "update_date": 1557936000000,
+        "update_count": 18,
         "novel_status": 1792
       },
       "被死神撫養的少女懷抱漆黑之劍": {
@@ -3310,16 +3371,16 @@
       },
       "平凡職業造就世界最強": {
         "txt_basename": "平凡職業造就世界最強.out.txt",
-        "epub_date": 1555288356420,
+        "epub_date": 1557962377154,
         "volume_old": 27,
-        "chapter_old": 458,
+        "chapter_old": 462,
         "volume": 27,
-        "chapter": 462,
+        "chapter": 464,
         "epub_basename": "平凡職業造就世界最強.epub",
         "novel_status": 1792,
         "init_date": 1549900800000,
-        "update_date": 1555257600000,
-        "update_count": 9
+        "update_date": 1557936000000,
+        "update_count": 10
       }
     },
     "epub": {
@@ -15176,6 +15237,7 @@
         },
         "contribute": [
           "二階堂真紅",
+          "卡斯特里安",
           "弒澪",
           "海市蜃楼谁不识",
           "絨質墮菌",
@@ -15932,7 +15994,7 @@
           "author": "厨二好き/白米良",
           "illust": "たかやＫｉ",
           "source": "http://ncode.syosetu.com/n8611bv/",
-          "cover": "http://img.wkcdn.com/image/2/2080/2080s.jpg",
+          "cover": "https://images-fe.ssl-images-amazon.com/images/I/B1X4-2ypCUS._SL250_FMpng_.png",
           "publisher": "其他文库",
           "status": "連載",
           "novel_status": 1792,
@@ -17062,6 +17124,74 @@
           "https://mega.nz/#F!4x9RVZLT!Tucgvy-PK--6YV13oaC2LA!co1xQK6D",
           "[为了养老金去异界存八万金吧](https://tieba.baidu.com/f?kw=%E4%B8%BA%E4%BA%86%E5%85%BB%E8%80%81%E9%87%91%E5%8E%BB%E5%BC%82%E7%95%8C%E5%AD%98%E5%85%AB%E4%B8%87%E9%87%91&ie=utf-8&tp=0 \"为了养老金去异界存八万金\")",
           "http://www.dm5.com/manhua-weileyanglaojin-quyijiecunbawanjin/"
+        ]
+      },
+      "魔導具師ダリヤはうつむかない": {
+        "novel": {
+          "title": "魔導具師ダリヤはうつむかない",
+          "title_zh": "魔導具師妲莉雅不會低頭　～從今天開始自由的職人生活～",
+          "author": "甘岸久弥",
+          "illust": "景",
+          "illusts": [
+            "釜田"
+          ],
+          "source": "http://ncode.syosetu.com/n7787eq/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/81lMSZfy2CL.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-05-15T23:33:00+08:00",
+          "status": "連載",
+          "novel_status": 768,
+          "series": {
+            "name": "魔導具師ダリヤはうつむかない"
+          },
+          "preface": "「抱歉，妲莉雅。我想要解除婚約」結婚前日，眼前的婚約者如此說。\n前世忍受著公司的繁重業務，就這樣低著頭的過勞死了。\n今世解除了打算成為老老實實低著頭的好妻子的婚約。\n妲莉雅決定了。夠了、該停止低頭了。\n努力做魔導具師的工作、去想去的地方、吃想吃的東西、喝想喝的東西。盡自己所能、過想過的生活吧。\n那樣的她，和魔物討伐部隊的騎士相遇。喜歡魔導具的妲莉雅和、喜歡魔劍的沃魯夫。\n一面熱衷於製作魔導具和魔劍，一面吃吃喝喝，被捲入各式各樣的日子。\n若是為了生活的便利，怎樣的辛勞都不嫌棄的魔導具師和，不知恐懼只顧衝鋒陷陣的魔物討伐部隊的騎士。\n想背對戀愛的兩人，何時會成為戀人呢。\n※戀愛甜味成分不足。故事設定很甜。※\n―――――――――――――――――――――\n\n以上是小說家官方版介紹。\n這是一部微戀愛番…才怪，這是美食番！\n這作者至少有六分之一在寫吃的跟酒。\n\n以下是我流版介紹。\n\n　妲莉雅在搬入新家的第一天，結婚的前一天，就被未婚夫這垃圾以找到『真正的愛』為由解除了婚約，因兩人都是魔導具師且已訂婚兩年整，所以當天下午就在商業公會清算所有共同契約與財產。\n　垃圾要新居但對半折現給妲莉雅，可是錢不夠只好死皮賴臉的以自家商會信譽為擔保分期，垃圾還把婚約手環要了回去要送給新對象（漫畫是當場，小說家是事後）。\n\n　之後妲莉雅委託運輸業友人把早上送到的行李原封不動的搬回原本的家，結果愕然的發現新買的大床早已被睡過，衣櫥裡塞滿了新對象的衣服，為了不惹麻煩還請了公證人一件件清算搬回了衣櫥，小說家中後來在垃圾來要新對象謊稱的遺失物時被妲莉雅說了『用過的大床就當作結婚祝賀吧』。\n\n　事情結束後，妲莉雅決定不再低頭，要過自己想要的生活，吃吃喝喝、專注於做魔導具，為了轉換心情而出門採集素材時偶遇了全身傷痕累累連走兩天的沃魯夫。\n\n　身為魔物討伐部隊的騎士的沃魯夫，因為打雙足飛龍時不慎被抓走，雖在空中確實殺掉，自己也掉了下去，渾身傷痕累累的往王都走回去時遇到妲莉雅，接受了回復藥、午餐、並在河邊洗去魔物之血後穿上妲莉雅帶來偽裝成男性的備用大衣，並一同坐妲莉雅的馬車回去。\n　歸隊後被某隊友發現大衣內側用了不得了的雙足飛龍皮，還說妲莉雅搞不好不知道價格，之後沃魯夫就為了歸還而在王都內到處找，找到的時候妲莉雅非常驚訝，沃魯夫說雖然那時有猜到可能是女性，而剛才發現時也還是有點疑惑，但靠近後因為味道而確定了。\n\n=======\n\n「すまない、ダリヤ。婚約を破棄させてほしい」 結婚前日、目の前の婚約者はそう言った。\n前世は会社の激務を我慢し、うつむいたままの過労死。\n今世はおとなしくうつむいて、いい妻になろうとして婚約破棄。\nダリヤは決めた。もう、うつむくのはやめる。\n頑張って魔導具師の仕事をし、行きたいところに行き、食べたいものを食べ、飲みたいものを飲もう。自分でできる限り、生きたいように生きよう、と。\nそんな彼女は、魔物討伐部隊の騎士と出会う。魔導具が好きなダリヤと、魔剣が好きなヴォルフ。\n魔導具と魔剣作りに熱中しつつ、飲んで食べて、いろいろと巻き込まれる日々。\n生活の便利さのためならば、どんな苦労もいとわぬ魔導具師と、怖さ知らずでひたすら先陣を切る魔物討伐部隊の騎士。\n恋愛に背を向けたい2人は、いつか恋人になれるのか。\n※恋愛甘味成分が不足しております。物語設定は甘いです。\n\n【おかげさまで書籍となりました。MFブックス様より4月25日2巻刊行、コミカライズ:コンプエース様本誌で6月号（4月26日）から、MAGCOMI様で4月25日からWEBで連載となります。どうぞよろしくお願いします】",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "女主人公",
+            "婚約破棄",
+            "家電愛",
+            "恋愛",
+            "残酷な描写あり",
+            "物作り",
+            "生産",
+            "異世界[恋愛]",
+            "異世界〔恋愛〕",
+            "異世界転生",
+            "酒",
+            "食事",
+            "魔剣",
+            "魔導具"
+          ],
+          "title_jp2": "魔導具師ダリヤはうつむかない　～今日から自由な職人ライフ～"
+        },
+        "contribute": [
+          "SPT草包"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n7787eq"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n7787eq&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n7787eq/)",
+          "http://seiga.nicovideo.jp/comic/40695",
+          "[魔导具师妲莉雅吧](https://tieba.baidu.com/f?kw=%E9%AD%94%E5%AF%BC%E5%85%B7%E5%B8%88%E5%A6%B2%E8%8E%89%E9%9B%85&ie=utf-8 \"魔导具师妲莉雅\")"
         ]
       }
     },
