@@ -100,5 +100,6 @@
 - [masiro.moe](http://masiro.moe/forum.php?mod=forumdisplay&fid=61&page=1)
 - https://comic-walker.com/contents/detail/KDCW_MF00000039010000_68/
 - [二階堂真紅 txt](https://drive.google.com/drive/folders/1Mt1hL7QtayCwhCWXacp-UZY4Kw9bcbGI)
+- [卡斯特里安 docx](https://pan.baidu.com/s/1R0r0hqNhMEVdMqY7-0XsWQ) bnih
 - 
 
