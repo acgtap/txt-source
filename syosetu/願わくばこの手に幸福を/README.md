@@ -2,6 +2,7 @@
 
 - title: 願わくばこの手に幸福を
 - title_zh1: 愿你手拥幸福
+- title_zh2: 愿你手握幸福
 - author: ショーン田中
 - illust: おちゃう
 - source: http://ncode.syosetu.com/n3170ed/
@@ -145,6 +146,7 @@
 - [超級病嬌大戰 【願わくばこの手に幸福を】](https://forum.gamer.com.tw/C.php?bsn=60415&snA=8477&tnum=1)
 - [愿你手拥幸福吧](https://tieba.baidu.com/f?kw=%E6%84%BF%E4%BD%A0%E6%89%8B%E6%8B%A5%E5%B9%B8%E7%A6%8F&ie=utf-8 "愿你手拥幸福")
 - https://web-ace.jp/compace/contents/395/
+- http://www.dm5.com/manhua-yuannishouwoxingfu/
 - 
 
 
