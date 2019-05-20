@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1558022400000,
-    "timestamp": 1558050612340,
+    "todayTimestamp": 1558368000000,
+    "timestamp": 1558393877345,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1116,6 +1116,252 @@
           }
         ]
       ]
+    },
+    "1558368000000": {
+      "segment_count": 5,
+      "segment": [
+        [
+          "dmzj",
+          "食銹末世錄",
+          {
+            "segment_date": 1558393580729,
+            "segment_old": 23,
+            "segment": 9,
+            "init_date": 1557763200000,
+            "txt_basename": "食銹末世錄.out.txt",
+            "epub_date": 1558393815078,
+            "volume_old": 1,
+            "chapter_old": 23,
+            "volume": 1,
+            "chapter": 23,
+            "epub_basename": "食銹末世錄.epub",
+            "novel_status": 256,
+            "update_date": 1558368000000,
+            "update_count": 2
+          }
+        ],
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1558393606088,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1558393818819,
+            "volume_old": 1,
+            "chapter_old": 108,
+            "volume": 1,
+            "chapter": 115,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1558368000000,
+            "update_count": 19,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "你這種傢伙別想打贏魔王",
+          {
+            "init_date": 1550505600000,
+            "segment_date": 1558393664176,
+            "segment_old": 9,
+            "segment": 2,
+            "update_date": 1558368000000,
+            "update_count": 7
+          }
+        ],
+        [
+          "syosetu",
+          "昏き宮殿の死者の王",
+          {
+            "segment_date": 1558393700053,
+            "segment_old": 0,
+            "segment": 2,
+            "init_date": 1558393700053,
+            "txt_basename": "昏き宮殿の死者の王.out.txt",
+            "epub_date": 1558393820027,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 2,
+            "epub_basename": "昏き宮殿の死者の王.epub",
+            "update_date": 1558368000000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "願わくばこの手に幸福を",
+          {
+            "segment_date": 1558393706126,
+            "segment_old": 1,
+            "segment": 17,
+            "init_date": 1557763200000,
+            "txt_basename": "願わくばこの手に幸福を.out.txt",
+            "epub_date": 1558393820884,
+            "volume_old": 1,
+            "chapter_old": 1,
+            "volume": 2,
+            "chapter": 18,
+            "epub_basename": "願わくばこの手に幸福を.epub",
+            "novel_status": 768,
+            "update_date": 1558368000000,
+            "update_count": 2
+          }
+        ]
+      ],
+      "epub_count": 8,
+      "epub": [
+        [
+          "dmzj",
+          "食銹末世錄",
+          {
+            "segment_date": 1558393580729,
+            "segment_old": 23,
+            "segment": 9,
+            "init_date": 1557763200000,
+            "txt_basename": "食銹末世錄.out.txt",
+            "epub_date": 1558393815078,
+            "volume_old": 1,
+            "chapter_old": 23,
+            "volume": 1,
+            "chapter": 23,
+            "epub_basename": "食銹末世錄.epub",
+            "novel_status": 256,
+            "update_date": 1558368000000,
+            "update_count": 2
+          }
+        ],
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1558393606088,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1558393818819,
+            "volume_old": 1,
+            "chapter_old": 108,
+            "volume": 1,
+            "chapter": 115,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1558368000000,
+            "update_count": 19,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "ポンコツ少女の電脳世界救世記",
+          {
+            "init_date": 1554739200000,
+            "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
+            "epub_date": 1558393819582,
+            "volume_old": 1,
+            "chapter_old": 13,
+            "volume": 1,
+            "chapter": 15,
+            "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
+            "novel_status": 1,
+            "update_date": 1558368000000,
+            "update_count": 8,
+            "segment_date": 1556151336714,
+            "segment_old": 1,
+            "segment": 1
+          }
+        ],
+        [
+          "syosetu",
+          "昏き宮殿の死者の王",
+          {
+            "segment_date": 1558393700053,
+            "segment_old": 0,
+            "segment": 2,
+            "init_date": 1558393700053,
+            "txt_basename": "昏き宮殿の死者の王.out.txt",
+            "epub_date": 1558393820027,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 2,
+            "epub_basename": "昏き宮殿の死者の王.epub",
+            "update_date": 1558368000000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "願わくばこの手に幸福を",
+          {
+            "segment_date": 1558393706126,
+            "segment_old": 1,
+            "segment": 17,
+            "init_date": 1557763200000,
+            "txt_basename": "願わくばこの手に幸福を.out.txt",
+            "epub_date": 1558393820884,
+            "volume_old": 1,
+            "chapter_old": 1,
+            "volume": 2,
+            "chapter": 18,
+            "epub_basename": "願わくばこの手に幸福を.epub",
+            "novel_status": 768,
+            "update_date": 1558368000000,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu_out",
+          "ロリータ・ガンバレット　～魔弾幼女の異世界戦記～",
+          {
+            "epub_date": 1558393825084,
+            "volume_old": 6,
+            "chapter_old": 105,
+            "volume": 6,
+            "chapter": 107,
+            "init_date": 1545261458252,
+            "txt_basename": "魔彈蘿莉的異世界戰記.out.txt",
+            "epub_basename": "魔彈蘿莉的異世界戰記.epub",
+            "update_date": 1558368000000,
+            "update_count": 3
+          }
+        ],
+        [
+          "ts_out",
+          "幼女転生",
+          {
+            "txt_basename": "幼女転生.out.txt",
+            "epub_date": 1558393827946,
+            "volume_old": 5,
+            "chapter_old": 61,
+            "volume": 5,
+            "chapter": 63,
+            "epub_basename": "幼女転生.epub",
+            "init_date": 1550851200000,
+            "update_date": 1558368000000,
+            "update_count": 4
+          }
+        ],
+        [
+          "yandere_out",
+          "転生ごときで逃げられるとでも、兄さん？",
+          {
+            "txt_basename": "以為轉個生就能逃掉嗎，哥哥？.out.txt",
+            "epub_date": 1558393833255,
+            "volume_old": 5,
+            "chapter_old": 115,
+            "volume": 5,
+            "chapter": 117,
+            "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
+            "init_date": 1549036800000,
+            "update_date": 1558368000000,
+            "update_count": 11
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1631,19 +1877,34 @@
         "update_count": 1
       },
       "願わくばこの手に幸福を": {
-        "segment_date": 1557790684545,
-        "segment_old": 0,
-        "segment": 1,
+        "segment_date": 1558393706126,
+        "segment_old": 1,
+        "segment": 17,
         "init_date": 1557763200000,
         "txt_basename": "願わくばこの手に幸福を.out.txt",
-        "epub_date": 1557791100286,
+        "epub_date": 1558393820884,
+        "volume_old": 1,
+        "chapter_old": 1,
+        "volume": 2,
+        "chapter": 18,
+        "epub_basename": "願わくばこの手に幸福を.epub",
+        "novel_status": 768,
+        "update_date": 1558368000000,
+        "update_count": 2
+      },
+      "昏き宮殿の死者の王": {
+        "segment_date": 1558393700053,
+        "segment_old": 0,
+        "segment": 2,
+        "init_date": 1558393700053,
+        "txt_basename": "昏き宮殿の死者の王.out.txt",
+        "epub_date": 1558393820027,
         "volume_old": 0,
         "chapter_old": 0,
         "volume": 1,
-        "chapter": 1,
-        "epub_basename": "願わくばこの手に幸福を.epub",
-        "novel_status": 768,
-        "update_date": 1557763200000,
+        "chapter": 2,
+        "epub_basename": "昏き宮殿の死者の王.epub",
+        "update_date": 1558368000000,
         "update_count": 1
       }
     },
@@ -2377,16 +2638,16 @@
     },
     "syosetu_out": {
       "ロリータ・ガンバレット　～魔弾幼女の異世界戦記～": {
-        "epub_date": 1551225034439,
+        "epub_date": 1558393825084,
         "volume_old": 6,
         "chapter_old": 105,
         "volume": 6,
-        "chapter": 105,
+        "chapter": 107,
         "init_date": 1545261458252,
         "txt_basename": "魔彈蘿莉的異世界戰記.out.txt",
         "epub_basename": "魔彈蘿莉的異世界戰記.epub",
-        "update_date": 1552060800000,
-        "update_count": 2
+        "update_date": 1558368000000,
+        "update_count": 3
       },
       "俺　VS　人類　～アンデッドを使役して王国を襲う俺～": {
         "epub_date": 1551657394414,
@@ -3653,20 +3914,20 @@
         "init_date": 1548172800000
       },
       "食銹末世錄": {
-        "segment_date": 1557790545881,
-        "segment_old": 0,
-        "segment": 23,
+        "segment_date": 1558393580729,
+        "segment_old": 23,
+        "segment": 9,
         "init_date": 1557763200000,
         "txt_basename": "食銹末世錄.out.txt",
-        "epub_date": 1557791090041,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1558393815078,
+        "volume_old": 1,
+        "chapter_old": 23,
         "volume": 1,
         "chapter": 23,
         "epub_basename": "食銹末世錄.epub",
         "novel_status": 256,
-        "update_date": 1557763200000,
-        "update_count": 1
+        "update_date": 1558368000000,
+        "update_count": 2
       },
       "魔法師塔塔": {
         "segment_date": 1558050396278,
@@ -3846,32 +4107,32 @@
     "yandere_out": {
       "転生ごときで逃げられるとでも、兄さん？": {
         "txt_basename": "以為轉個生就能逃掉嗎，哥哥？.out.txt",
-        "epub_date": 1557791126379,
+        "epub_date": 1558393833255,
         "volume_old": 5,
-        "chapter_old": 111,
+        "chapter_old": 115,
         "volume": 5,
-        "chapter": 115,
+        "chapter": 117,
         "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
         "init_date": 1549036800000,
-        "update_date": 1557763200000,
-        "update_count": 10
+        "update_date": 1558368000000,
+        "update_count": 11
       }
     },
     "girl": {
       "Genocide Online ～極惡千金的玩遊戲日記～": {
-        "segment_date": 1557790591264,
+        "segment_date": 1558393606088,
         "segment_old": 1,
         "segment": 1,
         "init_date": 1549641600000,
-        "epub_date": 1557791094744,
+        "epub_date": 1558393818819,
         "volume_old": 1,
-        "chapter_old": 107,
+        "chapter_old": 108,
         "volume": 1,
-        "chapter": 108,
+        "chapter": 115,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1557763200000,
-        "update_count": 18,
+        "update_date": 1558368000000,
+        "update_count": 19,
         "txt_basename": "Genocide Online ～極惡千.out.txt"
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
@@ -3924,11 +4185,11 @@
       },
       "你這種傢伙別想打贏魔王": {
         "init_date": 1550505600000,
-        "segment_date": 1555816773871,
-        "segment_old": 16,
-        "segment": 9,
-        "update_date": 1555776000000,
-        "update_count": 6
+        "segment_date": 1558393664176,
+        "segment_old": 9,
+        "segment": 2,
+        "update_date": 1558368000000,
+        "update_count": 7
       },
       "JKハルは異世界で娼婦になった": {
         "segment_date": 1551484322490,
@@ -4035,15 +4296,15 @@
       "ポンコツ少女の電脳世界救世記": {
         "init_date": 1554739200000,
         "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
-        "epub_date": 1557791096044,
+        "epub_date": 1558393819582,
         "volume_old": 1,
-        "chapter_old": 12,
+        "chapter_old": 13,
         "volume": 1,
-        "chapter": 13,
+        "chapter": 15,
         "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
         "novel_status": 1,
-        "update_date": 1557763200000,
-        "update_count": 7,
+        "update_date": 1558368000000,
+        "update_count": 8,
         "segment_date": 1556151336714,
         "segment_old": 1,
         "segment": 1
@@ -4281,15 +4542,15 @@
     "ts_out": {
       "幼女転生": {
         "txt_basename": "幼女転生.out.txt",
-        "epub_date": 1551138433293,
+        "epub_date": 1558393827946,
         "volume_old": 5,
         "chapter_old": 61,
         "volume": 5,
-        "chapter": 61,
+        "chapter": 63,
         "epub_basename": "幼女転生.epub",
         "init_date": 1550851200000,
-        "update_date": 1552060800000,
-        "update_count": 3
+        "update_date": 1558368000000,
+        "update_count": 4
       },
       "双剣のエレナ": {
         "txt_basename": "双剣のエレナ.out.txt",
@@ -9518,6 +9779,72 @@
           "[黑色弦律](https://pan.baidu.com/s/1s3QREM5IxmzD_fTqcSCgdQ) 656h"
         ]
       },
+      "昏き宮殿の死者の王": {
+        "novel": {
+          "title": "昏き宮殿の死者の王",
+          "title_zh1": "昏暗宫殿的死者之王",
+          "author": "槻影",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n6621fl/",
+          "cover": "http://1.bp.blogspot.com/-E42-xNlD6VM/UFHpIIMpnSI/AAAAAAAAADY/P1VuG2oMRSo/s1600/20120712_ccbbae.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-05-18T16:37:00+08:00",
+          "status": "連載",
+          "novel_status": 0,
+          "series": {
+            "name": "昏き宮殿の死者の王"
+          },
+          "preface": "――死にたくない。自由が欲しい。\nそのためならば、僕は――甘んじて『怪物』になろう。\n\n全身に絶え間ない激痛が奔り、衰弱の末死に至る奇病。\nそれに冒された少年は数年の苦痛の末、絶望を感じる余裕もなく誰にも看取られることなく生を終える。\n\nそして再び目覚めた時――少年は邪悪な死霊魔術師の力により、最下級アンデッド、『死肉人』となっていた。\n\n念願の痛みを感じない身体を手に入れ、歓喜する少年だが、すぐに自分の立場が未だ支配され、病室に軟禁されていた頃と大差ない事に気づく。\n\nただ平穏を求める少年を、世界は放っておかなかった。\n\n死霊魔術により死体から少年を蘇らせ、エンドと名付け支配せんとする死霊魔術師。\n闇に属する者をどこまでも追い詰め、滅する事に命を賭ける終焉騎士団。\n多数の魔物を配下に収め、各地に君臨し覇を争う魔王達。\n\n目的は生存と自由。必要な物は力と注意深さ。\n\nこれは、自由を求め、時に戦い、時に逃げ出し、時に怯え、時に躊躇う、臆病な死者の王の物語。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "だけどあまり暗くない",
+            "アンデッド",
+            "ダークファンタジー",
+            "ハイファンタジー",
+            "ハイファンタジー〔ファンタジー〕",
+            "ファンタジー",
+            "呪い",
+            "変異",
+            "成長",
+            "戦い",
+            "死霊魔術",
+            "残酷な描写あり",
+            "現地人主人公",
+            "進化"
+          ],
+          "sources": [
+            "https://kakuyomu.jp/works/1177354054888541019"
+          ]
+        },
+        "contribute": [
+          "贺神镜"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n6621fl"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n6621fl&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n6621fl/)",
+          "[昏暗宫殿的死者之王](https://masiro.moe/forum.php?mod=forumdisplay&fid=161&page=1)"
+        ]
+      },
       "最強職《竜騎士》から初級職《運び屋》": {
         "novel": {
           "title": "最強職《竜騎士》から初級職《運び屋》になったのに、なぜか勇者達から頼られてます",
@@ -10165,6 +10492,7 @@
         "novel": {
           "title": "願わくばこの手に幸福を",
           "title_zh1": "愿你手拥幸福",
+          "title_zh2": "愿你手握幸福",
           "author": "ショーン田中",
           "illust": "おちゃう",
           "illusts": [
@@ -10243,7 +10571,8 @@
           "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n3170ed/)",
           "[超級病嬌大戰 【願わくばこの手に幸福を】](https://forum.gamer.com.tw/C.php?bsn=60415&snA=8477&tnum=1)",
           "[愿你手拥幸福吧](https://tieba.baidu.com/f?kw=%E6%84%BF%E4%BD%A0%E6%89%8B%E6%8B%A5%E5%B9%B8%E7%A6%8F&ie=utf-8 \"愿你手拥幸福\")",
-          "https://web-ace.jp/compace/contents/395/"
+          "https://web-ace.jp/compace/contents/395/",
+          "http://www.dm5.com/manhua-yuannishouwoxingfu/"
         ]
       }
     },
