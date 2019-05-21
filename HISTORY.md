@@ -1,5 +1,39 @@
 # HISTORY
 
+## 2019-05-21
+
+### Epub
+
+- [食銹末世錄](dmzj/%E9%A3%9F%E9%8A%B9%E6%9C%AB%E4%B8%96%E9%8C%84) - dmzj
+  <br/>( v: 1 , c: 23, add: 0 )
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( v: 1 , c: 115, add: 7 )
+- [ポンコツ少女の電脳世界救世記](girl/%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E5%B0%91%E5%A5%B3%E3%81%AE%E9%9B%BB%E8%84%B3%E4%B8%96%E7%95%8C%E6%95%91%E4%B8%96%E8%A8%98) - girl
+  <br/>( v: 1 , c: 15, add: 2 )
+- [昏き宮殿の死者の王](syosetu/%E6%98%8F%E3%81%8D%E5%AE%AE%E6%AE%BF%E3%81%AE%E6%AD%BB%E8%80%85%E3%81%AE%E7%8E%8B) - syosetu
+  <br/>( v: 1 , c: 2, add: 2 )
+- [願わくばこの手に幸福を](syosetu/%E9%A1%98%E3%82%8F%E3%81%8F%E3%81%B0%E3%81%93%E3%81%AE%E6%89%8B%E3%81%AB%E5%B9%B8%E7%A6%8F%E3%82%92) - syosetu
+  <br/>( v: 2 , c: 18, add: 17 )
+- [ロリータ・ガンバレット　～魔弾幼女の異世界戦記～](syosetu_out/%E3%83%AD%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%90%E3%83%AC%E3%83%83%E3%83%88%E3%80%80%EF%BD%9E%E9%AD%94%E5%BC%BE%E5%B9%BC%E5%A5%B3%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E6%88%A6%E8%A8%98%EF%BD%9E) - syosetu_out
+  <br/>( v: 6 , c: 107, add: 2 )
+- [幼女転生](ts_out/%E5%B9%BC%E5%A5%B3%E8%BB%A2%E7%94%9F) - ts_out
+  <br/>( v: 5 , c: 63, add: 2 )
+- [転生ごときで逃げられるとでも、兄さん？](yandere_out/%E8%BB%A2%E7%94%9F%E3%81%94%E3%81%A8%E3%81%8D%E3%81%A7%E9%80%83%E3%81%92%E3%82%89%E3%82%8C%E3%82%8B%E3%81%A8%E3%81%A7%E3%82%82%E3%80%81%E5%85%84%E3%81%95%E3%82%93%EF%BC%9F) - yandere_out
+  <br/>( v: 5 , c: 117, add: 2 )
+
+### Segment
+
+- [食銹末世錄](dmzj/%E9%A3%9F%E9%8A%B9%E6%9C%AB%E4%B8%96%E9%8C%84) - dmzj
+  <br/>( s: 9 )
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( s: 1 )
+- [你這種傢伙別想打贏魔王](girl/%E4%BD%A0%E9%80%99%E7%A8%AE%E5%82%A2%E4%BC%99%E5%88%A5%E6%83%B3%E6%89%93%E8%B4%8F%E9%AD%94%E7%8E%8B) - girl
+  <br/>( s: 2 )
+- [昏き宮殿の死者の王](syosetu/%E6%98%8F%E3%81%8D%E5%AE%AE%E6%AE%BF%E3%81%AE%E6%AD%BB%E8%80%85%E3%81%AE%E7%8E%8B) - syosetu
+  <br/>( s: 2 )
+- [願わくばこの手に幸福を](syosetu/%E9%A1%98%E3%82%8F%E3%81%8F%E3%81%B0%E3%81%93%E3%81%AE%E6%89%8B%E3%81%AB%E5%B9%B8%E7%A6%8F%E3%82%92) - syosetu
+  <br/>( s: 17 )
+
 ## 2019-05-17
 
 ### Epub
