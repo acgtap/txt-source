@@ -1,12 +1,17 @@
 # novel
 
 - title: カルマの塔
+- title_zh: 業之塔
 - author: 富士田けやき
 - source: http://ncode.syosetu.com/n6337cb/
 - cover: http://fanblogs.jp/activegirl0912/file/image/image-4ec97-thumbnail2.jpg
 - publisher: syosetu
 - date: 2017-01-09T12:35:00+08:00
 - status: 完結済
+
+## sources
+
+- https://kakuyomu.jp/works/1177354054886943247
 
 ## series
 
@@ -64,6 +69,7 @@
 - zx神帝
 - 絳紅葉
 - 海市蜃楼谁不识
+- 姽计
 - 
 
 # options
@@ -83,3 +89,4 @@
 - [kakuyomu](https://kakuyomu.jp/works/1177354054886943247) - 帳號被封後的新小說地址
 - [海市蜃楼谁不识](https://pan.baidu.com/s/1TTBqYxhDke49hyePdmxOFQ) - t2aa
 - 
+
