@@ -8,10 +8,17 @@
 - publisher: syosetu
 - date: 2019-01-26T16:52:00+08:00
 - status: 連載
+- novel_status: 0x0300
+
+## illusts
+
+- 孟達
+- 潮里润
+- 
 
 ## series
 
-- name: 連載中
+- name:
 
 ## preface
 
@@ -79,6 +86,19 @@
 - 萩丶枼
 - ロ吻
 - 土之女神
+- ms18999
+- 白织酱喏-
+- lhway911
+- 當世蜉
+- 圣堂祭司
+- 破碎的镜子丶
+- 離魂症
+- 缘指逝的水滴
+- 懶惰的頹廢男代
+- electricfan_bk
+- ________640
+- 艾特尔
+- 彼岸乌啼
 - 
 
 # options
@@ -96,7 +116,7 @@
 
 ## textlayout
 
-- allow_lf2: true
+- allow_lf2: false
 
 # link
 
