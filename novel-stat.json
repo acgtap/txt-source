@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1558368000000,
-    "timestamp": 1558393877345,
+    "todayTimestamp": 1558454400000,
+    "timestamp": 1558480236696,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1362,6 +1362,126 @@
           }
         ]
       ]
+    },
+    "1558454400000": {
+      "epub_count": 6,
+      "epub": [
+        [
+          "dmzj",
+          "食銹末世錄",
+          {
+            "segment_date": 1558393580729,
+            "segment_old": 23,
+            "segment": 9,
+            "init_date": 1557763200000,
+            "txt_basename": "食銹末世錄.out.txt",
+            "epub_date": 1558480176406,
+            "volume_old": 1,
+            "chapter_old": 23,
+            "volume": 1,
+            "chapter": 23,
+            "epub_basename": "食銹末世錄.epub",
+            "novel_status": 256,
+            "update_date": 1558454400000,
+            "update_count": 3
+          }
+        ],
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1558393606088,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1558480180642,
+            "volume_old": 1,
+            "chapter_old": 115,
+            "volume": 1,
+            "chapter": 116,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1558454400000,
+            "update_count": 20,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "ポンコツ少女の電脳世界救世記",
+          {
+            "init_date": 1554739200000,
+            "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
+            "epub_date": 1558480181459,
+            "volume_old": 1,
+            "chapter_old": 15,
+            "volume": 1,
+            "chapter": 16,
+            "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
+            "novel_status": 1,
+            "update_date": 1558454400000,
+            "update_count": 9,
+            "segment_date": 1556151336714,
+            "segment_old": 1,
+            "segment": 1
+          }
+        ],
+        [
+          "syosetu",
+          "昏き宮殿の死者の王",
+          {
+            "segment_date": 1558393700053,
+            "segment_old": 0,
+            "segment": 2,
+            "init_date": 1558368000000,
+            "txt_basename": "昏き宮殿の死者の王.out.txt",
+            "epub_date": 1558480181733,
+            "volume_old": 1,
+            "chapter_old": 2,
+            "volume": 1,
+            "chapter": 2,
+            "epub_basename": "昏き宮殿の死者の王.epub",
+            "update_date": 1558454400000,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu",
+          "願わくばこの手に幸福を",
+          {
+            "segment_date": 1558393706126,
+            "segment_old": 1,
+            "segment": 17,
+            "init_date": 1557763200000,
+            "txt_basename": "願わくばこの手に幸福を.out.txt",
+            "epub_date": 1558480182587,
+            "volume_old": 2,
+            "chapter_old": 18,
+            "volume": 2,
+            "chapter": 18,
+            "epub_basename": "願わくばこの手に幸福を.epub",
+            "novel_status": 768,
+            "update_date": 1558454400000,
+            "update_count": 3
+          }
+        ],
+        [
+          "user_out",
+          "カルマの塔",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 234,
+            "chapter": 244,
+            "txt_basename": "業之塔.out.txt",
+            "volume_old": 5,
+            "volume": 5,
+            "epub_basename": "業之塔.epub",
+            "update_date": 1558454400000,
+            "update_count": 2,
+            "epub_date": 1558480188514
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1882,30 +2002,30 @@
         "segment": 17,
         "init_date": 1557763200000,
         "txt_basename": "願わくばこの手に幸福を.out.txt",
-        "epub_date": 1558393820884,
-        "volume_old": 1,
-        "chapter_old": 1,
+        "epub_date": 1558480182587,
+        "volume_old": 2,
+        "chapter_old": 18,
         "volume": 2,
         "chapter": 18,
         "epub_basename": "願わくばこの手に幸福を.epub",
         "novel_status": 768,
-        "update_date": 1558368000000,
-        "update_count": 2
+        "update_date": 1558454400000,
+        "update_count": 3
       },
       "昏き宮殿の死者の王": {
         "segment_date": 1558393700053,
         "segment_old": 0,
         "segment": 2,
-        "init_date": 1558393700053,
+        "init_date": 1558368000000,
         "txt_basename": "昏き宮殿の死者の王.out.txt",
-        "epub_date": 1558393820027,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1558480181733,
+        "volume_old": 1,
+        "chapter_old": 2,
         "volume": 1,
         "chapter": 2,
         "epub_basename": "昏き宮殿の死者の王.epub",
-        "update_date": 1558368000000,
-        "update_count": 1
+        "update_date": 1558454400000,
+        "update_count": 2
       }
     },
     "user": {
@@ -2104,6 +2224,9 @@
         "init_date": 1553184000000,
         "update_date": 1555257600000,
         "update_count": 3
+      },
+      "カルマの塔": {
+        "init_date": 1558454400000
       }
     },
     "user_out": {
@@ -2361,13 +2484,14 @@
       "カルマの塔": {
         "init_date": 1545494400000,
         "chapter_old": 234,
-        "chapter": 234,
-        "txt_basename": "カルマの塔.out.txt",
-        "volume_old": 0,
+        "chapter": 244,
+        "txt_basename": "業之塔.out.txt",
+        "volume_old": 5,
         "volume": 5,
-        "epub_basename": "カルマの塔.epub",
-        "update_date": 1552060800000,
-        "update_count": 1
+        "epub_basename": "業之塔.epub",
+        "update_date": 1558454400000,
+        "update_count": 2,
+        "epub_date": 1558480188514
       },
       "神竜転生 ～普通の人間SSS～": {
         "init_date": 1545494400000,
@@ -3919,15 +4043,15 @@
         "segment": 9,
         "init_date": 1557763200000,
         "txt_basename": "食銹末世錄.out.txt",
-        "epub_date": 1558393815078,
+        "epub_date": 1558480176406,
         "volume_old": 1,
         "chapter_old": 23,
         "volume": 1,
         "chapter": 23,
         "epub_basename": "食銹末世錄.epub",
         "novel_status": 256,
-        "update_date": 1558368000000,
-        "update_count": 2
+        "update_date": 1558454400000,
+        "update_count": 3
       },
       "魔法師塔塔": {
         "segment_date": 1558050396278,
@@ -4124,15 +4248,15 @@
         "segment_old": 1,
         "segment": 1,
         "init_date": 1549641600000,
-        "epub_date": 1558393818819,
+        "epub_date": 1558480180642,
         "volume_old": 1,
-        "chapter_old": 108,
+        "chapter_old": 115,
         "volume": 1,
-        "chapter": 115,
+        "chapter": 116,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1558368000000,
-        "update_count": 19,
+        "update_date": 1558454400000,
+        "update_count": 20,
         "txt_basename": "Genocide Online ～極惡千.out.txt"
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
@@ -4296,15 +4420,15 @@
       "ポンコツ少女の電脳世界救世記": {
         "init_date": 1554739200000,
         "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
-        "epub_date": 1558393819582,
+        "epub_date": 1558480181459,
         "volume_old": 1,
-        "chapter_old": 13,
+        "chapter_old": 15,
         "volume": 1,
-        "chapter": 15,
+        "chapter": 16,
         "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
         "novel_status": 1,
-        "update_date": 1558368000000,
-        "update_count": 8,
+        "update_date": 1558454400000,
+        "update_count": 9,
         "segment_date": 1556151336714,
         "segment_old": 1,
         "segment": 1
@@ -14026,6 +14150,7 @@
       "カルマの塔": {
         "novel": {
           "title": "カルマの塔",
+          "title_zh": "業之塔",
           "author": "富士田けやき",
           "source": "http://ncode.syosetu.com/n6337cb/",
           "cover": "http://fanblogs.jp/activegirl0912/file/image/image-4ec97-thumbnail2.jpg",
@@ -14052,10 +14177,14 @@
             "男主人公",
             "群像劇",
             "軍隊"
+          ],
+          "sources": [
+            "https://kakuyomu.jp/works/1177354054886943247"
           ]
         },
         "contribute": [
           "zx神帝",
+          "姽计",
           "海市蜃楼谁不识",
           "絳紅葉"
         ],
