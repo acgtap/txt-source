@@ -3997,7 +3997,7 @@
         "segment_date": 1558912286691,
         "segment_old": 0,
         "segment": 5,
-        "init_date": 1558912286691,
+        "init_date": 1558886400000,
         "update_date": 1558886400000,
         "update_count": 1
       }
@@ -4067,7 +4067,7 @@
         "volume": 1,
         "chapter": 299,
         "epub_basename": "謙虛踏實的生活下去.epub",
-        "init_date": 1558912312503,
+        "init_date": 1558886400000,
         "update_date": 1558886400000,
         "update_count": 1
       }
