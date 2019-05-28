@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1558886400000,
-    "timestamp": 1558912323434,
+    "todayTimestamp": 1559059200000,
+    "timestamp": 1559085049723,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -938,6 +938,54 @@
             "init_date": 1558912312503,
             "update_date": 1558886400000,
             "update_count": 1
+          }
+        ]
+      ]
+    },
+    "1559059200000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "h",
+          "俺が淫魔術で奴隷ハーレムを作る話",
+          {
+            "segment_date": 1559085020423,
+            "segment_old": 2,
+            "segment": 2,
+            "init_date": 1556294400000,
+            "txt_basename": "我仰賴淫魔術建立了奴隸後宮.out.txt",
+            "epub_date": 1559085040608,
+            "volume_old": 1,
+            "chapter_old": 6,
+            "volume": 1,
+            "chapter": 7,
+            "epub_basename": "我仰賴淫魔術建立了奴隸後宮.epub",
+            "novel_status": 256,
+            "update_date": 1559059200000,
+            "update_count": 3
+          }
+        ]
+      ],
+      "epub_count": 1,
+      "epub": [
+        [
+          "h",
+          "俺が淫魔術で奴隷ハーレムを作る話",
+          {
+            "segment_date": 1559085020423,
+            "segment_old": 2,
+            "segment": 2,
+            "init_date": 1556294400000,
+            "txt_basename": "我仰賴淫魔術建立了奴隸後宮.out.txt",
+            "epub_date": 1559085040608,
+            "volume_old": 1,
+            "chapter_old": 6,
+            "volume": 1,
+            "chapter": 7,
+            "epub_basename": "我仰賴淫魔術建立了奴隸後宮.epub",
+            "novel_status": 256,
+            "update_date": 1559059200000,
+            "update_count": 3
           }
         ]
       ]
@@ -3637,20 +3685,20 @@
         "update_count": 1
       },
       "俺が淫魔術で奴隷ハーレムを作る話": {
-        "segment_date": 1557790622664,
-        "segment_old": 1,
+        "segment_date": 1559085020423,
+        "segment_old": 2,
         "segment": 2,
         "init_date": 1556294400000,
         "txt_basename": "我仰賴淫魔術建立了奴隸後宮.out.txt",
-        "epub_date": 1557791099823,
+        "epub_date": 1559085040608,
         "volume_old": 1,
-        "chapter_old": 4,
+        "chapter_old": 6,
         "volume": 1,
-        "chapter": 6,
+        "chapter": 7,
         "epub_basename": "我仰賴淫魔術建立了奴隸後宮.epub",
         "novel_status": 256,
-        "update_date": 1557763200000,
-        "update_count": 2
+        "update_date": 1559059200000,
+        "update_count": 3
       }
     },
     "kakuyomu": {
@@ -7180,6 +7228,7 @@
           "title_tieba": "咱用吟魔立创建随从乐园"
         },
         "contribute": [
+          "我只是一個紳士",
           "暗風月",
           "黑尋亦"
         ],
