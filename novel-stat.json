@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1559059200000,
-    "timestamp": 1559085049723,
+    "todayTimestamp": 1559145600000,
+    "timestamp": 1559171826003,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -986,6 +986,199 @@
             "novel_status": 256,
             "update_date": 1559059200000,
             "update_count": 3
+          }
+        ]
+      ]
+    },
+    "1559145600000": {
+      "segment_count": 4,
+      "segment": [
+        [
+          "girl",
+          "「「神と呼ばれ、魔王と呼ばれても」」",
+          {
+            "segment_date": 1559171497172,
+            "segment_old": 71,
+            "segment": 24,
+            "init_date": 1549641600000,
+            "epub_date": 1559171797642,
+            "volume_old": 1,
+            "chapter_old": 72,
+            "volume": 1,
+            "chapter": 81,
+            "epub_basename": "無論是被當作神，還是被當作魔王.epub",
+            "novel_status": 1,
+            "update_date": 1559145600000,
+            "update_count": 5,
+            "txt_basename": "無論是被當作神，還是被當作魔王.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "ポンコツ少女の電脳世界救世記",
+          {
+            "init_date": 1554739200000,
+            "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
+            "epub_date": 1559171798836,
+            "volume_old": 2,
+            "chapter_old": 20,
+            "volume": 2,
+            "chapter": 25,
+            "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
+            "novel_status": 1,
+            "update_date": 1559145600000,
+            "update_count": 11,
+            "segment_date": 1559171506322,
+            "segment_old": 1,
+            "segment": 1
+          }
+        ],
+        [
+          "girl",
+          "勿論、慰謝料請求いたします！",
+          {
+            "segment_date": 1559171513130,
+            "segment_old": 0,
+            "segment": 30,
+            "init_date": 1559171513130,
+            "txt_basename": "勿論、慰謝料請求いたします！.out.txt",
+            "epub_date": 1559171802314,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 30,
+            "epub_basename": "勿論、慰謝料請求いたします！.epub",
+            "novel_status": 768,
+            "update_date": 1559145600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "ts",
+          "自称贤者弟子的贤者",
+          {
+            "segment_date": 1559171764436,
+            "segment_old": 19,
+            "segment": 4,
+            "init_date": 1556812800000,
+            "update_date": 1559145600000,
+            "update_count": 3
+          }
+        ]
+      ],
+      "epub_count": 6,
+      "epub": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1558393606088,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1559171788669,
+            "volume_old": 1,
+            "chapter_old": 120,
+            "volume": 1,
+            "chapter": 125,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1559145600000,
+            "update_count": 22,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "「「神と呼ばれ、魔王と呼ばれても」」",
+          {
+            "segment_date": 1559171497172,
+            "segment_old": 71,
+            "segment": 24,
+            "init_date": 1549641600000,
+            "epub_date": 1559171797642,
+            "volume_old": 1,
+            "chapter_old": 72,
+            "volume": 1,
+            "chapter": 81,
+            "epub_basename": "無論是被當作神，還是被當作魔王.epub",
+            "novel_status": 1,
+            "update_date": 1559145600000,
+            "update_count": 5,
+            "txt_basename": "無論是被當作神，還是被當作魔王.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "ポンコツ少女の電脳世界救世記",
+          {
+            "init_date": 1554739200000,
+            "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
+            "epub_date": 1559171798836,
+            "volume_old": 2,
+            "chapter_old": 20,
+            "volume": 2,
+            "chapter": 25,
+            "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
+            "novel_status": 1,
+            "update_date": 1559145600000,
+            "update_count": 11,
+            "segment_date": 1559171506322,
+            "segment_old": 1,
+            "segment": 1
+          }
+        ],
+        [
+          "girl",
+          "勿論、慰謝料請求いたします！",
+          {
+            "segment_date": 1559171513130,
+            "segment_old": 0,
+            "segment": 30,
+            "init_date": 1559171513130,
+            "txt_basename": "勿論、慰謝料請求いたします！.out.txt",
+            "epub_date": 1559171802314,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 30,
+            "epub_basename": "勿論、慰謝料請求いたします！.epub",
+            "novel_status": 768,
+            "update_date": 1559145600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "girl",
+          "自覚なし聖女の異世界モフモフ道中",
+          {
+            "init_date": 1559145600000,
+            "txt_basename": "無自覺聖女的摸呼摸呼旅程.out.txt",
+            "epub_date": 1559171802466,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 1,
+            "epub_basename": "無自覺聖女的摸呼摸呼旅程.epub",
+            "update_date": 1559145600000,
+            "update_count": 1
+          }
+        ],
+        [
+          "ts_out",
+          "自称贤者弟子的贤者",
+          {
+            "txt_basename": "自称贤者弟子的贤者.out.txt",
+            "epub_date": 1559171811769,
+            "volume_old": 7,
+            "chapter_old": 315,
+            "volume": 7,
+            "chapter": 316,
+            "epub_basename": "自称贤者弟子的贤者.epub",
+            "novel_status": 768,
+            "init_date": 1556812800000,
+            "update_date": 1559145600000,
+            "update_count": 4
           }
         ]
       ]
@@ -3768,31 +3961,31 @@
         "segment_old": 1,
         "segment": 1,
         "init_date": 1549641600000,
-        "epub_date": 1558743615905,
+        "epub_date": 1559171788669,
         "volume_old": 1,
-        "chapter_old": 116,
+        "chapter_old": 120,
         "volume": 1,
-        "chapter": 120,
+        "chapter": 125,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1558713600000,
-        "update_count": 21,
+        "update_date": 1559145600000,
+        "update_count": 22,
         "txt_basename": "Genocide Online ～極惡千.out.txt"
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
-        "segment_date": 1557274881854,
-        "segment_old": 11,
-        "segment": 71,
+        "segment_date": 1559171497172,
+        "segment_old": 71,
+        "segment": 24,
         "init_date": 1549641600000,
-        "epub_date": 1557274936637,
+        "epub_date": 1559171797642,
         "volume_old": 1,
-        "chapter_old": 61,
+        "chapter_old": 72,
         "volume": 1,
-        "chapter": 72,
+        "chapter": 81,
         "epub_basename": "無論是被當作神，還是被當作魔王.epub",
         "novel_status": 1,
-        "update_date": 1557244800000,
-        "update_count": 4,
+        "update_date": 1559145600000,
+        "update_count": 5,
         "txt_basename": "無論是被當作神，還是被當作魔王.out.txt"
       },
       "Free Life Fantasy Online ～人外姫様、始めました～": {
@@ -3940,16 +4133,16 @@
       "ポンコツ少女の電脳世界救世記": {
         "init_date": 1554739200000,
         "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
-        "epub_date": 1558743617779,
-        "volume_old": 1,
-        "chapter_old": 16,
+        "epub_date": 1559171798836,
+        "volume_old": 2,
+        "chapter_old": 20,
         "volume": 2,
-        "chapter": 20,
+        "chapter": 25,
         "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
         "novel_status": 1,
-        "update_date": 1558713600000,
-        "update_count": 10,
-        "segment_date": 1558742473531,
+        "update_date": 1559145600000,
+        "update_count": 11,
+        "segment_date": 1559171506322,
         "segment_old": 1,
         "segment": 1
       },
@@ -4047,6 +4240,34 @@
         "segment": 5,
         "init_date": 1558886400000,
         "update_date": 1558886400000,
+        "update_count": 1
+      },
+      "勿論、慰謝料請求いたします！": {
+        "segment_date": 1559171513130,
+        "segment_old": 0,
+        "segment": 30,
+        "init_date": 1559171513130,
+        "txt_basename": "勿論、慰謝料請求いたします！.out.txt",
+        "epub_date": 1559171802314,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 30,
+        "epub_basename": "勿論、慰謝料請求いたします！.epub",
+        "novel_status": 768,
+        "update_date": 1559145600000,
+        "update_count": 1
+      },
+      "自覚なし聖女の異世界モフモフ道中": {
+        "init_date": 1559145600000,
+        "txt_basename": "無自覺聖女的摸呼摸呼旅程.out.txt",
+        "epub_date": 1559171802466,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 1,
+        "epub_basename": "無自覺聖女的摸呼摸呼旅程.epub",
+        "update_date": 1559145600000,
         "update_count": 1
       }
     },
@@ -4174,12 +4395,12 @@
         "init_date": 1555689600000
       },
       "自称贤者弟子的贤者": {
-        "segment_date": 1558742821974,
-        "segment_old": 76,
-        "segment": 19,
+        "segment_date": 1559171764436,
+        "segment_old": 19,
+        "segment": 4,
         "init_date": 1556812800000,
-        "update_date": 1558713600000,
-        "update_count": 2
+        "update_date": 1559145600000,
+        "update_count": 3
       },
       "葉隠桜は嘆かない": {
         "init_date": 1556812800000,
@@ -4258,16 +4479,16 @@
       },
       "自称贤者弟子的贤者": {
         "txt_basename": "自称贤者弟子的贤者.out.txt",
-        "epub_date": 1558743632483,
+        "epub_date": 1559171811769,
         "volume_old": 7,
-        "chapter_old": 313,
+        "chapter_old": 315,
         "volume": 7,
-        "chapter": 315,
+        "chapter": 316,
         "epub_basename": "自称贤者弟子的贤者.epub",
         "novel_status": 768,
         "init_date": 1556812800000,
-        "update_date": 1558713600000,
-        "update_count": 3
+        "update_date": 1559145600000,
+        "update_count": 4
       }
     },
     "game": {
@@ -6305,6 +6526,74 @@
           "[你这种家伙别想打赢魔王吧](https://tieba.baidu.com/f?kw=%E4%BD%A0%E8%BF%99%E7%A7%8D%E5%AE%B6%E4%BC%99%E5%88%AB%E6%83%B3%E6%89%93%E8%B5%A2%E9%AD%94%E7%8E%8B&ie=utf-8&tp=0 \"你这种家伙别想打赢魔王\")"
         ]
       },
+      "勿論、慰謝料請求いたします！": {
+        "novel": {
+          "title": "勿論、慰謝料請求いたします！",
+          "title_zh1": "当然请给我精神损失费",
+          "author": "soy",
+          "illust": "m/g",
+          "illusts": [
+            "無糖党"
+          ],
+          "source": "http://ncode.syosetu.com/n2665dw/",
+          "cover": "https://dip6t338iqjb9.cloudfront.net/upload/save_image/694/N3740469825.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-05-28T10:59:00+08:00",
+          "status": "連載",
+          "novel_status": 768,
+          "series": {
+            "name": "勿論、慰謝料請求いたします！"
+          },
+          "preface": "我是最喜欢存钱且最讨厌亏损、追求利益的伯爵千金尤莉雅丝。\n虽然知道婚约者是头脑很差的人，但没想到会到这种地步。\n如果要解除婚约的话，请付给我慰问金。\n是解除婚约的故事！并非转生或者召唤的故事。\n会有残酷描写的标签是作为保险。\n\n　私はお金儲けが大好きで損することが大嫌いな商魂逞しい伯爵令嬢ユリアス。\n　婚約者は頭の悪い人間だと知ってはいたがここまでとは知らなかった。\n　婚約破棄するなら慰謝料いただきます！\n　婚約破棄ものです！　\n　転生、召喚ものではございません！\n　残酷描写ありは保険です。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "商魂",
+            "婚約破棄",
+            "恋愛",
+            "悪役令嬢",
+            "慰謝料請求",
+            "残酷な描写あり",
+            "異世界[恋愛]",
+            "異世界〔恋愛〕"
+          ]
+        },
+        "contribute": [
+          "yushuandorisli",
+          "ミミ",
+          "九久酒玖",
+          "春绘",
+          "獸耳少年",
+          "酒保"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n2665dw"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n2665dw&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n2665dw/)",
+          "[当然请给我精神损失费吧](https://tieba.baidu.com/f?kw=%E5%BD%93%E7%84%B6%E8%AF%B7%E7%BB%99%E6%88%91%E7%B2%BE%E7%A5%9E%E6%8D%9F%E5%A4%B1%E8%B4%B9&ie=utf-8 \"当然请给我精神损失费\")",
+          "https://pan.baidu.com/s/1-108FSHD8-KyL2I2s1oDdg jzkk",
+          "http://www.dm5.com/manhua-dangranqinggeiwojingshensunshifei/",
+          "https://twitter.com/mutotamu"
+        ]
+      },
       "十歳の最強魔導師": {
         "novel": {
           "title": "十歳の最強魔導師",
@@ -6644,6 +6933,74 @@
         "link": [
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n2052ez&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[lightnovel](https://www.lightnovel.cn/thread-940273-1-1.html)"
+        ]
+      },
+      "自覚なし聖女の異世界モフモフ道中": {
+        "novel": {
+          "title": "自覚なし聖女の異世界モフモフ道中",
+          "title_zh": "無自覺聖女的摸呼摸呼旅程",
+          "author": "犬魔人",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n5694fk/",
+          "cover": "",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-05-19T20:50:00+08:00",
+          "status": "連載",
+          "novel_status": 0,
+          "series": {
+            "name": "自覚なし聖女の異世界モフモフ道中"
+          },
+          "preface": "在前世因為不幸而死去的彼方，獲得無窮才能與身分誕生於異世界。\n人們流傳著，其神聖的舉止就如同是過去將世界從渾沌中拯救的『起始聖女』再世般。\n但是，彼方並不是選擇聖女，而是選擇被稱作是沒用職業的魔物使。\n要說為何，彼方的願望就只有與魔物關係變好，盡情摸乎摸乎而已。\n彼方雖然只是因為自己而行動，但在受到幫助的人們眼中，簡直是聖女般。\n這是一部為了摸呼摸呼而無自覺留下聖女痕跡的異世界旅途。\n\n前世で孤独と不幸の中で死んだカナタは、有り余る才能とステータスを持って異世界に生まれ落ちる。\nその神々しい立ち振舞いから、かつて世界を混沌の中から救った【始まりの聖女】の再来では、と人々に噂されていた。\n\nしかしカナタは聖女になることを選ばず、ハズレ職と言われる魔物使いを選択する。\n\nなぜならば、カナタの望みは、魔物たちと仲良くなって思う存分モフモフすることのみ。\n\n自分の望むがままに行動するカナタだったが、その行いに救われた人々の目にはまさしく聖女として映るのだった。\n\nこれはモフモフしながら無自覚に聖女の痕跡を残していく異世界道中である。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "ほのぼの",
+            "もふもふ",
+            "ギャグ",
+            "グルメ",
+            "チート",
+            "チートなペットたち",
+            "ハイファンタジー",
+            "ハイファンタジー〔ファンタジー〕",
+            "ハッピーエンド",
+            "ファンタジー",
+            "中世",
+            "冒険",
+            "女主人公",
+            "残酷な描写あり",
+            "無自覚な聖女",
+            "異世界転生",
+            "西洋",
+            "身分差",
+            "近世"
+          ]
+        },
+        "contribute": [
+          "殘星塵"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n5694fk"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n5694fk&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n5694fk/)",
+          "https://www.lightnovel.us/thread-974848-1-1.html"
         ]
       },
       "魔王の娘の百合戦記": {
