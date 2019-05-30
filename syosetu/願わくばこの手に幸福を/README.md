@@ -120,6 +120,9 @@
 
 - ACG之神上
 - xrayxray
+- terry12369
+- iamhungry
+- 
 
 # options
 
@@ -147,6 +150,7 @@
 - [愿你手拥幸福吧](https://tieba.baidu.com/f?kw=%E6%84%BF%E4%BD%A0%E6%89%8B%E6%8B%A5%E5%B9%B8%E7%A6%8F&ie=utf-8 "愿你手拥幸福")
 - https://web-ace.jp/compace/contents/395/
 - http://www.dm5.com/manhua-yuannishouwoxingfu/
+- https://masiro.moe/forum.php?mod=forumdisplay&fid=171&page=1
 - 
 
 
