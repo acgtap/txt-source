@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1559232000000,
-    "timestamp": 1559258037461,
+    "todayTimestamp": 1559318400000,
+    "timestamp": 1559344387658,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1204,6 +1204,50 @@
           }
         ]
       ]
+    },
+    "1559318400000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "syosetu",
+          "乙女ゲー世界はモブに厳しい世界です",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 82,
+            "chapter": 82,
+            "segment_date": 1559344352585,
+            "segment_old": 1,
+            "segment": 1,
+            "epub_date": 1548977872411,
+            "volume_old": 5,
+            "volume": 5,
+            "epub_basename": "乙女遊戲世界對路人角色太嚴厲.epub",
+            "update_date": 1559318400000,
+            "update_count": 7,
+            "txt_basename": "乙女遊戲世界對路人角色太嚴厲.out.txt"
+          }
+        ]
+      ],
+      "epub_count": 1,
+      "epub": [
+        [
+          "syosetu_out",
+          "乙女ゲー世界はモブに厳しい世界です",
+          {
+            "txt_basename": "乙女遊戲世界對路人角色太嚴厲.out.txt",
+            "epub_date": 1559344376502,
+            "volume_old": 6,
+            "chapter_old": 149,
+            "volume": 6,
+            "chapter": 149,
+            "epub_basename": "乙女遊戲世界對路人角色太嚴厲.epub",
+            "novel_status": 768,
+            "init_date": 1558540800000,
+            "update_date": 1559318400000,
+            "update_count": 4
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -1311,15 +1355,15 @@
         "init_date": 1545494400000,
         "chapter_old": 82,
         "chapter": 82,
-        "segment_date": 1558742573453,
-        "segment_old": 33,
+        "segment_date": 1559344352585,
+        "segment_old": 1,
         "segment": 1,
         "epub_date": 1548977872411,
         "volume_old": 5,
         "volume": 5,
         "epub_basename": "乙女遊戲世界對路人角色太嚴厲.epub",
-        "update_date": 1558713600000,
-        "update_count": 6,
+        "update_date": 1559318400000,
+        "update_count": 7,
         "txt_basename": "乙女遊戲世界對路人角色太嚴厲.out.txt"
       },
       "大叔撿到了勇者和魔王": {
@@ -3049,7 +3093,7 @@
       },
       "乙女ゲー世界はモブに厳しい世界です": {
         "txt_basename": "乙女遊戲世界對路人角色太嚴厲.out.txt",
-        "epub_date": 1558743623439,
+        "epub_date": 1559344376502,
         "volume_old": 6,
         "chapter_old": 149,
         "volume": 6,
@@ -3057,8 +3101,8 @@
         "epub_basename": "乙女遊戲世界對路人角色太嚴厲.epub",
         "novel_status": 768,
         "init_date": 1558540800000,
-        "update_date": 1558713600000,
-        "update_count": 3
+        "update_date": 1559318400000,
+        "update_count": 4
       },
       "願わくばこの手に幸福を": {
         "txt_basename": "願わくばこの手に幸福を.out.txt",
@@ -3069,7 +3113,7 @@
         "chapter": 30,
         "epub_basename": "願わくばこの手に幸福を.epub",
         "novel_status": 768,
-        "init_date": 1559258025861,
+        "init_date": 1559232000000,
         "update_date": 1559232000000,
         "update_count": 1
       }
@@ -10727,6 +10771,7 @@
           "-流流年华",
           "6969letsex",
           "Miigen",
+          "ReadBook642",
           "________640",
           "davidwwb123",
           "electricfan_bk",
