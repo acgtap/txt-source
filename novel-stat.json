@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1559145600000,
-    "timestamp": 1559171826003,
+    "todayTimestamp": 1559232000000,
+    "timestamp": 1559258037461,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1179,6 +1179,28 @@
             "init_date": 1556812800000,
             "update_date": 1559145600000,
             "update_count": 4
+          }
+        ]
+      ]
+    },
+    "1559232000000": {
+      "epub_count": 1,
+      "epub": [
+        [
+          "syosetu_out",
+          "願わくばこの手に幸福を",
+          {
+            "txt_basename": "願わくばこの手に幸福を.out.txt",
+            "epub_date": 1559258025861,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 4,
+            "chapter": 30,
+            "epub_basename": "願わくばこの手に幸福を.epub",
+            "novel_status": 768,
+            "init_date": 1559258025861,
+            "update_date": 1559232000000,
+            "update_count": 1
           }
         ]
       ]
@@ -3037,6 +3059,19 @@
         "init_date": 1558540800000,
         "update_date": 1558713600000,
         "update_count": 3
+      },
+      "願わくばこの手に幸福を": {
+        "txt_basename": "願わくばこの手に幸福を.out.txt",
+        "epub_date": 1559258025861,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 4,
+        "chapter": 30,
+        "epub_basename": "願わくばこの手に幸福を.epub",
+        "novel_status": 768,
+        "init_date": 1559258025861,
+        "update_date": 1559232000000,
+        "update_count": 1
       }
     },
     "cm": {
@@ -4246,7 +4281,7 @@
         "segment_date": 1559171513130,
         "segment_old": 0,
         "segment": 30,
-        "init_date": 1559171513130,
+        "init_date": 1559145600000,
         "txt_basename": "勿論、慰謝料請求いたします！.out.txt",
         "epub_date": 1559171802314,
         "volume_old": 0,
@@ -10536,93 +10571,6 @@
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n9475bv&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[转生在异世界对你倾注爱吧](https://tieba.baidu.com/f?kw=%E8%BD%AC%E7%94%9F%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E5%AF%B9%E4%BD%A0%E5%80%BE%E6%B3%A8%E7%88%B1&ie=utf-8 \"转生在异世界对你倾注爱\")"
         ]
-      },
-      "願わくばこの手に幸福を": {
-        "novel": {
-          "title": "願わくばこの手に幸福を",
-          "title_zh1": "愿你手拥幸福",
-          "title_zh2": "愿你手握幸福",
-          "author": "ショーン田中",
-          "illust": "おちゃう",
-          "illusts": [
-            "メイジ"
-          ],
-          "source": "http://ncode.syosetu.com/n3170ed/",
-          "cover": "https://images-na.ssl-images-amazon.com/images/I/91Fehvils2L.jpg",
-          "publisher": "syosetu",
-          "publishers": [
-            "syosetu"
-          ],
-          "date": "2019-05-11T23:15:00+08:00",
-          "status": "連載",
-          "novel_status": 768,
-          "series": {
-            "name": "願わくばこの手に幸福を"
-          },
-          "preface": "孤兒出身的路基斯是個平凡的男人，沒有什麼特別的才幹，\n跟著冒險者的師傅多年只學到凡庸的武藝跟髒活的惡巧，\n唯一比常人優勝一點的大慨就只有能在暗中視物吧。\n\n直至大災害席卷大陸，魔獸大舉進攻，多少國度就此覆滅，多少英雄冒起然後殞落。\n最終教會組成救世主一行踏上反擊的旅途，路奇斯為了追隨自小愛慕的青梅竹馬阿雷耶諾也加入隊伍之中，\n但凡人之才的他又如何與隊中的英傑相提並論？\n他只能負責打雜守夜，聽救世主跟他愉快的後宮在帳中行樂，\n路上被阿雷耶諾以外眾女各種霸凌蔑視。\n\n即使如此，一無所有的自己也沒法放棄唯一僅存對阿雷耶諾的感情離去。\n他想、如果哪天終於聽見帳中與救世主一起的是阿雷耶諾，自己就會絕望了吧。\n在失意與惰性的日子中，奇妙的黑影向他伸手\n“我可以給予你機會，將一切重啟，讓你把人生重來”\n\n但是黑影並沒有給予路基斯外掛，\n這世界沒有數字等級技能鑑定遊戲系統，\n即使知道未來，沒有超人的實力也沒有名聲，想要掌握機會又談何容易。\n練不起來的主角不會突然發現隱世潛力，單單努力早已證明是徒勞，\n即使重來一次，路基斯又能成就什麼？\n\n願わくばこの手に幸福を\n這是一個沒被上天眷顧的人，\n在愛恨與矛盾中爭紮，以勇氣與覺悟違逆命運，\n…還有收集病嬌的故事\n\n\n救世の旅に同行を続けるルーギス。\nその中で彼の役割は、雑用や夜番。\n女達からは疎まれ、冷たい視線を与えられる日々。\n\nだが幼馴染のアリュエノの存在だけが、彼をパーティに繋ぎ止めていた。\n例え、彼女が救世者と呼ばれる男に心奪われていたとしても。\n\n失意と惰性の日々。\nそんな中に訪れた影は告げる。\n\n「貴様に機会を与えてやろう。全てを塗りつぶし、人生という絵画を描き直す機会を！」\n\n＊2017/9/25　第一部完結（第一章～第三章）\n　2018/4/30　第二部完結（第四章～第九章）\n　2018/10/31 第三部完結（第十章～第十二章）\n　現在第四部を連載中です\n\n＊2018/9/10　TOブックス様より第一巻発売\n　2019/2/9　 TOブックス様より第二巻発売\n\n＊コンプエース様よりメイジ様執筆にてコミカライズ頂ける事となりました。\n　2019/4/26発売のコンプエース様6月号より連載予定です。",
-          "tags": [
-            "R15",
-            "node-novel",
-            "syosetu",
-            "やり直し",
-            "オリジナル戦記",
-            "ギャグ",
-            "コメディー",
-            "コメディー〔文芸〕",
-            "スクールラブ",
-            "タイムリープ",
-            "ダーク",
-            "ハイファンタジー",
-            "ハイファンタジー〔ファンタジー〕",
-            "ハーレム",
-            "パラレルワールド",
-            "ヒストリカル",
-            "ヒストリカル - やり直し",
-            "ファンタジー",
-            "ラブコメ",
-            "冒険",
-            "学園",
-            "復讐",
-            "日常",
-            "残酷な描写あり",
-            "現代",
-            "男主人公",
-            "異能力バトル",
-            "西洋",
-            "青春",
-            "魔法"
-          ],
-          "sources": [
-            "https://ncode.syosetu.com/n5298fh/"
-          ]
-        },
-        "contribute": [
-          "ACG之神上",
-          "xrayxray"
-        ],
-        "options": {
-          "downloadOptions": {
-            "noFilePadend": true,
-            "filePrefixMode": 1,
-            "startIndex": 1
-          },
-          "syosetu": {
-            "txtdownload_id": "",
-            "series_id": "",
-            "novel_id": "n3170ed"
-          },
-          "textlayout": {
-            "allow_lf2": true
-          }
-        },
-        "link": [
-          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n3170ed&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n3170ed/)",
-          "[超級病嬌大戰 【願わくばこの手に幸福を】](https://forum.gamer.com.tw/C.php?bsn=60415&snA=8477&tnum=1)",
-          "[愿你手拥幸福吧](https://tieba.baidu.com/f?kw=%E6%84%BF%E4%BD%A0%E6%89%8B%E6%8B%A5%E5%B9%B8%E7%A6%8F&ie=utf-8 \"愿你手拥幸福\")",
-          "https://web-ace.jp/compace/contents/395/",
-          "http://www.dm5.com/manhua-yuannishouwoxingfu/"
-        ]
       }
     },
     "syosetu_out": {
@@ -13064,6 +13012,96 @@
         "link": [
           "[dip.jp](https://narou.dip.jp/search.php?text=n6673cu&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[独臂的钢姬吧](https://tieba.baidu.com/f?kw=%E7%8B%AC%E8%87%82%E7%9A%84%E9%92%A2%E5%A7%AC&ie=utf-8 \"\")"
+        ]
+      },
+      "願わくばこの手に幸福を": {
+        "novel": {
+          "title": "願わくばこの手に幸福を",
+          "title_zh1": "愿你手拥幸福",
+          "title_zh2": "愿你手握幸福",
+          "author": "ショーン田中",
+          "illust": "おちゃう",
+          "illusts": [
+            "メイジ"
+          ],
+          "source": "http://ncode.syosetu.com/n3170ed/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/91Fehvils2L.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-05-11T23:15:00+08:00",
+          "status": "連載",
+          "novel_status": 768,
+          "series": {
+            "name": "願わくばこの手に幸福を"
+          },
+          "preface": "孤兒出身的路基斯是個平凡的男人，沒有什麼特別的才幹，\n跟著冒險者的師傅多年只學到凡庸的武藝跟髒活的惡巧，\n唯一比常人優勝一點的大慨就只有能在暗中視物吧。\n\n直至大災害席卷大陸，魔獸大舉進攻，多少國度就此覆滅，多少英雄冒起然後殞落。\n最終教會組成救世主一行踏上反擊的旅途，路奇斯為了追隨自小愛慕的青梅竹馬阿雷耶諾也加入隊伍之中，\n但凡人之才的他又如何與隊中的英傑相提並論？\n他只能負責打雜守夜，聽救世主跟他愉快的後宮在帳中行樂，\n路上被阿雷耶諾以外眾女各種霸凌蔑視。\n\n即使如此，一無所有的自己也沒法放棄唯一僅存對阿雷耶諾的感情離去。\n他想、如果哪天終於聽見帳中與救世主一起的是阿雷耶諾，自己就會絕望了吧。\n在失意與惰性的日子中，奇妙的黑影向他伸手\n“我可以給予你機會，將一切重啟，讓你把人生重來”\n\n但是黑影並沒有給予路基斯外掛，\n這世界沒有數字等級技能鑑定遊戲系統，\n即使知道未來，沒有超人的實力也沒有名聲，想要掌握機會又談何容易。\n練不起來的主角不會突然發現隱世潛力，單單努力早已證明是徒勞，\n即使重來一次，路基斯又能成就什麼？\n\n願わくばこの手に幸福を\n這是一個沒被上天眷顧的人，\n在愛恨與矛盾中爭紮，以勇氣與覺悟違逆命運，\n…還有收集病嬌的故事\n\n\n救世の旅に同行を続けるルーギス。\nその中で彼の役割は、雑用や夜番。\n女達からは疎まれ、冷たい視線を与えられる日々。\n\nだが幼馴染のアリュエノの存在だけが、彼をパーティに繋ぎ止めていた。\n例え、彼女が救世者と呼ばれる男に心奪われていたとしても。\n\n失意と惰性の日々。\nそんな中に訪れた影は告げる。\n\n「貴様に機会を与えてやろう。全てを塗りつぶし、人生という絵画を描き直す機会を！」\n\n＊2017/9/25　第一部完結（第一章～第三章）\n　2018/4/30　第二部完結（第四章～第九章）\n　2018/10/31 第三部完結（第十章～第十二章）\n　現在第四部を連載中です\n\n＊2018/9/10　TOブックス様より第一巻発売\n　2019/2/9　 TOブックス様より第二巻発売\n\n＊コンプエース様よりメイジ様執筆にてコミカライズ頂ける事となりました。\n　2019/4/26発売のコンプエース様6月号より連載予定です。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "やり直し",
+            "オリジナル戦記",
+            "ギャグ",
+            "コメディー",
+            "コメディー〔文芸〕",
+            "スクールラブ",
+            "タイムリープ",
+            "ダーク",
+            "ハイファンタジー",
+            "ハイファンタジー〔ファンタジー〕",
+            "ハーレム",
+            "パラレルワールド",
+            "ヒストリカル",
+            "ヒストリカル - やり直し",
+            "ファンタジー",
+            "ラブコメ",
+            "冒険",
+            "学園",
+            "復讐",
+            "日常",
+            "残酷な描写あり",
+            "現代",
+            "男主人公",
+            "異能力バトル",
+            "西洋",
+            "青春",
+            "魔法"
+          ],
+          "sources": [
+            "https://ncode.syosetu.com/n5298fh/"
+          ]
+        },
+        "contribute": [
+          "ACG之神上",
+          "iamhungry",
+          "terry12369",
+          "xrayxray"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n3170ed"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n3170ed&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n3170ed/)",
+          "[超級病嬌大戰 【願わくばこの手に幸福を】](https://forum.gamer.com.tw/C.php?bsn=60415&snA=8477&tnum=1)",
+          "[愿你手拥幸福吧](https://tieba.baidu.com/f?kw=%E6%84%BF%E4%BD%A0%E6%89%8B%E6%8B%A5%E5%B9%B8%E7%A6%8F&ie=utf-8 \"愿你手拥幸福\")",
+          "https://web-ace.jp/compace/contents/395/",
+          "http://www.dm5.com/manhua-yuannishouwoxingfu/",
+          "https://masiro.moe/forum.php?mod=forumdisplay&fid=171&page=1"
         ]
       },
       "魔人勇者（自称）サトゥン": {
