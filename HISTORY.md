@@ -1,5 +1,12 @@
 # HISTORY
 
+## 2019-06-05
+
+### Epub
+
+- [乙女ゲー世界はモブに厳しい世界です](syosetu_out/%E4%B9%99%E5%A5%B3%E3%82%B2%E3%83%BC%E4%B8%96%E7%95%8C%E3%81%AF%E3%83%A2%E3%83%96%E3%81%AB%E5%8E%B3%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%99) - syosetu_out
+  <br/>( v: 6 , c: 149, add: 0 )
+
 ## 2019-06-01
 
 ### Epub
@@ -104,124 +111,6 @@
   <br/>( s: 1 )
 - [自称贤者弟子的贤者](ts/%E8%87%AA%E7%A7%B0%E8%B4%A4%E8%80%85%E5%BC%9F%E5%AD%90%E7%9A%84%E8%B4%A4%E8%80%85) - ts
   <br/>( s: 19 )
-
-## 2019-05-24
-
-### Epub
-
-- [惡役轉生但是為什麼會變成這樣](girl_out/%E6%83%A1%E5%BD%B9%E8%BD%89%E7%94%9F%E4%BD%86%E6%98%AF%E7%82%BA%E4%BB%80%E9%BA%BC%E6%9C%83%E8%AE%8A%E6%88%90%E9%80%99%E6%A8%A3) - girl_out
-  <br/>( v: 10 , c: 148, add: 148 )
-- [乙女ゲー世界はモブに厳しい世界です](syosetu_out/%E4%B9%99%E5%A5%B3%E3%82%B2%E3%83%BC%E4%B8%96%E7%95%8C%E3%81%AF%E3%83%A2%E3%83%96%E3%81%AB%E5%8E%B3%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%99) - syosetu_out
-  <br/>( v: 6 , c: 149, add: 0 )
-
-### Segment
-
-- [惡役轉生但是為什麼會變成這樣](girl/%E6%83%A1%E5%BD%B9%E8%BD%89%E7%94%9F%E4%BD%86%E6%98%AF%E7%82%BA%E4%BB%80%E9%BA%BC%E6%9C%83%E8%AE%8A%E6%88%90%E9%80%99%E6%A8%A3) - girl
-  <br/>( s: 1 )
-- [乙女ゲー世界はモブに厳しい世界です](syosetu/%E4%B9%99%E5%A5%B3%E3%82%B2%E3%83%BC%E4%B8%96%E7%95%8C%E3%81%AF%E3%83%A2%E3%83%96%E3%81%AB%E5%8E%B3%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%99) - syosetu
-  <br/>( s: 33 )
-
-## 2019-05-23
-
-### Epub
-
-- [乙女ゲー世界はモブに厳しい世界です](syosetu_out/%E4%B9%99%E5%A5%B3%E3%82%B2%E3%83%BC%E4%B8%96%E7%95%8C%E3%81%AF%E3%83%A2%E3%83%96%E3%81%AB%E5%8E%B3%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%99) - syosetu_out
-  <br/>( v: 6 , c: 149, add: 149 )
-
-### Segment
-
-- [乙女ゲー世界はモブに厳しい世界です](syosetu/%E4%B9%99%E5%A5%B3%E3%82%B2%E3%83%BC%E4%B8%96%E7%95%8C%E3%81%AF%E3%83%A2%E3%83%96%E3%81%AB%E5%8E%B3%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%99) - syosetu
-  <br/>( s: 2 )
-
-## 2019-05-22
-
-### Epub
-
-- [食銹末世錄](dmzj/%E9%A3%9F%E9%8A%B9%E6%9C%AB%E4%B8%96%E9%8C%84) - dmzj
-  <br/>( v: 1 , c: 23, add: 0 )
-- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
-  <br/>( v: 1 , c: 116, add: 1 )
-- [ポンコツ少女の電脳世界救世記](girl/%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E5%B0%91%E5%A5%B3%E3%81%AE%E9%9B%BB%E8%84%B3%E4%B8%96%E7%95%8C%E6%95%91%E4%B8%96%E8%A8%98) - girl
-  <br/>( v: 1 , c: 16, add: 1 )
-- [昏き宮殿の死者の王](syosetu/%E6%98%8F%E3%81%8D%E5%AE%AE%E6%AE%BF%E3%81%AE%E6%AD%BB%E8%80%85%E3%81%AE%E7%8E%8B) - syosetu
-  <br/>( v: 1 , c: 2, add: 0 )
-- [願わくばこの手に幸福を](syosetu/%E9%A1%98%E3%82%8F%E3%81%8F%E3%81%B0%E3%81%93%E3%81%AE%E6%89%8B%E3%81%AB%E5%B9%B8%E7%A6%8F%E3%82%92) - syosetu
-  <br/>( v: 2 , c: 18, add: 0 )
-- [カルマの塔](user_out/%E3%82%AB%E3%83%AB%E3%83%9E%E3%81%AE%E5%A1%94) - user_out
-  <br/>( v: 5 , c: 244, add: 10 )
-
-## 2019-05-21
-
-### Epub
-
-- [食銹末世錄](dmzj/%E9%A3%9F%E9%8A%B9%E6%9C%AB%E4%B8%96%E9%8C%84) - dmzj
-  <br/>( v: 1 , c: 23, add: 0 )
-- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
-  <br/>( v: 1 , c: 115, add: 7 )
-- [ポンコツ少女の電脳世界救世記](girl/%E3%83%9D%E3%83%B3%E3%82%B3%E3%83%84%E5%B0%91%E5%A5%B3%E3%81%AE%E9%9B%BB%E8%84%B3%E4%B8%96%E7%95%8C%E6%95%91%E4%B8%96%E8%A8%98) - girl
-  <br/>( v: 1 , c: 15, add: 2 )
-- [昏き宮殿の死者の王](syosetu/%E6%98%8F%E3%81%8D%E5%AE%AE%E6%AE%BF%E3%81%AE%E6%AD%BB%E8%80%85%E3%81%AE%E7%8E%8B) - syosetu
-  <br/>( v: 1 , c: 2, add: 2 )
-- [願わくばこの手に幸福を](syosetu/%E9%A1%98%E3%82%8F%E3%81%8F%E3%81%B0%E3%81%93%E3%81%AE%E6%89%8B%E3%81%AB%E5%B9%B8%E7%A6%8F%E3%82%92) - syosetu
-  <br/>( v: 2 , c: 18, add: 17 )
-- [ロリータ・ガンバレット　～魔弾幼女の異世界戦記～](syosetu_out/%E3%83%AD%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%90%E3%83%AC%E3%83%83%E3%83%88%E3%80%80%EF%BD%9E%E9%AD%94%E5%BC%BE%E5%B9%BC%E5%A5%B3%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E6%88%A6%E8%A8%98%EF%BD%9E) - syosetu_out
-  <br/>( v: 6 , c: 107, add: 2 )
-- [幼女転生](ts_out/%E5%B9%BC%E5%A5%B3%E8%BB%A2%E7%94%9F) - ts_out
-  <br/>( v: 5 , c: 63, add: 2 )
-- [転生ごときで逃げられるとでも、兄さん？](yandere_out/%E8%BB%A2%E7%94%9F%E3%81%94%E3%81%A8%E3%81%8D%E3%81%A7%E9%80%83%E3%81%92%E3%82%89%E3%82%8C%E3%82%8B%E3%81%A8%E3%81%A7%E3%82%82%E3%80%81%E5%85%84%E3%81%95%E3%82%93%EF%BC%9F) - yandere_out
-  <br/>( v: 5 , c: 117, add: 2 )
-
-### Segment
-
-- [食銹末世錄](dmzj/%E9%A3%9F%E9%8A%B9%E6%9C%AB%E4%B8%96%E9%8C%84) - dmzj
-  <br/>( s: 9 )
-- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
-  <br/>( s: 1 )
-- [你這種傢伙別想打贏魔王](girl/%E4%BD%A0%E9%80%99%E7%A8%AE%E5%82%A2%E4%BC%99%E5%88%A5%E6%83%B3%E6%89%93%E8%B4%8F%E9%AD%94%E7%8E%8B) - girl
-  <br/>( s: 2 )
-- [昏き宮殿の死者の王](syosetu/%E6%98%8F%E3%81%8D%E5%AE%AE%E6%AE%BF%E3%81%AE%E6%AD%BB%E8%80%85%E3%81%AE%E7%8E%8B) - syosetu
-  <br/>( s: 2 )
-- [願わくばこの手に幸福を](syosetu/%E9%A1%98%E3%82%8F%E3%81%8F%E3%81%B0%E3%81%93%E3%81%AE%E6%89%8B%E3%81%AB%E5%B9%B8%E7%A6%8F%E3%82%92) - syosetu
-  <br/>( s: 17 )
-
-## 2019-05-17
-
-### Epub
-
-- [魔法師塔塔](dmzj/%E9%AD%94%E6%B3%95%E5%B8%AB%E5%A1%94%E5%A1%94) - dmzj
-  <br/>( v: 1 , c: 12, add: 0 )
-- [王女殿下はお怒りのようです](girl_out/%E7%8E%8B%E5%A5%B3%E6%AE%BF%E4%B8%8B%E3%81%AF%E3%81%8A%E6%80%92%E3%82%8A%E3%81%AE%E3%82%88%E3%81%86%E3%81%A7%E3%81%99) - girl_out
-  <br/>( v: 1 , c: 26, add: 26 )
-
-### Segment
-
-- [魔法師塔塔](dmzj/%E9%AD%94%E6%B3%95%E5%B8%AB%E5%A1%94%E5%A1%94) - dmzj
-  <br/>( s: 9 )
-- [王女殿下はお怒りのようです](girl/%E7%8E%8B%E5%A5%B3%E6%AE%BF%E4%B8%8B%E3%81%AF%E3%81%8A%E6%80%92%E3%82%8A%E3%81%AE%E3%82%88%E3%81%86%E3%81%A7%E3%81%99) - girl
-  <br/>( s: 1 )
-- [誰にでもできる影から助ける魔王討伐](user/%E8%AA%B0%E3%81%AB%E3%81%A7%E3%82%82%E3%81%A7%E3%81%8D%E3%82%8B%E5%BD%B1%E3%81%8B%E3%82%89%E5%8A%A9%E3%81%91%E3%82%8B%E9%AD%94%E7%8E%8B%E8%A8%8E%E4%BC%90) - user
-  <br/>( s: 3 )
-
-## 2019-05-16
-
-### Epub
-
-- [誰にでもできる影から助ける魔王討伐](user_out/%E8%AA%B0%E3%81%AB%E3%81%A7%E3%82%82%E3%81%A7%E3%81%8D%E3%82%8B%E5%BD%B1%E3%81%8B%E3%82%89%E5%8A%A9%E3%81%91%E3%82%8B%E9%AD%94%E7%8E%8B%E8%A8%8E%E4%BC%90) - user_out
-  <br/>( v: 15 , c: 72, add: 10 )
-- [平凡職業造就世界最強](wenku8_out/%E5%B9%B3%E5%87%A1%E8%81%B7%E6%A5%AD%E9%80%A0%E5%B0%B1%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7) - wenku8_out
-  <br/>( v: 27 , c: 464, add: 2 )
-
-### Segment
-
-- [平凡職業造就世界最強](wenku8/%E5%B9%B3%E5%87%A1%E8%81%B7%E6%A5%AD%E9%80%A0%E5%B0%B1%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7) - wenku8
-  <br/>( s: 72 )
-
-## 2019-05-15
-
-### Epub
-
-- [黑之魔王](user_out/%E9%BB%91%E4%B9%8B%E9%AD%94%E7%8E%8B) - user_out
-  <br/>( v: 31 , c: 582, add: 3 )
 
 
 
