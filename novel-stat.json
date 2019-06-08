@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1559664000000,
-    "timestamp": 1559690173505,
+    "todayTimestamp": 1559923200000,
+    "timestamp": 1559949494072,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -596,6 +596,172 @@
             "init_date": 1558540800000,
             "update_date": 1559664000000,
             "update_count": 5
+          }
+        ]
+      ]
+    },
+    "1559923200000": {
+      "segment_count": 4,
+      "segment": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1559949404105,
+            "segment_old": 1,
+            "segment": 3,
+            "init_date": 1549641600000,
+            "epub_date": 1559949471997,
+            "volume_old": 1,
+            "chapter_old": 125,
+            "volume": 1,
+            "chapter": 135,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1559923200000,
+            "update_count": 23,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "「「神と呼ばれ、魔王と呼ばれても」」",
+          {
+            "segment_date": 1559949432798,
+            "segment_old": 24,
+            "segment": 14,
+            "init_date": 1549641600000,
+            "epub_date": 1559949481335,
+            "volume_old": 1,
+            "chapter_old": 81,
+            "volume": 1,
+            "chapter": 93,
+            "epub_basename": "無論是被當作神，還是被當作魔王.epub",
+            "novel_status": 1,
+            "update_date": 1559923200000,
+            "update_count": 6,
+            "txt_basename": "無論是被當作神，還是被當作魔王.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "エリナの成長物語（引き籠り女神の転生）",
+          {
+            "init_date": 1552492800000,
+            "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
+            "epub_date": 1559949482171,
+            "volume_old": 1,
+            "chapter_old": 19,
+            "volume": 1,
+            "chapter": 22,
+            "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
+            "update_date": 1559923200000,
+            "update_count": 10,
+            "segment_date": 1559949440201,
+            "segment_old": 1,
+            "segment": 1
+          }
+        ],
+        [
+          "girl",
+          "ポンコツ少女の電脳世界救世記",
+          {
+            "init_date": 1554739200000,
+            "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
+            "epub_date": 1559949483199,
+            "volume_old": 2,
+            "chapter_old": 25,
+            "volume": 2,
+            "chapter": 28,
+            "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
+            "novel_status": 1,
+            "update_date": 1559923200000,
+            "update_count": 12,
+            "segment_date": 1559949449377,
+            "segment_old": 1,
+            "segment": 1
+          }
+        ]
+      ],
+      "epub_count": 4,
+      "epub": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1559949404105,
+            "segment_old": 1,
+            "segment": 3,
+            "init_date": 1549641600000,
+            "epub_date": 1559949471997,
+            "volume_old": 1,
+            "chapter_old": 125,
+            "volume": 1,
+            "chapter": 135,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1559923200000,
+            "update_count": 23,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "「「神と呼ばれ、魔王と呼ばれても」」",
+          {
+            "segment_date": 1559949432798,
+            "segment_old": 24,
+            "segment": 14,
+            "init_date": 1549641600000,
+            "epub_date": 1559949481335,
+            "volume_old": 1,
+            "chapter_old": 81,
+            "volume": 1,
+            "chapter": 93,
+            "epub_basename": "無論是被當作神，還是被當作魔王.epub",
+            "novel_status": 1,
+            "update_date": 1559923200000,
+            "update_count": 6,
+            "txt_basename": "無論是被當作神，還是被當作魔王.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "エリナの成長物語（引き籠り女神の転生）",
+          {
+            "init_date": 1552492800000,
+            "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
+            "epub_date": 1559949482171,
+            "volume_old": 1,
+            "chapter_old": 19,
+            "volume": 1,
+            "chapter": 22,
+            "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
+            "update_date": 1559923200000,
+            "update_count": 10,
+            "segment_date": 1559949440201,
+            "segment_old": 1,
+            "segment": 1
+          }
+        ],
+        [
+          "girl",
+          "ポンコツ少女の電脳世界救世記",
+          {
+            "init_date": 1554739200000,
+            "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
+            "epub_date": 1559949483199,
+            "volume_old": 2,
+            "chapter_old": 25,
+            "volume": 2,
+            "chapter": 28,
+            "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
+            "novel_status": 1,
+            "update_date": 1559923200000,
+            "update_count": 12,
+            "segment_date": 1559949449377,
+            "segment_old": 1,
+            "segment": 1
           }
         ]
       ]
@@ -3387,35 +3553,35 @@
     },
     "girl": {
       "Genocide Online ～極惡千金的玩遊戲日記～": {
-        "segment_date": 1558393606088,
+        "segment_date": 1559949404105,
         "segment_old": 1,
-        "segment": 1,
+        "segment": 3,
         "init_date": 1549641600000,
-        "epub_date": 1559171788669,
+        "epub_date": 1559949471997,
         "volume_old": 1,
-        "chapter_old": 120,
+        "chapter_old": 125,
         "volume": 1,
-        "chapter": 125,
+        "chapter": 135,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1559145600000,
-        "update_count": 22,
+        "update_date": 1559923200000,
+        "update_count": 23,
         "txt_basename": "Genocide Online ～極惡千.out.txt"
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
-        "segment_date": 1559171497172,
-        "segment_old": 71,
-        "segment": 24,
+        "segment_date": 1559949432798,
+        "segment_old": 24,
+        "segment": 14,
         "init_date": 1549641600000,
-        "epub_date": 1559171797642,
+        "epub_date": 1559949481335,
         "volume_old": 1,
-        "chapter_old": 72,
+        "chapter_old": 81,
         "volume": 1,
-        "chapter": 81,
+        "chapter": 93,
         "epub_basename": "無論是被當作神，還是被當作魔王.epub",
         "novel_status": 1,
-        "update_date": 1559145600000,
-        "update_count": 5,
+        "update_date": 1559923200000,
+        "update_count": 6,
         "txt_basename": "無論是被當作神，還是被當作魔王.out.txt"
       },
       "Free Life Fantasy Online ～人外姫様、始めました～": {
@@ -3507,15 +3673,15 @@
       "エリナの成長物語（引き籠り女神の転生）": {
         "init_date": 1552492800000,
         "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
-        "epub_date": 1558743616844,
+        "epub_date": 1559949482171,
         "volume_old": 1,
-        "chapter_old": 17,
+        "chapter_old": 19,
         "volume": 1,
-        "chapter": 19,
+        "chapter": 22,
         "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
-        "update_date": 1558713600000,
-        "update_count": 9,
-        "segment_date": 1558742465927,
+        "update_date": 1559923200000,
+        "update_count": 10,
+        "segment_date": 1559949440201,
         "segment_old": 1,
         "segment": 1
       },
@@ -3563,16 +3729,16 @@
       "ポンコツ少女の電脳世界救世記": {
         "init_date": 1554739200000,
         "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
-        "epub_date": 1559171798836,
+        "epub_date": 1559949483199,
         "volume_old": 2,
-        "chapter_old": 20,
+        "chapter_old": 25,
         "volume": 2,
-        "chapter": 25,
+        "chapter": 28,
         "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
         "novel_status": 1,
-        "update_date": 1559145600000,
-        "update_count": 11,
-        "segment_date": 1559171506322,
+        "update_date": 1559923200000,
+        "update_count": 12,
+        "segment_date": 1559949449377,
         "segment_old": 1,
         "segment": 1
       },
