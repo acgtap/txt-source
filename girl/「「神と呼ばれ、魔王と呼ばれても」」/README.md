@@ -68,6 +68,7 @@
 ## textlayout
 
 - allow_lf2: true
+- allow_lf3: true
 
 # link
 
