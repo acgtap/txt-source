@@ -1,7 +1,7 @@
 {
   "meta": {
     "todayTimestamp": 1560268800000,
-    "timestamp": 1560348870120,
+    "timestamp": 1560354932705,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -767,7 +767,7 @@
       ]
     },
     "1560268800000": {
-      "segment_count": 150,
+      "segment_count": 169,
       "segment": [
         [
           "cm",
@@ -1254,6 +1254,25 @@
         ],
         [
           "h",
+          "在喪屍橫行的世界裡唯獨我不被襲擊",
+          {
+            "segment_date": 1560353598784,
+            "segment_old": 1,
+            "segment": 18,
+            "init_date": 1547913600000,
+            "epub_date": 1560326483994,
+            "volume_old": 3,
+            "chapter_old": 62,
+            "volume": 3,
+            "chapter": 62,
+            "epub_basename": "在喪屍橫行的世界裡唯獨我不被襲擊.epub",
+            "update_date": 1560268800000,
+            "update_count": 5,
+            "txt_basename": "在喪屍橫行的世界裡唯獨我不被襲擊.out.txt"
+          }
+        ],
+        [
+          "h",
           "異世界の男は全滅したようです",
           {
             "segment_date": 1560327775559,
@@ -1641,6 +1660,18 @@
             "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "俺　VS　人類　～アンデッドを使役して王国を襲う俺～",
+          {
+            "segment_date": 1560353648408,
+            "segment_old": 20,
+            "segment": 15,
+            "init_date": 1545521248792,
+            "update_date": 1560268800000,
+            "update_count": 2
           }
         ],
         [
@@ -2582,6 +2613,18 @@
         ],
         [
           "user",
+          "２９歳独身は異世界で自由に生きた…かった。",
+          {
+            "segment_date": 1560354242373,
+            "segment_old": 3,
+            "segment": 45,
+            "init_date": 1553184000000,
+            "update_date": 1560268800000,
+            "update_count": 4
+          }
+        ],
+        [
+          "user",
           "NO FATIGUE 24時間戦える男の転生譚",
           {
             "segment_date": 1560339307590,
@@ -2929,7 +2972,7 @@
             "segment_date": 1560348002153,
             "segment_old": 0,
             "segment": 19,
-            "init_date": 1560348002153,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2941,7 +2984,7 @@
             "segment_date": 1560348098911,
             "segment_old": 0,
             "segment": 52,
-            "init_date": 1560348098911,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2965,7 +3008,19 @@
             "segment_date": 1560348299836,
             "segment_old": 0,
             "segment": 131,
-            "init_date": 1560348299836,
+            "init_date": 1560268800000,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "蘇りの魔王",
+          {
+            "segment_date": 1560353687883,
+            "segment_old": 0,
+            "segment": 33,
+            "init_date": 1560353687883,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2986,6 +3041,218 @@
             "segment_date": 1560348749127,
             "segment_old": 0,
             "segment": 2
+          }
+        ],
+        [
+          "user",
+          "豚公爵に転生したから、今度は君に好きと言いたい",
+          {
+            "segment_date": 1560353766642,
+            "segment_old": 5,
+            "segment": 2,
+            "init_date": 1545607228123,
+            "update_date": 1560268800000,
+            "update_count": 12
+          }
+        ],
+        [
+          "user",
+          "転生したら剣でした",
+          {
+            "segment_date": 1560353831813,
+            "segment_old": 0,
+            "segment": 266,
+            "init_date": 1560353831813,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "雪色エトランゼ",
+          {
+            "segment_date": 1560353885489,
+            "segment_old": 0,
+            "segment": 115,
+            "init_date": 1560353885489,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "駆除人",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 20,
+            "chapter": 20,
+            "txt_basename": "駆除人.out.txt",
+            "volume_old": 3,
+            "volume": 3,
+            "epub_basename": "駆除人.epub",
+            "update_date": 1560268800000,
+            "update_count": 2,
+            "segment_date": 1560353898174,
+            "segment_old": 0,
+            "segment": 19
+          }
+        ],
+        [
+          "user",
+          "魔拳のデイドリーマー",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 34,
+            "chapter": 34,
+            "txt_basename": "魔拳のデイドリーマー.out.txt",
+            "volume_old": 2,
+            "volume": 2,
+            "epub_basename": "魔拳のデイドリーマー.epub",
+            "update_date": 1560268800000,
+            "update_count": 2,
+            "segment_date": 1560353917776,
+            "segment_old": 0,
+            "segment": 33
+          }
+        ],
+        [
+          "user",
+          "魔王の始め方",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 2,
+            "chapter": 2,
+            "txt_basename": "魔王の始め方.out.txt",
+            "volume_old": 1,
+            "volume": 1,
+            "epub_basename": "魔王の始め方.epub",
+            "update_date": 1560268800000,
+            "update_count": 2,
+            "segment_date": 1560353923929,
+            "segment_old": 0,
+            "segment": 1
+          }
+        ],
+        [
+          "user",
+          "魔王様、リトライ！",
+          {
+            "segment_date": 1560353968268,
+            "segment_old": 7,
+            "segment": 11,
+            "init_date": 1545521369284,
+            "update_date": 1560268800000,
+            "update_count": 7
+          }
+        ],
+        [
+          "user",
+          "黑之魔王",
+          {
+            "segment_date": 1560354133094,
+            "segment_old": 5,
+            "segment": 92,
+            "init_date": 1545261427757,
+            "update_date": 1560268800000,
+            "update_count": 17
+          }
+        ],
+        [
+          "user",
+          "黒の創造召喚師",
+          {
+            "segment_date": 1560354164961,
+            "segment_old": 0,
+            "segment": 76,
+            "init_date": 1560354164961,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "uukanshu",
+          "炎之魔女的守序信仰",
+          {
+            "segment_date": 1560354333489,
+            "segment_old": 0,
+            "segment": 262,
+            "init_date": 1560354333489,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "webqxs",
+          "かみがみ〜最も弱き反逆者〜",
+          {
+            "segment_date": 1560354358908,
+            "segment_old": 0,
+            "segment": 2,
+            "init_date": 1560354358908,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "wenku8",
+          "OVERLORD不死者之王",
+          {
+            "segment_date": 1560354504025,
+            "segment_old": 0,
+            "segment": 104,
+            "init_date": 1560354504025,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "wenku8",
+          "不吉波普系列",
+          {
+            "segment_date": 1560354537915,
+            "segment_old": 10,
+            "segment": 19,
+            "init_date": 1548172800000,
+            "epub_date": 1553212870216,
+            "volume_old": 6,
+            "chapter_old": 47,
+            "volume": 6,
+            "chapter": 47,
+            "epub_basename": "不吉波普系列.epub",
+            "update_date": 1560268800000,
+            "update_count": 8,
+            "txt_basename": "不吉波普系列.out.txt"
+          }
+        ],
+        [
+          "wenku8",
+          "勇者、或いは化物と呼ばれた少女",
+          {
+            "segment_date": 1560354566084,
+            "segment_old": 1,
+            "segment": 13,
+            "init_date": 1545521509007,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "wenku8",
+          "平凡職業造就世界最強",
+          {
+            "segment_date": 1560354909124,
+            "segment_old": 72,
+            "segment": 26,
+            "init_date": 1548345600000,
+            "epub_date": 1549842429160,
+            "volume_old": 13,
+            "chapter_old": 109,
+            "volume": 27,
+            "chapter": 456,
+            "epub_basename": "平凡職業造就世界最強.epub",
+            "update_date": 1560268800000,
+            "update_count": 19,
+            "novel_status": 1792
           }
         ]
       ],
@@ -3906,9 +4173,9 @@
           "h",
           "在喪屍橫行的世界裡唯獨我不被襲擊",
           {
-            "segment_date": 1548502679187,
-            "segment_old": 13,
-            "segment": 1,
+            "segment_date": 1560353598784,
+            "segment_old": 1,
+            "segment": 18,
             "init_date": 1547913600000,
             "epub_date": 1560326483994,
             "volume_old": 3,
@@ -3997,12 +4264,12 @@
         "txt_basename": "身為暗殺者的我明顯比勇者還強.out.txt"
       },
       "俺　VS　人類　～アンデッドを使役して王国を襲う俺～": {
-        "segment_date": 1545693553722,
-        "segment_old": 14,
-        "segment": 20,
+        "segment_date": 1560353648408,
+        "segment_old": 20,
+        "segment": 15,
         "init_date": 1545521248792,
-        "update_date": 1545693553722,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2
       },
       "用務員さんは勇者じゃありませんので": {
         "segment_date": 1560332394330,
@@ -4811,12 +5078,12 @@
     },
     "user": {
       "黑之魔王": {
-        "segment_date": 1556583962897,
-        "segment_old": 26,
-        "segment": 5,
+        "segment_date": 1560354133094,
+        "segment_old": 5,
+        "segment": 92,
         "init_date": 1545261427757,
-        "update_date": 1556553600000,
-        "update_count": 16
+        "update_date": 1560268800000,
+        "update_count": 17
       },
       "火輪を抱いた少女": {
         "segment_date": 1560346680972,
@@ -4827,12 +5094,12 @@
         "update_count": 1
       },
       "魔王様、リトライ！": {
-        "segment_date": 1556929213468,
-        "segment_old": 24,
-        "segment": 7,
+        "segment_date": 1560353968268,
+        "segment_old": 7,
+        "segment": 11,
         "init_date": 1545521369284,
-        "update_date": 1556899200000,
-        "update_count": 6
+        "update_date": 1560268800000,
+        "update_count": 7
       },
       "虫虫酱むいむいたん": {
         "init_date": 1545494400000,
@@ -4856,8 +5123,11 @@
         "volume_old": 1,
         "volume": 1,
         "epub_basename": "魔王の始め方.epub",
-        "update_date": 1552060800000,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2,
+        "segment_date": 1560353923929,
+        "segment_old": 0,
+        "segment": 1
       },
       "駆除人": {
         "init_date": 1545494400000,
@@ -4867,8 +5137,11 @@
         "volume_old": 3,
         "volume": 3,
         "epub_basename": "駆除人.epub",
-        "update_date": 1552060800000,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2,
+        "segment_date": 1560353898174,
+        "segment_old": 0,
+        "segment": 19
       },
       "魔拳のデイドリーマー": {
         "init_date": 1545494400000,
@@ -4878,16 +5151,19 @@
         "volume_old": 2,
         "volume": 2,
         "epub_basename": "魔拳のデイドリーマー.epub",
-        "update_date": 1552060800000,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2,
+        "segment_date": 1560353917776,
+        "segment_old": 0,
+        "segment": 33
       },
       "豚公爵に転生したから、今度は君に好きと言いたい": {
-        "segment_date": 1554768656152,
-        "segment_old": 1,
-        "segment": 5,
+        "segment_date": 1560353766642,
+        "segment_old": 5,
+        "segment": 2,
         "init_date": 1545607228123,
-        "update_date": 1554739200000,
-        "update_count": 11
+        "update_date": 1560268800000,
+        "update_count": 12
       },
       "自称贤者弟子的贤者": {
         "segment_date": 1550360967413,
@@ -5027,12 +5303,12 @@
         "update_count": 1
       },
       "２９歳独身は異世界で自由に生きた…かった。": {
-        "segment_date": 1555287613780,
-        "segment_old": 24,
-        "segment": 3,
+        "segment_date": 1560354242373,
+        "segment_old": 3,
+        "segment": 45,
         "init_date": 1553184000000,
-        "update_date": 1555257600000,
-        "update_count": 3
+        "update_date": 1560268800000,
+        "update_count": 4
       },
       "カルマの塔": {
         "init_date": 1558454400000,
@@ -5174,7 +5450,7 @@
         "segment_date": 1560348002153,
         "segment_old": 0,
         "segment": 19,
-        "init_date": 1560348002153,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -5182,7 +5458,7 @@
         "segment_date": 1560348098911,
         "segment_old": 0,
         "segment": 52,
-        "init_date": 1560348098911,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -5190,7 +5466,39 @@
         "segment_date": 1560348299836,
         "segment_old": 0,
         "segment": 131,
-        "init_date": 1560348299836,
+        "init_date": 1560268800000,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "蘇りの魔王": {
+        "segment_date": 1560353687883,
+        "segment_old": 0,
+        "segment": 33,
+        "init_date": 1560353687883,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "転生したら剣でした": {
+        "segment_date": 1560353831813,
+        "segment_old": 0,
+        "segment": 266,
+        "init_date": 1560353831813,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "雪色エトランゼ": {
+        "segment_date": 1560353885489,
+        "segment_old": 0,
+        "segment": 115,
+        "init_date": 1560353885489,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "黒の創造召喚師": {
+        "segment_date": 1560354164961,
+        "segment_old": 0,
+        "segment": 76,
+        "init_date": 1560354164961,
         "update_date": 1560268800000,
         "update_count": 1
       }
@@ -6604,10 +6912,12 @@
     },
     "wenku8": {
       "勇者、或いは化物と呼ばれた少女": {
-        "segment_date": 1545548872909,
+        "segment_date": 1560354566084,
         "segment_old": 1,
-        "segment": 1,
-        "init_date": 1545521509007
+        "segment": 13,
+        "init_date": 1545521509007,
+        "update_date": 1560268800000,
+        "update_count": 1
       },
       "钱进战国雄霸天下": {
         "init_date": 1545494400000,
@@ -6652,9 +6962,9 @@
         "txt_basename": "關於人類是最強種族這件事.out.txt"
       },
       "不吉波普系列": {
-        "segment_date": 1553212833370,
-        "segment_old": 1,
-        "segment": 10,
+        "segment_date": 1560354537915,
+        "segment_old": 10,
+        "segment": 19,
         "init_date": 1548172800000,
         "epub_date": 1553212870216,
         "volume_old": 6,
@@ -6662,14 +6972,14 @@
         "volume": 6,
         "chapter": 47,
         "epub_basename": "不吉波普系列.epub",
-        "update_date": 1553184000000,
-        "update_count": 7,
+        "update_date": 1560268800000,
+        "update_count": 8,
         "txt_basename": "不吉波普系列.out.txt"
       },
       "平凡職業造就世界最強": {
-        "segment_date": 1557962296979,
-        "segment_old": 150,
-        "segment": 72,
+        "segment_date": 1560354909124,
+        "segment_old": 72,
+        "segment": 26,
         "init_date": 1548345600000,
         "epub_date": 1549842429160,
         "volume_old": 13,
@@ -6677,8 +6987,8 @@
         "volume": 27,
         "chapter": 456,
         "epub_basename": "平凡職業造就世界最強.epub",
-        "update_date": 1557936000000,
-        "update_count": 18,
+        "update_date": 1560268800000,
+        "update_count": 19,
         "novel_status": 1792
       },
       "被死神撫養的少女懷抱漆黑之劍": {
@@ -6724,6 +7034,14 @@
         "segment_date": 1555028504513,
         "segment_old": 6,
         "segment": 9
+      },
+      "OVERLORD不死者之王": {
+        "segment_date": 1560354504025,
+        "segment_old": 0,
+        "segment": 104,
+        "init_date": 1560354504025,
+        "update_date": 1560268800000,
+        "update_count": 1
       }
     },
     "cm_out": {
@@ -7182,9 +7500,9 @@
         "txt_basename": "侯爵嫡男好色物語.out.txt"
       },
       "在喪屍橫行的世界裡唯獨我不被襲擊": {
-        "segment_date": 1548502679187,
-        "segment_old": 13,
-        "segment": 1,
+        "segment_date": 1560353598784,
+        "segment_old": 1,
+        "segment": 18,
         "init_date": 1547913600000,
         "epub_date": 1560326483994,
         "volume_old": 3,
@@ -7968,6 +8286,26 @@
         "segment_old": 0,
         "segment": 120,
         "init_date": 1560268800000,
+        "update_date": 1560268800000,
+        "update_count": 1
+      }
+    },
+    "uukanshu": {
+      "炎之魔女的守序信仰": {
+        "segment_date": 1560354333489,
+        "segment_old": 0,
+        "segment": 262,
+        "init_date": 1560354333489,
+        "update_date": 1560268800000,
+        "update_count": 1
+      }
+    },
+    "webqxs": {
+      "かみがみ〜最も弱き反逆者〜": {
+        "segment_date": 1560354358908,
+        "segment_old": 0,
+        "segment": 2,
+        "init_date": 1560354358908,
         "update_date": 1560268800000,
         "update_count": 1
       }
