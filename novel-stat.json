@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1560268800000,
-    "timestamp": 1560354932705,
+    "todayTimestamp": 1560355200000,
+    "timestamp": 1560358270077,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -4228,6 +4228,176 @@
           }
         ]
       ]
+    },
+    "1560355200000": {
+      "segment_count": 9,
+      "segment": [
+        [
+          "wenku8",
+          "打倒女神勇者的下流手段",
+          {
+            "segment_date": 1560357991726,
+            "segment_old": 2,
+            "segment": 7,
+            "init_date": 1547654400000,
+            "epub_date": 1548511782523,
+            "volume_old": 1,
+            "chapter_old": 9,
+            "volume": 1,
+            "chapter": 9,
+            "epub_basename": "打倒女神勇者的下流手段.epub",
+            "novel_status": 1,
+            "update_date": 1560355200000,
+            "update_count": 8,
+            "txt_basename": "打倒女神勇者的下流手段.out.txt"
+          }
+        ],
+        [
+          "wenku8",
+          "書姬吟游錄",
+          {
+            "init_date": 1554220800000,
+            "txt_basename": "書姬吟遊錄.out.txt",
+            "epub_date": 1555028548489,
+            "volume_old": 4,
+            "chapter_old": 19,
+            "volume": 4,
+            "chapter": 19,
+            "epub_basename": "書姬吟遊錄.epub",
+            "novel_status": 256,
+            "update_date": 1560355200000,
+            "update_count": 4,
+            "segment_date": 1560358022551,
+            "segment_old": 9,
+            "segment": 12
+          }
+        ],
+        [
+          "wenku8",
+          "森の魔獣に花束を",
+          {
+            "init_date": 1552838400000,
+            "txt_basename": "森の魔獣に花束を.out.txt",
+            "epub_date": 1552953408882,
+            "volume_old": 1,
+            "chapter_old": 11,
+            "volume": 1,
+            "chapter": 11,
+            "epub_basename": "森の魔獣に花束を.epub",
+            "novel_status": 256,
+            "update_date": 1560355200000,
+            "update_count": 3,
+            "segment_date": 1560358031848,
+            "segment_old": 0,
+            "segment": 9
+          }
+        ],
+        [
+          "wenku8",
+          "瀆神之主",
+          {
+            "segment_date": 1560358110827,
+            "segment_old": 0,
+            "segment": 47,
+            "init_date": 1560358110827,
+            "update_date": 1560355200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "wenku8",
+          "被死神撫養的少女懷抱漆黑之劍",
+          {
+            "segment_date": 1560358133065,
+            "segment_old": 2,
+            "segment": 15,
+            "init_date": 1548345600000,
+            "epub_date": 1548649056516,
+            "volume_old": 3,
+            "chapter_old": 19,
+            "volume": 3,
+            "chapter": 19,
+            "epub_basename": "被死神撫養的少女懷抱漆黑之劍.epub",
+            "update_date": 1560355200000,
+            "update_count": 6,
+            "txt_basename": "被死神撫養的少女懷抱漆黑之劍.out.txt"
+          }
+        ],
+        [
+          "wenku8",
+          "钱进战国雄霸天下",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 44,
+            "chapter": 44,
+            "txt_basename": "钱进战国雄霸天下.out.txt",
+            "volume_old": 0,
+            "volume": 2,
+            "epub_basename": "钱进战国雄霸天下.epub",
+            "update_date": 1560355200000,
+            "update_count": 2,
+            "segment_date": 1560358155244,
+            "segment_old": 0,
+            "segment": 44
+          }
+        ],
+        [
+          "wenku8",
+          "關於人類是最強種族這件事",
+          {
+            "segment_date": 1560358171136,
+            "segment_old": 52,
+            "segment": 25,
+            "init_date": 1547913600000,
+            "epub_date": 1547975253224,
+            "volume_old": 4,
+            "chapter_old": 52,
+            "volume": 4,
+            "chapter": 52,
+            "epub_basename": "關於人類是最強種族這件事.epub",
+            "update_date": 1560355200000,
+            "update_count": 3,
+            "txt_basename": "關於人類是最強種族這件事.out.txt"
+          }
+        ],
+        [
+          "yandere",
+          "転生ごときで逃げられるとでも、兄さん？",
+          {
+            "segment_date": 1560358197718,
+            "segment_old": 1,
+            "segment": 3,
+            "init_date": 1548604800000,
+            "epub_date": 1548977895318,
+            "volume_old": 5,
+            "chapter_old": 79,
+            "volume": 5,
+            "chapter": 79,
+            "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
+            "update_date": 1560355200000,
+            "update_count": 11
+          }
+        ],
+        [
+          "zh",
+          "如何在異世界殺死一個死宅",
+          {
+            "segment_date": 1560358212408,
+            "segment_old": 28,
+            "segment": 25,
+            "init_date": 1545780337964,
+            "epub_date": 1545876925866,
+            "volume_old": 3,
+            "chapter_old": 28,
+            "volume": 3,
+            "chapter": 28,
+            "epub_basename": "如何在異世界殺死一個死宅.epub",
+            "update_date": 1560355200000,
+            "update_count": 5,
+            "txt_basename": "如何在異世界殺死一個死宅.out.txt"
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -5474,7 +5644,7 @@
         "segment_date": 1560353687883,
         "segment_old": 0,
         "segment": 33,
-        "init_date": 1560353687883,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -5482,7 +5652,7 @@
         "segment_date": 1560353831813,
         "segment_old": 0,
         "segment": 266,
-        "init_date": 1560353831813,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -5490,7 +5660,7 @@
         "segment_date": 1560353885489,
         "segment_old": 0,
         "segment": 115,
-        "init_date": 1560353885489,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -5498,7 +5668,7 @@
         "segment_date": 1560354164961,
         "segment_old": 0,
         "segment": 76,
-        "init_date": 1560354164961,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       }
@@ -6927,13 +7097,16 @@
         "volume_old": 0,
         "volume": 2,
         "epub_basename": "钱进战国雄霸天下.epub",
-        "update_date": 1552060800000,
-        "update_count": 1
+        "update_date": 1560355200000,
+        "update_count": 2,
+        "segment_date": 1560358155244,
+        "segment_old": 0,
+        "segment": 44
       },
       "打倒女神勇者的下流手段": {
-        "segment_date": 1548503365559,
-        "segment_old": 1,
-        "segment": 2,
+        "segment_date": 1560357991726,
+        "segment_old": 2,
+        "segment": 7,
         "init_date": 1547654400000,
         "epub_date": 1548511782523,
         "volume_old": 1,
@@ -6942,14 +7115,14 @@
         "chapter": 9,
         "epub_basename": "打倒女神勇者的下流手段.epub",
         "novel_status": 1,
-        "update_date": 1552060800000,
-        "update_count": 7,
+        "update_date": 1560355200000,
+        "update_count": 8,
         "txt_basename": "打倒女神勇者的下流手段.out.txt"
       },
       "關於人類是最強種族這件事": {
-        "segment_date": 1547940721492,
-        "segment_old": 0,
-        "segment": 52,
+        "segment_date": 1560358171136,
+        "segment_old": 52,
+        "segment": 25,
         "init_date": 1547913600000,
         "epub_date": 1547975253224,
         "volume_old": 4,
@@ -6957,8 +7130,8 @@
         "volume": 4,
         "chapter": 52,
         "epub_basename": "關於人類是最強種族這件事.epub",
-        "update_date": 1552060800000,
-        "update_count": 2,
+        "update_date": 1560355200000,
+        "update_count": 3,
         "txt_basename": "關於人類是最強種族這件事.out.txt"
       },
       "不吉波普系列": {
@@ -6992,9 +7165,9 @@
         "novel_status": 1792
       },
       "被死神撫養的少女懷抱漆黑之劍": {
-        "segment_date": 1548511732856,
+        "segment_date": 1560358133065,
         "segment_old": 2,
-        "segment": 2,
+        "segment": 15,
         "init_date": 1548345600000,
         "epub_date": 1548649056516,
         "volume_old": 3,
@@ -7002,8 +7175,8 @@
         "volume": 3,
         "chapter": 19,
         "epub_basename": "被死神撫養的少女懷抱漆黑之劍.epub",
-        "update_date": 1552060800000,
-        "update_count": 5,
+        "update_date": 1560355200000,
+        "update_count": 6,
         "txt_basename": "被死神撫養的少女懷抱漆黑之劍.out.txt"
       },
       "森の魔獣に花束を": {
@@ -7016,8 +7189,11 @@
         "chapter": 11,
         "epub_basename": "森の魔獣に花束を.epub",
         "novel_status": 256,
-        "update_date": 1552924800000,
-        "update_count": 2
+        "update_date": 1560355200000,
+        "update_count": 3,
+        "segment_date": 1560358031848,
+        "segment_old": 0,
+        "segment": 9
       },
       "書姬吟游錄": {
         "init_date": 1554220800000,
@@ -7029,18 +7205,26 @@
         "chapter": 19,
         "epub_basename": "書姬吟遊錄.epub",
         "novel_status": 256,
-        "update_date": 1554998400000,
-        "update_count": 3,
-        "segment_date": 1555028504513,
-        "segment_old": 6,
-        "segment": 9
+        "update_date": 1560355200000,
+        "update_count": 4,
+        "segment_date": 1560358022551,
+        "segment_old": 9,
+        "segment": 12
       },
       "OVERLORD不死者之王": {
         "segment_date": 1560354504025,
         "segment_old": 0,
         "segment": 104,
-        "init_date": 1560354504025,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "瀆神之主": {
+        "segment_date": 1560358110827,
+        "segment_old": 0,
+        "segment": 47,
+        "init_date": 1560358110827,
+        "update_date": 1560355200000,
         "update_count": 1
       }
     },
@@ -7468,9 +7652,9 @@
     },
     "zh": {
       "如何在異世界殺死一個死宅": {
-        "segment_date": 1545867753596,
+        "segment_date": 1560358212408,
         "segment_old": 28,
-        "segment": 28,
+        "segment": 25,
         "init_date": 1545780337964,
         "epub_date": 1545876925866,
         "volume_old": 3,
@@ -7478,8 +7662,8 @@
         "volume": 3,
         "chapter": 28,
         "epub_basename": "如何在異世界殺死一個死宅.epub",
-        "update_date": 1552060800000,
-        "update_count": 4,
+        "update_date": 1560355200000,
+        "update_count": 5,
         "txt_basename": "如何在異世界殺死一個死宅.out.txt"
       }
     },
@@ -7628,9 +7812,9 @@
     },
     "yandere": {
       "転生ごときで逃げられるとでも、兄さん？": {
-        "segment_date": 1556583988121,
-        "segment_old": 12,
-        "segment": 1,
+        "segment_date": 1560358197718,
+        "segment_old": 1,
+        "segment": 3,
         "init_date": 1548604800000,
         "epub_date": 1548977895318,
         "volume_old": 5,
@@ -7638,8 +7822,8 @@
         "volume": 5,
         "chapter": 79,
         "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
-        "update_date": 1556553600000,
-        "update_count": 10
+        "update_date": 1560355200000,
+        "update_count": 11
       }
     },
     "mirronight_out": {
@@ -8295,7 +8479,7 @@
         "segment_date": 1560354333489,
         "segment_old": 0,
         "segment": 262,
-        "init_date": 1560354333489,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       }
@@ -8305,7 +8489,7 @@
         "segment_date": 1560354358908,
         "segment_old": 0,
         "segment": 2,
-        "init_date": 1560354358908,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       }
