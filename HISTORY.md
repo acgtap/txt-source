@@ -14,6 +14,12 @@
   <br/>( s: 1 )
 - [自分が異世界に転移するなら](user/%E8%87%AA%E5%88%86%E3%81%8C%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AB%E8%BB%A2%E7%A7%BB%E3%81%99%E3%82%8B%E3%81%AA%E3%82%89) - user
   <br/>( s: 1 )
+- [雪色エトランゼ](user/%E9%9B%AA%E8%89%B2%E3%82%A8%E3%83%88%E3%83%A9%E3%83%B3%E3%82%BC) - user
+  <br/>( s: 2 )
+- [炎之魔女的守序信仰](uukanshu/%E7%82%8E%E4%B9%8B%E9%AD%94%E5%A5%B3%E7%9A%84%E5%AE%88%E5%BA%8F%E4%BF%A1%E4%BB%B0) - uukanshu
+  <br/>( s: 3 )
+- [OVERLORD不死者之王](wenku8/OVERLORD%E4%B8%8D%E6%AD%BB%E8%80%85%E4%B9%8B%E7%8E%8B) - wenku8
+  <br/>( s: 1 )
 - [打倒女神勇者的下流手段](wenku8/%E6%89%93%E5%80%92%E5%A5%B3%E7%A5%9E%E5%8B%87%E8%80%85%E7%9A%84%E4%B8%8B%E6%B5%81%E6%89%8B%E6%AE%B5) - wenku8
   <br/>( s: 7 )
 - [書姬吟游錄](wenku8/%E6%9B%B8%E5%A7%AC%E5%90%9F%E6%B8%B8%E9%8C%84) - wenku8

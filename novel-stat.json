@@ -1,7 +1,7 @@
 {
   "meta": {
     "todayTimestamp": 1560355200000,
-    "timestamp": 1560361199031,
+    "timestamp": 1560363948005,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -4230,7 +4230,7 @@
       ]
     },
     "1560355200000": {
-      "segment_count": 14,
+      "segment_count": 17,
       "segment": [
         [
           "user",
@@ -4286,6 +4286,42 @@
           {
             "segment_date": 1560360917952,
             "segment_old": 131,
+            "segment": 1,
+            "init_date": 1560268800000,
+            "update_date": 1560355200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "user",
+          "雪色エトランゼ",
+          {
+            "segment_date": 1560362749901,
+            "segment_old": 115,
+            "segment": 2,
+            "init_date": 1560268800000,
+            "update_date": 1560355200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "uukanshu",
+          "炎之魔女的守序信仰",
+          {
+            "segment_date": 1560363285709,
+            "segment_old": 262,
+            "segment": 3,
+            "init_date": 1560268800000,
+            "update_date": 1560355200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "wenku8",
+          "OVERLORD不死者之王",
+          {
+            "segment_date": 1560363444542,
+            "segment_old": 104,
             "segment": 1,
             "init_date": 1560268800000,
             "update_date": 1560355200000,
@@ -5717,12 +5753,12 @@
         "update_count": 1
       },
       "雪色エトランゼ": {
-        "segment_date": 1560353885489,
-        "segment_old": 0,
-        "segment": 115,
+        "segment_date": 1560362749901,
+        "segment_old": 115,
+        "segment": 2,
         "init_date": 1560268800000,
-        "update_date": 1560268800000,
-        "update_count": 1
+        "update_date": 1560355200000,
+        "update_count": 2
       },
       "黒の創造召喚師": {
         "segment_date": 1560354164961,
@@ -7272,12 +7308,12 @@
         "segment": 12
       },
       "OVERLORD不死者之王": {
-        "segment_date": 1560354504025,
-        "segment_old": 0,
-        "segment": 104,
+        "segment_date": 1560363444542,
+        "segment_old": 104,
+        "segment": 1,
         "init_date": 1560268800000,
-        "update_date": 1560268800000,
-        "update_count": 1
+        "update_date": 1560355200000,
+        "update_count": 2
       },
       "瀆神之主": {
         "segment_date": 1560358110827,
@@ -8536,12 +8572,12 @@
     },
     "uukanshu": {
       "炎之魔女的守序信仰": {
-        "segment_date": 1560354333489,
-        "segment_old": 0,
-        "segment": 262,
+        "segment_date": 1560363285709,
+        "segment_old": 262,
+        "segment": 3,
         "init_date": 1560268800000,
-        "update_date": 1560268800000,
-        "update_count": 1
+        "update_date": 1560355200000,
+        "update_count": 2
       }
     },
     "webqxs": {
