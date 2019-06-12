@@ -1,7 +1,7 @@
 {
   "meta": {
     "todayTimestamp": 1560268800000,
-    "timestamp": 1560328874200,
+    "timestamp": 1560331140432,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -767,7 +767,7 @@
       ]
     },
     "1560268800000": {
-      "segment_count": 40,
+      "segment_count": 62,
       "segment": [
         [
           "cm",
@@ -1298,7 +1298,7 @@
             "segment_date": 1560327784396,
             "segment_old": 0,
             "segment": 10,
-            "init_date": 1560327784396,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -1329,7 +1329,7 @@
             "segment_date": 1560327801558,
             "segment_old": 0,
             "segment": 20,
-            "init_date": 1560327801558,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -1341,7 +1341,7 @@
             "segment_date": 1560327809005,
             "segment_old": 0,
             "segment": 20,
-            "init_date": 1560327809005,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -1353,7 +1353,7 @@
             "segment_date": 1560327957871,
             "segment_old": 0,
             "segment": 120,
-            "init_date": 1560327957871,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -1432,6 +1432,355 @@
             "update_date": 1560268800000,
             "update_count": 4,
             "txt_basename": "關於成為魔王這件事.out.txt"
+          }
+        ],
+        [
+          "other",
+          "勇者「都打倒魔王了來回家吧」",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 3,
+            "chapter": 3,
+            "epub_date": 1548200235321,
+            "volume_old": 1,
+            "volume": 1,
+            "epub_basename": "勇者「都打倒魔王了來回家吧」.epub",
+            "update_date": 1560268800000,
+            "update_count": 3,
+            "txt_basename": "勇者「都打倒魔王了來回家吧」.out.txt",
+            "segment_date": 1560330149556,
+            "segment_old": 0,
+            "segment": 1
+          }
+        ],
+        [
+          "otome",
+          "転生王子と憂いの大国",
+          {
+            "init_date": 1554998400000,
+            "txt_basename": "転生王子と憂いの大国.out.txt",
+            "epub_date": 1555546518327,
+            "volume_old": 4,
+            "chapter_old": 11,
+            "volume": 4,
+            "chapter": 11,
+            "epub_basename": "転生王子と憂いの大国.epub",
+            "novel_status": 769,
+            "update_date": 1560268800000,
+            "update_count": 3,
+            "segment_date": 1560330160531,
+            "segment_old": 1,
+            "segment": 2
+          }
+        ],
+        [
+          "syosetu",
+          "World's End Online",
+          {
+            "segment_date": 1560330239184,
+            "segment_old": 0,
+            "segment": 30,
+            "init_date": 1560330239184,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "アラフォー賢者の異世界生活日記",
+          {
+            "segment_date": 1560330292194,
+            "segment_old": 13,
+            "segment": 19,
+            "init_date": 1547568000000,
+            "update_date": 1560268800000,
+            "update_count": 5,
+            "txt_basename": "賢者大叔的異世界生活日記.out.txt",
+            "epub_date": 1553732118922,
+            "volume_old": 1,
+            "chapter_old": 70,
+            "volume": 1,
+            "chapter": 70,
+            "epub_basename": "賢者大叔的異世界生活日記.epub",
+            "novel_status": 256
+          }
+        ],
+        [
+          "syosetu",
+          "カット＆ペーストでこの世界を生きていく",
+          {
+            "txt_basename": "以複製貼上在這個世界生活.out.txt",
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 9,
+            "epub_basename": "以複製貼上在這個世界生活.epub",
+            "init_date": 1560268800000,
+            "segment_date": 1560330298736,
+            "segment_old": 0,
+            "segment": 5,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "ガチャを回して仲間を増やす　最強の美少女軍団を作り上げろ",
+          {
+            "segment_date": 1560330347762,
+            "segment_old": 24,
+            "segment": 9,
+            "init_date": 1556726400000,
+            "txt_basename": "通過扭蛋增加同伴　建立最強美少女軍團.out.txt",
+            "epub_date": 1556756369746,
+            "volume_old": 1,
+            "chapter_old": 194,
+            "volume": 1,
+            "chapter": 194,
+            "epub_basename": "通過扭蛋增加同伴　建立最強美少女軍團.epub",
+            "novel_status": 768,
+            "update_date": 1560268800000,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu",
+          "チートで賢者な俺は異世界に革命を起こす",
+          {
+            "txt_basename": "開掛賢者的我在異世界發起改革.out.txt",
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 6,
+            "epub_basename": "開掛賢者的我在異世界發起改革.epub",
+            "init_date": 1560268800000,
+            "segment_date": 1560330352282,
+            "segment_old": 0,
+            "segment": 6,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "ロリータ・ガンバレット　～魔弾幼女の異世界戦記～",
+          {
+            "segment_date": 1560330401675,
+            "segment_old": 76,
+            "segment": 4,
+            "init_date": 1545261305497,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "世界最強の後衛　～迷宮国の新人探索者～",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 2,
+            "chapter": 2,
+            "txt_basename": "世界最強の後衛　～迷宮国の新人探索者～.out.txt",
+            "volume_old": 1,
+            "volume": 1,
+            "epub_basename": "世界最強の後衛　～迷宮国の新人探索者～.epub",
+            "update_date": 1560268800000,
+            "update_count": 2,
+            "segment_date": 1560330405592,
+            "segment_old": 0,
+            "segment": 2
+          }
+        ],
+        [
+          "syosetu",
+          "世界最高の暗殺者、異世界貴族に転生する",
+          {
+            "segment_date": 1560330414981,
+            "segment_old": 31,
+            "segment": 1,
+            "init_date": 1556380800000,
+            "txt_basename": "世界最高の暗殺者、異世界貴族に転生する.out.txt",
+            "epub_date": 1556497054616,
+            "volume_old": 2,
+            "chapter_old": 32,
+            "volume": 2,
+            "chapter": 32,
+            "epub_basename": "世界最高の暗殺者、異世界貴族に転生する.epub",
+            "novel_status": 768,
+            "update_date": 1560268800000,
+            "update_count": 3
+          }
+        ],
+        [
+          "syosetu",
+          "你們先走我斷後",
+          {
+            "segment_date": 1560330458860,
+            "segment_old": 0,
+            "segment": 20,
+            "init_date": 1560330458860,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "俺だけ入れる隠しダンジョン　〜こっそり鍛えて世界最強〜",
+          {
+            "segment_date": 1560330688471,
+            "segment_old": 0,
+            "segment": 42,
+            "init_date": 1560330688471,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "俺は星間国家の悪徳領主！",
+          {
+            "segment_date": 1560330698781,
+            "segment_old": 6,
+            "segment": 6,
+            "init_date": 1549641600000,
+            "epub_date": 1549669433186,
+            "volume_old": 1,
+            "chapter_old": 6,
+            "volume": 1,
+            "chapter": 6,
+            "epub_basename": "俺は星間国家の悪徳領主！.epub",
+            "update_date": 1560268800000,
+            "update_count": 3,
+            "txt_basename": "俺は星間国家の悪徳領主！.out.txt"
+          }
+        ],
+        [
+          "syosetu",
+          "元・世界１位のサブキャラ育成日記 ～廃プレイヤー、異世界を攻略中！～",
+          {
+            "segment_date": 1560330703851,
+            "segment_old": 7,
+            "segment": 2,
+            "init_date": 1548864000000,
+            "epub_date": 1548977874438,
+            "volume_old": 3,
+            "chapter_old": 11,
+            "volume": 3,
+            "chapter": 11,
+            "epub_basename": "原世界第一玩家的小號練成日記.epub",
+            "update_date": 1560268800000,
+            "update_count": 4,
+            "txt_basename": "原世界第一玩家的小號練成日記.out.txt"
+          }
+        ],
+        [
+          "syosetu",
+          "再召喚された勇者は一般人として生きていく？",
+          {
+            "segment_date": 1560330815129,
+            "segment_old": 0,
+            "segment": 76,
+            "init_date": 1560330815129,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "勇者的活躍從現在才開始！",
+          {
+            "segment_date": 1560330846848,
+            "segment_old": 0,
+            "segment": 11,
+            "init_date": 1560330846848,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。_(n5691dd)",
+          {
+            "init_date": 1545926400000,
+            "segment_date": 1560330853871,
+            "segment_old": 0,
+            "segment": 5,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "吸血姫は薔薇色の夢をみる",
+          {
+            "segment_date": 1560330929515,
+            "segment_old": 0,
+            "segment": 144,
+            "init_date": 1560330929515,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "堕落の王",
+          {
+            "segment_date": 1560330968190,
+            "segment_old": 0,
+            "segment": 52,
+            "init_date": 1560330968190,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "大叔撿到了勇者和魔王",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 2,
+            "chapter": 2,
+            "txt_basename": "大叔撿到了勇者和魔王.out.txt",
+            "volume_old": 1,
+            "volume": 1,
+            "epub_basename": "大叔撿到了勇者和魔王.epub",
+            "update_date": 1560268800000,
+            "update_count": 2,
+            "segment_date": 1560330975454,
+            "segment_old": 0,
+            "segment": 1
+          }
+        ],
+        [
+          "syosetu",
+          "大陸英雄戦記",
+          {
+            "segment_date": 1560331019151,
+            "segment_old": 0,
+            "segment": 28,
+            "init_date": 1560331019151,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～",
+          {
+            "init_date": 1547913600000,
+            "epub_date": 1556584009356,
+            "volume_old": 2,
+            "chapter_old": 32,
+            "volume": 2,
+            "chapter": 32,
+            "epub_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？那好吃嗎？.epub",
+            "novel_status": 769,
+            "update_date": 1560268800000,
+            "update_count": 4,
+            "txt_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？.out.txt",
+            "segment_date": 1560331118494,
+            "segment_old": 0,
+            "segment": 2
           }
         ]
       ],
@@ -2416,10 +2765,12 @@
         "init_date": 1545074299234
       },
       "ロリータ・ガンバレット　～魔弾幼女の異世界戦記～": {
-        "segment_date": 1545434207623,
-        "segment_old": 1,
-        "segment": 76,
-        "init_date": 1545261305497
+        "segment_date": 1560330401675,
+        "segment_old": 76,
+        "segment": 4,
+        "init_date": 1545261305497,
+        "update_date": 1560268800000,
+        "update_count": 1
       },
       "身為暗殺者的我明顯比勇者還強": {
         "epub_date": 1546302201554,
@@ -2496,8 +2847,11 @@
         "volume_old": 1,
         "volume": 1,
         "epub_basename": "世界最強の後衛　～迷宮国の新人探索者～.epub",
-        "update_date": 1552060800000,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2,
+        "segment_date": 1560330405592,
+        "segment_old": 0,
+        "segment": 2
       },
       "婚約者は、私の妹に恋をする": {
         "init_date": 1545494400000,
@@ -2533,8 +2887,11 @@
         "volume_old": 1,
         "volume": 1,
         "epub_basename": "大叔撿到了勇者和魔王.epub",
-        "update_date": 1552060800000,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2,
+        "segment_date": 1560330975454,
+        "segment_old": 0,
+        "segment": 1
       },
       "父は英雄、母は精霊、娘の私は転生者。": {
         "init_date": 1545494400000,
@@ -2583,7 +2940,12 @@
         "update_count": 1
       },
       "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。_(n5691dd)": {
-        "init_date": 1545926400000
+        "init_date": 1545926400000,
+        "segment_date": 1560330853871,
+        "segment_old": 0,
+        "segment": 5,
+        "update_date": 1560268800000,
+        "update_count": 1
       },
       "想自由生活的魔王默示錄": {
         "init_date": 1546272000000,
@@ -2611,12 +2973,12 @@
         "init_date": 1547481600000
       },
       "アラフォー賢者の異世界生活日記": {
-        "segment_date": 1553732097937,
-        "segment_old": 23,
-        "segment": 13,
+        "segment_date": 1560330292194,
+        "segment_old": 13,
+        "segment": 19,
         "init_date": 1547568000000,
-        "update_date": 1553702400000,
-        "update_count": 4,
+        "update_date": 1560268800000,
+        "update_count": 5,
         "txt_basename": "賢者大叔的異世界生活日記.out.txt",
         "epub_date": 1553732118922,
         "volume_old": 1,
@@ -2665,9 +3027,12 @@
         "chapter": 32,
         "epub_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？那好吃嗎？.epub",
         "novel_status": 769,
-        "update_date": 1556553600000,
-        "update_count": 3,
-        "txt_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？.out.txt"
+        "update_date": 1560268800000,
+        "update_count": 4,
+        "txt_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？.out.txt",
+        "segment_date": 1560331118494,
+        "segment_old": 0,
+        "segment": 2
       },
       "帰ってきた元勇者": {
         "init_date": 1548086400000
@@ -2688,9 +3053,9 @@
         "txt_basename": "宇宙軍士官，成為冒險者.out.txt"
       },
       "元・世界１位のサブキャラ育成日記 ～廃プレイヤー、異世界を攻略中！～": {
-        "segment_date": 1548891171896,
-        "segment_old": 0,
-        "segment": 7,
+        "segment_date": 1560330703851,
+        "segment_old": 7,
+        "segment": 2,
         "init_date": 1548864000000,
         "epub_date": 1548977874438,
         "volume_old": 3,
@@ -2698,8 +3063,8 @@
         "volume": 3,
         "chapter": 11,
         "epub_basename": "原世界第一玩家的小號練成日記.epub",
-        "update_date": 1552060800000,
-        "update_count": 3,
+        "update_date": 1560268800000,
+        "update_count": 4,
         "txt_basename": "原世界第一玩家的小號練成日記.out.txt"
       },
       "絕對不想工作的地下城城主想睡懶覺": {
@@ -2718,8 +3083,8 @@
         "txt_basename": "絕對不想工作的地下城城主想睡懶覺.out.txt"
       },
       "俺は星間国家の悪徳領主！": {
-        "segment_date": 1549669117723,
-        "segment_old": 0,
+        "segment_date": 1560330698781,
+        "segment_old": 6,
         "segment": 6,
         "init_date": 1549641600000,
         "epub_date": 1549669433186,
@@ -2728,8 +3093,8 @@
         "volume": 1,
         "chapter": 6,
         "epub_basename": "俺は星間国家の悪徳領主！.epub",
-        "update_date": 1552060800000,
-        "update_count": 2,
+        "update_date": 1560268800000,
+        "update_count": 3,
         "txt_basename": "俺は星間国家の悪徳領主！.out.txt"
       },
       "破滅の魔導王とゴーレムの蛮妃": {
@@ -2861,9 +3226,9 @@
         "update_count": 1
       },
       "世界最高の暗殺者、異世界貴族に転生する": {
-        "segment_date": 1556410658049,
-        "segment_old": 0,
-        "segment": 31,
+        "segment_date": 1560330414981,
+        "segment_old": 31,
+        "segment": 1,
         "init_date": 1556380800000,
         "txt_basename": "世界最高の暗殺者、異世界貴族に転生する.out.txt",
         "epub_date": 1556497054616,
@@ -2873,8 +3238,8 @@
         "chapter": 32,
         "epub_basename": "世界最高の暗殺者、異世界貴族に転生する.epub",
         "novel_status": 768,
-        "update_date": 1556467200000,
-        "update_count": 2
+        "update_date": 1560268800000,
+        "update_count": 3
       },
       "Ｌｖ２からチートだった元勇者候補のまったり異世界ライフ": {
         "segment_date": 1556410672038,
@@ -2893,9 +3258,9 @@
         "update_count": 1
       },
       "ガチャを回して仲間を増やす　最強の美少女軍団を作り上げろ": {
-        "segment_date": 1556756344667,
-        "segment_old": 0,
-        "segment": 24,
+        "segment_date": 1560330347762,
+        "segment_old": 24,
+        "segment": 9,
         "init_date": 1556726400000,
         "txt_basename": "通過扭蛋增加同伴　建立最強美少女軍團.out.txt",
         "epub_date": 1556756369746,
@@ -2905,8 +3270,8 @@
         "chapter": 194,
         "epub_basename": "通過扭蛋增加同伴　建立最強美少女軍團.epub",
         "novel_status": 768,
-        "update_date": 1556726400000,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2
       },
       "リアリスト魔王による聖域なき異世界改革": {
         "init_date": 1556812800000,
@@ -2959,7 +3324,12 @@
         "volume": 1,
         "chapter": 9,
         "epub_basename": "以複製貼上在這個世界生活.epub",
-        "init_date": 1560268800000
+        "init_date": 1560268800000,
+        "segment_date": 1560330298736,
+        "segment_old": 0,
+        "segment": 5,
+        "update_date": 1560268800000,
+        "update_count": 1
       },
       "チートで賢者な俺は異世界に革命を起こす": {
         "txt_basename": "開掛賢者的我在異世界發起改革.out.txt",
@@ -2968,7 +3338,76 @@
         "volume": 1,
         "chapter": 6,
         "epub_basename": "開掛賢者的我在異世界發起改革.epub",
-        "init_date": 1560268800000
+        "init_date": 1560268800000,
+        "segment_date": 1560330352282,
+        "segment_old": 0,
+        "segment": 6,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "World's End Online": {
+        "segment_date": 1560330239184,
+        "segment_old": 0,
+        "segment": 30,
+        "init_date": 1560330239184,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "你們先走我斷後": {
+        "segment_date": 1560330458860,
+        "segment_old": 0,
+        "segment": 20,
+        "init_date": 1560330458860,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "俺だけ入れる隠しダンジョン　〜こっそり鍛えて世界最強〜": {
+        "segment_date": 1560330688471,
+        "segment_old": 0,
+        "segment": 42,
+        "init_date": 1560330688471,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "再召喚された勇者は一般人として生きていく？": {
+        "segment_date": 1560330815129,
+        "segment_old": 0,
+        "segment": 76,
+        "init_date": 1560330815129,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "勇者的活躍從現在才開始！": {
+        "segment_date": 1560330846848,
+        "segment_old": 0,
+        "segment": 11,
+        "init_date": 1560330846848,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "吸血姫は薔薇色の夢をみる": {
+        "segment_date": 1560330929515,
+        "segment_old": 0,
+        "segment": 144,
+        "init_date": 1560330929515,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "堕落の王": {
+        "segment_date": 1560330968190,
+        "segment_old": 0,
+        "segment": 52,
+        "init_date": 1560330968190,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "大陸英雄戦記": {
+        "segment_date": 1560331019151,
+        "segment_old": 0,
+        "segment": 28,
+        "init_date": 1560331019151,
+        "update_date": 1560268800000,
+        "update_count": 1
       }
     },
     "user": {
@@ -4999,9 +5438,12 @@
         "volume_old": 1,
         "volume": 1,
         "epub_basename": "勇者「都打倒魔王了來回家吧」.epub",
-        "update_date": 1552060800000,
-        "update_count": 2,
-        "txt_basename": "勇者「都打倒魔王了來回家吧」.out.txt"
+        "update_date": 1560268800000,
+        "update_count": 3,
+        "txt_basename": "勇者「都打倒魔王了來回家吧」.out.txt",
+        "segment_date": 1560330149556,
+        "segment_old": 0,
+        "segment": 1
       },
       "絕對想被打倒的魔王＆絕對不想戰鬥的勇者": {
         "segment_date": 1548199819662,
@@ -5261,7 +5703,7 @@
         "segment_date": 1560327784396,
         "segment_old": 0,
         "segment": 10,
-        "init_date": 1560327784396,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -5269,7 +5711,7 @@
         "segment_date": 1560327801558,
         "segment_old": 0,
         "segment": 20,
-        "init_date": 1560327801558,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -5277,7 +5719,7 @@
         "segment_date": 1560327809005,
         "segment_old": 0,
         "segment": 20,
-        "init_date": 1560327809005,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       }
@@ -5919,11 +6361,11 @@
         "chapter": 11,
         "epub_basename": "転生王子と憂いの大国.epub",
         "novel_status": 769,
-        "update_date": 1555516800000,
-        "update_count": 2,
-        "segment_date": 1555546310596,
-        "segment_old": 0,
-        "segment": 1
+        "update_date": 1560268800000,
+        "update_count": 3,
+        "segment_date": 1560330160531,
+        "segment_old": 1,
+        "segment": 2
       }
     },
     "lost": {
@@ -5931,7 +6373,7 @@
         "segment_date": 1560327957871,
         "segment_old": 0,
         "segment": 120,
-        "init_date": 1560327957871,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       }
