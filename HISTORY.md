@@ -197,6 +197,8 @@
   <br/>( s: 1 )
 - [転生王子と憂いの大国](otome/%E8%BB%A2%E7%94%9F%E7%8E%8B%E5%AD%90%E3%81%A8%E6%86%82%E3%81%84%E3%81%AE%E5%A4%A7%E5%9B%BD) - otome
   <br/>( s: 2 )
+- [Ｌｖ２からチートだった元勇者候補のまったり異世界ライフ](syosetu/%EF%BC%AC%EF%BD%96%EF%BC%92%E3%81%8B%E3%82%89%E3%83%81%E3%83%BC%E3%83%88%E3%81%A0%E3%81%A3%E3%81%9F%E5%85%83%E5%8B%87%E8%80%85%E5%80%99%E8%A3%9C%E3%81%AE%E3%81%BE%E3%81%A3%E3%81%9F%E3%82%8A%E7%95%B0%E4%B8%96%E7%95%8C%E3%83%A9%E3%82%A4%E3%83%95) - syosetu
+  <br/>( s: 3 )
 - [World's End Online](syosetu/World's%20End%20Online) - syosetu
   <br/>( s: 30 )
 - [アラフォー賢者の異世界生活日記](syosetu/%E3%82%A2%E3%83%A9%E3%83%95%E3%82%A9%E3%83%BC%E8%B3%A2%E8%80%85%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB%E6%97%A5%E8%A8%98) - syosetu
@@ -291,6 +293,58 @@
   <br/>( s: 8 )
 - [稍微去毀滅世界](syosetu/%E7%A8%8D%E5%BE%AE%E5%8E%BB%E6%AF%80%E6%BB%85%E4%B8%96%E7%95%8C) - syosetu
   <br/>( s: 39 )
+- [紅き血に口づけを　～外れスキルからの逆転人生～](syosetu/%E7%B4%85%E3%81%8D%E8%A1%80%E3%81%AB%E5%8F%A3%E3%81%A5%E3%81%91%E3%82%92%E3%80%80%EF%BD%9E%E5%A4%96%E3%82%8C%E3%82%B9%E3%82%AD%E3%83%AB%E3%81%8B%E3%82%89%E3%81%AE%E9%80%86%E8%BB%A2%E4%BA%BA%E7%94%9F%EF%BD%9E) - syosetu
+  <br/>( s: 7 )
+- [絕對不想工作的地下城城主想睡懶覺](syosetu/%E7%B5%95%E5%B0%8D%E4%B8%8D%E6%83%B3%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%9C%B0%E4%B8%8B%E5%9F%8E%E5%9F%8E%E4%B8%BB%E6%83%B3%E7%9D%A1%E6%87%B6%E8%A6%BA) - syosetu
+  <br/>( s: 34 )
+- [継続は魔力なり《無能魔法が便利魔法に》](syosetu/%E7%B6%99%E7%B6%9A%E3%81%AF%E9%AD%94%E5%8A%9B%E3%81%AA%E3%82%8A%E3%80%8A%E7%84%A1%E8%83%BD%E9%AD%94%E6%B3%95%E3%81%8C%E4%BE%BF%E5%88%A9%E9%AD%94%E6%B3%95%E3%81%AB%E3%80%8B) - syosetu
+  <br/>( s: 1 )
+- [美女と賢者と魔人の剣](syosetu/%E7%BE%8E%E5%A5%B3%E3%81%A8%E8%B3%A2%E8%80%85%E3%81%A8%E9%AD%94%E4%BA%BA%E3%81%AE%E5%89%A3) - syosetu
+  <br/>( s: 2 )
+- [自称！平凡魔族の英雄ライフ](syosetu/%E8%87%AA%E7%A7%B0%EF%BC%81%E5%B9%B3%E5%87%A1%E9%AD%94%E6%97%8F%E3%81%AE%E8%8B%B1%E9%9B%84%E3%83%A9%E3%82%A4%E3%83%95) - syosetu
+  <br/>( s: 1 )
+- [航宙軍士官、冒険者になる](syosetu/%E8%88%AA%E5%AE%99%E8%BB%8D%E5%A3%AB%E5%AE%98%E3%80%81%E5%86%92%E9%99%BA%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8B) - syosetu
+  <br/>( s: 13 )
+- [英雄の中の英雄の物語　〜アレスティア建国記〜](syosetu/%E8%8B%B1%E9%9B%84%E3%81%AE%E4%B8%AD%E3%81%AE%E8%8B%B1%E9%9B%84%E3%81%AE%E7%89%A9%E8%AA%9E%E3%80%80%E3%80%9C%E3%82%A2%E3%83%AC%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%E5%BB%BA%E5%9B%BD%E8%A8%98%E3%80%9C) - syosetu
+  <br/>( s: 4 )
+- [英雄の隠し子の英雄譚](syosetu/%E8%8B%B1%E9%9B%84%E3%81%AE%E9%9A%A0%E3%81%97%E5%AD%90%E3%81%AE%E8%8B%B1%E9%9B%84%E8%AD%9A) - syosetu
+  <br/>( s: 23 )
+- [被捨棄的勇者的英雄譚_(n0878cb)](syosetu/%E8%A2%AB%E6%8D%A8%E6%A3%84%E7%9A%84%E5%8B%87%E8%80%85%E7%9A%84%E8%8B%B1%E9%9B%84%E8%AD%9A_(n0878cb)) - syosetu
+  <br/>( s: 36 )
+- [討伐魔王後當了公會會長](syosetu/%E8%A8%8E%E4%BC%90%E9%AD%94%E7%8E%8B%E5%BE%8C%E7%95%B6%E4%BA%86%E5%85%AC%E6%9C%83%E6%9C%83%E9%95%B7) - syosetu
+  <br/>( s: 2 )
+- [賢者の剣](syosetu/%E8%B3%A2%E8%80%85%E3%81%AE%E5%89%A3) - syosetu
+  <br/>( s: 13 )
+- [身為暗殺者的我明顯比勇者還強](syosetu/%E8%BA%AB%E7%82%BA%E6%9A%97%E6%AE%BA%E8%80%85%E7%9A%84%E6%88%91%E6%98%8E%E9%A1%AF%E6%AF%94%E5%8B%87%E8%80%85%E9%82%84%E5%BC%B7) - syosetu
+  <br/>( s: 4 )
+- [転生！異世界より愛をこめて](syosetu/%E8%BB%A2%E7%94%9F%EF%BC%81%E7%95%B0%E4%B8%96%E7%95%8C%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E3%81%93%E3%82%81%E3%81%A6) - syosetu
+  <br/>( s: 15 )
+- [転生少女の履歴書](syosetu/%E8%BB%A2%E7%94%9F%E5%B0%91%E5%A5%B3%E3%81%AE%E5%B1%A5%E6%AD%B4%E6%9B%B8) - syosetu
+  <br/>( s: 21 )
+- [邪神無双　(n2123do)](syosetu/%E9%82%AA%E7%A5%9E%E7%84%A1%E5%8F%8C%E3%80%80(n2123do)) - syosetu
+  <br/>( s: 41 )
+- [重生的貓騎士與精靈娘的日常](syosetu/%E9%87%8D%E7%94%9F%E7%9A%84%E8%B2%93%E9%A8%8E%E5%A3%AB%E8%88%87%E7%B2%BE%E9%9D%88%E5%A8%98%E7%9A%84%E6%97%A5%E5%B8%B8) - syosetu
+  <br/>( s: 21 )
+- [陰の実力者になりたくて！_(n0611em)](syosetu/%E9%99%B0%E3%81%AE%E5%AE%9F%E5%8A%9B%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%8F%E3%81%A6%EF%BC%81_(n0611em)) - syosetu
+  <br/>( s: 7 )
+- [隻腕の鉄姫兵団](syosetu/%E9%9A%BB%E8%85%95%E3%81%AE%E9%89%84%E5%A7%AB%E5%85%B5%E5%9B%A3) - syosetu
+  <br/>( s: 26 )
+- [魔人勇者（自称）サトゥン](syosetu/%E9%AD%94%E4%BA%BA%E5%8B%87%E8%80%85%EF%BC%88%E8%87%AA%E7%A7%B0%EF%BC%89%E3%82%B5%E3%83%88%E3%82%A5%E3%83%B3) - syosetu
+  <br/>( s: 31 )
+- [魔王学院の不適合者](syosetu/%E9%AD%94%E7%8E%8B%E5%AD%A6%E9%99%A2%E3%81%AE%E4%B8%8D%E9%81%A9%E5%90%88%E8%80%85) - syosetu
+  <br/>( s: 15 )
+- [魔王軍最強の魔術師は人間だった](syosetu/%E9%AD%94%E7%8E%8B%E8%BB%8D%E6%9C%80%E5%BC%B7%E3%81%AE%E9%AD%94%E8%A1%93%E5%B8%AB%E3%81%AF%E4%BA%BA%E9%96%93%E3%81%A0%E3%81%A3%E3%81%9F) - syosetu
+  <br/>( s: 26 )
+- [人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～](ts/%E4%BA%BA%E5%96%B0%E3%81%84%E8%BB%A2%E7%A7%BB%E8%80%85%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E5%BE%A9%E8%AE%90%E8%AD%9A%E3%80%80%EF%BD%9E%E7%84%A1%E8%83%BD%E3%81%AF%E3%82%B9%E3%82%AD%E3%83%AB%E3%80%8E%E6%8D%95%E9%A3%9F%E3%80%8F%E3%81%A7%E6%88%90%E3%82%8A%E4%B8%8A%E3%81%8C%E3%82%8B%EF%BD%9E) - ts
+  <br/>( s: 5 )
+- [双剣のエレナ](ts/%E5%8F%8C%E5%89%A3%E3%81%AE%E3%82%A8%E3%83%AC%E3%83%8A) - ts
+  <br/>( s: 2 )
+- [吸血少女は男に戻りたい！](ts/%E5%90%B8%E8%A1%80%E5%B0%91%E5%A5%B3%E3%81%AF%E7%94%B7%E3%81%AB%E6%88%BB%E3%82%8A%E3%81%9F%E3%81%84%EF%BC%81) - ts
+  <br/>( s: 14 )
+- [幼女転生](ts/%E5%B9%BC%E5%A5%B3%E8%BB%A2%E7%94%9F) - ts
+  <br/>( s: 2 )
+- [自称贤者弟子的贤者](ts/%E8%87%AA%E7%A7%B0%E8%B4%A4%E8%80%85%E5%BC%9F%E5%AD%90%E7%9A%84%E8%B4%A4%E8%80%85) - ts
+  <br/>( s: 2 )
 
 ## 2019-06-08
 
