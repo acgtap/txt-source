@@ -336,4 +336,3 @@ LV4
 技能：＜棒術LV4 new＞＜火魔法LV1 new＞＜水魔法LV1 new＞＜風魔法LV1 new＞＜土魔法LV1 new＞＜雷魔法LV1 new＞＜冰魔法LV1 new＞＜闇魔法LV1 new＞＜回復魔法LV1 new＞＜身體強化LV5 up＞
 異能：＜？？？＞
 裝備：哥布林魔法師之杖
-
