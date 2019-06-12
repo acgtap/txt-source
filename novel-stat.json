@@ -1,7 +1,7 @@
 {
   "meta": {
     "todayTimestamp": 1560268800000,
-    "timestamp": 1560332937711,
+    "timestamp": 1560337789544,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -767,7 +767,7 @@
       ]
     },
     "1560268800000": {
-      "segment_count": 89,
+      "segment_count": 116,
       "segment": [
         [
           "cm",
@@ -1475,6 +1475,26 @@
         ],
         [
           "syosetu",
+          "Ｌｖ２からチートだった元勇者候補のまったり異世界ライフ",
+          {
+            "segment_date": 1560337203942,
+            "segment_old": 3,
+            "segment": 3,
+            "init_date": 1556380800000,
+            "txt_basename": "從Lv2開始開掛的原勇者候補悠閑的異世界.out.txt",
+            "epub_date": 1556410696792,
+            "volume_old": 17,
+            "chapter_old": 81,
+            "volume": 17,
+            "chapter": 81,
+            "epub_basename": "從Lv2開始開掛的原勇者候補悠閑的異世界生活.epub",
+            "novel_status": 768,
+            "update_date": 1560268800000,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu",
           "World's End Online",
           {
             "segment_date": 1560330239184,
@@ -1820,7 +1840,7 @@
             "segment_date": 1560332058736,
             "segment_old": 0,
             "segment": 38,
-            "init_date": 1560332058736,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2012,7 +2032,7 @@
             "segment_date": 1560332334959,
             "segment_old": 0,
             "segment": 37,
-            "init_date": 1560332334959,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2024,7 +2044,7 @@
             "segment_date": 1560332352172,
             "segment_old": 0,
             "segment": 68,
-            "init_date": 1560332352172,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2054,7 +2074,7 @@
             "segment_date": 1560332370376,
             "segment_old": 0,
             "segment": 12,
-            "init_date": 1560332370376,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2078,7 +2098,7 @@
             "segment_date": 1560332405718,
             "segment_old": 0,
             "segment": 27,
-            "init_date": 1560332405718,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2102,7 +2122,7 @@
             "segment_date": 1560332618365,
             "segment_old": 0,
             "segment": 66,
-            "init_date": 1560332618365,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2114,7 +2134,7 @@
             "segment_date": 1560332655421,
             "segment_old": 0,
             "segment": 14,
-            "init_date": 1560332655421,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2146,7 +2166,7 @@
             "segment_date": 1560332665591,
             "segment_old": 0,
             "segment": 8,
-            "init_date": 1560332665591,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2158,9 +2178,386 @@
             "segment_date": 1560332917222,
             "segment_old": 0,
             "segment": 39,
-            "init_date": 1560332917222,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "紅き血に口づけを　～外れスキルからの逆転人生～",
+          {
+            "segment_date": 1560336822357,
+            "segment_old": 16,
+            "segment": 7,
+            "init_date": 1545607143322,
+            "update_date": 1560268800000,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu",
+          "絕對不想工作的地下城城主想睡懶覺",
+          {
+            "segment_date": 1560336867222,
+            "segment_old": 117,
+            "segment": 34,
+            "init_date": 1548950400000,
+            "epub_date": 1548977883964,
+            "volume_old": 23,
+            "chapter_old": 169,
+            "volume": 23,
+            "chapter": 169,
+            "epub_basename": "絕對不想工作的地下城城主想睡懶覺.epub",
+            "update_date": 1560268800000,
+            "update_count": 3,
+            "txt_basename": "絕對不想工作的地下城城主想睡懶覺.out.txt"
+          }
+        ],
+        [
+          "syosetu",
+          "継続は魔力なり《無能魔法が便利魔法に》",
+          {
+            "init_date": 1552579200000,
+            "txt_basename": "継続は魔力なり《無能魔法が便利魔法に》.out.txt",
+            "epub_date": 1552607690877,
+            "volume_old": 2,
+            "chapter_old": 14,
+            "volume": 2,
+            "chapter": 14,
+            "epub_basename": "継続は魔力なり《無能魔法が便利魔法に》.epub",
+            "novel_status": 768,
+            "update_date": 1560268800000,
+            "update_count": 2,
+            "segment_date": 1560336877923,
+            "segment_old": 0,
+            "segment": 1
+          }
+        ],
+        [
+          "syosetu",
+          "美女と賢者と魔人の剣",
+          {
+            "init_date": 1552752000000,
+            "txt_basename": "美女と賢者と魔人の剣.out.txt",
+            "epub_date": 1555028525065,
+            "volume_old": 2,
+            "chapter_old": 4,
+            "volume": 2,
+            "chapter": 4,
+            "epub_basename": "美女と賢者と魔人の剣.epub",
+            "novel_status": 769,
+            "update_date": 1560268800000,
+            "update_count": 3,
+            "segment_date": 1560336883050,
+            "segment_old": 0,
+            "segment": 2
+          }
+        ],
+        [
+          "syosetu",
+          "自称！平凡魔族の英雄ライフ",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 10,
+            "chapter": 10,
+            "txt_basename": "自称！平凡魔族の英雄ライフ.out.txt",
+            "volume_old": 0,
+            "volume": 1,
+            "epub_basename": "自称！平凡魔族の英雄ライフ.epub",
+            "update_date": 1560268800000,
+            "update_count": 2,
+            "segment_date": 1560336888477,
+            "segment_old": 0,
+            "segment": 1
+          }
+        ],
+        [
+          "syosetu",
+          "航宙軍士官、冒険者になる",
+          {
+            "segment_date": 1560336902733,
+            "segment_old": 10,
+            "segment": 13,
+            "init_date": 1548259200000,
+            "epub_date": 1549669434339,
+            "volume_old": 1,
+            "chapter_old": 19,
+            "volume": 1,
+            "chapter": 19,
+            "epub_basename": "宇宙軍士官，成為冒險者.epub",
+            "update_date": 1560268800000,
+            "update_count": 6,
+            "txt_basename": "宇宙軍士官，成為冒險者.out.txt"
+          }
+        ],
+        [
+          "syosetu",
+          "英雄の中の英雄の物語　〜アレスティア建国記〜",
+          {
+            "segment_date": 1560336907307,
+            "segment_old": 0,
+            "segment": 4,
+            "init_date": 1560336907307,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "英雄の隠し子の英雄譚",
+          {
+            "segment_date": 1560336914082,
+            "segment_old": 0,
+            "segment": 23,
+            "init_date": 1560336914082,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "被捨棄的勇者的英雄譚_(n0878cb)",
+          {
+            "segment_date": 1560336935667,
+            "segment_old": 0,
+            "segment": 36,
+            "init_date": 1560336935667,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "討伐魔王後當了公會會長",
+          {
+            "segment_date": 1560336943773,
+            "segment_old": 0,
+            "segment": 2,
+            "init_date": 1560336943773,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "賢者の剣",
+          {
+            "segment_date": 1560336978857,
+            "segment_old": 0,
+            "segment": 13,
+            "init_date": 1560336978857,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "身為暗殺者的我明顯比勇者還強",
+          {
+            "epub_date": 1546302201554,
+            "volume_old": 1,
+            "chapter_old": 20,
+            "volume": 1,
+            "chapter": 20,
+            "init_date": 1545347808133,
+            "segment_date": 1560336989507,
+            "segment_old": 3,
+            "segment": 4,
+            "epub_basename": "身為暗殺者的我明顯比勇者還強.epub",
+            "update_date": 1560268800000,
+            "update_count": 6,
+            "txt_basename": "身為暗殺者的我明顯比勇者還強.out.txt"
+          }
+        ],
+        [
+          "syosetu",
+          "転生！異世界より愛をこめて",
+          {
+            "init_date": 1553356800000,
+            "txt_basename": "転生！異世界より愛をこめて.out.txt",
+            "epub_date": 1553385524539,
+            "volume_old": 5,
+            "chapter_old": 43,
+            "volume": 5,
+            "chapter": 43,
+            "epub_basename": "転生！異世界より愛をこめて.epub",
+            "novel_status": 257,
+            "update_date": 1560268800000,
+            "update_count": 2,
+            "segment_date": 1560337042167,
+            "segment_old": 0,
+            "segment": 15
+          }
+        ],
+        [
+          "syosetu",
+          "転生少女の履歴書",
+          {
+            "segment_date": 1560337026010,
+            "segment_old": 5,
+            "segment": 21,
+            "init_date": 1552492800000,
+            "update_date": 1560268800000,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu",
+          "邪神無双　(n2123do)",
+          {
+            "segment_date": 1560337056612,
+            "segment_old": 0,
+            "segment": 41,
+            "init_date": 1560337056612,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "重生的貓騎士與精靈娘的日常",
+          {
+            "segment_date": 1560337074659,
+            "segment_old": 25,
+            "segment": 21,
+            "init_date": 1545521307326,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "陰の実力者になりたくて！_(n0611em)",
+          {
+            "segment_date": 1560337102425,
+            "segment_old": 14,
+            "segment": 7,
+            "init_date": 1545521322627,
+            "update_date": 1560268800000,
+            "update_count": 7
+          }
+        ],
+        [
+          "syosetu",
+          "隻腕の鉄姫兵団",
+          {
+            "segment_date": 1560337124861,
+            "segment_old": 0,
+            "segment": 26,
+            "init_date": 1560337124861,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "魔人勇者（自称）サトゥン",
+          {
+            "segment_date": 1560337160319,
+            "segment_old": 0,
+            "segment": 31,
+            "init_date": 1560337160319,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "魔王学院の不適合者",
+          {
+            "segment_date": 1560337178975,
+            "init_date": 1545074299234,
+            "segment_old": 0,
+            "segment": 15,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "魔王軍最強の魔術師は人間だった",
+          {
+            "segment_date": 1560337186387,
+            "segment_old": 0,
+            "segment": 26,
+            "init_date": 1560337186387,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "ts",
+          "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～",
+          {
+            "init_date": 1555689600000,
+            "segment_date": 1560337228498,
+            "segment_old": 0,
+            "segment": 5,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "ts",
+          "双剣のエレナ",
+          {
+            "segment_date": 1560337422498,
+            "segment_old": 1,
+            "segment": 2,
+            "init_date": 1555344000000,
+            "txt_basename": "双剣のエレナ.out.txt",
+            "epub_date": 1555373611255,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 6,
+            "chapter": 137,
+            "epub_basename": "双剣のエレナ.epub",
+            "update_date": 1560268800000,
+            "update_count": 4
+          }
+        ],
+        [
+          "ts",
+          "吸血少女は男に戻りたい！",
+          {
+            "init_date": 1555344000000,
+            "txt_basename": "吸血少女想變回男人！.out.txt",
+            "epub_date": 1555632991522,
+            "volume_old": 5,
+            "chapter_old": 297,
+            "volume": 5,
+            "chapter": 297,
+            "epub_basename": "吸血少女想變回男人！.epub",
+            "update_date": 1560268800000,
+            "update_count": 4,
+            "segment_date": 1560337467499,
+            "segment_old": 16,
+            "segment": 14
+          }
+        ],
+        [
+          "ts",
+          "幼女転生",
+          {
+            "init_date": 1550851200000,
+            "segment_date": 1560337503977,
+            "segment_old": 0,
+            "segment": 2,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "ts",
+          "自称贤者弟子的贤者",
+          {
+            "segment_date": 1560337771472,
+            "segment_old": 4,
+            "segment": 2,
+            "init_date": 1556812800000,
+            "update_date": 1560268800000,
+            "update_count": 4
           }
         ]
       ],
@@ -3141,8 +3538,12 @@
   "novels": {
     "syosetu": {
       "魔王学院の不適合者": {
-        "segment_date": 1545074299234,
-        "init_date": 1545074299234
+        "segment_date": 1560337178975,
+        "init_date": 1545074299234,
+        "segment_old": 0,
+        "segment": 15,
+        "update_date": 1560268800000,
+        "update_count": 1
       },
       "ロリータ・ガンバレット　～魔弾幼女の異世界戦記～": {
         "segment_date": 1560330401675,
@@ -3159,12 +3560,12 @@
         "volume": 1,
         "chapter": 20,
         "init_date": 1545347808133,
-        "segment_date": 1545780109238,
-        "segment_old": 0,
-        "segment": 3,
+        "segment_date": 1560336989507,
+        "segment_old": 3,
+        "segment": 4,
         "epub_basename": "身為暗殺者的我明顯比勇者還強.epub",
-        "update_date": 1552060800000,
-        "update_count": 5,
+        "update_date": 1560268800000,
+        "update_count": 6,
         "txt_basename": "身為暗殺者的我明顯比勇者還強.out.txt"
       },
       "俺　VS　人類　～アンデッドを使役して王国を襲う俺～": {
@@ -3184,18 +3585,20 @@
         "update_count": 2
       },
       "重生的貓騎士與精靈娘的日常": {
-        "segment_date": 1545548673452,
+        "segment_date": 1560337074659,
         "segment_old": 25,
-        "segment": 25,
-        "init_date": 1545521307326
+        "segment": 21,
+        "init_date": 1545521307326,
+        "update_date": 1560268800000,
+        "update_count": 1
       },
       "陰の実力者になりたくて！_(n0611em)": {
-        "segment_date": 1556064913835,
-        "segment_old": 3,
-        "segment": 14,
+        "segment_date": 1560337102425,
+        "segment_old": 14,
+        "segment": 7,
         "init_date": 1545521322627,
-        "update_date": 1556035200000,
-        "update_count": 6
+        "update_date": 1560268800000,
+        "update_count": 7
       },
       "最強職《竜騎士》から初級職《運び屋》": {
         "init_date": 1545494400000,
@@ -3219,8 +3622,11 @@
         "volume_old": 0,
         "volume": 1,
         "epub_basename": "自称！平凡魔族の英雄ライフ.epub",
-        "update_date": 1552060800000,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2,
+        "segment_date": 1560336888477,
+        "segment_old": 0,
+        "segment": 1
       },
       "世界最強の後衛　～迷宮国の新人探索者～": {
         "init_date": 1545494400000,
@@ -3321,12 +3727,12 @@
         "update_count": 5
       },
       "紅き血に口づけを　～外れスキルからの逆転人生～": {
-        "segment_date": 1545607143322,
-        "segment_old": 0,
-        "segment": 16,
+        "segment_date": 1560336822357,
+        "segment_old": 16,
+        "segment": 7,
         "init_date": 1545607143322,
-        "update_date": 1545607143322,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2
       },
       "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。_(n5691dd)": {
         "init_date": 1545926400000,
@@ -3447,9 +3853,9 @@
         "update_count": 1
       },
       "航宙軍士官、冒険者になる": {
-        "segment_date": 1549669132702,
-        "segment_old": 2,
-        "segment": 10,
+        "segment_date": 1560336902733,
+        "segment_old": 10,
+        "segment": 13,
         "init_date": 1548259200000,
         "epub_date": 1549669434339,
         "volume_old": 1,
@@ -3457,8 +3863,8 @@
         "volume": 1,
         "chapter": 19,
         "epub_basename": "宇宙軍士官，成為冒險者.epub",
-        "update_date": 1552060800000,
-        "update_count": 5,
+        "update_date": 1560268800000,
+        "update_count": 6,
         "txt_basename": "宇宙軍士官，成為冒險者.out.txt"
       },
       "元・世界１位のサブキャラ育成日記 ～廃プレイヤー、異世界を攻略中！～": {
@@ -3477,9 +3883,9 @@
         "txt_basename": "原世界第一玩家的小號練成日記.out.txt"
       },
       "絕對不想工作的地下城城主想睡懶覺": {
-        "segment_date": 1548977705773,
-        "segment_old": 0,
-        "segment": 117,
+        "segment_date": 1560336867222,
+        "segment_old": 117,
+        "segment": 34,
         "init_date": 1548950400000,
         "epub_date": 1548977883964,
         "volume_old": 23,
@@ -3487,8 +3893,8 @@
         "volume": 23,
         "chapter": 169,
         "epub_basename": "絕對不想工作的地下城城主想睡懶覺.epub",
-        "update_date": 1552060800000,
-        "update_count": 2,
+        "update_date": 1560268800000,
+        "update_count": 3,
         "txt_basename": "絕對不想工作的地下城城主想睡懶覺.out.txt"
       },
       "俺は星間国家の悪徳領主！": {
@@ -3539,12 +3945,12 @@
         "segment": 3
       },
       "転生少女の履歴書": {
-        "segment_date": 1552521246585,
-        "segment_old": 0,
-        "segment": 5,
+        "segment_date": 1560337026010,
+        "segment_old": 5,
+        "segment": 21,
         "init_date": 1552492800000,
-        "update_date": 1552492800000,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2
       },
       "継続は魔力なり《無能魔法が便利魔法に》": {
         "init_date": 1552579200000,
@@ -3556,8 +3962,11 @@
         "chapter": 14,
         "epub_basename": "継続は魔力なり《無能魔法が便利魔法に》.epub",
         "novel_status": 768,
-        "update_date": 1552579200000,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2,
+        "segment_date": 1560336877923,
+        "segment_old": 0,
+        "segment": 1
       },
       "極星から零れた少女": {
         "segment_date": 1560332297530,
@@ -3593,8 +4002,11 @@
         "chapter": 4,
         "epub_basename": "美女と賢者と魔人の剣.epub",
         "novel_status": 769,
-        "update_date": 1554998400000,
-        "update_count": 2
+        "update_date": 1560268800000,
+        "update_count": 3,
+        "segment_date": 1560336883050,
+        "segment_old": 0,
+        "segment": 2
       },
       "レベル１の最強賢者": {
         "init_date": 1553270400000,
@@ -3621,8 +4033,11 @@
         "chapter": 43,
         "epub_basename": "転生！異世界より愛をこめて.epub",
         "novel_status": 257,
-        "update_date": 1553356800000,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2,
+        "segment_date": 1560337042167,
+        "segment_old": 0,
+        "segment": 15
       },
       "宵の国戦記": {
         "init_date": 1556294400000,
@@ -3654,8 +4069,8 @@
         "update_count": 3
       },
       "Ｌｖ２からチートだった元勇者候補のまったり異世界ライフ": {
-        "segment_date": 1556410672038,
-        "segment_old": 0,
+        "segment_date": 1560337203942,
+        "segment_old": 3,
         "segment": 3,
         "init_date": 1556380800000,
         "txt_basename": "從Lv2開始開掛的原勇者候補悠閑的異世界.out.txt",
@@ -3666,8 +4081,8 @@
         "chapter": 81,
         "epub_basename": "從Lv2開始開掛的原勇者候補悠閑的異世界生活.epub",
         "novel_status": 768,
-        "update_date": 1556380800000,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2
       },
       "ガチャを回して仲間を増やす　最強の美少女軍団を作り上げろ": {
         "segment_date": 1560330347762,
@@ -3825,7 +4240,7 @@
         "segment_date": 1560332058736,
         "segment_old": 0,
         "segment": 38,
-        "init_date": 1560332058736,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -3833,7 +4248,7 @@
         "segment_date": 1560332334959,
         "segment_old": 0,
         "segment": 37,
-        "init_date": 1560332334959,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -3841,7 +4256,7 @@
         "segment_date": 1560332352172,
         "segment_old": 0,
         "segment": 68,
-        "init_date": 1560332352172,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -3849,7 +4264,7 @@
         "segment_date": 1560332370376,
         "segment_old": 0,
         "segment": 12,
-        "init_date": 1560332370376,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -3857,7 +4272,7 @@
         "segment_date": 1560332405718,
         "segment_old": 0,
         "segment": 27,
-        "init_date": 1560332405718,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -3865,7 +4280,7 @@
         "segment_date": 1560332618365,
         "segment_old": 0,
         "segment": 66,
-        "init_date": 1560332618365,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -3873,7 +4288,7 @@
         "segment_date": 1560332655421,
         "segment_old": 0,
         "segment": 14,
-        "init_date": 1560332655421,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -3881,7 +4296,7 @@
         "segment_date": 1560332665591,
         "segment_old": 0,
         "segment": 8,
-        "init_date": 1560332665591,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -3889,7 +4304,79 @@
         "segment_date": 1560332917222,
         "segment_old": 0,
         "segment": 39,
-        "init_date": 1560332917222,
+        "init_date": 1560268800000,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "英雄の中の英雄の物語　〜アレスティア建国記〜": {
+        "segment_date": 1560336907307,
+        "segment_old": 0,
+        "segment": 4,
+        "init_date": 1560336907307,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "英雄の隠し子の英雄譚": {
+        "segment_date": 1560336914082,
+        "segment_old": 0,
+        "segment": 23,
+        "init_date": 1560336914082,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "被捨棄的勇者的英雄譚_(n0878cb)": {
+        "segment_date": 1560336935667,
+        "segment_old": 0,
+        "segment": 36,
+        "init_date": 1560336935667,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "討伐魔王後當了公會會長": {
+        "segment_date": 1560336943773,
+        "segment_old": 0,
+        "segment": 2,
+        "init_date": 1560336943773,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "賢者の剣": {
+        "segment_date": 1560336978857,
+        "segment_old": 0,
+        "segment": 13,
+        "init_date": 1560336978857,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "邪神無双　(n2123do)": {
+        "segment_date": 1560337056612,
+        "segment_old": 0,
+        "segment": 41,
+        "init_date": 1560337056612,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "隻腕の鉄姫兵団": {
+        "segment_date": 1560337124861,
+        "segment_old": 0,
+        "segment": 26,
+        "init_date": 1560337124861,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "魔人勇者（自称）サトゥン": {
+        "segment_date": 1560337160319,
+        "segment_old": 0,
+        "segment": 31,
+        "init_date": 1560337160319,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "魔王軍最強の魔術師は人間だった": {
+        "segment_date": 1560337186387,
+        "segment_old": 0,
+        "segment": 26,
+        "init_date": 1560337186387,
         "update_date": 1560268800000,
         "update_count": 1
       }
@@ -6643,7 +7130,12 @@
     },
     "ts": {
       "幼女転生": {
-        "init_date": 1550851200000
+        "init_date": 1550851200000,
+        "segment_date": 1560337503977,
+        "segment_old": 0,
+        "segment": 2,
+        "update_date": 1560268800000,
+        "update_count": 1
       },
       "變成了美少女、但也成了網游廢人。": {
         "segment_date": 1555200703626,
@@ -6662,9 +7154,9 @@
         "update_count": 1
       },
       "双剣のエレナ": {
-        "segment_date": 1555632894009,
-        "segment_old": 3,
-        "segment": 1,
+        "segment_date": 1560337422498,
+        "segment_old": 1,
+        "segment": 2,
         "init_date": 1555344000000,
         "txt_basename": "双剣のエレナ.out.txt",
         "epub_date": 1555373611255,
@@ -6673,8 +7165,8 @@
         "volume": 6,
         "chapter": 137,
         "epub_basename": "双剣のエレナ.epub",
-        "update_date": 1555603200000,
-        "update_count": 3
+        "update_date": 1560268800000,
+        "update_count": 4
       },
       "吸血少女は男に戻りたい！": {
         "init_date": 1555344000000,
@@ -6685,22 +7177,27 @@
         "volume": 5,
         "chapter": 297,
         "epub_basename": "吸血少女想變回男人！.epub",
-        "update_date": 1555603200000,
-        "update_count": 3,
-        "segment_date": 1555632933735,
-        "segment_old": 11,
-        "segment": 16
+        "update_date": 1560268800000,
+        "update_count": 4,
+        "segment_date": 1560337467499,
+        "segment_old": 16,
+        "segment": 14
       },
       "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～": {
-        "init_date": 1555689600000
+        "init_date": 1555689600000,
+        "segment_date": 1560337228498,
+        "segment_old": 0,
+        "segment": 5,
+        "update_date": 1560268800000,
+        "update_count": 1
       },
       "自称贤者弟子的贤者": {
-        "segment_date": 1559171764436,
-        "segment_old": 19,
-        "segment": 4,
+        "segment_date": 1560337771472,
+        "segment_old": 4,
+        "segment": 2,
         "init_date": 1556812800000,
-        "update_date": 1559145600000,
-        "update_count": 3
+        "update_date": 1560268800000,
+        "update_count": 4
       },
       "葉隠桜は嘆かない": {
         "init_date": 1556812800000,
