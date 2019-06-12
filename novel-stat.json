@@ -1,7 +1,7 @@
 {
   "meta": {
     "todayTimestamp": 1560355200000,
-    "timestamp": 1560363948005,
+    "timestamp": 1560367063872,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -4432,9 +4432,9 @@
             "epub_basename": "钱进战国雄霸天下.epub",
             "update_date": 1560355200000,
             "update_count": 2,
-            "segment_date": 1560358155244,
-            "segment_old": 0,
-            "segment": 44
+            "segment_date": 1560367015410,
+            "segment_old": 44,
+            "segment": 1
           }
         ],
         [
@@ -7195,9 +7195,9 @@
         "epub_basename": "钱进战国雄霸天下.epub",
         "update_date": 1560355200000,
         "update_count": 2,
-        "segment_date": 1560358155244,
-        "segment_old": 0,
-        "segment": 44
+        "segment_date": 1560367015410,
+        "segment_old": 44,
+        "segment": 1
       },
       "打倒女神勇者的下流手段": {
         "segment_date": 1560357991726,
