@@ -1,7 +1,7 @@
 {
   "meta": {
     "todayTimestamp": 1560268800000,
-    "timestamp": 1560347050033,
+    "timestamp": 1560348870120,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -767,7 +767,7 @@
       ]
     },
     "1560268800000": {
-      "segment_count": 145,
+      "segment_count": 150,
       "segment": [
         [
           "cm",
@@ -2761,7 +2761,7 @@
             "segment_date": 1560346152269,
             "segment_old": 0,
             "segment": 27,
-            "init_date": 1560346152269,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2773,7 +2773,7 @@
             "segment_date": 1560346188799,
             "segment_old": 0,
             "segment": 61,
-            "init_date": 1560346188799,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2797,7 +2797,7 @@
             "segment_date": 1560346348163,
             "segment_old": 0,
             "segment": 18,
-            "init_date": 1560346348163,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2809,7 +2809,7 @@
             "segment_date": 1560346455019,
             "segment_old": 0,
             "segment": 100,
-            "init_date": 1560346455019,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2821,7 +2821,7 @@
             "segment_date": 1560346477425,
             "segment_old": 0,
             "segment": 31,
-            "init_date": 1560346477425,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2845,7 +2845,7 @@
             "segment_date": 1560346609054,
             "segment_old": 0,
             "segment": 48,
-            "init_date": 1560346609054,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2881,7 +2881,7 @@
             "segment_date": 1560346697521,
             "segment_old": 0,
             "segment": 72,
-            "init_date": 1560346697521,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2893,7 +2893,7 @@
             "segment_date": 1560346713594,
             "segment_old": 0,
             "segment": 43,
-            "init_date": 1560346713594,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2905,7 +2905,7 @@
             "segment_date": 1560346756670,
             "segment_old": 0,
             "segment": 84,
-            "init_date": 1560346756670,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2920,6 +2920,72 @@
             "segment": 143,
             "update_date": 1560268800000,
             "update_count": 7
+          }
+        ],
+        [
+          "user",
+          "病娇女神の箱庭",
+          {
+            "segment_date": 1560348002153,
+            "segment_old": 0,
+            "segment": 19,
+            "init_date": 1560348002153,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "百魔の主",
+          {
+            "segment_date": 1560348098911,
+            "segment_old": 0,
+            "segment": 52,
+            "init_date": 1560348098911,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "破壊の御子",
+          {
+            "init_date": 1547913600000,
+            "segment_date": 1560348125773,
+            "segment_old": 0,
+            "segment": 39,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "自分が異世界に転移するなら",
+          {
+            "segment_date": 1560348299836,
+            "segment_old": 0,
+            "segment": 131,
+            "init_date": 1560348299836,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "虫虫酱むいむいたん",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 2,
+            "chapter": 2,
+            "txt_basename": "虫虫酱むいむいたん.out.txt",
+            "volume_old": 1,
+            "volume": 1,
+            "epub_basename": "虫虫酱むいむいたん.epub",
+            "update_date": 1560268800000,
+            "update_count": 2,
+            "segment_date": 1560348749127,
+            "segment_old": 0,
+            "segment": 2
           }
         ]
       ],
@@ -4776,8 +4842,11 @@
         "volume_old": 1,
         "volume": 1,
         "epub_basename": "虫虫酱むいむいたん.epub",
-        "update_date": 1552060800000,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2,
+        "segment_date": 1560348749127,
+        "segment_old": 0,
+        "segment": 2
       },
       "魔王の始め方": {
         "init_date": 1545494400000,
@@ -4917,7 +4986,12 @@
         "update_count": 1
       },
       "破壊の御子": {
-        "init_date": 1547913600000
+        "init_date": 1547913600000,
+        "segment_date": 1560348125773,
+        "segment_old": 0,
+        "segment": 39,
+        "update_date": 1560268800000,
+        "update_count": 1
       },
       "回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～": {
         "init_date": 1548172800000,
@@ -5028,7 +5102,7 @@
         "segment_date": 1560346152269,
         "segment_old": 0,
         "segment": 27,
-        "init_date": 1560346152269,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -5036,7 +5110,7 @@
         "segment_date": 1560346188799,
         "segment_old": 0,
         "segment": 61,
-        "init_date": 1560346188799,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -5044,7 +5118,7 @@
         "segment_date": 1560346348163,
         "segment_old": 0,
         "segment": 18,
-        "init_date": 1560346348163,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -5052,7 +5126,7 @@
         "segment_date": 1560346455019,
         "segment_old": 0,
         "segment": 100,
-        "init_date": 1560346455019,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -5060,7 +5134,7 @@
         "segment_date": 1560346477425,
         "segment_old": 0,
         "segment": 31,
-        "init_date": 1560346477425,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -5068,7 +5142,7 @@
         "segment_date": 1560346609054,
         "segment_old": 0,
         "segment": 48,
-        "init_date": 1560346609054,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -5076,7 +5150,7 @@
         "segment_date": 1560346697521,
         "segment_old": 0,
         "segment": 72,
-        "init_date": 1560346697521,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -5084,7 +5158,7 @@
         "segment_date": 1560346713594,
         "segment_old": 0,
         "segment": 43,
-        "init_date": 1560346713594,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -5092,7 +5166,31 @@
         "segment_date": 1560346756670,
         "segment_old": 0,
         "segment": 84,
-        "init_date": 1560346756670,
+        "init_date": 1560268800000,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "病娇女神の箱庭": {
+        "segment_date": 1560348002153,
+        "segment_old": 0,
+        "segment": 19,
+        "init_date": 1560348002153,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "百魔の主": {
+        "segment_date": 1560348098911,
+        "segment_old": 0,
+        "segment": 52,
+        "init_date": 1560348098911,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "自分が異世界に転移するなら": {
+        "segment_date": 1560348299836,
+        "segment_old": 0,
+        "segment": 131,
+        "init_date": 1560348299836,
         "update_date": 1560268800000,
         "update_count": 1
       }
