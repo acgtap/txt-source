@@ -1,7 +1,7 @@
 {
   "meta": {
     "todayTimestamp": 1560268800000,
-    "timestamp": 1560340532532,
+    "timestamp": 1560347050033,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -767,7 +767,7 @@
       ]
     },
     "1560268800000": {
-      "segment_count": 130,
+      "segment_count": 145,
       "segment": [
         [
           "cm",
@@ -2587,7 +2587,7 @@
             "segment_date": 1560339307590,
             "segment_old": 0,
             "segment": 66,
-            "init_date": 1560339307590,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2629,7 +2629,7 @@
             "segment_date": 1560339526144,
             "segment_old": 0,
             "segment": 75,
-            "init_date": 1560339526144,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2653,7 +2653,7 @@
             "segment_date": 1560339615030,
             "segment_old": 0,
             "segment": 70,
-            "init_date": 1560339615030,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2677,7 +2677,7 @@
             "segment_date": 1560339743000,
             "segment_old": 0,
             "segment": 133,
-            "init_date": 1560339743000,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2689,7 +2689,7 @@
             "segment_date": 1560339778123,
             "segment_old": 0,
             "segment": 52,
-            "init_date": 1560339778123,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2701,7 +2701,7 @@
             "segment_date": 1560339793666,
             "segment_old": 0,
             "segment": 55,
-            "init_date": 1560339793666,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2725,7 +2725,7 @@
             "segment_date": 1560339890082,
             "segment_old": 0,
             "segment": 225,
-            "init_date": 1560339890082,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2740,6 +2740,186 @@
             "init_date": 1546302039608,
             "update_date": 1560268800000,
             "update_count": 14
+          }
+        ],
+        [
+          "user",
+          "回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～",
+          {
+            "init_date": 1548172800000,
+            "segment_date": 1560346140389,
+            "segment_old": 0,
+            "segment": 23,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "在這個世界排行第九的我",
+          {
+            "segment_date": 1560346152269,
+            "segment_old": 0,
+            "segment": 27,
+            "init_date": 1560346152269,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "天才魔法使與原娼婦新娘",
+          {
+            "segment_date": 1560346188799,
+            "segment_old": 0,
+            "segment": 61,
+            "init_date": 1560346188799,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "奪う者　奪われる者",
+          {
+            "init_date": 1546099200000,
+            "segment_date": 1560346319714,
+            "segment_old": 0,
+            "segment": 153,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "帰ってきてもファンタジー！？",
+          {
+            "segment_date": 1560346348163,
+            "segment_old": 0,
+            "segment": 18,
+            "init_date": 1560346348163,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "強欲の花",
+          {
+            "segment_date": 1560346455019,
+            "segment_old": 0,
+            "segment": 100,
+            "init_date": 1560346455019,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "悠久の愚者アズリーの、賢者のすゝめ",
+          {
+            "segment_date": 1560346477425,
+            "segment_old": 0,
+            "segment": 31,
+            "init_date": 1560346477425,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～",
+          {
+            "segment_date": 1560346589523,
+            "segment_old": 1,
+            "segment": 80,
+            "init_date": 1545952990121,
+            "update_date": 1560268800000,
+            "update_count": 5
+          }
+        ],
+        [
+          "user",
+          "最下位職から最強まで成り上がる～地道な努力はチートでした～",
+          {
+            "segment_date": 1560346609054,
+            "segment_old": 0,
+            "segment": 48,
+            "init_date": 1560346609054,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "没落予定なので、鍛治職人を目指す",
+          {
+            "segment_date": 1560346653011,
+            "segment_old": 1,
+            "segment": 19,
+            "init_date": 1546358400000,
+            "update_date": 1560268800000,
+            "update_count": 3
+          }
+        ],
+        [
+          "user",
+          "火輪を抱いた少女",
+          {
+            "segment_date": 1560346680972,
+            "segment_old": 1,
+            "segment": 47,
+            "init_date": 1545521341885,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "物語の中の銀の髪",
+          {
+            "segment_date": 1560346697521,
+            "segment_old": 0,
+            "segment": 72,
+            "init_date": 1560346697521,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "由于世界魔物满载",
+          {
+            "segment_date": 1560346713594,
+            "segment_old": 0,
+            "segment": 43,
+            "init_date": 1560346713594,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "異世界支配のスキルテイカー　～　ゼロから始める奴隷ハーレム　～",
+          {
+            "segment_date": 1560346756670,
+            "segment_old": 0,
+            "segment": 84,
+            "init_date": 1560346756670,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "異世界迷宮の最深部を目指そう",
+          {
+            "init_date": 1546963200000,
+            "segment_date": 1560347027475,
+            "segment_old": 15,
+            "segment": 143,
+            "update_date": 1560268800000,
+            "update_count": 7
           }
         ]
       ],
@@ -4573,10 +4753,12 @@
         "update_count": 16
       },
       "火輪を抱いた少女": {
-        "segment_date": 1545548707385,
+        "segment_date": 1560346680972,
         "segment_old": 1,
-        "segment": 1,
-        "init_date": 1545521341885
+        "segment": 47,
+        "init_date": 1545521341885,
+        "update_date": 1560268800000,
+        "update_count": 1
       },
       "魔王様、リトライ！": {
         "segment_date": 1556929213468,
@@ -4647,12 +4829,12 @@
         "update_count": 4
       },
       "暗黒騎士物語　～勇者を倒すために魔王に召喚されました～": {
-        "segment_date": 1546126307660,
+        "segment_date": 1560346589523,
         "segment_old": 1,
-        "segment": 1,
+        "segment": 80,
         "init_date": 1545952990121,
-        "update_date": 1546126307660,
-        "update_count": 4
+        "update_date": 1560268800000,
+        "update_count": 5
       },
       "ウォルテニア戦記": {
         "segment_date": 1560339408342,
@@ -4671,7 +4853,12 @@
         "update_count": 4
       },
       "奪う者　奪われる者": {
-        "init_date": 1546099200000
+        "init_date": 1546099200000,
+        "segment_date": 1560346319714,
+        "segment_old": 0,
+        "segment": 153,
+        "update_date": 1560268800000,
+        "update_count": 1
       },
       "人喰い転移者の異世界復讐譚　～無能はスキル『捕食』で成り上がる～": {
         "init_date": 1546185600000,
@@ -4698,20 +4885,20 @@
         "update_count": 2
       },
       "没落予定なので、鍛治職人を目指す": {
-        "segment_date": 1546388791522,
-        "segment_old": 0,
-        "segment": 1,
+        "segment_date": 1560346653011,
+        "segment_old": 1,
+        "segment": 19,
         "init_date": 1546358400000,
-        "update_date": 1546358400000,
-        "update_count": 2
+        "update_date": 1560268800000,
+        "update_count": 3
       },
       "異世界迷宮の最深部を目指そう": {
         "init_date": 1546963200000,
-        "segment_date": 1554336426407,
-        "segment_old": 14,
-        "segment": 15,
-        "update_date": 1554307200000,
-        "update_count": 6
+        "segment_date": 1560347027475,
+        "segment_old": 15,
+        "segment": 143,
+        "update_date": 1560268800000,
+        "update_count": 7
       },
       "俺の死亡フラグが留まるところを知らない": {
         "init_date": 1547913600000,
@@ -4733,7 +4920,12 @@
         "init_date": 1547913600000
       },
       "回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～": {
-        "init_date": 1548172800000
+        "init_date": 1548172800000,
+        "segment_date": 1560346140389,
+        "segment_old": 0,
+        "segment": 23,
+        "update_date": 1560268800000,
+        "update_count": 1
       },
       "その者。のちに・・・": {
         "txt_basename": "その者。のちに・・・.out.txt",
@@ -4780,7 +4972,7 @@
         "segment_date": 1560339307590,
         "segment_old": 0,
         "segment": 66,
-        "init_date": 1560339307590,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -4788,7 +4980,7 @@
         "segment_date": 1560339526144,
         "segment_old": 0,
         "segment": 75,
-        "init_date": 1560339526144,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -4796,7 +4988,7 @@
         "segment_date": 1560339615030,
         "segment_old": 0,
         "segment": 70,
-        "init_date": 1560339615030,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -4804,7 +4996,7 @@
         "segment_date": 1560339743000,
         "segment_old": 0,
         "segment": 133,
-        "init_date": 1560339743000,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -4812,7 +5004,7 @@
         "segment_date": 1560339778123,
         "segment_old": 0,
         "segment": 52,
-        "init_date": 1560339778123,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -4820,7 +5012,7 @@
         "segment_date": 1560339793666,
         "segment_old": 0,
         "segment": 55,
-        "init_date": 1560339793666,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -4828,7 +5020,79 @@
         "segment_date": 1560339890082,
         "segment_old": 0,
         "segment": 225,
-        "init_date": 1560339890082,
+        "init_date": 1560268800000,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "在這個世界排行第九的我": {
+        "segment_date": 1560346152269,
+        "segment_old": 0,
+        "segment": 27,
+        "init_date": 1560346152269,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "天才魔法使與原娼婦新娘": {
+        "segment_date": 1560346188799,
+        "segment_old": 0,
+        "segment": 61,
+        "init_date": 1560346188799,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "帰ってきてもファンタジー！？": {
+        "segment_date": 1560346348163,
+        "segment_old": 0,
+        "segment": 18,
+        "init_date": 1560346348163,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "強欲の花": {
+        "segment_date": 1560346455019,
+        "segment_old": 0,
+        "segment": 100,
+        "init_date": 1560346455019,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "悠久の愚者アズリーの、賢者のすゝめ": {
+        "segment_date": 1560346477425,
+        "segment_old": 0,
+        "segment": 31,
+        "init_date": 1560346477425,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "最下位職から最強まで成り上がる～地道な努力はチートでした～": {
+        "segment_date": 1560346609054,
+        "segment_old": 0,
+        "segment": 48,
+        "init_date": 1560346609054,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "物語の中の銀の髪": {
+        "segment_date": 1560346697521,
+        "segment_old": 0,
+        "segment": 72,
+        "init_date": 1560346697521,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "由于世界魔物满载": {
+        "segment_date": 1560346713594,
+        "segment_old": 0,
+        "segment": 43,
+        "init_date": 1560346713594,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "異世界支配のスキルテイカー　～　ゼロから始める奴隷ハーレム　～": {
+        "segment_date": 1560346756670,
+        "segment_old": 0,
+        "segment": 84,
+        "init_date": 1560346756670,
         "update_date": 1560268800000,
         "update_count": 1
       }
