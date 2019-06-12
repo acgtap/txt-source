@@ -1,7 +1,7 @@
 {
   "meta": {
     "todayTimestamp": 1560355200000,
-    "timestamp": 1560358270077,
+    "timestamp": 1560361199031,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -4230,8 +4230,68 @@
       ]
     },
     "1560355200000": {
-      "segment_count": 9,
+      "segment_count": 14,
       "segment": [
+        [
+          "user",
+          "異世界支配のスキルテイカー　～　ゼロから始める奴隷ハーレム　～",
+          {
+            "segment_date": 1560360537159,
+            "segment_old": 84,
+            "segment": 1,
+            "init_date": 1560268800000,
+            "update_date": 1560355200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "user",
+          "異世界迷宮の最深部を目指そう",
+          {
+            "init_date": 1546963200000,
+            "segment_date": 1560360783940,
+            "segment_old": 143,
+            "segment": 1,
+            "update_date": 1560355200000,
+            "update_count": 8
+          }
+        ],
+        [
+          "user",
+          "百魔の主",
+          {
+            "segment_date": 1560360812412,
+            "segment_old": 52,
+            "segment": 1,
+            "init_date": 1560268800000,
+            "update_date": 1560355200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "user",
+          "破壊の御子",
+          {
+            "init_date": 1547913600000,
+            "segment_date": 1560360835578,
+            "segment_old": 39,
+            "segment": 1,
+            "update_date": 1560355200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "user",
+          "自分が異世界に転移するなら",
+          {
+            "segment_date": 1560360917952,
+            "segment_old": 131,
+            "segment": 1,
+            "init_date": 1560268800000,
+            "update_date": 1560355200000,
+            "update_count": 2
+          }
+        ],
         [
           "wenku8",
           "打倒女神勇者的下流手段",
@@ -4299,7 +4359,7 @@
             "segment_date": 1560358110827,
             "segment_old": 0,
             "segment": 47,
-            "init_date": 1560358110827,
+            "init_date": 1560355200000,
             "update_date": 1560355200000,
             "update_count": 1
           }
@@ -5409,11 +5469,11 @@
       },
       "異世界迷宮の最深部を目指そう": {
         "init_date": 1546963200000,
-        "segment_date": 1560347027475,
-        "segment_old": 15,
-        "segment": 143,
-        "update_date": 1560268800000,
-        "update_count": 7
+        "segment_date": 1560360783940,
+        "segment_old": 143,
+        "segment": 1,
+        "update_date": 1560355200000,
+        "update_count": 8
       },
       "俺の死亡フラグが留まるところを知らない": {
         "init_date": 1547913600000,
@@ -5433,11 +5493,11 @@
       },
       "破壊の御子": {
         "init_date": 1547913600000,
-        "segment_date": 1560348125773,
-        "segment_old": 0,
-        "segment": 39,
-        "update_date": 1560268800000,
-        "update_count": 1
+        "segment_date": 1560360835578,
+        "segment_old": 39,
+        "segment": 1,
+        "update_date": 1560355200000,
+        "update_count": 2
       },
       "回復術士のやり直し～即死魔法とスキルコピーの超越ヒール～": {
         "init_date": 1548172800000,
@@ -5609,12 +5669,12 @@
         "update_count": 1
       },
       "異世界支配のスキルテイカー　～　ゼロから始める奴隷ハーレム　～": {
-        "segment_date": 1560346756670,
-        "segment_old": 0,
-        "segment": 84,
+        "segment_date": 1560360537159,
+        "segment_old": 84,
+        "segment": 1,
         "init_date": 1560268800000,
-        "update_date": 1560268800000,
-        "update_count": 1
+        "update_date": 1560355200000,
+        "update_count": 2
       },
       "病娇女神の箱庭": {
         "segment_date": 1560348002153,
@@ -5625,20 +5685,20 @@
         "update_count": 1
       },
       "百魔の主": {
-        "segment_date": 1560348098911,
-        "segment_old": 0,
-        "segment": 52,
+        "segment_date": 1560360812412,
+        "segment_old": 52,
+        "segment": 1,
         "init_date": 1560268800000,
-        "update_date": 1560268800000,
-        "update_count": 1
+        "update_date": 1560355200000,
+        "update_count": 2
       },
       "自分が異世界に転移するなら": {
-        "segment_date": 1560348299836,
-        "segment_old": 0,
-        "segment": 131,
+        "segment_date": 1560360917952,
+        "segment_old": 131,
+        "segment": 1,
         "init_date": 1560268800000,
-        "update_date": 1560268800000,
-        "update_count": 1
+        "update_date": 1560355200000,
+        "update_count": 2
       },
       "蘇りの魔王": {
         "segment_date": 1560353687883,
@@ -7223,7 +7283,7 @@
         "segment_date": 1560358110827,
         "segment_old": 0,
         "segment": 47,
-        "init_date": 1560358110827,
+        "init_date": 1560355200000,
         "update_date": 1560355200000,
         "update_count": 1
       }
