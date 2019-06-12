@@ -167,6 +167,32 @@
   <br/>( s: 1 )
 - [惡役轉生但是為什麼會變成這樣](girl/%E6%83%A1%E5%BD%B9%E8%BD%89%E7%94%9F%E4%BD%86%E6%98%AF%E7%82%BA%E4%BB%80%E9%BA%BC%E6%9C%83%E8%AE%8A%E6%88%90%E9%80%99%E6%A8%A3) - girl
   <br/>( s: 3 )
+- [侯爵嫡男好色物語](h/%E4%BE%AF%E7%88%B5%E5%AB%A1%E7%94%B7%E5%A5%BD%E8%89%B2%E7%89%A9%E8%AA%9E) - h
+  <br/>( s: 14 )
+- [勇者は犯されたい](h/%E5%8B%87%E8%80%85%E3%81%AF%E7%8A%AF%E3%81%95%E3%82%8C%E3%81%9F%E3%81%84) - h
+  <br/>( s: 1 )
+- [異世界の男は全滅したようです](h/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E7%94%B7%E3%81%AF%E5%85%A8%E6%BB%85%E3%81%97%E3%81%9F%E3%82%88%E3%81%86%E3%81%A7%E3%81%99) - h
+  <br/>( s: 15 )
+- [美腿寶箱怪](h/%E7%BE%8E%E8%85%BF%E5%AF%B6%E7%AE%B1%E6%80%AA) - h
+  <br/>( s: 1 )
+- [この勇者が俺ＴＵＥＥＥくせに慎重すぎる](kakuyomu/%E3%81%93%E3%81%AE%E5%8B%87%E8%80%85%E3%81%8C%E4%BF%BA%EF%BC%B4%EF%BC%B5%EF%BC%A5%EF%BC%A5%EF%BC%A5%E3%81%8F%E3%81%9B%E3%81%AB%E6%85%8E%E9%87%8D%E3%81%99%E3%81%8E%E3%82%8B) - kakuyomu
+  <br/>( s: 10 )
+- [勇者、辞めます　～次の職場は魔王城～](kakuyomu/%E5%8B%87%E8%80%85%E3%80%81%E8%BE%9E%E3%82%81%E3%81%BE%E3%81%99%E3%80%80%EF%BD%9E%E6%AC%A1%E3%81%AE%E8%81%B7%E5%A0%B4%E3%81%AF%E9%AD%94%E7%8E%8B%E5%9F%8E%EF%BD%9E) - kakuyomu
+  <br/>( s: 6 )
+- [惡魔支配者　～想定時回家的男人之瘋狂升級～](kakuyomu/%E6%83%A1%E9%AD%94%E6%94%AF%E9%85%8D%E8%80%85%E3%80%80%EF%BD%9E%E6%83%B3%E5%AE%9A%E6%99%82%E5%9B%9E%E5%AE%B6%E7%9A%84%E7%94%B7%E4%BA%BA%E4%B9%8B%E7%98%8B%E7%8B%82%E5%8D%87%E7%B4%9A%EF%BD%9E) - kakuyomu
+  <br/>( s: 20 )
+- [辺境都市の育成者](kakuyomu/%E8%BE%BA%E5%A2%83%E9%83%BD%E5%B8%82%E3%81%AE%E8%82%B2%E6%88%90%E8%80%85) - kakuyomu
+  <br/>( s: 20 )
+- [只是被勇者消滅的簡單工作](lost/%E5%8F%AA%E6%98%AF%E8%A2%AB%E5%8B%87%E8%80%85%E6%B6%88%E6%BB%85%E7%9A%84%E7%B0%A1%E5%96%AE%E5%B7%A5%E4%BD%9C) - lost
+  <br/>( s: 120 )
+- [只有無職是不會辭掉的](mirronight/%E5%8F%AA%E6%9C%89%E7%84%A1%E8%81%B7%E6%98%AF%E4%B8%8D%E6%9C%83%E8%BE%AD%E6%8E%89%E7%9A%84) - mirronight
+  <br/>( s: 55 )
+- [在異世界轉移從女神大人那兒得到祝福](mirronight/%E5%9C%A8%E7%95%B0%E4%B8%96%E7%95%8C%E8%BD%89%E7%A7%BB%E5%BE%9E%E5%A5%B3%E7%A5%9E%E5%A4%A7%E4%BA%BA%E9%82%A3%E5%85%92%E5%BE%97%E5%88%B0%E7%A5%9D%E7%A6%8F) - mirronight
+  <br/>( s: 2 )
+- [打造魔王大人的城鎮（魔王築城記）](mirronight/%E6%89%93%E9%80%A0%E9%AD%94%E7%8E%8B%E5%A4%A7%E4%BA%BA%E7%9A%84%E5%9F%8E%E9%8E%AE%EF%BC%88%E9%AD%94%E7%8E%8B%E7%AF%89%E5%9F%8E%E8%A8%98%EF%BC%89) - mirronight
+  <br/>( s: 88 )
+- [關於成為魔王這件事](mirronight/%E9%97%9C%E6%96%BC%E6%88%90%E7%82%BA%E9%AD%94%E7%8E%8B%E9%80%99%E4%BB%B6%E4%BA%8B) - mirronight
+  <br/>( s: 43 )
 
 ## 2019-06-08
 
