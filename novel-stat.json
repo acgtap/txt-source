@@ -1,7 +1,7 @@
 {
   "meta": {
     "todayTimestamp": 1560268800000,
-    "timestamp": 1560331140432,
+    "timestamp": 1560332937711,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -767,7 +767,7 @@
       ]
     },
     "1560268800000": {
-      "segment_count": 62,
+      "segment_count": 89,
       "segment": [
         [
           "cm",
@@ -1480,7 +1480,7 @@
             "segment_date": 1560330239184,
             "segment_old": 0,
             "segment": 30,
-            "init_date": 1560330239184,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -1618,7 +1618,7 @@
             "segment_date": 1560330458860,
             "segment_old": 0,
             "segment": 20,
-            "init_date": 1560330458860,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -1630,7 +1630,7 @@
             "segment_date": 1560330688471,
             "segment_old": 0,
             "segment": 42,
-            "init_date": 1560330688471,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -1680,7 +1680,7 @@
             "segment_date": 1560330815129,
             "segment_old": 0,
             "segment": 76,
-            "init_date": 1560330815129,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -1692,7 +1692,7 @@
             "segment_date": 1560330846848,
             "segment_old": 0,
             "segment": 11,
-            "init_date": 1560330846848,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -1716,7 +1716,7 @@
             "segment_date": 1560330929515,
             "segment_old": 0,
             "segment": 144,
-            "init_date": 1560330929515,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -1728,7 +1728,7 @@
             "segment_date": 1560330968190,
             "segment_old": 0,
             "segment": 52,
-            "init_date": 1560330968190,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -1758,7 +1758,7 @@
             "segment_date": 1560331019151,
             "segment_old": 0,
             "segment": 28,
-            "init_date": 1560331019151,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -1781,6 +1781,386 @@
             "segment_date": 1560331118494,
             "segment_old": 0,
             "segment": 2
+          }
+        ],
+        [
+          "syosetu",
+          "婚約者は、私の妹に恋をする",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 5,
+            "chapter": 5,
+            "txt_basename": "婚約者は、私の妹に恋をする.out.txt",
+            "volume_old": 3,
+            "volume": 3,
+            "epub_basename": "婚約者は、私の妹に恋をする.epub",
+            "update_date": 1560268800000,
+            "update_count": 2,
+            "segment_date": 1560331971563,
+            "segment_old": 0,
+            "segment": 3
+          }
+        ],
+        [
+          "syosetu",
+          "帰ってきた元勇者",
+          {
+            "init_date": 1548086400000,
+            "segment_date": 1560332050250,
+            "segment_old": 0,
+            "segment": 96,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "得到一半世界後投靠魔王的勇者",
+          {
+            "segment_date": 1560332058736,
+            "segment_old": 0,
+            "segment": 38,
+            "init_date": 1560332058736,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "復讐は天罰を呼び、魔術士はぽやぽやを楽しみたい",
+          {
+            "init_date": 1551542400000,
+            "epub_date": 1551570714599,
+            "volume_old": 1,
+            "chapter_old": 3,
+            "volume": 1,
+            "chapter": 3,
+            "epub_basename": "復讐は天罰を呼び、魔術士はぽやぽやを楽しみたい.epub",
+            "novel_status": 256,
+            "update_date": 1560268800000,
+            "update_count": 3,
+            "txt_basename": "復讐は天罰を呼び、魔術士はぽやぽやを楽し.out.txt",
+            "segment_date": 1560332066107,
+            "segment_old": 0,
+            "segment": 3
+          }
+        ],
+        [
+          "syosetu",
+          "悠閑農家與亂碼技能",
+          {
+            "init_date": 1552752000000,
+            "txt_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.out.txt",
+            "epub_date": 1556151462969,
+            "volume_old": 1,
+            "chapter_old": 100,
+            "volume": 1,
+            "chapter": 100,
+            "epub_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.epub",
+            "update_date": 1560268800000,
+            "update_count": 4,
+            "segment_date": 1560332074611,
+            "segment_old": 4,
+            "segment": 4,
+            "novel_status": 256
+          }
+        ],
+        [
+          "syosetu",
+          "想自由生活的魔王默示錄",
+          {
+            "init_date": 1546272000000,
+            "segment_date": 1560332096689,
+            "segment_old": 6,
+            "segment": 19,
+            "update_date": 1560268800000,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu",
+          "昏き宮殿の死者の王",
+          {
+            "segment_date": 1560332100489,
+            "segment_old": 2,
+            "segment": 1,
+            "init_date": 1558368000000,
+            "txt_basename": "昏き宮殿の死者の王.out.txt",
+            "epub_date": 1558480181733,
+            "volume_old": 1,
+            "chapter_old": 2,
+            "volume": 1,
+            "chapter": 2,
+            "epub_basename": "昏き宮殿の死者の王.epub",
+            "update_date": 1560268800000,
+            "update_count": 3
+          }
+        ],
+        [
+          "syosetu",
+          "暇人、魔王の姿で異世界へ",
+          {
+            "segment_date": 1560332150688,
+            "segment_old": 20,
+            "segment": 35,
+            "init_date": 1546358400000,
+            "update_date": 1560268800000,
+            "update_count": 3
+          }
+        ],
+        [
+          "syosetu",
+          "最強呪族転生",
+          {
+            "init_date": 1546963200000,
+            "segment_date": 1560332208837,
+            "segment_old": 0,
+            "segment": 17,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "最強職《竜騎士》から初級職《運び屋》",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 82,
+            "chapter": 82,
+            "txt_basename": "明明從最強職《竜騎士》成為初級職《送貨人.out.txt",
+            "volume_old": 3,
+            "volume": 3,
+            "epub_basename": "明明從最強職《竜騎士》成為初級職《送貨人》，為何依然備受勇者們的青睞.epub",
+            "update_date": 1560268800000,
+            "update_count": 2,
+            "segment_date": 1560332220984,
+            "segment_old": 0,
+            "segment": 3
+          }
+        ],
+        [
+          "syosetu",
+          "月桂樹の唄",
+          {
+            "segment_date": 1560332233178,
+            "segment_old": 14,
+            "segment": 10,
+            "init_date": 1547654400000,
+            "epub_date": 1547767632976,
+            "volume_old": 3,
+            "chapter_old": 14,
+            "volume": 3,
+            "chapter": 14,
+            "epub_basename": "月桂樹の唄.epub",
+            "update_date": 1560268800000,
+            "update_count": 4,
+            "txt_basename": "月桂樹の唄.out.txt"
+          }
+        ],
+        [
+          "syosetu",
+          "望まぬ不死の冒険者",
+          {
+            "segment_date": 1560332288096,
+            "segment_old": 12,
+            "segment": 13,
+            "init_date": 1545607102002,
+            "update_date": 1560268800000,
+            "update_count": 12
+          }
+        ],
+        [
+          "syosetu",
+          "極星から零れた少女",
+          {
+            "segment_date": 1560332297530,
+            "segment_old": 21,
+            "segment": 7,
+            "init_date": 1552665600000,
+            "update_date": 1560268800000,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu",
+          "死憶の異世界傾国姫　～究極の悲劇のヒロインめざしてTS転生～",
+          {
+            "init_date": 1546358400000,
+            "segment_date": 1560332316828,
+            "segment_old": 0,
+            "segment": 14,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "注意到的時候ＴＳ成了精靈",
+          {
+            "init_date": 1547481600000,
+            "segment_date": 1560332322846,
+            "segment_old": 0,
+            "segment": 2,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "無口な天使_(n3462bz)",
+          {
+            "segment_date": 1560332334959,
+            "segment_old": 0,
+            "segment": 37,
+            "init_date": 1560332334959,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "無職の英雄　(n6683ej)",
+          {
+            "segment_date": 1560332352172,
+            "segment_old": 0,
+            "segment": 68,
+            "init_date": 1560332352172,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "父は英雄、母は精霊、娘の私は転生者。",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 5,
+            "chapter": 5,
+            "txt_basename": "父は英雄、母は精霊、娘の私は転生者。.out.txt",
+            "volume_old": 1,
+            "volume": 1,
+            "epub_basename": "父は英雄、母は精霊、娘の私は転生者。.epub",
+            "update_date": 1560268800000,
+            "update_count": 2,
+            "segment_date": 1560332362790,
+            "segment_old": 0,
+            "segment": 4
+          }
+        ],
+        [
+          "syosetu",
+          "甜點転生",
+          {
+            "segment_date": 1560332370376,
+            "segment_old": 0,
+            "segment": 12,
+            "init_date": 1560332370376,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "用務員さんは勇者じゃありませんので",
+          {
+            "segment_date": 1560332394330,
+            "segment_old": 14,
+            "segment": 8,
+            "init_date": 1545521263591,
+            "update_date": 1560268800000,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu",
+          "異世界で孤児院を開いたけど",
+          {
+            "segment_date": 1560332405718,
+            "segment_old": 0,
+            "segment": 27,
+            "init_date": 1560332405718,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "異常狀態是絕望",
+          {
+            "segment_date": 1560332597513,
+            "segment_old": 1,
+            "segment": 25,
+            "init_date": 1545607138342,
+            "update_date": 1560268800000,
+            "update_count": 5
+          }
+        ],
+        [
+          "syosetu",
+          "異空のレクスオール",
+          {
+            "segment_date": 1560332618365,
+            "segment_old": 0,
+            "segment": 66,
+            "init_date": 1560332618365,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "病弱少女は自分より強い人に嫁ぎたい",
+          {
+            "segment_date": 1560332655421,
+            "segment_old": 0,
+            "segment": 14,
+            "init_date": 1560332655421,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "破滅の魔導王とゴーレムの蛮妃",
+          {
+            "segment_date": 1560332660691,
+            "segment_old": 5,
+            "segment": 3,
+            "init_date": 1549641600000,
+            "epub_date": 1549669433737,
+            "volume_old": 1,
+            "chapter_old": 5,
+            "volume": 1,
+            "chapter": 5,
+            "epub_basename": "破滅之魔導王與魔偶蠻妃.epub",
+            "novel_status": 256,
+            "update_date": 1560268800000,
+            "update_count": 3,
+            "txt_basename": "破滅之魔導王與魔偶蠻妃.out.txt"
+          }
+        ],
+        [
+          "syosetu",
+          "神スキル【呼吸】するだけでレベルアップする僕は、神々のダンジョンへ挑む。",
+          {
+            "segment_date": 1560332665591,
+            "segment_old": 0,
+            "segment": 8,
+            "init_date": 1560332665591,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "稍微去毀滅世界",
+          {
+            "segment_date": 1560332917222,
+            "segment_old": 0,
+            "segment": 39,
+            "init_date": 1560332917222,
+            "update_date": 1560268800000,
+            "update_count": 1
           }
         ]
       ],
@@ -2796,12 +3176,12 @@
         "update_count": 1
       },
       "用務員さんは勇者じゃありませんので": {
-        "segment_date": 1545876430133,
-        "segment_old": 54,
-        "segment": 14,
+        "segment_date": 1560332394330,
+        "segment_old": 14,
+        "segment": 8,
         "init_date": 1545521263591,
-        "update_date": 1545876430133,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2
       },
       "重生的貓騎士與精靈娘的日常": {
         "segment_date": 1545548673452,
@@ -2825,8 +3205,11 @@
         "volume_old": 3,
         "volume": 3,
         "epub_basename": "明明從最強職《竜騎士》成為初級職《送貨人》，為何依然備受勇者們的青睞.epub",
-        "update_date": 1552060800000,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2,
+        "segment_date": 1560332220984,
+        "segment_old": 0,
+        "segment": 3
       },
       "自称！平凡魔族の英雄ライフ": {
         "init_date": 1545494400000,
@@ -2861,8 +3244,11 @@
         "volume_old": 3,
         "volume": 3,
         "epub_basename": "婚約者は、私の妹に恋をする.epub",
-        "update_date": 1552060800000,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2,
+        "segment_date": 1560331971563,
+        "segment_old": 0,
+        "segment": 3
       },
       "乙女ゲー世界はモブに厳しい世界です": {
         "init_date": 1545494400000,
@@ -2901,8 +3287,11 @@
         "volume_old": 1,
         "volume": 1,
         "epub_basename": "父は英雄、母は精霊、娘の私は転生者。.epub",
-        "update_date": 1552060800000,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2,
+        "segment_date": 1560332362790,
+        "segment_old": 0,
+        "segment": 4
       },
       "ニトの怠惰な異世界症候群～最弱職〈ヒーラー〉なのに最強はチートですか？～": {
         "init_date": 1545494400000,
@@ -2916,20 +3305,20 @@
         "update_count": 1
       },
       "望まぬ不死の冒険者": {
-        "segment_date": 1555287331792,
-        "segment_old": 13,
-        "segment": 12,
+        "segment_date": 1560332288096,
+        "segment_old": 12,
+        "segment": 13,
         "init_date": 1545607102002,
-        "update_date": 1555257600000,
-        "update_count": 11
+        "update_date": 1560268800000,
+        "update_count": 12
       },
       "異常狀態是絕望": {
-        "segment_date": 1545867724522,
+        "segment_date": 1560332597513,
         "segment_old": 1,
-        "segment": 1,
+        "segment": 25,
         "init_date": 1545607138342,
-        "update_date": 1545867724522,
-        "update_count": 4
+        "update_date": 1560268800000,
+        "update_count": 5
       },
       "紅き血に口づけを　～外れスキルからの逆転人生～": {
         "segment_date": 1545607143322,
@@ -2949,28 +3338,43 @@
       },
       "想自由生活的魔王默示錄": {
         "init_date": 1546272000000,
-        "segment_date": 1547076202823,
-        "segment_old": 0,
-        "segment": 6,
-        "update_date": 1547049600000,
-        "update_count": 1
-      },
-      "暇人、魔王の姿で異世界へ": {
-        "segment_date": 1546388330951,
-        "segment_old": 0,
-        "segment": 20,
-        "init_date": 1546358400000,
-        "update_date": 1546358400000,
+        "segment_date": 1560332096689,
+        "segment_old": 6,
+        "segment": 19,
+        "update_date": 1560268800000,
         "update_count": 2
       },
+      "暇人、魔王の姿で異世界へ": {
+        "segment_date": 1560332150688,
+        "segment_old": 20,
+        "segment": 35,
+        "init_date": 1546358400000,
+        "update_date": 1560268800000,
+        "update_count": 3
+      },
       "死憶の異世界傾国姫　～究極の悲劇のヒロインめざしてTS転生～": {
-        "init_date": 1546358400000
+        "init_date": 1546358400000,
+        "segment_date": 1560332316828,
+        "segment_old": 0,
+        "segment": 14,
+        "update_date": 1560268800000,
+        "update_count": 1
       },
       "最強呪族転生": {
-        "init_date": 1546963200000
+        "init_date": 1546963200000,
+        "segment_date": 1560332208837,
+        "segment_old": 0,
+        "segment": 17,
+        "update_date": 1560268800000,
+        "update_count": 1
       },
       "注意到的時候ＴＳ成了精靈": {
-        "init_date": 1547481600000
+        "init_date": 1547481600000,
+        "segment_date": 1560332322846,
+        "segment_old": 0,
+        "segment": 2,
+        "update_date": 1560268800000,
+        "update_count": 1
       },
       "アラフォー賢者の異世界生活日記": {
         "segment_date": 1560330292194,
@@ -2989,9 +3393,9 @@
         "novel_status": 256
       },
       "月桂樹の唄": {
-        "segment_date": 1547681305369,
-        "segment_old": 0,
-        "segment": 14,
+        "segment_date": 1560332233178,
+        "segment_old": 14,
+        "segment": 10,
         "init_date": 1547654400000,
         "epub_date": 1547767632976,
         "volume_old": 3,
@@ -2999,8 +3403,8 @@
         "volume": 3,
         "chapter": 14,
         "epub_basename": "月桂樹の唄.epub",
-        "update_date": 1552060800000,
-        "update_count": 3,
+        "update_date": 1560268800000,
+        "update_count": 4,
         "txt_basename": "月桂樹の唄.out.txt"
       },
       "變成了美少女、但也成了網游廢人。": {
@@ -3035,7 +3439,12 @@
         "segment": 2
       },
       "帰ってきた元勇者": {
-        "init_date": 1548086400000
+        "init_date": 1548086400000,
+        "segment_date": 1560332050250,
+        "segment_old": 0,
+        "segment": 96,
+        "update_date": 1560268800000,
+        "update_count": 1
       },
       "航宙軍士官、冒険者になる": {
         "segment_date": 1549669132702,
@@ -3098,9 +3507,9 @@
         "txt_basename": "俺は星間国家の悪徳領主！.out.txt"
       },
       "破滅の魔導王とゴーレムの蛮妃": {
-        "segment_date": 1549669122175,
-        "segment_old": 0,
-        "segment": 5,
+        "segment_date": 1560332660691,
+        "segment_old": 5,
+        "segment": 3,
         "init_date": 1549641600000,
         "epub_date": 1549669433737,
         "volume_old": 1,
@@ -3109,8 +3518,8 @@
         "chapter": 5,
         "epub_basename": "破滅之魔導王與魔偶蠻妃.epub",
         "novel_status": 256,
-        "update_date": 1552060800000,
-        "update_count": 2,
+        "update_date": 1560268800000,
+        "update_count": 3,
         "txt_basename": "破滅之魔導王與魔偶蠻妃.out.txt"
       },
       "復讐は天罰を呼び、魔術士はぽやぽやを楽しみたい": {
@@ -3122,9 +3531,12 @@
         "chapter": 3,
         "epub_basename": "復讐は天罰を呼び、魔術士はぽやぽやを楽しみたい.epub",
         "novel_status": 256,
-        "update_date": 1552060800000,
-        "update_count": 2,
-        "txt_basename": "復讐は天罰を呼び、魔術士はぽやぽやを楽し.out.txt"
+        "update_date": 1560268800000,
+        "update_count": 3,
+        "txt_basename": "復讐は天罰を呼び、魔術士はぽやぽやを楽し.out.txt",
+        "segment_date": 1560332066107,
+        "segment_old": 0,
+        "segment": 3
       },
       "転生少女の履歴書": {
         "segment_date": 1552521246585,
@@ -3148,12 +3560,12 @@
         "update_count": 1
       },
       "極星から零れた少女": {
-        "segment_date": 1552686632959,
-        "segment_old": 0,
-        "segment": 21,
+        "segment_date": 1560332297530,
+        "segment_old": 21,
+        "segment": 7,
         "init_date": 1552665600000,
-        "update_date": 1552665600000,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2
       },
       "悠閑農家與亂碼技能": {
         "init_date": 1552752000000,
@@ -3164,10 +3576,10 @@
         "volume": 1,
         "chapter": 100,
         "epub_basename": "悠閑農家與亂碼技能　在異世界網購雜貨.epub",
-        "update_date": 1556121600000,
-        "update_count": 3,
-        "segment_date": 1556151353031,
-        "segment_old": 20,
+        "update_date": 1560268800000,
+        "update_count": 4,
+        "segment_date": 1560332074611,
+        "segment_old": 4,
         "segment": 4,
         "novel_status": 256
       },
@@ -3303,9 +3715,9 @@
         "update_count": 3
       },
       "昏き宮殿の死者の王": {
-        "segment_date": 1558393700053,
-        "segment_old": 0,
-        "segment": 2,
+        "segment_date": 1560332100489,
+        "segment_old": 2,
+        "segment": 1,
         "init_date": 1558368000000,
         "txt_basename": "昏き宮殿の死者の王.out.txt",
         "epub_date": 1558480181733,
@@ -3314,8 +3726,8 @@
         "volume": 1,
         "chapter": 2,
         "epub_basename": "昏き宮殿の死者の王.epub",
-        "update_date": 1558454400000,
-        "update_count": 2
+        "update_date": 1560268800000,
+        "update_count": 3
       },
       "カット＆ペーストでこの世界を生きていく": {
         "txt_basename": "以複製貼上在這個世界生活.out.txt",
@@ -3349,7 +3761,7 @@
         "segment_date": 1560330239184,
         "segment_old": 0,
         "segment": 30,
-        "init_date": 1560330239184,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -3357,7 +3769,7 @@
         "segment_date": 1560330458860,
         "segment_old": 0,
         "segment": 20,
-        "init_date": 1560330458860,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -3365,7 +3777,7 @@
         "segment_date": 1560330688471,
         "segment_old": 0,
         "segment": 42,
-        "init_date": 1560330688471,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -3373,7 +3785,7 @@
         "segment_date": 1560330815129,
         "segment_old": 0,
         "segment": 76,
-        "init_date": 1560330815129,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -3381,7 +3793,7 @@
         "segment_date": 1560330846848,
         "segment_old": 0,
         "segment": 11,
-        "init_date": 1560330846848,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -3389,7 +3801,7 @@
         "segment_date": 1560330929515,
         "segment_old": 0,
         "segment": 144,
-        "init_date": 1560330929515,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -3397,7 +3809,7 @@
         "segment_date": 1560330968190,
         "segment_old": 0,
         "segment": 52,
-        "init_date": 1560330968190,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -3405,7 +3817,79 @@
         "segment_date": 1560331019151,
         "segment_old": 0,
         "segment": 28,
-        "init_date": 1560331019151,
+        "init_date": 1560268800000,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "得到一半世界後投靠魔王的勇者": {
+        "segment_date": 1560332058736,
+        "segment_old": 0,
+        "segment": 38,
+        "init_date": 1560332058736,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "無口な天使_(n3462bz)": {
+        "segment_date": 1560332334959,
+        "segment_old": 0,
+        "segment": 37,
+        "init_date": 1560332334959,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "無職の英雄　(n6683ej)": {
+        "segment_date": 1560332352172,
+        "segment_old": 0,
+        "segment": 68,
+        "init_date": 1560332352172,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "甜點転生": {
+        "segment_date": 1560332370376,
+        "segment_old": 0,
+        "segment": 12,
+        "init_date": 1560332370376,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "異世界で孤児院を開いたけど": {
+        "segment_date": 1560332405718,
+        "segment_old": 0,
+        "segment": 27,
+        "init_date": 1560332405718,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "異空のレクスオール": {
+        "segment_date": 1560332618365,
+        "segment_old": 0,
+        "segment": 66,
+        "init_date": 1560332618365,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "病弱少女は自分より強い人に嫁ぎたい": {
+        "segment_date": 1560332655421,
+        "segment_old": 0,
+        "segment": 14,
+        "init_date": 1560332655421,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "神スキル【呼吸】するだけでレベルアップする僕は、神々のダンジョンへ挑む。": {
+        "segment_date": 1560332665591,
+        "segment_old": 0,
+        "segment": 8,
+        "init_date": 1560332665591,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "稍微去毀滅世界": {
+        "segment_date": 1560332917222,
+        "segment_old": 0,
+        "segment": 39,
+        "init_date": 1560332917222,
         "update_date": 1560268800000,
         "update_count": 1
       }
