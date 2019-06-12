@@ -1,7 +1,7 @@
 {
   "meta": {
     "todayTimestamp": 1560268800000,
-    "timestamp": 1560337789544,
+    "timestamp": 1560340532532,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -767,7 +767,7 @@
       ]
     },
     "1560268800000": {
-      "segment_count": 116,
+      "segment_count": 130,
       "segment": [
         [
           "cm",
@@ -2298,7 +2298,7 @@
             "segment_date": 1560336907307,
             "segment_old": 0,
             "segment": 4,
-            "init_date": 1560336907307,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2310,7 +2310,7 @@
             "segment_date": 1560336914082,
             "segment_old": 0,
             "segment": 23,
-            "init_date": 1560336914082,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2322,7 +2322,7 @@
             "segment_date": 1560336935667,
             "segment_old": 0,
             "segment": 36,
-            "init_date": 1560336935667,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2334,7 +2334,7 @@
             "segment_date": 1560336943773,
             "segment_old": 0,
             "segment": 2,
-            "init_date": 1560336943773,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2346,7 +2346,7 @@
             "segment_date": 1560336978857,
             "segment_old": 0,
             "segment": 13,
-            "init_date": 1560336978857,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2409,7 +2409,7 @@
             "segment_date": 1560337056612,
             "segment_old": 0,
             "segment": 41,
-            "init_date": 1560337056612,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2445,7 +2445,7 @@
             "segment_date": 1560337124861,
             "segment_old": 0,
             "segment": 26,
-            "init_date": 1560337124861,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2457,7 +2457,7 @@
             "segment_date": 1560337160319,
             "segment_old": 0,
             "segment": 31,
-            "init_date": 1560337160319,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2481,7 +2481,7 @@
             "segment_date": 1560337186387,
             "segment_old": 0,
             "segment": 26,
-            "init_date": 1560337186387,
+            "init_date": 1560268800000,
             "update_date": 1560268800000,
             "update_count": 1
           }
@@ -2558,6 +2558,188 @@
             "init_date": 1556812800000,
             "update_date": 1560268800000,
             "update_count": 4
+          }
+        ],
+        [
+          "ts",
+          "變成了美少女、但也成了網游廢人。",
+          {
+            "segment_date": 1560339110974,
+            "segment_old": 6,
+            "segment": 4,
+            "init_date": 1555171200000,
+            "txt_basename": "變成了美少女、但也成了網游廢人。.out.txt",
+            "epub_date": 1555200822122,
+            "volume_old": 1,
+            "chapter_old": 12,
+            "volume": 1,
+            "chapter": 12,
+            "epub_basename": "變成了美少女、但也成了網游廢人。.epub",
+            "novel_status": 256,
+            "update_date": 1560268800000,
+            "update_count": 2
+          }
+        ],
+        [
+          "user",
+          "NO FATIGUE 24時間戦える男の転生譚",
+          {
+            "segment_date": 1560339307590,
+            "segment_old": 0,
+            "segment": 66,
+            "init_date": 1560339307590,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "その者。のちに・・・",
+          {
+            "txt_basename": "その者。のちに・・・.out.txt",
+            "volume_old": 1,
+            "chapter_old": 2,
+            "volume": 1,
+            "chapter": 2,
+            "epub_basename": "その者。のちに・・・.epub",
+            "init_date": 1552060800000,
+            "update_date": 1560268800000,
+            "update_count": 2,
+            "segment_date": 1560339318038,
+            "segment_old": 0,
+            "segment": 2
+          }
+        ],
+        [
+          "user",
+          "ウォルテニア戦記",
+          {
+            "segment_date": 1560339408342,
+            "segment_old": 4,
+            "segment": 60,
+            "init_date": 1546044567479,
+            "update_date": 1560268800000,
+            "update_count": 10
+          }
+        ],
+        [
+          "user",
+          "エルフ転生からのチート建国記",
+          {
+            "segment_date": 1560339526144,
+            "segment_old": 0,
+            "segment": 75,
+            "init_date": 1560339526144,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "カルマの塔",
+          {
+            "init_date": 1558454400000,
+            "segment_date": 1560339584009,
+            "segment_old": 0,
+            "segment": 12,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "乙女ゲームの悪（中略）ヒロインが鬼畜女装野郎だったので、助けて下さい",
+          {
+            "segment_date": 1560339615030,
+            "segment_old": 0,
+            "segment": 70,
+            "init_date": 1560339615030,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "俺の死亡フラグが留まるところを知らない",
+          {
+            "init_date": 1547913600000,
+            "segment_date": 1560339718025,
+            "segment_old": 30,
+            "segment": 17,
+            "update_date": 1560268800000,
+            "update_count": 3
+          }
+        ],
+        [
+          "user",
+          "俺の異世界姉妹が自重しない！",
+          {
+            "segment_date": 1560339743000,
+            "segment_old": 0,
+            "segment": 133,
+            "init_date": 1560339743000,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "元将軍のアンデッドナイト",
+          {
+            "segment_date": 1560339778123,
+            "segment_old": 0,
+            "segment": 52,
+            "init_date": 1560339778123,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "再臨勇者の復讐譚　～失望しました、勇者やめて元魔王と組みます～",
+          {
+            "segment_date": 1560339793666,
+            "segment_old": 0,
+            "segment": 55,
+            "init_date": 1560339793666,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "呪術師は勇者になれない",
+          {
+            "init_date": 1547913600000,
+            "segment_date": 1560339827179,
+            "segment_old": 0,
+            "segment": 3,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "呼び出された殺戮者",
+          {
+            "segment_date": 1560339890082,
+            "segment_old": 0,
+            "segment": 225,
+            "init_date": 1560339890082,
+            "update_date": 1560268800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "四度目は嫌な死属性魔術師",
+          {
+            "segment_date": 1560340509708,
+            "segment_old": 14,
+            "segment": 70,
+            "init_date": 1546302039608,
+            "update_date": 1560268800000,
+            "update_count": 14
           }
         ]
       ],
@@ -4312,7 +4494,7 @@
         "segment_date": 1560336907307,
         "segment_old": 0,
         "segment": 4,
-        "init_date": 1560336907307,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -4320,7 +4502,7 @@
         "segment_date": 1560336914082,
         "segment_old": 0,
         "segment": 23,
-        "init_date": 1560336914082,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -4328,7 +4510,7 @@
         "segment_date": 1560336935667,
         "segment_old": 0,
         "segment": 36,
-        "init_date": 1560336935667,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -4336,7 +4518,7 @@
         "segment_date": 1560336943773,
         "segment_old": 0,
         "segment": 2,
-        "init_date": 1560336943773,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -4344,7 +4526,7 @@
         "segment_date": 1560336978857,
         "segment_old": 0,
         "segment": 13,
-        "init_date": 1560336978857,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -4352,7 +4534,7 @@
         "segment_date": 1560337056612,
         "segment_old": 0,
         "segment": 41,
-        "init_date": 1560337056612,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -4360,7 +4542,7 @@
         "segment_date": 1560337124861,
         "segment_old": 0,
         "segment": 26,
-        "init_date": 1560337124861,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -4368,7 +4550,7 @@
         "segment_date": 1560337160319,
         "segment_old": 0,
         "segment": 31,
-        "init_date": 1560337160319,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       },
@@ -4376,7 +4558,7 @@
         "segment_date": 1560337186387,
         "segment_old": 0,
         "segment": 26,
-        "init_date": 1560337186387,
+        "init_date": 1560268800000,
         "update_date": 1560268800000,
         "update_count": 1
       }
@@ -4473,12 +4655,12 @@
         "update_count": 4
       },
       "ウォルテニア戦記": {
-        "segment_date": 1551570696591,
-        "segment_old": 9,
-        "segment": 4,
+        "segment_date": 1560339408342,
+        "segment_old": 4,
+        "segment": 60,
         "init_date": 1546044567479,
-        "update_date": 1551542400000,
-        "update_count": 9
+        "update_date": 1560268800000,
+        "update_count": 10
       },
       "你這種傢伙別想打贏魔王": {
         "segment_date": 1549928383591,
@@ -4500,12 +4682,12 @@
         "update_count": 1
       },
       "四度目は嫌な死属性魔術師": {
-        "segment_date": 1556843688195,
-        "segment_old": 16,
-        "segment": 14,
+        "segment_date": 1560340509708,
+        "segment_old": 14,
+        "segment": 70,
         "init_date": 1546302039608,
-        "update_date": 1556812800000,
-        "update_count": 13
+        "update_date": 1560268800000,
+        "update_count": 14
       },
       "誰にでもできる影から助ける魔王討伐": {
         "segment_date": 1558050519923,
@@ -4533,14 +4715,19 @@
       },
       "俺の死亡フラグが留まるところを知らない": {
         "init_date": 1547913600000,
-        "segment_date": 1557704168193,
-        "segment_old": 1,
-        "segment": 30,
-        "update_date": 1557676800000,
-        "update_count": 2
+        "segment_date": 1560339718025,
+        "segment_old": 30,
+        "segment": 17,
+        "update_date": 1560268800000,
+        "update_count": 3
       },
       "呪術師は勇者になれない": {
-        "init_date": 1547913600000
+        "init_date": 1547913600000,
+        "segment_date": 1560339827179,
+        "segment_old": 0,
+        "segment": 3,
+        "update_date": 1560268800000,
+        "update_count": 1
       },
       "破壊の御子": {
         "init_date": 1547913600000
@@ -4556,8 +4743,11 @@
         "chapter": 2,
         "epub_basename": "その者。のちに・・・.epub",
         "init_date": 1552060800000,
-        "update_date": 1552060800000,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2,
+        "segment_date": 1560339318038,
+        "segment_old": 0,
+        "segment": 2
       },
       "野生のラスボスが現れた！": {
         "txt_basename": "野生のラスボスが現れた！.out.txt",
@@ -4579,7 +4769,68 @@
         "update_count": 3
       },
       "カルマの塔": {
-        "init_date": 1558454400000
+        "init_date": 1558454400000,
+        "segment_date": 1560339584009,
+        "segment_old": 0,
+        "segment": 12,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "NO FATIGUE 24時間戦える男の転生譚": {
+        "segment_date": 1560339307590,
+        "segment_old": 0,
+        "segment": 66,
+        "init_date": 1560339307590,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "エルフ転生からのチート建国記": {
+        "segment_date": 1560339526144,
+        "segment_old": 0,
+        "segment": 75,
+        "init_date": 1560339526144,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "乙女ゲームの悪（中略）ヒロインが鬼畜女装野郎だったので、助けて下さい": {
+        "segment_date": 1560339615030,
+        "segment_old": 0,
+        "segment": 70,
+        "init_date": 1560339615030,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "俺の異世界姉妹が自重しない！": {
+        "segment_date": 1560339743000,
+        "segment_old": 0,
+        "segment": 133,
+        "init_date": 1560339743000,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "元将軍のアンデッドナイト": {
+        "segment_date": 1560339778123,
+        "segment_old": 0,
+        "segment": 52,
+        "init_date": 1560339778123,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "再臨勇者の復讐譚　～失望しました、勇者やめて元魔王と組みます～": {
+        "segment_date": 1560339793666,
+        "segment_old": 0,
+        "segment": 55,
+        "init_date": 1560339793666,
+        "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "呼び出された殺戮者": {
+        "segment_date": 1560339890082,
+        "segment_old": 0,
+        "segment": 225,
+        "init_date": 1560339890082,
+        "update_date": 1560268800000,
+        "update_count": 1
       }
     },
     "user_out": {
@@ -7138,9 +7389,9 @@
         "update_count": 1
       },
       "變成了美少女、但也成了網游廢人。": {
-        "segment_date": 1555200703626,
-        "segment_old": 0,
-        "segment": 6,
+        "segment_date": 1560339110974,
+        "segment_old": 6,
+        "segment": 4,
         "init_date": 1555171200000,
         "txt_basename": "變成了美少女、但也成了網游廢人。.out.txt",
         "epub_date": 1555200822122,
@@ -7150,8 +7401,8 @@
         "chapter": 12,
         "epub_basename": "變成了美少女、但也成了網游廢人。.epub",
         "novel_status": 256,
-        "update_date": 1555171200000,
-        "update_count": 1
+        "update_date": 1560268800000,
+        "update_count": 2
       },
       "双剣のエレナ": {
         "segment_date": 1560337422498,
