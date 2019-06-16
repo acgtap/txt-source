@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1560355200000,
-    "timestamp": 1560369803024,
+    "todayTimestamp": 1560700800000,
+    "timestamp": 1560727404349,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -4537,6 +4537,47 @@
           }
         ]
       ]
+    },
+    "1560700800000": {
+      "epub_count": 2,
+      "epub": [
+        [
+          "cm_out",
+          "リビティウム皇国のブタクサ姫",
+          {
+            "epub_date": 1560727382199,
+            "volume_old": 7,
+            "chapter_old": 225,
+            "volume": 7,
+            "chapter": 237,
+            "epub_basename": "利貝提姆皇國的豚草姫.epub",
+            "init_date": 1545548908164,
+            "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
+            "update_date": 1560700800000,
+            "update_count": 21
+          }
+        ],
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1559949404105,
+            "segment_old": 1,
+            "segment": 3,
+            "init_date": 1549641600000,
+            "epub_date": 1560727386252,
+            "volume_old": 1,
+            "chapter_old": 135,
+            "volume": 1,
+            "chapter": 141,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1560700800000,
+            "update_count": 25,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -7370,16 +7411,16 @@
     },
     "cm_out": {
       "リビティウム皇国のブタクサ姫": {
-        "epub_date": 1560328659852,
+        "epub_date": 1560727382199,
         "volume_old": 7,
         "chapter_old": 225,
         "volume": 7,
-        "chapter": 225,
+        "chapter": 237,
         "epub_basename": "利貝提姆皇國的豚草姫.epub",
         "init_date": 1545548908164,
         "txt_basename": "利貝提姆皇國的豚草姫.out.txt",
-        "update_date": 1560268800000,
-        "update_count": 20
+        "update_date": 1560700800000,
+        "update_count": 21
       }
     },
     "dmzj_out": {
@@ -8000,15 +8041,15 @@
         "segment_old": 1,
         "segment": 3,
         "init_date": 1549641600000,
-        "epub_date": 1560328713355,
+        "epub_date": 1560727386252,
         "volume_old": 1,
         "chapter_old": 135,
         "volume": 1,
-        "chapter": 135,
+        "chapter": 141,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1560268800000,
-        "update_count": 24,
+        "update_date": 1560700800000,
+        "update_count": 25,
         "txt_basename": "Genocide Online ～極惡千.out.txt"
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
@@ -9306,7 +9347,7 @@
         ],
         "options": {
           "textlayout": {
-            "allow_lf2": true
+            "allow_lf2": false
           }
         },
         "link": [
