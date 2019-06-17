@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1560700800000,
-    "timestamp": 1560727404349,
+    "todayTimestamp": 1560787200000,
+    "timestamp": 1560815184753,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -4578,6 +4578,322 @@
           }
         ]
       ]
+    },
+    "1560787200000": {
+      "segment_count": 19,
+      "segment": [
+        [
+          "cm",
+          "姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜",
+          {
+            "init_date": 1545494400000,
+            "segment_date": 1560813891439,
+            "segment_old": 6,
+            "segment": 1,
+            "epub_date": 1560328638372,
+            "volume_old": 4,
+            "chapter_old": 80,
+            "volume": 4,
+            "chapter": 80,
+            "epub_basename": "我的同學是姬騎士.epub",
+            "update_date": 1560787200000,
+            "update_count": 12,
+            "novel_status": 770,
+            "txt_basename": "我的同學是姬騎士.out.txt"
+          }
+        ],
+        [
+          "cm",
+          "最強ギルドマスターの一週間建国記",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 40,
+            "chapter": 40,
+            "txt_basename": "最強ギルドマスターの一週間建国記.out.txt",
+            "volume_old": 1,
+            "volume": 1,
+            "epub_basename": "最強ギルドマスターの一週間建国記.epub",
+            "update_date": 1560787200000,
+            "update_count": 3,
+            "segment_date": 1560813903941,
+            "segment_old": 32,
+            "segment": 1,
+            "epub_date": 1560328639841
+          }
+        ],
+        [
+          "cm",
+          "異世界転移で女神様から祝福を！　～いえ、手持ちの異能があるので結構です～",
+          {
+            "init_date": 1545494400000,
+            "epub_date": 1560328646398,
+            "volume_old": 5,
+            "chapter_old": 102,
+            "volume": 5,
+            "chapter": 102,
+            "epub_basename": "異世界転移で女神様から祝福を！　～いえ、手持ちの異能があるので結構です～.epub",
+            "update_date": 1560787200000,
+            "update_count": 5,
+            "segment_date": 1560813970801,
+            "segment_old": 5,
+            "segment": 1,
+            "txt_basename": "異世界転移で女神様から祝福を！　～いえ、.out.txt"
+          }
+        ],
+        [
+          "cm",
+          "英雄の娘として生まれ変わった英雄は再び英雄を目指す",
+          {
+            "init_date": 1545494400000,
+            "chapter_old": 112,
+            "chapter": 112,
+            "txt_basename": "英雄の娘として生まれ変わった英雄は再び英.out.txt",
+            "volume_old": 1,
+            "volume": 1,
+            "epub_basename": "英雄の娘として生まれ変わった英雄は再び英雄を目指す.epub",
+            "update_date": 1560787200000,
+            "update_count": 3,
+            "segment_date": 1560814007568,
+            "segment_old": 66,
+            "segment": 3,
+            "epub_date": 1560328651732
+          }
+        ],
+        [
+          "dmzj",
+          "不是真正同伴的我被逐出了勇者隊伍，因此決定在邊境過上慢生活",
+          {
+            "init_date": 1548172800000,
+            "segment_date": 1560814057764,
+            "segment_old": 12,
+            "segment": 5,
+            "update_date": 1560787200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "dmzj",
+          "哥布林殺手",
+          {
+            "segment_date": 1560814118122,
+            "segment_old": 113,
+            "segment": 11,
+            "init_date": 1560268800000,
+            "update_date": 1560787200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "dmzj",
+          "幻想世界的愛麗絲緹露",
+          {
+            "segment_date": 1560814165847,
+            "segment_old": 140,
+            "segment": 8,
+            "init_date": 1560268800000,
+            "update_date": 1560787200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "dmzj",
+          "虛弱的高中生的異世界修行日記",
+          {
+            "segment_date": 1560814258400,
+            "segment_old": 30,
+            "segment": 3,
+            "init_date": 1560268800000,
+            "update_date": 1560787200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "dmzj",
+          "蜘蛛ですが、なにか？",
+          {
+            "segment_date": 1560814392271,
+            "segment_old": 201,
+            "segment": 6,
+            "init_date": 1545779972577,
+            "update_date": 1560787200000,
+            "update_count": 15
+          }
+        ],
+        [
+          "dmzj",
+          "魔法師塔塔",
+          {
+            "segment_date": 1560814422818,
+            "segment_old": 2,
+            "segment": 1,
+            "init_date": 1557763200000,
+            "txt_basename": "魔法師塔塔.out.txt",
+            "epub_date": 1560328706971,
+            "volume_old": 1,
+            "chapter_old": 12,
+            "volume": 1,
+            "chapter": 12,
+            "epub_basename": "魔法師塔塔.epub",
+            "novel_status": 256,
+            "update_date": 1560787200000,
+            "update_count": 4
+          }
+        ],
+        [
+          "family",
+          "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生",
+          {
+            "init_date": 1552147200000,
+            "txt_basename": "被剝奪了冒險者執照的大叔，得到了愛女悠閒.out.txt",
+            "epub_date": 1560328708829,
+            "volume_old": 1,
+            "chapter_old": 5,
+            "volume": 1,
+            "chapter": 5,
+            "epub_basename": "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生.epub",
+            "novel_status": 768,
+            "update_date": 1560787200000,
+            "update_count": 5,
+            "segment_date": 1560814434799,
+            "segment_old": 1,
+            "segment": 1
+          }
+        ],
+        [
+          "girl",
+          "你這種傢伙別想打贏魔王",
+          {
+            "init_date": 1550505600000,
+            "segment_date": 1560814603260,
+            "segment_old": 2,
+            "segment": 20,
+            "update_date": 1560787200000,
+            "update_count": 10
+          }
+        ],
+        [
+          "girl",
+          "勿論、慰謝料請求いたします！",
+          {
+            "segment_date": 1560814616576,
+            "segment_old": 30,
+            "segment": 1,
+            "init_date": 1559145600000,
+            "txt_basename": "勿論、慰謝料請求いたします！.out.txt",
+            "epub_date": 1560328727192,
+            "volume_old": 1,
+            "chapter_old": 30,
+            "volume": 1,
+            "chapter": 30,
+            "epub_basename": "勿論、慰謝料請求いたします！.epub",
+            "novel_status": 768,
+            "update_date": 1560787200000,
+            "update_count": 3
+          }
+        ],
+        [
+          "girl",
+          "原千金未婚媽媽",
+          {
+            "segment_date": 1560814647664,
+            "segment_old": 2,
+            "segment": 1,
+            "init_date": 1552838400000,
+            "txt_basename": "原千金未婚媽媽.out.txt",
+            "epub_date": 1560328732227,
+            "volume_old": 2,
+            "chapter_old": 39,
+            "volume": 2,
+            "chapter": 39,
+            "epub_basename": "原千金未婚媽媽.epub",
+            "novel_status": 256,
+            "update_date": 1560787200000,
+            "update_count": 7
+          }
+        ],
+        [
+          "girl",
+          "王女殿下はお怒りのようです",
+          {
+            "segment_date": 1560814698421,
+            "segment_old": 1,
+            "segment": 2,
+            "init_date": 1557763200000,
+            "txt_basename": "王女殿下はお怒りのようです.out.txt",
+            "epub_date": 1557791097053,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 26,
+            "epub_basename": "王女殿下はお怒りのようです.epub",
+            "novel_status": 256,
+            "update_date": 1560787200000,
+            "update_count": 3
+          }
+        ],
+        [
+          "girl",
+          "謙虚、堅実をモットーに生きております！",
+          {
+            "segment_date": 1560814764332,
+            "segment_old": 5,
+            "segment": 13,
+            "init_date": 1558886400000,
+            "update_date": 1560787200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "h",
+          "侯爵嫡男好色物語",
+          {
+            "segment_date": 1560814794904,
+            "segment_old": 14,
+            "segment": 1,
+            "init_date": 1547913600000,
+            "epub_date": 1560326479633,
+            "volume_old": 1,
+            "chapter_old": 47,
+            "volume": 1,
+            "chapter": 47,
+            "epub_basename": "侯爵嫡男好色物語.epub",
+            "update_date": 1560787200000,
+            "update_count": 4,
+            "txt_basename": "侯爵嫡男好色物語.out.txt"
+          }
+        ],
+        [
+          "h",
+          "勇者は犯されたい",
+          {
+            "init_date": 1553270400000,
+            "segment_date": 1560814820588,
+            "segment_old": 1,
+            "segment": 1,
+            "update_date": 1560787200000,
+            "update_count": 2
+          }
+        ],
+        [
+          "h",
+          "在喪屍橫行的世界裡唯獨我不被襲擊",
+          {
+            "segment_date": 1560814868565,
+            "segment_old": 18,
+            "segment": 3,
+            "init_date": 1547913600000,
+            "epub_date": 1560326483994,
+            "volume_old": 3,
+            "chapter_old": 62,
+            "volume": 3,
+            "chapter": 62,
+            "epub_basename": "在喪屍橫行的世界裡唯獨我不被襲擊.epub",
+            "update_date": 1560787200000,
+            "update_count": 6,
+            "txt_basename": "在喪屍橫行的世界裡唯獨我不被襲擊.out.txt"
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -6987,17 +7303,17 @@
       },
       "姫騎士がクラスメート！　〜異世界チートで奴隷化ハーレム〜": {
         "init_date": 1545494400000,
-        "segment_date": 1560323364927,
-        "segment_old": 2,
-        "segment": 6,
+        "segment_date": 1560813891439,
+        "segment_old": 6,
+        "segment": 1,
         "epub_date": 1560328638372,
         "volume_old": 4,
         "chapter_old": 80,
         "volume": 4,
         "chapter": 80,
         "epub_basename": "我的同學是姬騎士.epub",
-        "update_date": 1560268800000,
-        "update_count": 11,
+        "update_date": 1560787200000,
+        "update_count": 12,
         "novel_status": 770,
         "txt_basename": "我的同學是姬騎士.out.txt"
       },
@@ -7051,11 +7367,11 @@
         "volume": 5,
         "chapter": 102,
         "epub_basename": "異世界転移で女神様から祝福を！　～いえ、手持ちの異能があるので結構です～.epub",
-        "update_date": 1560268800000,
-        "update_count": 4,
-        "segment_date": 1560323647548,
-        "segment_old": 35,
-        "segment": 5,
+        "update_date": 1560787200000,
+        "update_count": 5,
+        "segment_date": 1560813970801,
+        "segment_old": 5,
+        "segment": 1,
         "txt_basename": "異世界転移で女神様から祝福を！　～いえ、.out.txt"
       },
       "聖者無双　～サラリーマン、異世界で生き残るために歩む道～": {
@@ -7081,11 +7397,11 @@
         "volume_old": 1,
         "volume": 1,
         "epub_basename": "最強ギルドマスターの一週間建国記.epub",
-        "update_date": 1560268800000,
-        "update_count": 2,
-        "segment_date": 1560323379688,
-        "segment_old": 0,
-        "segment": 32,
+        "update_date": 1560787200000,
+        "update_count": 3,
+        "segment_date": 1560813903941,
+        "segment_old": 32,
+        "segment": 1,
         "epub_date": 1560328639841
       },
       "捨てられた勇者は魔王となりて死に戻る（旧題：捨てられた勇者の英雄譚）": {
@@ -7128,11 +7444,11 @@
         "volume_old": 1,
         "volume": 1,
         "epub_basename": "英雄の娘として生まれ変わった英雄は再び英雄を目指す.epub",
-        "update_date": 1560268800000,
-        "update_count": 2,
-        "segment_date": 1560325109761,
-        "segment_old": 0,
-        "segment": 66,
+        "update_date": 1560787200000,
+        "update_count": 3,
+        "segment_date": 1560814007568,
+        "segment_old": 66,
+        "segment": 3,
         "epub_date": 1560328651732
       },
       "王国へ続く道": {
@@ -7413,7 +7729,7 @@
       "リビティウム皇国のブタクサ姫": {
         "epub_date": 1560727382199,
         "volume_old": 7,
-        "chapter_old": 225,
+        "chapter_old": 237,
         "volume": 7,
         "chapter": 237,
         "epub_basename": "利貝提姆皇國的豚草姫.epub",
@@ -7743,20 +8059,20 @@
     },
     "dmzj": {
       "蜘蛛ですが、なにか？": {
-        "segment_date": 1560325895658,
-        "segment_old": 31,
-        "segment": 201,
+        "segment_date": 1560814392271,
+        "segment_old": 201,
+        "segment": 6,
         "init_date": 1545779972577,
-        "update_date": 1560268800000,
-        "update_count": 14
+        "update_date": 1560787200000,
+        "update_count": 15
       },
       "不是真正同伴的我被逐出了勇者隊伍，因此決定在邊境過上慢生活": {
         "init_date": 1548172800000,
-        "segment_date": 1560325249730,
-        "segment_old": 0,
-        "segment": 12,
-        "update_date": 1560268800000,
-        "update_count": 1
+        "segment_date": 1560814057764,
+        "segment_old": 12,
+        "segment": 5,
+        "update_date": 1560787200000,
+        "update_count": 2
       },
       "食銹末世錄": {
         "segment_date": 1560325907806,
@@ -7775,9 +8091,9 @@
         "update_count": 4
       },
       "魔法師塔塔": {
-        "segment_date": 1560325928206,
-        "segment_old": 9,
-        "segment": 2,
+        "segment_date": 1560814422818,
+        "segment_old": 2,
+        "segment": 1,
         "init_date": 1557763200000,
         "txt_basename": "魔法師塔塔.out.txt",
         "epub_date": 1560328706971,
@@ -7787,8 +8103,8 @@
         "chapter": 12,
         "epub_basename": "魔法師塔塔.epub",
         "novel_status": 256,
-        "update_date": 1560268800000,
-        "update_count": 3
+        "update_date": 1560787200000,
+        "update_count": 4
       },
       "努力過頭的世界最強武鬥家": {
         "segment_date": 1560325257065,
@@ -7807,28 +8123,28 @@
         "update_count": 1
       },
       "哥布林殺手": {
-        "segment_date": 1560325314387,
-        "segment_old": 0,
-        "segment": 113,
+        "segment_date": 1560814118122,
+        "segment_old": 113,
+        "segment": 11,
         "init_date": 1560268800000,
-        "update_date": 1560268800000,
-        "update_count": 1
+        "update_date": 1560787200000,
+        "update_count": 2
       },
       "幻想世界的愛麗絲緹露": {
-        "segment_date": 1560325374071,
-        "segment_old": 0,
-        "segment": 140,
+        "segment_date": 1560814165847,
+        "segment_old": 140,
+        "segment": 8,
         "init_date": 1560268800000,
-        "update_date": 1560268800000,
-        "update_count": 1
+        "update_date": 1560787200000,
+        "update_count": 2
       },
       "虛弱的高中生的異世界修行日記": {
-        "segment_date": 1560325753930,
-        "segment_old": 0,
-        "segment": 30,
+        "segment_date": 1560814258400,
+        "segment_old": 30,
+        "segment": 3,
         "init_date": 1560268800000,
-        "update_date": 1560268800000,
-        "update_count": 1
+        "update_date": 1560787200000,
+        "update_count": 2
       }
     },
     "zh": {
@@ -7850,9 +8166,9 @@
     },
     "h": {
       "侯爵嫡男好色物語": {
-        "segment_date": 1560327423321,
-        "segment_old": 1,
-        "segment": 14,
+        "segment_date": 1560814794904,
+        "segment_old": 14,
+        "segment": 1,
         "init_date": 1547913600000,
         "epub_date": 1560326479633,
         "volume_old": 1,
@@ -7860,14 +8176,14 @@
         "volume": 1,
         "chapter": 47,
         "epub_basename": "侯爵嫡男好色物語.epub",
-        "update_date": 1560268800000,
-        "update_count": 3,
+        "update_date": 1560787200000,
+        "update_count": 4,
         "txt_basename": "侯爵嫡男好色物語.out.txt"
       },
       "在喪屍橫行的世界裡唯獨我不被襲擊": {
-        "segment_date": 1560353598784,
-        "segment_old": 1,
-        "segment": 18,
+        "segment_date": 1560814868565,
+        "segment_old": 18,
+        "segment": 3,
         "init_date": 1547913600000,
         "epub_date": 1560326483994,
         "volume_old": 3,
@@ -7875,8 +8191,8 @@
         "volume": 3,
         "chapter": 62,
         "epub_basename": "在喪屍橫行的世界裡唯獨我不被襲擊.epub",
-        "update_date": 1560268800000,
-        "update_count": 5,
+        "update_date": 1560787200000,
+        "update_count": 6,
         "txt_basename": "在喪屍橫行的世界裡唯獨我不被襲擊.out.txt"
       },
       "異世界の男は全滅したようです": {
@@ -7912,11 +8228,11 @@
       },
       "勇者は犯されたい": {
         "init_date": 1553270400000,
-        "segment_date": 1560327448639,
-        "segment_old": 0,
+        "segment_date": 1560814820588,
+        "segment_old": 1,
         "segment": 1,
-        "update_date": 1560268800000,
-        "update_count": 1
+        "update_date": 1560787200000,
+        "update_count": 2
       },
       "玩了VR工口遊戲轉生到異世界": {
         "segment_date": 1554941210842,
@@ -8043,7 +8359,7 @@
         "init_date": 1549641600000,
         "epub_date": 1560727386252,
         "volume_old": 1,
-        "chapter_old": 135,
+        "chapter_old": 141,
         "volume": 1,
         "chapter": 141,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
@@ -8102,11 +8418,11 @@
       },
       "你這種傢伙別想打贏魔王": {
         "init_date": 1550505600000,
-        "segment_date": 1560326116791,
-        "segment_old": 10,
-        "segment": 2,
-        "update_date": 1560268800000,
-        "update_count": 9
+        "segment_date": 1560814603260,
+        "segment_old": 2,
+        "segment": 20,
+        "update_date": 1560787200000,
+        "update_count": 10
       },
       "JKハルは異世界で娼婦になった": {
         "segment_date": 1560325991217,
@@ -8198,9 +8514,9 @@
         "update_count": 2
       },
       "原千金未婚媽媽": {
-        "segment_date": 1557617711180,
-        "segment_old": 5,
-        "segment": 2,
+        "segment_date": 1560814647664,
+        "segment_old": 2,
+        "segment": 1,
         "init_date": 1552838400000,
         "txt_basename": "原千金未婚媽媽.out.txt",
         "epub_date": 1560328732227,
@@ -8210,8 +8526,8 @@
         "chapter": 39,
         "epub_basename": "原千金未婚媽媽.epub",
         "novel_status": 256,
-        "update_date": 1560268800000,
-        "update_count": 6
+        "update_date": 1560787200000,
+        "update_count": 7
       },
       "ポンコツ少女の電脳世界救世記": {
         "init_date": 1554739200000,
@@ -8302,9 +8618,9 @@
         "update_count": 3
       },
       "王女殿下はお怒りのようです": {
-        "segment_date": 1558050406195,
-        "segment_old": 26,
-        "segment": 1,
+        "segment_date": 1560814698421,
+        "segment_old": 1,
+        "segment": 2,
         "init_date": 1557763200000,
         "txt_basename": "王女殿下はお怒りのようです.out.txt",
         "epub_date": 1557791097053,
@@ -8314,21 +8630,21 @@
         "chapter": 26,
         "epub_basename": "王女殿下はお怒りのようです.epub",
         "novel_status": 256,
-        "update_date": 1558022400000,
-        "update_count": 2
+        "update_date": 1560787200000,
+        "update_count": 3
       },
       "謙虚、堅実をモットーに生きております！": {
-        "segment_date": 1558912286691,
-        "segment_old": 0,
-        "segment": 5,
+        "segment_date": 1560814764332,
+        "segment_old": 5,
+        "segment": 13,
         "init_date": 1558886400000,
-        "update_date": 1558886400000,
-        "update_count": 1
+        "update_date": 1560787200000,
+        "update_count": 2
       },
       "勿論、慰謝料請求いたします！": {
-        "segment_date": 1559171513130,
-        "segment_old": 0,
-        "segment": 30,
+        "segment_date": 1560814616576,
+        "segment_old": 30,
+        "segment": 1,
         "init_date": 1559145600000,
         "txt_basename": "勿論、慰謝料請求いたします！.out.txt",
         "epub_date": 1560328727192,
@@ -8338,8 +8654,8 @@
         "chapter": 30,
         "epub_basename": "勿論、慰謝料請求いたします！.epub",
         "novel_status": 768,
-        "update_date": 1560268800000,
-        "update_count": 2
+        "update_date": 1560787200000,
+        "update_count": 3
       },
       "自覚なし聖女の異世界モフモフ道中": {
         "init_date": 1559145600000,
@@ -8610,10 +8926,10 @@
         "chapter": 5,
         "epub_basename": "被剝奪了冒險者執照的大叔，得到了愛女悠閒的謳歌人生.epub",
         "novel_status": 768,
-        "update_date": 1560268800000,
-        "update_count": 4,
-        "segment_date": 1552261885555,
-        "segment_old": 0,
+        "update_date": 1560787200000,
+        "update_count": 5,
+        "segment_date": 1560814434799,
+        "segment_old": 1,
         "segment": 1
       }
     },
@@ -13711,7 +14027,7 @@
             "novel_id": "n8567do"
           },
           "textlayout": {
-            "allow_lf2": true
+            "allow_lf2": false
           }
         },
         "link": [
