@@ -1,5 +1,14 @@
 # HISTORY
 
+## 2019-06-17
+
+### Epub
+
+- [リビティウム皇国のブタクサ姫](cm_out/%E3%83%AA%E3%83%93%E3%83%86%E3%82%A3%E3%82%A6%E3%83%A0%E7%9A%87%E5%9B%BD%E3%81%AE%E3%83%96%E3%82%BF%E3%82%AF%E3%82%B5%E5%A7%AB) - cm_out
+  <br/>( v: 7 , c: 237, add: 12 )
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( v: 1 , c: 141, add: 6 )
+
 ## 2019-06-13
 
 ### Epub
