@@ -88,7 +88,7 @@
 
 ## textlayout
 
-- allow_lf2: true
+- allow_lf2: false
 
 # link
 
@@ -98,6 +98,4 @@
 - [over-lap.co.jp](https://over-lap.co.jp/narou/865542509/)
 - https://masiro.moe/forum.php?mod=forumdisplay&fid=110
 - 
-
-
 
