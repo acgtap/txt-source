@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1560787200000,
-    "timestamp": 1560845406914,
+    "todayTimestamp": 1560873600000,
+    "timestamp": 1560900314705,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -5203,6 +5203,28 @@
           }
         ]
       ]
+    },
+    "1560873600000": {
+      "epub_count": 1,
+      "epub": [
+        [
+          "syosetu_out",
+          "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～",
+          {
+            "txt_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？.out.txt",
+            "epub_date": 1560900302631,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 2,
+            "chapter": 47,
+            "epub_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？那好吃嗎？.epub",
+            "novel_status": 769,
+            "init_date": 1560900302631,
+            "update_date": 1560873600000,
+            "update_count": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -7598,6 +7620,19 @@
         "novel_status": 768,
         "init_date": 1559232000000,
         "update_date": 1559232000000,
+        "update_count": 1
+      },
+      "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～": {
+        "txt_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？.out.txt",
+        "epub_date": 1560900302631,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 2,
+        "chapter": 47,
+        "epub_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？那好吃嗎？.epub",
+        "novel_status": 769,
+        "init_date": 1560900302631,
+        "update_date": 1560873600000,
         "update_count": 1
       }
     },
@@ -14272,81 +14307,6 @@
           "[大叔捡到了勇者和魔王吧](https://tieba.baidu.com/f?kw=%E5%A4%A7%E5%8F%94%E6%8D%A1%E5%88%B0%E4%BA%86%E5%8B%87%E8%80%85%E5%92%8C%E9%AD%94%E7%8E%8B&ie=utf-8 \"大叔捡到了勇者和魔王\")"
         ]
       },
-      "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～": {
-        "novel": {
-          "title": "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～",
-          "title_zh": "除了成為奴隸商人以外別無選擇喲？～後宮？那好吃嗎？",
-          "author": "カラユミ",
-          "illust": "neropaso",
-          "illusts": [
-            "ごまし"
-          ],
-          "source": "http://ncode.syosetu.com/n8567do/",
-          "cover": "https://images-na.ssl-images-amazon.com/images/I/91sSsOf1oqL.jpg",
-          "publisher": "syosetu",
-          "date": "2019-01-18T10:35:00+08:00",
-          "status": "完結済",
-          "novel_status": 769,
-          "series": {
-            "name": "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～"
-          },
-          "preface": "塞奧利斯遵循村中的慣例一到十五歲就去職業學校。從那裡得到的稱號將會決定人生的大致方向,但是他所得到的稱號是【勇者】【魔帝】【大賢者】【奴隸商人】、無論哪一個都是見不得人的。他從中選了最不引人注目的、能輕鬆活下去的最差的稱號【奴隸商人】。開啟了被青梅竹馬的毒舌美少女、同是奴隸商人的精靈、貓耳冒險者、蘿莉魔王等各式各樣的女性折騰的後宮苦勞傳\n\n村の決まりで十五歳から職業学校に通うことになったゼオリス。そこで得られる称号で人生がほぼ決まるのだが、得られた称号は【勇者】【魔帝】【大賢者】【奴隷商人】と、どれも人目を憚る称号ばかりだった。その中で一番注目されず、生きていくのが楽そうな最低の称号【奴隷商人】を選ぶことに。幼馴染の毒舌美少女から同じ奴隷商人のエルフ、猫耳冒険者、ロリ魔王と多種多様な女性に振り回されるハーレム苦労譚。\n■コミカライズは書籍をベースとしていますので、WEB版とは途中から大きく異なる予定です。\n\n\n■2018.1.26完結\n■只今3巻まで発売中\n■書籍は一巻後半部分でweb版から分岐ルート\n■幻冬舎コミックスのコミックブーストでコミカライズ中\n◆アルファポリス外部サイト登録中\n【今日の一冊】で紹介されました。2016.11.22【http://syosetu.com/issatu/archive/no/25/】",
-          "tags": [
-            "R15",
-            "node-novel",
-            "syosetu",
-            "エルフ",
-            "ギャグ",
-            "ゲイネタ有",
-            "コミカライズ",
-            "コメディ",
-            "ハッピーエンド",
-            "ヒロイン問題有",
-            "ラブコメ",
-            "主人公最強？",
-            "勘違いされ系",
-            "変態主人公",
-            "後半",
-            "徐々に下ネタ増",
-            "書籍化",
-            "残酷な描写あり",
-            "獣人",
-            "結婚",
-            "苦労ハーレム",
-            "魔王"
-          ]
-        },
-        "contribute": [
-          "Yuki",
-          "jemiwyl",
-          "半支蜡烛♬",
-          "忍野忍",
-          "懒惰的鹹鱼",
-          "月下空城♂",
-          "缘指逝的水滴"
-        ],
-        "options": {
-          "downloadOptions": {
-            "noFilePadend": true,
-            "filePrefixMode": 1,
-            "startIndex": 1
-          },
-          "syosetu": {
-            "txtdownload_id": "undefined",
-            "novel_id": "n8567do"
-          },
-          "textlayout": {
-            "allow_lf2": false
-          }
-        },
-        "link": [
-          "[dip.jp](https://narou.nar.jp/search.php?text=n8567do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
-          "[除了成为奴隶商人以外别无选择吧](https://tieba.baidu.com/f?kw=%E9%99%A4%E4%BA%86%E6%88%90%E4%B8%BA%E5%A5%B4%E9%9A%B6%E5%95%86%E4%BA%BA%E4%BB%A5%E5%A4%96%E5%88%AB%E6%97%A0%E9%80%89%E6%8B%A9&ie=utf-8 \"除了成为奴隶商人以外别无选择\")",
-          "[dm5](http://www.dm5.com/manhua-chulechengweinulishangrenyiwaibiewuxuanzeyo-hougong-nahaochima/)",
-          "[over-lap.co.jp](https://over-lap.co.jp/narou/865542509/)",
-          "https://masiro.moe/forum.php?mod=forumdisplay&fid=110"
-        ]
-      },
       "婚約者は、私の妹に恋をする": {
         "novel": {
           "title": "婚約者は、私の妹に恋をする",
@@ -15993,6 +15953,81 @@
         "link": [
           "[dip.jp](https://narou.dip.jp/search.php?text=n7105co&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[大陆英雄战记吧](https://tieba.baidu.com/f?kw=%E5%A4%A7%E9%99%86%E8%8B%B1%E9%9B%84%E6%88%98%E8%AE%B0&ie=utf-8 \"大陆英雄战记\")"
+        ]
+      },
+      "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～": {
+        "novel": {
+          "title": "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～",
+          "title_zh": "除了成為奴隸商人以外別無選擇喲？～後宮？那好吃嗎？",
+          "author": "カラユミ",
+          "illust": "neropaso",
+          "illusts": [
+            "ごまし"
+          ],
+          "source": "http://ncode.syosetu.com/n8567do/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/91sSsOf1oqL.jpg",
+          "publisher": "syosetu",
+          "date": "2019-01-18T10:35:00+08:00",
+          "status": "完結済",
+          "novel_status": 769,
+          "series": {
+            "name": "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～"
+          },
+          "preface": "塞奧利斯遵循村中的慣例一到十五歲就去職業學校。從那裡得到的稱號將會決定人生的大致方向,但是他所得到的稱號是【勇者】【魔帝】【大賢者】【奴隸商人】、無論哪一個都是見不得人的。他從中選了最不引人注目的、能輕鬆活下去的最差的稱號【奴隸商人】。開啟了被青梅竹馬的毒舌美少女、同是奴隸商人的精靈、貓耳冒險者、蘿莉魔王等各式各樣的女性折騰的後宮苦勞傳\n\n村の決まりで十五歳から職業学校に通うことになったゼオリス。そこで得られる称号で人生がほぼ決まるのだが、得られた称号は【勇者】【魔帝】【大賢者】【奴隷商人】と、どれも人目を憚る称号ばかりだった。その中で一番注目されず、生きていくのが楽そうな最低の称号【奴隷商人】を選ぶことに。幼馴染の毒舌美少女から同じ奴隷商人のエルフ、猫耳冒険者、ロリ魔王と多種多様な女性に振り回されるハーレム苦労譚。\n■コミカライズは書籍をベースとしていますので、WEB版とは途中から大きく異なる予定です。\n\n\n■2018.1.26完結\n■只今3巻まで発売中\n■書籍は一巻後半部分でweb版から分岐ルート\n■幻冬舎コミックスのコミックブーストでコミカライズ中\n◆アルファポリス外部サイト登録中\n【今日の一冊】で紹介されました。2016.11.22【http://syosetu.com/issatu/archive/no/25/】",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "エルフ",
+            "ギャグ",
+            "ゲイネタ有",
+            "コミカライズ",
+            "コメディ",
+            "ハッピーエンド",
+            "ヒロイン問題有",
+            "ラブコメ",
+            "主人公最強？",
+            "勘違いされ系",
+            "変態主人公",
+            "後半",
+            "徐々に下ネタ増",
+            "書籍化",
+            "残酷な描写あり",
+            "獣人",
+            "結婚",
+            "苦労ハーレム",
+            "魔王"
+          ]
+        },
+        "contribute": [
+          "Yuki",
+          "jemiwyl",
+          "半支蜡烛♬",
+          "忍野忍",
+          "懒惰的鹹鱼",
+          "月下空城♂",
+          "缘指逝的水滴"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "undefined",
+            "novel_id": "n8567do"
+          },
+          "textlayout": {
+            "allow_lf2": false
+          }
+        },
+        "link": [
+          "[dip.jp](https://narou.nar.jp/search.php?text=n8567do&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[除了成为奴隶商人以外别无选择吧](https://tieba.baidu.com/f?kw=%E9%99%A4%E4%BA%86%E6%88%90%E4%B8%BA%E5%A5%B4%E9%9A%B6%E5%95%86%E4%BA%BA%E4%BB%A5%E5%A4%96%E5%88%AB%E6%97%A0%E9%80%89%E6%8B%A9&ie=utf-8 \"除了成为奴隶商人以外别无选择\")",
+          "[dm5](http://www.dm5.com/manhua-chulechengweinulishangrenyiwaibiewuxuanzeyo-hougong-nahaochima/)",
+          "[over-lap.co.jp](https://over-lap.co.jp/narou/865542509/)",
+          "https://masiro.moe/forum.php?mod=forumdisplay&fid=110"
         ]
       },
       "帰ってきた元勇者": {
