@@ -1,605 +1,11 @@
 {
   "meta": {
-    "todayTimestamp": 1560873600000,
-    "timestamp": 1560900314705,
+    "todayTimestamp": 1560960000000,
+    "timestamp": 1560986781717,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
   "history": {
-    "1558713600000": {
-      "epub_count": 7,
-      "epub": [
-        [
-          "girl",
-          "Genocide Online ～極惡千金的玩遊戲日記～",
-          {
-            "segment_date": 1558393606088,
-            "segment_old": 1,
-            "segment": 1,
-            "init_date": 1549641600000,
-            "epub_date": 1558743615905,
-            "volume_old": 1,
-            "chapter_old": 116,
-            "volume": 1,
-            "chapter": 120,
-            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
-            "novel_status": 256,
-            "update_date": 1558713600000,
-            "update_count": 21,
-            "txt_basename": "Genocide Online ～極惡千.out.txt"
-          }
-        ],
-        [
-          "girl",
-          "エリナの成長物語（引き籠り女神の転生）",
-          {
-            "init_date": 1552492800000,
-            "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
-            "epub_date": 1558743616844,
-            "volume_old": 1,
-            "chapter_old": 17,
-            "volume": 1,
-            "chapter": 19,
-            "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
-            "update_date": 1558713600000,
-            "update_count": 9,
-            "segment_date": 1558742465927,
-            "segment_old": 1,
-            "segment": 1
-          }
-        ],
-        [
-          "girl",
-          "ポンコツ少女の電脳世界救世記",
-          {
-            "init_date": 1554739200000,
-            "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
-            "epub_date": 1558743617779,
-            "volume_old": 1,
-            "chapter_old": 16,
-            "volume": 2,
-            "chapter": 20,
-            "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
-            "novel_status": 1,
-            "update_date": 1558713600000,
-            "update_count": 10,
-            "segment_date": 1558742473531,
-            "segment_old": 1,
-            "segment": 1
-          }
-        ],
-        [
-          "girl_out",
-          "惡役轉生但是為什麼會變成這樣",
-          {
-            "txt_basename": "惡役轉生但是為什麼會變成這樣.out.txt",
-            "epub_date": 1558739347435,
-            "volume_old": 10,
-            "chapter_old": 148,
-            "volume": 10,
-            "chapter": 148,
-            "epub_basename": "惡役轉生但是為什麼會變成這樣.epub",
-            "novel_status": 256,
-            "init_date": 1558627200000,
-            "update_date": 1558713600000,
-            "update_count": 2
-          }
-        ],
-        [
-          "syosetu_out",
-          "乙女ゲー世界はモブに厳しい世界です",
-          {
-            "txt_basename": "乙女遊戲世界對路人角色太嚴厲.out.txt",
-            "epub_date": 1558743623439,
-            "volume_old": 6,
-            "chapter_old": 149,
-            "volume": 6,
-            "chapter": 149,
-            "epub_basename": "乙女遊戲世界對路人角色太嚴厲.epub",
-            "novel_status": 768,
-            "init_date": 1558540800000,
-            "update_date": 1558713600000,
-            "update_count": 3
-          }
-        ],
-        [
-          "ts_out",
-          "自称贤者弟子的贤者",
-          {
-            "txt_basename": "自称贤者弟子的贤者.out.txt",
-            "epub_date": 1558743632483,
-            "volume_old": 7,
-            "chapter_old": 313,
-            "volume": 7,
-            "chapter": 315,
-            "epub_basename": "自称贤者弟子的贤者.epub",
-            "novel_status": 768,
-            "init_date": 1556812800000,
-            "update_date": 1558713600000,
-            "update_count": 3
-          }
-        ],
-        [
-          "wenku8_out",
-          "平凡職業造就世界最強",
-          {
-            "txt_basename": "平凡職業造就世界最強.out.txt",
-            "epub_date": 1558743655916,
-            "volume_old": 27,
-            "chapter_old": 464,
-            "volume": 28,
-            "chapter": 477,
-            "epub_basename": "平凡職業造就世界最強.epub",
-            "novel_status": 1792,
-            "init_date": 1549900800000,
-            "update_date": 1558713600000,
-            "update_count": 11
-          }
-        ]
-      ],
-      "segment_count": 6,
-      "segment": [
-        [
-          "cm",
-          "リビティウム皇国のブタクサ姫",
-          {
-            "segment_date": 1558742428874,
-            "segment_old": 1,
-            "segment": 25,
-            "init_date": 1545521021481,
-            "update_date": 1558713600000,
-            "update_count": 7
-          }
-        ],
-        [
-          "girl",
-          "エリナの成長物語（引き籠り女神の転生）",
-          {
-            "init_date": 1552492800000,
-            "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
-            "epub_date": 1558743616844,
-            "volume_old": 1,
-            "chapter_old": 17,
-            "volume": 1,
-            "chapter": 19,
-            "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
-            "update_date": 1558713600000,
-            "update_count": 9,
-            "segment_date": 1558742465927,
-            "segment_old": 1,
-            "segment": 1
-          }
-        ],
-        [
-          "girl",
-          "ポンコツ少女の電脳世界救世記",
-          {
-            "init_date": 1554739200000,
-            "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
-            "epub_date": 1558743617779,
-            "volume_old": 1,
-            "chapter_old": 16,
-            "volume": 2,
-            "chapter": 20,
-            "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
-            "novel_status": 1,
-            "update_date": 1558713600000,
-            "update_count": 10,
-            "segment_date": 1558742473531,
-            "segment_old": 1,
-            "segment": 1
-          }
-        ],
-        [
-          "girl",
-          "你這種傢伙別想打贏魔王",
-          {
-            "init_date": 1550505600000,
-            "segment_date": 1558742528291,
-            "segment_old": 2,
-            "segment": 10,
-            "update_date": 1558713600000,
-            "update_count": 8
-          }
-        ],
-        [
-          "syosetu",
-          "乙女ゲー世界はモブに厳しい世界です",
-          {
-            "init_date": 1545494400000,
-            "chapter_old": 82,
-            "chapter": 82,
-            "segment_date": 1558742573453,
-            "segment_old": 33,
-            "segment": 1,
-            "epub_date": 1548977872411,
-            "volume_old": 5,
-            "volume": 5,
-            "epub_basename": "乙女遊戲世界對路人角色太嚴厲.epub",
-            "update_date": 1558713600000,
-            "update_count": 6,
-            "txt_basename": "乙女遊戲世界對路人角色太嚴厲.out.txt"
-          }
-        ],
-        [
-          "ts",
-          "自称贤者弟子的贤者",
-          {
-            "segment_date": 1558742821974,
-            "segment_old": 76,
-            "segment": 19,
-            "init_date": 1556812800000,
-            "update_date": 1558713600000,
-            "update_count": 2
-          }
-        ]
-      ]
-    },
-    "1558886400000": {
-      "segment_count": 1,
-      "segment": [
-        [
-          "girl",
-          "謙虚、堅実をモットーに生きております！",
-          {
-            "segment_date": 1558912286691,
-            "segment_old": 0,
-            "segment": 5,
-            "init_date": 1558912286691,
-            "update_date": 1558886400000,
-            "update_count": 1
-          }
-        ]
-      ],
-      "epub_count": 1,
-      "epub": [
-        [
-          "girl_out",
-          "謙虚、堅実をモットーに生きております！",
-          {
-            "txt_basename": "謙虛踏實的生活下去.out.txt",
-            "epub_date": 1558912312503,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 299,
-            "epub_basename": "謙虛踏實的生活下去.epub",
-            "init_date": 1558912312503,
-            "update_date": 1558886400000,
-            "update_count": 1
-          }
-        ]
-      ]
-    },
-    "1559059200000": {
-      "segment_count": 1,
-      "segment": [
-        [
-          "h",
-          "俺が淫魔術で奴隷ハーレムを作る話",
-          {
-            "segment_date": 1559085020423,
-            "segment_old": 2,
-            "segment": 2,
-            "init_date": 1556294400000,
-            "txt_basename": "我仰賴淫魔術建立了奴隸後宮.out.txt",
-            "epub_date": 1559085040608,
-            "volume_old": 1,
-            "chapter_old": 6,
-            "volume": 1,
-            "chapter": 7,
-            "epub_basename": "我仰賴淫魔術建立了奴隸後宮.epub",
-            "novel_status": 256,
-            "update_date": 1559059200000,
-            "update_count": 3
-          }
-        ]
-      ],
-      "epub_count": 1,
-      "epub": [
-        [
-          "h",
-          "俺が淫魔術で奴隷ハーレムを作る話",
-          {
-            "segment_date": 1559085020423,
-            "segment_old": 2,
-            "segment": 2,
-            "init_date": 1556294400000,
-            "txt_basename": "我仰賴淫魔術建立了奴隸後宮.out.txt",
-            "epub_date": 1559085040608,
-            "volume_old": 1,
-            "chapter_old": 6,
-            "volume": 1,
-            "chapter": 7,
-            "epub_basename": "我仰賴淫魔術建立了奴隸後宮.epub",
-            "novel_status": 256,
-            "update_date": 1559059200000,
-            "update_count": 3
-          }
-        ]
-      ]
-    },
-    "1559145600000": {
-      "segment_count": 4,
-      "segment": [
-        [
-          "girl",
-          "「「神と呼ばれ、魔王と呼ばれても」」",
-          {
-            "segment_date": 1559171497172,
-            "segment_old": 71,
-            "segment": 24,
-            "init_date": 1549641600000,
-            "epub_date": 1559171797642,
-            "volume_old": 1,
-            "chapter_old": 72,
-            "volume": 1,
-            "chapter": 81,
-            "epub_basename": "無論是被當作神，還是被當作魔王.epub",
-            "novel_status": 1,
-            "update_date": 1559145600000,
-            "update_count": 5,
-            "txt_basename": "無論是被當作神，還是被當作魔王.out.txt"
-          }
-        ],
-        [
-          "girl",
-          "ポンコツ少女の電脳世界救世記",
-          {
-            "init_date": 1554739200000,
-            "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
-            "epub_date": 1559171798836,
-            "volume_old": 2,
-            "chapter_old": 20,
-            "volume": 2,
-            "chapter": 25,
-            "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
-            "novel_status": 1,
-            "update_date": 1559145600000,
-            "update_count": 11,
-            "segment_date": 1559171506322,
-            "segment_old": 1,
-            "segment": 1
-          }
-        ],
-        [
-          "girl",
-          "勿論、慰謝料請求いたします！",
-          {
-            "segment_date": 1559171513130,
-            "segment_old": 0,
-            "segment": 30,
-            "init_date": 1559171513130,
-            "txt_basename": "勿論、慰謝料請求いたします！.out.txt",
-            "epub_date": 1559171802314,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 30,
-            "epub_basename": "勿論、慰謝料請求いたします！.epub",
-            "novel_status": 768,
-            "update_date": 1559145600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "ts",
-          "自称贤者弟子的贤者",
-          {
-            "segment_date": 1559171764436,
-            "segment_old": 19,
-            "segment": 4,
-            "init_date": 1556812800000,
-            "update_date": 1559145600000,
-            "update_count": 3
-          }
-        ]
-      ],
-      "epub_count": 6,
-      "epub": [
-        [
-          "girl",
-          "Genocide Online ～極惡千金的玩遊戲日記～",
-          {
-            "segment_date": 1558393606088,
-            "segment_old": 1,
-            "segment": 1,
-            "init_date": 1549641600000,
-            "epub_date": 1559171788669,
-            "volume_old": 1,
-            "chapter_old": 120,
-            "volume": 1,
-            "chapter": 125,
-            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
-            "novel_status": 256,
-            "update_date": 1559145600000,
-            "update_count": 22,
-            "txt_basename": "Genocide Online ～極惡千.out.txt"
-          }
-        ],
-        [
-          "girl",
-          "「「神と呼ばれ、魔王と呼ばれても」」",
-          {
-            "segment_date": 1559171497172,
-            "segment_old": 71,
-            "segment": 24,
-            "init_date": 1549641600000,
-            "epub_date": 1559171797642,
-            "volume_old": 1,
-            "chapter_old": 72,
-            "volume": 1,
-            "chapter": 81,
-            "epub_basename": "無論是被當作神，還是被當作魔王.epub",
-            "novel_status": 1,
-            "update_date": 1559145600000,
-            "update_count": 5,
-            "txt_basename": "無論是被當作神，還是被當作魔王.out.txt"
-          }
-        ],
-        [
-          "girl",
-          "ポンコツ少女の電脳世界救世記",
-          {
-            "init_date": 1554739200000,
-            "txt_basename": "廢柴少女的電腦世界救世記　～不中用的技能.out.txt",
-            "epub_date": 1559171798836,
-            "volume_old": 2,
-            "chapter_old": 20,
-            "volume": 2,
-            "chapter": 25,
-            "epub_basename": "廢柴少女的電腦世界救世記　～不中用的技能『物品箱』是超越時間的～.epub",
-            "novel_status": 1,
-            "update_date": 1559145600000,
-            "update_count": 11,
-            "segment_date": 1559171506322,
-            "segment_old": 1,
-            "segment": 1
-          }
-        ],
-        [
-          "girl",
-          "勿論、慰謝料請求いたします！",
-          {
-            "segment_date": 1559171513130,
-            "segment_old": 0,
-            "segment": 30,
-            "init_date": 1559171513130,
-            "txt_basename": "勿論、慰謝料請求いたします！.out.txt",
-            "epub_date": 1559171802314,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 30,
-            "epub_basename": "勿論、慰謝料請求いたします！.epub",
-            "novel_status": 768,
-            "update_date": 1559145600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "girl",
-          "自覚なし聖女の異世界モフモフ道中",
-          {
-            "init_date": 1559145600000,
-            "txt_basename": "無自覺聖女的摸呼摸呼旅程.out.txt",
-            "epub_date": 1559171802466,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 1,
-            "chapter": 1,
-            "epub_basename": "無自覺聖女的摸呼摸呼旅程.epub",
-            "update_date": 1559145600000,
-            "update_count": 1
-          }
-        ],
-        [
-          "ts_out",
-          "自称贤者弟子的贤者",
-          {
-            "txt_basename": "自称贤者弟子的贤者.out.txt",
-            "epub_date": 1559171811769,
-            "volume_old": 7,
-            "chapter_old": 315,
-            "volume": 7,
-            "chapter": 316,
-            "epub_basename": "自称贤者弟子的贤者.epub",
-            "novel_status": 768,
-            "init_date": 1556812800000,
-            "update_date": 1559145600000,
-            "update_count": 4
-          }
-        ]
-      ]
-    },
-    "1559232000000": {
-      "epub_count": 1,
-      "epub": [
-        [
-          "syosetu_out",
-          "願わくばこの手に幸福を",
-          {
-            "txt_basename": "願わくばこの手に幸福を.out.txt",
-            "epub_date": 1559258025861,
-            "volume_old": 0,
-            "chapter_old": 0,
-            "volume": 4,
-            "chapter": 30,
-            "epub_basename": "願わくばこの手に幸福を.epub",
-            "novel_status": 768,
-            "init_date": 1559258025861,
-            "update_date": 1559232000000,
-            "update_count": 1
-          }
-        ]
-      ]
-    },
-    "1559318400000": {
-      "segment_count": 1,
-      "segment": [
-        [
-          "syosetu",
-          "乙女ゲー世界はモブに厳しい世界です",
-          {
-            "init_date": 1545494400000,
-            "chapter_old": 82,
-            "chapter": 82,
-            "segment_date": 1559344352585,
-            "segment_old": 1,
-            "segment": 1,
-            "epub_date": 1548977872411,
-            "volume_old": 5,
-            "volume": 5,
-            "epub_basename": "乙女遊戲世界對路人角色太嚴厲.epub",
-            "update_date": 1559318400000,
-            "update_count": 7,
-            "txt_basename": "乙女遊戲世界對路人角色太嚴厲.out.txt"
-          }
-        ]
-      ],
-      "epub_count": 1,
-      "epub": [
-        [
-          "syosetu_out",
-          "乙女ゲー世界はモブに厳しい世界です",
-          {
-            "txt_basename": "乙女遊戲世界對路人角色太嚴厲.out.txt",
-            "epub_date": 1559344376502,
-            "volume_old": 6,
-            "chapter_old": 149,
-            "volume": 6,
-            "chapter": 149,
-            "epub_basename": "乙女遊戲世界對路人角色太嚴厲.epub",
-            "novel_status": 768,
-            "init_date": 1558540800000,
-            "update_date": 1559318400000,
-            "update_count": 4
-          }
-        ]
-      ]
-    },
-    "1559664000000": {
-      "epub_count": 1,
-      "epub": [
-        [
-          "syosetu_out",
-          "乙女ゲー世界はモブに厳しい世界です",
-          {
-            "txt_basename": "乙女遊戲世界對路人角色太嚴厲.out.txt",
-            "epub_date": 1559690165050,
-            "volume_old": 6,
-            "chapter_old": 149,
-            "volume": 6,
-            "chapter": 149,
-            "epub_basename": "乙女遊戲世界對路人角色太嚴厲.epub",
-            "novel_status": 768,
-            "init_date": 1558540800000,
-            "update_date": 1559664000000,
-            "update_count": 5
-          }
-        ]
-      ]
-    },
     "1559923200000": {
       "segment_count": 4,
       "segment": [
@@ -5225,6 +4631,139 @@
           }
         ]
       ]
+    },
+    "1560960000000": {
+      "segment_count": 3,
+      "segment": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1560986537551,
+            "segment_old": 3,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1560986753185,
+            "volume_old": 1,
+            "chapter_old": 141,
+            "volume": 1,
+            "chapter": 145,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1560960000000,
+            "update_count": 27,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "惡役轉生但是為什麼會變成這樣",
+          {
+            "init_date": 1557331200000,
+            "txt_basename": "惡役轉生但是為什麼會變成這樣.out.txt",
+            "epub_date": 1557361605355,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 10,
+            "chapter": 148,
+            "epub_basename": "惡役轉生但是為什麼會變成這樣.epub",
+            "novel_status": 256,
+            "update_date": 1560960000000,
+            "update_count": 4,
+            "segment_date": 1560986575990,
+            "segment_old": 3,
+            "segment": 4
+          }
+        ],
+        [
+          "ts",
+          "自称贤者弟子的贤者",
+          {
+            "segment_date": 1560986730854,
+            "segment_old": 2,
+            "segment": 10,
+            "init_date": 1556812800000,
+            "update_date": 1560960000000,
+            "update_count": 5
+          }
+        ]
+      ],
+      "epub_count": 4,
+      "epub": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1560986537551,
+            "segment_old": 3,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1560986753185,
+            "volume_old": 1,
+            "chapter_old": 141,
+            "volume": 1,
+            "chapter": 145,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1560960000000,
+            "update_count": 27,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "エリナの成長物語（引き籠り女神の転生）",
+          {
+            "init_date": 1552492800000,
+            "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
+            "epub_date": 1560986754121,
+            "volume_old": 1,
+            "chapter_old": 22,
+            "volume": 1,
+            "chapter": 25,
+            "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
+            "update_date": 1560960000000,
+            "update_count": 12,
+            "segment_date": 1559949440201,
+            "segment_old": 1,
+            "segment": 1
+          }
+        ],
+        [
+          "girl_out",
+          "惡役轉生但是為什麼會變成這樣",
+          {
+            "txt_basename": "惡役轉生但是為什麼會變成這樣.out.txt",
+            "epub_date": 1560986757976,
+            "volume_old": 10,
+            "chapter_old": 148,
+            "volume": 10,
+            "chapter": 148,
+            "epub_basename": "惡役轉生但是為什麼會變成這樣.epub",
+            "novel_status": 256,
+            "init_date": 1558627200000,
+            "update_date": 1560960000000,
+            "update_count": 4
+          }
+        ],
+        [
+          "ts_out",
+          "自称贤者弟子的贤者",
+          {
+            "txt_basename": "自称贤者弟子的贤者.out.txt",
+            "epub_date": 1560986766841,
+            "volume_old": 7,
+            "chapter_old": 316,
+            "volume": 7,
+            "chapter": 318,
+            "epub_basename": "自称贤者弟子的贤者.epub",
+            "novel_status": 768,
+            "init_date": 1556812800000,
+            "update_date": 1560960000000,
+            "update_count": 5
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -7631,7 +7170,7 @@
         "chapter": 47,
         "epub_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？那好吃嗎？.epub",
         "novel_status": 769,
-        "init_date": 1560900302631,
+        "init_date": 1560873600000,
         "update_date": 1560873600000,
         "update_count": 1
       }
@@ -8697,19 +8236,19 @@
     },
     "girl": {
       "Genocide Online ～極惡千金的玩遊戲日記～": {
-        "segment_date": 1559949404105,
-        "segment_old": 1,
-        "segment": 3,
+        "segment_date": 1560986537551,
+        "segment_old": 3,
+        "segment": 1,
         "init_date": 1549641600000,
-        "epub_date": 1560859993889,
+        "epub_date": 1560986753185,
         "volume_old": 1,
         "chapter_old": 141,
         "volume": 1,
-        "chapter": 141,
+        "chapter": 145,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1560787200000,
-        "update_count": 26,
+        "update_date": 1560960000000,
+        "update_count": 27,
         "txt_basename": "Genocide Online ～極惡千.out.txt"
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
@@ -8817,14 +8356,14 @@
       "エリナの成長物語（引き籠り女神の転生）": {
         "init_date": 1552492800000,
         "txt_basename": "エリナの成長物語（引き籠り女神の転生）.out.txt",
-        "epub_date": 1560328724053,
+        "epub_date": 1560986754121,
         "volume_old": 1,
         "chapter_old": 22,
         "volume": 1,
-        "chapter": 22,
+        "chapter": 25,
         "epub_basename": "エリナの成長物語（引き籠り女神の転生）.epub",
-        "update_date": 1560268800000,
-        "update_count": 11,
+        "update_date": 1560960000000,
+        "update_count": 12,
         "segment_date": 1559949440201,
         "segment_old": 1,
         "segment": 1
@@ -8931,11 +8470,11 @@
         "chapter": 148,
         "epub_basename": "惡役轉生但是為什麼會變成這樣.epub",
         "novel_status": 256,
-        "update_date": 1560268800000,
-        "update_count": 3,
-        "segment_date": 1560326212291,
-        "segment_old": 1,
-        "segment": 3
+        "update_date": 1560960000000,
+        "update_count": 4,
+        "segment_date": 1560986575990,
+        "segment_old": 3,
+        "segment": 4
       },
       "chase　～何度ループしてもあなたを救えない物語～": {
         "init_date": 1557417600000,
@@ -9060,7 +8599,7 @@
       },
       "惡役轉生但是為什麼會變成這樣": {
         "txt_basename": "惡役轉生但是為什麼會變成這樣.out.txt",
-        "epub_date": 1560328753713,
+        "epub_date": 1560986757976,
         "volume_old": 10,
         "chapter_old": 148,
         "volume": 10,
@@ -9068,8 +8607,8 @@
         "epub_basename": "惡役轉生但是為什麼會變成這樣.epub",
         "novel_status": 256,
         "init_date": 1558627200000,
-        "update_date": 1560268800000,
-        "update_count": 3
+        "update_date": 1560960000000,
+        "update_count": 4
       },
       "謙虚、堅実をモットーに生きております！": {
         "txt_basename": "謙虛踏實的生活下去.out.txt",
@@ -9148,12 +8687,12 @@
         "update_count": 1
       },
       "自称贤者弟子的贤者": {
-        "segment_date": 1560337771472,
-        "segment_old": 4,
-        "segment": 2,
+        "segment_date": 1560986730854,
+        "segment_old": 2,
+        "segment": 10,
         "init_date": 1556812800000,
-        "update_date": 1560268800000,
-        "update_count": 4
+        "update_date": 1560960000000,
+        "update_count": 5
       },
       "葉隠桜は嘆かない": {
         "init_date": 1556812800000,
@@ -9232,16 +8771,16 @@
       },
       "自称贤者弟子的贤者": {
         "txt_basename": "自称贤者弟子的贤者.out.txt",
-        "epub_date": 1559171811769,
+        "epub_date": 1560986766841,
         "volume_old": 7,
         "chapter_old": 316,
         "volume": 7,
-        "chapter": 316,
+        "chapter": 318,
         "epub_basename": "自称贤者弟子的贤者.epub",
         "novel_status": 768,
         "init_date": 1556812800000,
-        "update_date": 1559145600000,
-        "update_count": 4
+        "update_date": 1560960000000,
+        "update_count": 5
       }
     },
     "game": {
