@@ -1,5 +1,31 @@
 # HISTORY
 
+## 2019-06-21
+
+### Epub
+
+- [Nostalgia World Online](girl/Nostalgia%20World%20Online) - girl
+  <br/>( v: 7 , c: 348, add: 348 )
+- [十歳の最強魔導師](girl/%E5%8D%81%E6%AD%B3%E3%81%AE%E6%9C%80%E5%BC%B7%E9%AD%94%E5%B0%8E%E5%B8%AB) - girl
+  <br/>( v: 1 , c: 153, add: 7 )
+- [你這種傢伙別想打贏魔王](girl_out/%E4%BD%A0%E9%80%99%E7%A8%AE%E5%82%A2%E4%BC%99%E5%88%A5%E6%83%B3%E6%89%93%E8%B4%8F%E9%AD%94%E7%8E%8B) - girl_out
+  <br/>( v: 15 , c: 130, add: 7 )
+- [惡役轉生但是為什麼會變成這樣](girl_out/%E6%83%A1%E5%BD%B9%E8%BD%89%E7%94%9F%E4%BD%86%E6%98%AF%E7%82%BA%E4%BB%80%E9%BA%BC%E6%9C%83%E8%AE%8A%E6%88%90%E9%80%99%E6%A8%A3) - girl_out
+  <br/>( v: 10 , c: 148, add: 0 )
+- [転生貴族の異世界冒険録](syosetu/%E8%BB%A2%E7%94%9F%E8%B2%B4%E6%97%8F%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E5%86%92%E9%99%BA%E9%8C%B2) - syosetu
+  <br/>( v: 6 , c: 192, add: 192 )
+
+### Segment
+
+- [Nostalgia World Online](girl/Nostalgia%20World%20Online) - girl
+  <br/>( s: 158 )
+- [你這種傢伙別想打贏魔王](girl/%E4%BD%A0%E9%80%99%E7%A8%AE%E5%82%A2%E4%BC%99%E5%88%A5%E6%83%B3%E6%89%93%E8%B4%8F%E9%AD%94%E7%8E%8B) - girl
+  <br/>( s: 1 )
+- [十歳の最強魔導師](girl/%E5%8D%81%E6%AD%B3%E3%81%AE%E6%9C%80%E5%BC%B7%E9%AD%94%E5%B0%8E%E5%B8%AB) - girl
+  <br/>( s: 2 )
+- [転生貴族の異世界冒険録](syosetu/%E8%BB%A2%E7%94%9F%E8%B2%B4%E6%97%8F%E3%81%AE%E7%95%B0%E4%B8%96%E7%95%8C%E5%86%92%E9%99%BA%E9%8C%B2) - syosetu
+  <br/>( s: 26 )
+
 ## 2019-06-20
 
 ### Epub
