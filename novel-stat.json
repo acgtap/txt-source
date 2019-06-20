@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1560960000000,
-    "timestamp": 1560986781717,
+    "todayTimestamp": 1561046400000,
+    "timestamp": 1561073256125,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -4764,6 +4764,178 @@
           }
         ]
       ]
+    },
+    "1561046400000": {
+      "segment_count": 4,
+      "segment": [
+        [
+          "girl",
+          "Nostalgia World Online",
+          {
+            "segment_date": 1561073041580,
+            "segment_old": 0,
+            "segment": 158,
+            "init_date": 1561073041580,
+            "txt_basename": "Nostalgia World Onli.out.txt",
+            "epub_date": 1561073219155,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 7,
+            "chapter": 348,
+            "epub_basename": "Nostalgia World Online.epub",
+            "update_date": 1561046400000,
+            "update_count": 1
+          }
+        ],
+        [
+          "girl",
+          "你這種傢伙別想打贏魔王",
+          {
+            "init_date": 1550505600000,
+            "segment_date": 1561073102695,
+            "segment_old": 20,
+            "segment": 1,
+            "update_date": 1561046400000,
+            "update_count": 11
+          }
+        ],
+        [
+          "girl",
+          "十歳の最強魔導師",
+          {
+            "segment_date": 1561073119249,
+            "segment_old": 1,
+            "segment": 2,
+            "init_date": 1555603200000,
+            "txt_basename": "十歳の最強魔導師.out.txt",
+            "epub_date": 1561073223096,
+            "volume_old": 1,
+            "chapter_old": 146,
+            "volume": 1,
+            "chapter": 153,
+            "epub_basename": "十歳の最強魔導師.epub",
+            "novel_status": 256,
+            "update_date": 1561046400000,
+            "update_count": 6
+          }
+        ],
+        [
+          "syosetu",
+          "転生貴族の異世界冒険録",
+          {
+            "segment_date": 1561073180254,
+            "segment_old": 0,
+            "segment": 26,
+            "init_date": 1561073180254,
+            "txt_basename": "転生貴族の異世界冒険録.out.txt",
+            "epub_date": 1561073238546,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 6,
+            "chapter": 192,
+            "epub_basename": "転生貴族の異世界冒険録.epub",
+            "novel_status": 768,
+            "update_date": 1561046400000,
+            "update_count": 1
+          }
+        ]
+      ],
+      "epub_count": 5,
+      "epub": [
+        [
+          "girl",
+          "Nostalgia World Online",
+          {
+            "segment_date": 1561073041580,
+            "segment_old": 0,
+            "segment": 158,
+            "init_date": 1561073041580,
+            "txt_basename": "Nostalgia World Onli.out.txt",
+            "epub_date": 1561073219155,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 7,
+            "chapter": 348,
+            "epub_basename": "Nostalgia World Online.epub",
+            "update_date": 1561046400000,
+            "update_count": 1
+          }
+        ],
+        [
+          "girl",
+          "十歳の最強魔導師",
+          {
+            "segment_date": 1561073119249,
+            "segment_old": 1,
+            "segment": 2,
+            "init_date": 1555603200000,
+            "txt_basename": "十歳の最強魔導師.out.txt",
+            "epub_date": 1561073223096,
+            "volume_old": 1,
+            "chapter_old": 146,
+            "volume": 1,
+            "chapter": 153,
+            "epub_basename": "十歳の最強魔導師.epub",
+            "novel_status": 256,
+            "update_date": 1561046400000,
+            "update_count": 6
+          }
+        ],
+        [
+          "girl_out",
+          "你這種傢伙別想打贏魔王",
+          {
+            "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
+            "epub_date": 1561073229507,
+            "volume_old": 15,
+            "chapter_old": 123,
+            "volume": 15,
+            "chapter": 130,
+            "epub_basename": "你這種傢伙別想打贏魔王.epub",
+            "novel_status": 769,
+            "init_date": 1550505600000,
+            "update_date": 1561046400000,
+            "update_count": 8
+          }
+        ],
+        [
+          "girl_out",
+          "惡役轉生但是為什麼會變成這樣",
+          {
+            "txt_basename": "惡役轉生但是為什麼會變成這樣.out.txt",
+            "epub_date": 1561073233600,
+            "volume_old": 10,
+            "chapter_old": 148,
+            "volume": 10,
+            "chapter": 148,
+            "epub_basename": "惡役轉生但是為什麼會變成這樣.epub",
+            "novel_status": 256,
+            "init_date": 1558627200000,
+            "update_date": 1561046400000,
+            "update_count": 5
+          }
+        ],
+        [
+          "syosetu",
+          "転生貴族の異世界冒険録",
+          {
+            "segment_date": 1561073180254,
+            "segment_old": 0,
+            "segment": 26,
+            "init_date": 1561073180254,
+            "txt_basename": "転生貴族の異世界冒険録.out.txt",
+            "epub_date": 1561073238546,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 6,
+            "chapter": 192,
+            "epub_basename": "転生貴族の異世界冒険録.epub",
+            "novel_status": 768,
+            "update_date": 1561046400000,
+            "update_count": 1
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -5609,6 +5781,22 @@
         "segment": 26,
         "init_date": 1560268800000,
         "update_date": 1560268800000,
+        "update_count": 1
+      },
+      "転生貴族の異世界冒険録": {
+        "segment_date": 1561073180254,
+        "segment_old": 0,
+        "segment": 26,
+        "init_date": 1561073180254,
+        "txt_basename": "転生貴族の異世界冒険録.out.txt",
+        "epub_date": 1561073238546,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 6,
+        "chapter": 192,
+        "epub_basename": "転生貴族の異世界冒険録.epub",
+        "novel_status": 768,
+        "update_date": 1561046400000,
         "update_count": 1
       }
     },
@@ -8301,11 +8489,11 @@
       },
       "你這種傢伙別想打贏魔王": {
         "init_date": 1550505600000,
-        "segment_date": 1560814603260,
-        "segment_old": 2,
-        "segment": 20,
-        "update_date": 1560787200000,
-        "update_count": 10
+        "segment_date": 1561073102695,
+        "segment_old": 20,
+        "segment": 1,
+        "update_date": 1561046400000,
+        "update_count": 11
       },
       "JKハルは異世界で娼婦になった": {
         "segment_date": 1560325991217,
@@ -8429,20 +8617,20 @@
         "segment": 1
       },
       "十歳の最強魔導師": {
-        "segment_date": 1560326143472,
-        "segment_old": 2,
-        "segment": 1,
+        "segment_date": 1561073119249,
+        "segment_old": 1,
+        "segment": 2,
         "init_date": 1555603200000,
         "txt_basename": "十歳の最強魔導師.out.txt",
-        "epub_date": 1560328730534,
+        "epub_date": 1561073223096,
         "volume_old": 1,
         "chapter_old": 146,
         "volume": 1,
-        "chapter": 146,
+        "chapter": 153,
         "epub_basename": "十歳の最強魔導師.epub",
         "novel_status": 256,
-        "update_date": 1560268800000,
-        "update_count": 5
+        "update_date": 1561046400000,
+        "update_count": 6
       },
       "魔王の娘の百合戦記": {
         "init_date": 1555776000000,
@@ -8551,6 +8739,21 @@
         "epub_basename": "無自覺聖女的摸呼摸呼旅程.epub",
         "update_date": 1560268800000,
         "update_count": 2
+      },
+      "Nostalgia World Online": {
+        "segment_date": 1561073041580,
+        "segment_old": 0,
+        "segment": 158,
+        "init_date": 1561073041580,
+        "txt_basename": "Nostalgia World Onli.out.txt",
+        "epub_date": 1561073219155,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 7,
+        "chapter": 348,
+        "epub_basename": "Nostalgia World Online.epub",
+        "update_date": 1561046400000,
+        "update_count": 1
       }
     },
     "modern": {
@@ -8573,16 +8776,16 @@
     "girl_out": {
       "你這種傢伙別想打贏魔王": {
         "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
-        "epub_date": 1560328739970,
+        "epub_date": 1561073229507,
         "volume_old": 15,
         "chapter_old": 123,
         "volume": 15,
-        "chapter": 123,
+        "chapter": 130,
         "epub_basename": "你這種傢伙別想打贏魔王.epub",
         "novel_status": 769,
         "init_date": 1550505600000,
-        "update_date": 1560268800000,
-        "update_count": 7
+        "update_date": 1561046400000,
+        "update_count": 8
       },
       "王女殿下はお怒りのようです": {
         "txt_basename": "王女殿下はお怒りのようです.out.txt",
@@ -8599,7 +8802,7 @@
       },
       "惡役轉生但是為什麼會變成這樣": {
         "txt_basename": "惡役轉生但是為什麼會變成這樣.out.txt",
-        "epub_date": 1560986757976,
+        "epub_date": 1561073233600,
         "volume_old": 10,
         "chapter_old": 148,
         "volume": 10,
@@ -8607,8 +8810,8 @@
         "epub_basename": "惡役轉生但是為什麼會變成這樣.epub",
         "novel_status": 256,
         "init_date": 1558627200000,
-        "update_date": 1560960000000,
-        "update_count": 4
+        "update_date": 1561046400000,
+        "update_count": 5
       },
       "謙虚、堅実をモットーに生きております！": {
         "txt_basename": "謙虛踏實的生活下去.out.txt",
@@ -10497,6 +10700,69 @@
           "[jk小春是异世界的娼妇吧](https://tieba.baidu.com/f?kw=jk%E5%B0%8F%E6%98%A5%E6%98%AF%E5%BC%82%E4%B8%96%E7%95%8C%E7%9A%84%E5%A8%BC%E5%A6%87&ie=utf-8 \"jk小春是异世界的娼妇\")"
         ]
       },
+      "Nostalgia World Online": {
+        "novel": {
+          "title": "Nostalgia World Online",
+          "title_zh1": "",
+          "author": "naginagi",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n8340dj/",
+          "cover": "https://pbs.twimg.com/media/DHWHEz9VoAIl6QJ.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-06-16T08:00:00+08:00",
+          "status": "連載",
+          "novel_status": 0,
+          "series": {
+            "name": "Nostalgia world online"
+          },
+          "preface": "五感をリアルに再現し、実際にゲームの世界で自由に動き回ったりすることができる体感型VRMMORPG『Nostalgia world online』通称NWO。雨宮 愛梨沙は幼馴染に誘われ人生初のVRMMOをプレイする。彼女の物語が今始まる。",
+          "tags": [
+            "GL(らしい",
+            "R15",
+            "SF",
+            "VRMMO",
+            "VRゲーム[SF]",
+            "VRゲーム〔SF〕",
+            "node-novel",
+            "syosetu",
+            "たまに砂糖成分",
+            "ほのぼのと殺伐が半々",
+            "スキル制",
+            "一芸スキル",
+            "保険)",
+            "冒険",
+            "女主人公",
+            "少し天然",
+            "幼馴染",
+            "残酷な描写あり",
+            "非デスゲーム",
+            "食道楽"
+          ]
+        },
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n8340dj"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n8340dj&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n8340dj/)",
+          "https://twitter.com/nagisa_fez"
+        ]
+      },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
         "novel": {
           "title": "「「神と呼ばれ、魔王と呼ばれても」」",
@@ -11451,6 +11717,7 @@
         "contribute": [
           "6667787#6757",
           "BIBIYZ",
+          "chaosfighter",
           "hill皮皮",
           "hououmon",
           "jiash08",
@@ -11462,7 +11729,8 @@
           "回元",
           "无水灬天际",
           "爱布丁的梨",
-          "物理盐鱼"
+          "物理盐鱼",
+          "猛然好"
         ],
         "options": {
           "dmzj": {
@@ -14784,6 +15052,75 @@
         "link": [
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n9475bv&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[转生在异世界对你倾注爱吧](https://tieba.baidu.com/f?kw=%E8%BD%AC%E7%94%9F%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E5%AF%B9%E4%BD%A0%E5%80%BE%E6%B3%A8%E7%88%B1&ie=utf-8 \"转生在异世界对你倾注爱\")"
+        ]
+      },
+      "転生貴族の異世界冒険録": {
+        "novel": {
+          "title": "転生貴族の異世界冒険録～自重を知らない神々の使徒～",
+          "title_zh1": "",
+          "author": "夜州",
+          "illust": "よつば",
+          "illusts": [
+            "藻"
+          ],
+          "source": "http://ncode.syosetu.com/n4936dp/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/81Kt%2BJLPDcL.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-06-02T07:00:00+08:00",
+          "status": "連載",
+          "novel_status": 768,
+          "series": {
+            "name": "転生貴族の異世界冒険録～自重を知らない神々の使徒～"
+          },
+          "preface": "◆◇ノベルス5巻　5月15日　＆　コミック2巻　5月31日より発売予定です◇◆\n\n通り魔から幼馴染の妹をかばうために刺され死んでしまった主人公、椎名和也はカイン・フォン・シルフォードという貴族の三男として剣と魔法の世界に転生した。自重の知らない神々と王国上層部や女性たちに振り回されながら成長していくカイン。神々の多大過ぎる加護を受け、でたらめなステータスを隠しながらフラグを乗り越えて行く、少し腹黒で少しドジで抜けている少年の王道ファンタジー。\n\n◆第五回ネット小説大賞　第二弾期間中受賞をいただきました。\n◆サーガフォレスト様（一二三書房）より1～4巻発売中（イラストは藻先生になります）\n◆マッグガーデン様（マグコミ）＆ニコニコ静画にてコミカライズ連載中（漫画担当はnini先生になります）\n\n\nこれまで多くの読者様にご指導いただいたお陰だと思っております。\n本当にありがとうございました！\n\n\n\n処女作となり素人丸出しの作品ですが、読者の皆様のご指摘を受けながら日々勉強していっております。後に読むにつれ作者の成長がわかるかもしれません。よろしくお願いいたします。",
+          "tags": [
+            "R15",
+            "node-novel",
+            "syosetu",
+            "オリジナル戦記",
+            "チート",
+            "ハイファンタジー",
+            "ハイファンタジー〔ファンタジー〕",
+            "ハッピーエンド",
+            "ハーレム",
+            "ファンタジー",
+            "主人公抜けてる",
+            "内政",
+            "冒険",
+            "冒険者",
+            "学園",
+            "書籍化",
+            "残酷な描写あり",
+            "男主人公",
+            "異世界転生",
+            "異世界転移",
+            "自重知らず",
+            "貴族",
+            "魔法"
+          ]
+        },
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n4936dp"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n4936dp&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n4936dp/)",
+          "https://www.dm5.com/manhua-zhuanshengguizudeyishijiemaoxianlu/"
         ]
       }
     },
