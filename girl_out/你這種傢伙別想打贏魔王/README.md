@@ -90,6 +90,8 @@ GCノベルズ様から書籍化決定しました！　発売日はまだ未定
 - hououmon
 - 吾乃良民hehe
 - 6667787#6757
+- 猛然好
+- chaosfighter
 - 
 
 # options
@@ -124,5 +126,4 @@ GCノベルズ様から書籍化決定しました！　発売日はまだ未定
 - [masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=90)
 - [lightnovel.cn](https://www.lightnovel.cn/thread-950403-1-1.html)
 - 
-
 
