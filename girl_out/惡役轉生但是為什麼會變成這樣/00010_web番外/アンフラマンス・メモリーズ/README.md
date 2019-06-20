@@ -77,4 +77,3 @@
 - [小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n0708cs/)
 - [悪役転生だけどどうしてこうなった。](http://ncode.syosetu.com/s1455c/)
 
-
