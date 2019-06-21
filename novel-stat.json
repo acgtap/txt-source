@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1561046400000,
-    "timestamp": 1561073256125,
+    "todayTimestamp": 1561132800000,
+    "timestamp": 1561159560094,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -4936,6 +4936,123 @@
           }
         ]
       ]
+    },
+    "1561132800000": {
+      "segment_count": 2,
+      "segment": [
+        [
+          "girl",
+          "偵察巡洋艦オルレアン戦記",
+          {
+            "segment_date": 1561159502109,
+            "segment_old": 0,
+            "segment": 4,
+            "init_date": 1561159502109,
+            "txt_basename": "偵察巡洋艦奧爾良號戰記.out.txt",
+            "epub_date": 1561159539590,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 4,
+            "epub_basename": "偵察巡洋艦奧爾良號戰記.epub",
+            "update_date": 1561132800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "ts",
+          "葉隠桜は嘆かない",
+          {
+            "init_date": 1556812800000,
+            "txt_basename": "葉隱櫻不悲嘆.out.txt",
+            "epub_date": 1561159548462,
+            "volume_old": 1,
+            "chapter_old": 1,
+            "volume": 1,
+            "chapter": 23,
+            "epub_basename": "葉隱櫻不悲嘆.epub",
+            "update_date": 1561132800000,
+            "update_count": 2,
+            "segment_date": 1561159517007,
+            "segment_old": 0,
+            "segment": 19
+          }
+        ]
+      ],
+      "epub_count": 4,
+      "epub": [
+        [
+          "girl",
+          "偵察巡洋艦オルレアン戦記",
+          {
+            "segment_date": 1561159502109,
+            "segment_old": 0,
+            "segment": 4,
+            "init_date": 1561159502109,
+            "txt_basename": "偵察巡洋艦奧爾良號戰記.out.txt",
+            "epub_date": 1561159539590,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 4,
+            "epub_basename": "偵察巡洋艦奧爾良號戰記.epub",
+            "update_date": 1561132800000,
+            "update_count": 1
+          }
+        ],
+        [
+          "girl",
+          "自覚なし聖女の異世界モフモフ道中",
+          {
+            "init_date": 1559145600000,
+            "txt_basename": "無自覺聖女的摸呼摸呼旅程.out.txt",
+            "epub_date": 1561159540394,
+            "volume_old": 1,
+            "chapter_old": 1,
+            "volume": 1,
+            "chapter": 7,
+            "epub_basename": "無自覺聖女的摸呼摸呼旅程.epub",
+            "update_date": 1561132800000,
+            "update_count": 3
+          }
+        ],
+        [
+          "girl_out",
+          "你這種傢伙別想打贏魔王",
+          {
+            "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
+            "epub_date": 1561159547469,
+            "volume_old": 15,
+            "chapter_old": 130,
+            "volume": 15,
+            "chapter": 130,
+            "epub_basename": "你這種傢伙別想打贏魔王.epub",
+            "novel_status": 769,
+            "init_date": 1550505600000,
+            "update_date": 1561132800000,
+            "update_count": 9
+          }
+        ],
+        [
+          "ts",
+          "葉隠桜は嘆かない",
+          {
+            "init_date": 1556812800000,
+            "txt_basename": "葉隱櫻不悲嘆.out.txt",
+            "epub_date": 1561159548462,
+            "volume_old": 1,
+            "chapter_old": 1,
+            "volume": 1,
+            "chapter": 23,
+            "epub_basename": "葉隱櫻不悲嘆.epub",
+            "update_date": 1561132800000,
+            "update_count": 2,
+            "segment_date": 1561159517007,
+            "segment_old": 0,
+            "segment": 19
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -5787,7 +5904,7 @@
         "segment_date": 1561073180254,
         "segment_old": 0,
         "segment": 26,
-        "init_date": 1561073180254,
+        "init_date": 1561046400000,
         "txt_basename": "転生貴族の異世界冒険録.out.txt",
         "epub_date": 1561073238546,
         "volume_old": 0,
@@ -8731,20 +8848,20 @@
       "自覚なし聖女の異世界モフモフ道中": {
         "init_date": 1559145600000,
         "txt_basename": "無自覺聖女的摸呼摸呼旅程.out.txt",
-        "epub_date": 1560328733442,
+        "epub_date": 1561159540394,
         "volume_old": 1,
         "chapter_old": 1,
         "volume": 1,
-        "chapter": 1,
+        "chapter": 7,
         "epub_basename": "無自覺聖女的摸呼摸呼旅程.epub",
-        "update_date": 1560268800000,
-        "update_count": 2
+        "update_date": 1561132800000,
+        "update_count": 3
       },
       "Nostalgia World Online": {
         "segment_date": 1561073041580,
         "segment_old": 0,
         "segment": 158,
-        "init_date": 1561073041580,
+        "init_date": 1561046400000,
         "txt_basename": "Nostalgia World Onli.out.txt",
         "epub_date": 1561073219155,
         "volume_old": 0,
@@ -8753,6 +8870,21 @@
         "chapter": 348,
         "epub_basename": "Nostalgia World Online.epub",
         "update_date": 1561046400000,
+        "update_count": 1
+      },
+      "偵察巡洋艦オルレアン戦記": {
+        "segment_date": 1561159502109,
+        "segment_old": 0,
+        "segment": 4,
+        "init_date": 1561159502109,
+        "txt_basename": "偵察巡洋艦奧爾良號戰記.out.txt",
+        "epub_date": 1561159539590,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 4,
+        "epub_basename": "偵察巡洋艦奧爾良號戰記.epub",
+        "update_date": 1561132800000,
         "update_count": 1
       }
     },
@@ -8776,16 +8908,16 @@
     "girl_out": {
       "你這種傢伙別想打贏魔王": {
         "txt_basename": "你這種傢伙別想打贏魔王.out.txt",
-        "epub_date": 1561073229507,
+        "epub_date": 1561159547469,
         "volume_old": 15,
-        "chapter_old": 123,
+        "chapter_old": 130,
         "volume": 15,
         "chapter": 130,
         "epub_basename": "你這種傢伙別想打贏魔王.epub",
         "novel_status": 769,
         "init_date": 1550505600000,
-        "update_date": 1561046400000,
-        "update_count": 8
+        "update_date": 1561132800000,
+        "update_count": 9
       },
       "王女殿下はお怒りのようです": {
         "txt_basename": "王女殿下はお怒りのようです.out.txt",
@@ -8900,14 +9032,17 @@
       "葉隠桜は嘆かない": {
         "init_date": 1556812800000,
         "txt_basename": "葉隱櫻不悲嘆.out.txt",
-        "epub_date": 1556843727399,
+        "epub_date": 1561159548462,
         "volume_old": 1,
         "chapter_old": 1,
         "volume": 1,
-        "chapter": 1,
+        "chapter": 23,
         "epub_basename": "葉隱櫻不悲嘆.epub",
-        "update_date": 1556812800000,
-        "update_count": 1
+        "update_date": 1561132800000,
+        "update_count": 2,
+        "segment_date": 1561159517007,
+        "segment_old": 0,
+        "segment": 19
       },
       "ゲームキャラで異世界転生して、大草原ではじめるスローライフ": {
         "init_date": 1556899200000,
@@ -11046,6 +11181,73 @@
           "https://www.alphapolis.co.jp/manga/official/657000190",
           "[今度こそ幸せになります！　小話集](https://www.alphapolis.co.jp/novel/219114826/26062831)",
           "[今度こそ幸せになります！　拍手の中身](https://www.alphapolis.co.jp/novel/219114826/687062827)"
+        ]
+      },
+      "偵察巡洋艦オルレアン戦記": {
+        "novel": {
+          "title": "偵察巡洋艦オルレアン戦記",
+          "title_zh": "偵察巡洋艦奧爾良號戰記",
+          "author": "早瀬悠斗",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n9788dp/",
+          "cover": "",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-06-16T20:44:00+08:00",
+          "status": "連載",
+          "novel_status": 0,
+          "series": {
+            "name": "偵察巡洋艦オルレアン戦記"
+          },
+          "preface": "自从人类开始移民宇宙以来已700年，过去曾统一整个人类世界的国家“联合”因为内战而分裂，人类世界迎来了战乱的时代。分裂后仍然保有巨大国力、试图再次统一宇宙的“联合”同试图阻止联合的边境诸国之间，以及各边境诸国之间在各处反复进行着武装冲突。\n在动荡的时代中，受到“联合”宣战布告的边境国家之一——“共和国”，为了保卫国家派出了舰队，迎击逼近的“联合”军。虽然建造时被蔑称为“失败作品”，但凭借着优秀的指挥官和强大的幸运而留名后世的一艘巡洋舰，也身处这之中。\n\n　人類が宇宙に移住を始めてから700年、かつて人類世界を統一していた『連合』は内戦によって分裂し、人類世界は動乱の時代を迎えていた。尚も巨大な国力を持ち、宇宙の再統一を図る『連合』とそれを阻止しようとするとする辺境国家群、あるいは辺境国家群同士が各所で武力衝突を繰り返していたのだ。\n　\n　動乱の時代が続く中、ついに『連合』の宣戦布告を受けた一辺境国家『共和国』は、国家防衛の為に艦隊を繰り出し、迫りくる『連合』軍を迎撃する。そしてその中には、建造時は失敗作と罵られながらも、優れた指揮官と幸運に恵まれたことで後世に知られることになる一隻の巡洋艦の姿があった。",
+          "tags": [
+            "R15",
+            "SF",
+            "node-novel",
+            "syosetu",
+            "オリジナル戦記",
+            "ガールズラブ",
+            "スペースオペラ",
+            "ディストピア",
+            "地上戦",
+            "女主人公",
+            "宇宙[SF]",
+            "宇宙〔SF〕",
+            "宇宙戦艦",
+            "宇宙戦闘",
+            "宇宙戦闘機",
+            "戦争",
+            "歴史",
+            "残酷な描写あり",
+            "百合",
+            "航空戦",
+            "艦隊戦"
+          ]
+        },
+        "contribute": [
+          "新子憧"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n9788dp"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n9788dp&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n9788dp/)",
+          "https://masiro.moe/forum.php?mod=viewthread&tid=6826&highlight=%E5%B7%A1%E6%B4%8B&_dsign=3a7d3743"
         ]
       },
       "傀儡契約_(n4719ff)": {
