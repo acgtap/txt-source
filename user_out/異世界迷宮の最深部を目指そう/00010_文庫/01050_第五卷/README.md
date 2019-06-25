@@ -1,4 +1,3 @@
-
 # novel
 
 - cover: https://images-na.ssl-images-amazon.com/images/I/817TAwHlR%2BL.jpg
@@ -26,3 +25,4 @@
 因縁渦巻く舞闘大會が幕を開け、自身の誓いを違わなかったとき——
 少年は《全て》を思い出す。
 ```
+
