@@ -1,4 +1,3 @@
-
 # novel
 
 - cover: https://pbs.twimg.com/media/DavXQN3U0AEF93q.jpg:large
@@ -20,3 +19,4 @@
 「さあ――『第三十の試練』を始めよう」  
 夢のような日々が結実した今ここに、一ノ月連合国総合騎士団種舞踏会は終幕する。
 ```
+
