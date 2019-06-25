@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1561132800000,
-    "timestamp": 1561159560094,
+    "todayTimestamp": 1561478400000,
+    "timestamp": 1561505580186,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -5053,6 +5053,165 @@
           }
         ]
       ]
+    },
+    "1561478400000": {
+      "segment_count": 4,
+      "segment": [
+        [
+          "girl",
+          "誰が聖夜に笑うのか",
+          {
+            "segment_date": 1561505127363,
+            "segment_old": 0,
+            "segment": 10,
+            "init_date": 1561505127363,
+            "txt_basename": "笑到聖誕夜的會是誰.out.txt",
+            "epub_date": 1561505532146,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 10,
+            "epub_basename": "笑到聖誕夜的會是誰.epub",
+            "update_date": 1561478400000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "異世界薬局",
+          {
+            "segment_date": 1561505193409,
+            "segment_old": 0,
+            "segment": 72,
+            "init_date": 1561505193409,
+            "txt_basename": "異世界薬局.out.txt",
+            "epub_date": 1561505537061,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 5,
+            "chapter": 82,
+            "epub_basename": "異世界薬局.epub",
+            "novel_status": 768,
+            "update_date": 1561478400000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user",
+          "異世界迷宮の最深部を目指そう",
+          {
+            "init_date": 1546963200000,
+            "segment_date": 1561505450664,
+            "segment_old": 1,
+            "segment": 2,
+            "update_date": 1561478400000,
+            "update_count": 9
+          }
+        ],
+        [
+          "user",
+          "魔王様、リトライ！",
+          {
+            "segment_date": 1561505509434,
+            "segment_old": 11,
+            "segment": 1,
+            "init_date": 1545521369284,
+            "update_date": 1561478400000,
+            "update_count": 8
+          }
+        ]
+      ],
+      "epub_count": 5,
+      "epub": [
+        [
+          "girl",
+          "自覚なし聖女の異世界モフモフ道中",
+          {
+            "init_date": 1559145600000,
+            "txt_basename": "無自覺聖女的摸呼摸呼旅程.out.txt",
+            "epub_date": 1561505529875,
+            "volume_old": 1,
+            "chapter_old": 7,
+            "volume": 1,
+            "chapter": 8,
+            "epub_basename": "無自覺聖女的摸呼摸呼旅程.epub",
+            "update_date": 1561478400000,
+            "update_count": 4
+          }
+        ],
+        [
+          "girl",
+          "誰が聖夜に笑うのか",
+          {
+            "segment_date": 1561505127363,
+            "segment_old": 0,
+            "segment": 10,
+            "init_date": 1561505127363,
+            "txt_basename": "笑到聖誕夜的會是誰.out.txt",
+            "epub_date": 1561505532146,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 10,
+            "epub_basename": "笑到聖誕夜的會是誰.epub",
+            "update_date": 1561478400000,
+            "update_count": 1
+          }
+        ],
+        [
+          "syosetu",
+          "異世界薬局",
+          {
+            "segment_date": 1561505193409,
+            "segment_old": 0,
+            "segment": 72,
+            "init_date": 1561505193409,
+            "txt_basename": "異世界薬局.out.txt",
+            "epub_date": 1561505537061,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 5,
+            "chapter": 82,
+            "epub_basename": "異世界薬局.epub",
+            "novel_status": 768,
+            "update_date": 1561478400000,
+            "update_count": 1
+          }
+        ],
+        [
+          "user_out",
+          "異世界迷宮の最深部を目指そう",
+          {
+            "init_date": 1545494400000,
+            "txt_basename": "異世界迷宮の最深部を目指そう.out.txt",
+            "epub_date": 1561505558241,
+            "volume_old": 28,
+            "chapter_old": 404,
+            "volume": 29,
+            "chapter": 418,
+            "epub_basename": "異世界迷宮の最深部を目指そう.epub",
+            "update_date": 1561478400000,
+            "update_count": 10
+          }
+        ],
+        [
+          "user_out",
+          "魔王様、リトライ！",
+          {
+            "epub_date": 1561505562863,
+            "volume_old": 10,
+            "chapter_old": 125,
+            "volume": 10,
+            "chapter": 135,
+            "epub_basename": "魔王様、リトライ！.epub",
+            "init_date": 1545548944955,
+            "txt_basename": "魔王様、リトライ！.out.txt",
+            "update_date": 1561478400000,
+            "update_count": 7,
+            "novel_status": 768
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -5915,6 +6074,22 @@
         "novel_status": 768,
         "update_date": 1561046400000,
         "update_count": 1
+      },
+      "異世界薬局": {
+        "segment_date": 1561505193409,
+        "segment_old": 0,
+        "segment": 72,
+        "init_date": 1561505193409,
+        "txt_basename": "異世界薬局.out.txt",
+        "epub_date": 1561505537061,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 5,
+        "chapter": 82,
+        "epub_basename": "異世界薬局.epub",
+        "novel_status": 768,
+        "update_date": 1561478400000,
+        "update_count": 1
       }
     },
     "user": {
@@ -5935,12 +6110,12 @@
         "update_count": 1
       },
       "魔王様、リトライ！": {
-        "segment_date": 1560353968268,
-        "segment_old": 7,
-        "segment": 11,
+        "segment_date": 1561505509434,
+        "segment_old": 11,
+        "segment": 1,
         "init_date": 1545521369284,
-        "update_date": 1560268800000,
-        "update_count": 7
+        "update_date": 1561478400000,
+        "update_count": 8
       },
       "虫虫酱むいむいたん": {
         "init_date": 1545494400000,
@@ -6080,11 +6255,11 @@
       },
       "異世界迷宮の最深部を目指そう": {
         "init_date": 1546963200000,
-        "segment_date": 1560360783940,
-        "segment_old": 143,
-        "segment": 1,
-        "update_date": 1560355200000,
-        "update_count": 8
+        "segment_date": 1561505450664,
+        "segment_old": 1,
+        "segment": 2,
+        "update_date": 1561478400000,
+        "update_count": 9
       },
       "俺の死亡フラグが留まるところを知らない": {
         "init_date": 1547913600000,
@@ -6372,16 +6547,16 @@
         "update_count": 1
       },
       "魔王様、リトライ！": {
-        "epub_date": 1555028533604,
+        "epub_date": 1561505562863,
         "volume_old": 10,
         "chapter_old": 125,
         "volume": 10,
-        "chapter": 125,
+        "chapter": 135,
         "epub_basename": "魔王様、リトライ！.epub",
         "init_date": 1545548944955,
         "txt_basename": "魔王様、リトライ！.out.txt",
-        "update_date": 1554998400000,
-        "update_count": 6,
+        "update_date": 1561478400000,
+        "update_count": 7,
         "novel_status": 768
       },
       "没落予定なので、鍛治職人を目指す": {
@@ -6542,14 +6717,14 @@
       "異世界迷宮の最深部を目指そう": {
         "init_date": 1545494400000,
         "txt_basename": "異世界迷宮の最深部を目指そう.out.txt",
-        "epub_date": 1554509344181,
+        "epub_date": 1561505558241,
         "volume_old": 28,
         "chapter_old": 404,
-        "volume": 28,
-        "chapter": 404,
+        "volume": 29,
+        "chapter": 418,
         "epub_basename": "異世界迷宮の最深部を目指そう.epub",
-        "update_date": 1554480000000,
-        "update_count": 9
+        "update_date": 1561478400000,
+        "update_count": 10
       },
       "豚公爵に転生したから、今度は君に好きと言いたい": {
         "init_date": 1545494400000,
@@ -8848,14 +9023,14 @@
       "自覚なし聖女の異世界モフモフ道中": {
         "init_date": 1559145600000,
         "txt_basename": "無自覺聖女的摸呼摸呼旅程.out.txt",
-        "epub_date": 1561159540394,
+        "epub_date": 1561505529875,
         "volume_old": 1,
-        "chapter_old": 1,
+        "chapter_old": 7,
         "volume": 1,
-        "chapter": 7,
+        "chapter": 8,
         "epub_basename": "無自覺聖女的摸呼摸呼旅程.epub",
-        "update_date": 1561132800000,
-        "update_count": 3
+        "update_date": 1561478400000,
+        "update_count": 4
       },
       "Nostalgia World Online": {
         "segment_date": 1561073041580,
@@ -8885,6 +9060,21 @@
         "chapter": 4,
         "epub_basename": "偵察巡洋艦奧爾良號戰記.epub",
         "update_date": 1561132800000,
+        "update_count": 1
+      },
+      "誰が聖夜に笑うのか": {
+        "segment_date": 1561505127363,
+        "segment_old": 0,
+        "segment": 10,
+        "init_date": 1561505127363,
+        "txt_basename": "笑到聖誕夜的會是誰.out.txt",
+        "epub_date": 1561505532146,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 10,
+        "epub_basename": "笑到聖誕夜的會是誰.epub",
+        "update_date": 1561478400000,
         "update_count": 1
       }
     },
@@ -11793,6 +11983,57 @@
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n5694fk&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n5694fk/)",
           "https://www.lightnovel.us/thread-974848-1-1.html"
+        ]
+      },
+      "誰が聖夜に笑うのか": {
+        "novel": {
+          "title": "誰が聖夜に笑うのか",
+          "title_zh": "笑到聖誕夜的會是誰",
+          "author": "パラダイス農家",
+          "illust": "",
+          "source": "https://kakuyomu.jp/works/1177354054884578516",
+          "cover": "https://img.atwikiimg.com/www9.atwiki.jp/sdora/attach/817/1534/%5B%E8%81%96%E5%A4%9C%E3%81%AE%E6%97%85%E4%BA%BA%5D%E3%82%A2%E3%83%AA%E3%82%B9img.jpg",
+          "publisher": "kakuyomu",
+          "publishers": [
+            "kakuyomu",
+            "masiro.moe"
+          ],
+          "date": "2018-05-13T21:05:20+08:00",
+          "status": "完結済",
+          "novel_status": 0,
+          "series": {
+            "name": "誰が聖夜に笑うのか"
+          },
+          "preface": "我，有着两副不同的面孔——\n身为职场女性的遥香，结束了和在校女生诗织的援交关系。\n步入另一段恋情的遥香，以及想要复合的诗织，她们怀抱着各自的心情交织而过。\n最终，能笑到圣诞当夜的会是谁呢？\n\nふたりの想いは、すれ違う\nパラダイス農家\n\n私にはふたつの顔がある――\n社会人の遙香は、女子校生の詩織との援助交際を終わらせる。\n違う恋を歩む遙香と、復縁したい詩織の気持ちはすれ違っていく。\nはたして、誰が聖夜に笑うのか。\n※完結しました。ご愛読ありがとうございました。\n　本編終了後は、閑章の形で不定期に連載予定です。",
+          "tags": [
+            "kakuyomu",
+            "masiro.moe",
+            "node-novel",
+            "novel18",
+            "ガールズラブ",
+            "性描写有り",
+            "恋愛",
+            "百合"
+          ]
+        },
+        "contribute": [
+          "新子憧"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 0
+          },
+          "kakuyomu": {
+            "novel_id": "1177354054884578516"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "https://masiro.moe/forum.php?mod=forumdisplay&fid=185&page=1"
         ]
       },
       "魔王の娘の百合戦記": {
@@ -14793,6 +15034,74 @@
           "[dip.jp](https://narou.nar.jp/search.php?text=n2056dn&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[父为英雄母为精灵女儿为转生者吧](https://tieba.baidu.com/f?kw=%E7%88%B6%E4%B8%BA%E8%8B%B1%E9%9B%84%E6%AF%8D%E4%B8%BA%E7%B2%BE%E7%81%B5%E5%A5%B3%E5%84%BF%E4%B8%BA%E8%BD%AC%E7%94%9F%E8%80%85&ie=utf-8 \"父为英雄母为精灵女儿为转生者\")",
           "[dmzj](https://manhua.dmzj.com/dieqiangmamengwowudi/)"
+        ]
+      },
+      "異世界薬局": {
+        "novel": {
+          "title": "異世界薬局",
+          "title_zh1": "",
+          "author": "高山 理図",
+          "illust": "高野聖",
+          "illusts": [
+            "高野聖",
+            "ｋｅｅｐｏｕｔ"
+          ],
+          "source": "http://ncode.syosetu.com/n8541cr/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/81phC1gj4zL.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-06-20T18:56:00+08:00",
+          "status": "連載",
+          "novel_status": 768,
+          "series": {
+            "name": "異世界系ファンタジーｘＳＦ形式"
+          },
+          "preface": "一心研究的日本年輕藥學者，在過勞死後，轉生到了歐洲中世紀風格的異世界。\n轉生成為十歲少年的他，是一名見習藥師，其父親則是享譽盛名的宮廷藥師。他還獲得了疾患透視能力、物質創造和物質消除能力等非常人所能擁有的技能。\n那裡是庸醫殺人時有發生、由於藥師公會的獨占，醫藥價格上漲，庶民們買不起有效藥物的社會。\n他被當時的皇帝認可，在大街角落開了一間藥局。\n只為了徹底清除蔓延於世間的假藥，把紮根於現代藥學的真正有效藥物，送到庶民手中。\n這是製藥開掛的少年藥師，運用前世的現代藥學知識幫助異世界人的同時，不努力過頭地度過第二次人生的故事。 \n\n研究一筋だった日本の若き薬学者は、過労死をして中世ヨーロッパ風異世界に転生してしまう。\n高名な宮廷薬師を父に持つ十歳の薬師見習いの少年として転生した彼は、疾患透視能力、物質創造と物質消去能力などの人外のスキルを得ていた。\nそこは怪しげな医療行為が行われ、庶民には効果のある薬が手に入らない社会。\n彼はときの皇帝に認められ、街の一角に薬局を開く。\n世に蔓延るまやかしを払拭し、現代薬学に根差した真に効果のある薬を、庶民の手に届けるために。\nこれは、創薬チートの薬師の少年が前世の現代薬学知識を駆使し、異世界人を助けながら、今度は頑張りすぎず新たな人生を送る物語。\n\n※　ＭＦブックス様より書籍化、6巻は2018年3月24日発売です。\n※　コミックウォーカー様・ニコニコ静画様にてコミカライズ連載中（コミック4巻は2019年2月22日です\n※　ウェブ更新時間は、不定期ですがだいたいお昼12時です。",
+          "tags": [
+            "node-novel",
+            "syosetu",
+            "ハイファンタジー",
+            "ハイファンタジー〔ファンタジー〕",
+            "ファンタジー",
+            "中世～近世フランス風",
+            "主人公勘違い系",
+            "人助け",
+            "基本オムニバス形式",
+            "安心展開",
+            "宮廷薬師",
+            "微コメディ",
+            "無自覚最強系",
+            "現代医学と現代薬学",
+            "異世界転生",
+            "知識チート",
+            "神力チート",
+            "薬剤師",
+            "薬学者"
+          ]
+        },
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "s1729e",
+            "novel_id": "n8541cr"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n8541cr&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n8541cr/)",
+          "[異世界系ファンタジーｘＳＦ形式](http://ncode.syosetu.com/s1729e/)",
+          "https://www.dm5.com/manhua-yishijieyaoju/",
+          "[异世界药局吧](https://tieba.baidu.com/f?kw=%E5%BC%82%E4%B8%96%E7%95%8C%E8%8D%AF%E5%B1%80&ie=utf-8 \"\")"
         ]
       },
       "破滅の魔導王とゴーレムの蛮妃": {
