@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1561478400000,
-    "timestamp": 1561505580186,
+    "todayTimestamp": 1561564800000,
+    "timestamp": 1561591975916,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -5212,6 +5212,48 @@
           }
         ]
       ]
+    },
+    "1561564800000": {
+      "epub_count": 2,
+      "epub": [
+        [
+          "syosetu",
+          "異世界薬局",
+          {
+            "segment_date": 1561505193409,
+            "segment_old": 0,
+            "segment": 72,
+            "init_date": 1561478400000,
+            "txt_basename": "異世界薬局.out.txt",
+            "epub_date": 1561591959272,
+            "volume_old": 5,
+            "chapter_old": 82,
+            "volume": 5,
+            "chapter": 82,
+            "epub_basename": "異世界薬局.epub",
+            "novel_status": 768,
+            "update_date": 1561564800000,
+            "update_count": 2
+          }
+        ],
+        [
+          "syosetu_out",
+          "願わくばこの手に幸福を",
+          {
+            "txt_basename": "願わくばこの手に幸福を.out.txt",
+            "epub_date": 1561591961247,
+            "volume_old": 4,
+            "chapter_old": 30,
+            "volume": 5,
+            "chapter": 48,
+            "epub_basename": "願わくばこの手に幸福を.epub",
+            "novel_status": 768,
+            "init_date": 1559232000000,
+            "update_date": 1561564800000,
+            "update_count": 2
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -6079,17 +6121,17 @@
         "segment_date": 1561505193409,
         "segment_old": 0,
         "segment": 72,
-        "init_date": 1561505193409,
+        "init_date": 1561478400000,
         "txt_basename": "異世界薬局.out.txt",
-        "epub_date": 1561505537061,
-        "volume_old": 0,
-        "chapter_old": 0,
+        "epub_date": 1561591959272,
+        "volume_old": 5,
+        "chapter_old": 82,
         "volume": 5,
         "chapter": 82,
         "epub_basename": "異世界薬局.epub",
         "novel_status": 768,
-        "update_date": 1561478400000,
-        "update_count": 1
+        "update_date": 1561564800000,
+        "update_count": 2
       }
     },
     "user": {
@@ -7630,16 +7672,16 @@
       },
       "願わくばこの手に幸福を": {
         "txt_basename": "願わくばこの手に幸福を.out.txt",
-        "epub_date": 1559258025861,
+        "epub_date": 1561591961247,
         "volume_old": 4,
         "chapter_old": 30,
-        "volume": 4,
-        "chapter": 30,
+        "volume": 5,
+        "chapter": 48,
         "epub_basename": "願わくばこの手に幸福を.epub",
         "novel_status": 768,
         "init_date": 1559232000000,
-        "update_date": 1559232000000,
-        "update_count": 1
+        "update_date": 1561564800000,
+        "update_count": 2
       },
       "奴隷商人しか選択肢がないですよ？　～ハーレム？　なにそれおいしいの？～": {
         "txt_basename": "除了成為奴隸商人以外別無選擇喲？～後宮？.out.txt",
@@ -9066,7 +9108,7 @@
         "segment_date": 1561505127363,
         "segment_old": 0,
         "segment": 10,
-        "init_date": 1561505127363,
+        "init_date": 1561478400000,
         "txt_basename": "笑到聖誕夜的會是誰.out.txt",
         "epub_date": 1561505532146,
         "volume_old": 0,
@@ -11983,57 +12025,6 @@
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n5694fk&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n5694fk/)",
           "https://www.lightnovel.us/thread-974848-1-1.html"
-        ]
-      },
-      "誰が聖夜に笑うのか": {
-        "novel": {
-          "title": "誰が聖夜に笑うのか",
-          "title_zh": "笑到聖誕夜的會是誰",
-          "author": "パラダイス農家",
-          "illust": "",
-          "source": "https://kakuyomu.jp/works/1177354054884578516",
-          "cover": "https://img.atwikiimg.com/www9.atwiki.jp/sdora/attach/817/1534/%5B%E8%81%96%E5%A4%9C%E3%81%AE%E6%97%85%E4%BA%BA%5D%E3%82%A2%E3%83%AA%E3%82%B9img.jpg",
-          "publisher": "kakuyomu",
-          "publishers": [
-            "kakuyomu",
-            "masiro.moe"
-          ],
-          "date": "2018-05-13T21:05:20+08:00",
-          "status": "完結済",
-          "novel_status": 0,
-          "series": {
-            "name": "誰が聖夜に笑うのか"
-          },
-          "preface": "我，有着两副不同的面孔——\n身为职场女性的遥香，结束了和在校女生诗织的援交关系。\n步入另一段恋情的遥香，以及想要复合的诗织，她们怀抱着各自的心情交织而过。\n最终，能笑到圣诞当夜的会是谁呢？\n\nふたりの想いは、すれ違う\nパラダイス農家\n\n私にはふたつの顔がある――\n社会人の遙香は、女子校生の詩織との援助交際を終わらせる。\n違う恋を歩む遙香と、復縁したい詩織の気持ちはすれ違っていく。\nはたして、誰が聖夜に笑うのか。\n※完結しました。ご愛読ありがとうございました。\n　本編終了後は、閑章の形で不定期に連載予定です。",
-          "tags": [
-            "kakuyomu",
-            "masiro.moe",
-            "node-novel",
-            "novel18",
-            "ガールズラブ",
-            "性描写有り",
-            "恋愛",
-            "百合"
-          ]
-        },
-        "contribute": [
-          "新子憧"
-        ],
-        "options": {
-          "downloadOptions": {
-            "noFilePadend": true,
-            "filePrefixMode": 1,
-            "startIndex": 0
-          },
-          "kakuyomu": {
-            "novel_id": "1177354054884578516"
-          },
-          "textlayout": {
-            "allow_lf2": true
-          }
-        },
-        "link": [
-          "https://masiro.moe/forum.php?mod=forumdisplay&fid=185&page=1"
         ]
       },
       "魔王の娘の百合戦記": {
@@ -18213,6 +18204,7 @@
         },
         "contribute": [
           "ACG之神上",
+          "czq0922",
           "iamhungry",
           "terry12369",
           "xrayxray"
