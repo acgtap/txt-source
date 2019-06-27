@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1561564800000,
-    "timestamp": 1561591975916,
+    "todayTimestamp": 1561651200000,
+    "timestamp": 1561678066512,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -5254,6 +5254,28 @@
           }
         ]
       ]
+    },
+    "1561651200000": {
+      "epub_count": 1,
+      "epub": [
+        [
+          "syosetu_out",
+          "乙女ゲー世界はモブに厳しい世界です",
+          {
+            "txt_basename": "乙女遊戲世界對路人角色太嚴厲.out.txt",
+            "epub_date": 1561678054265,
+            "volume_old": 6,
+            "chapter_old": 149,
+            "volume": 6,
+            "chapter": 150,
+            "epub_basename": "乙女遊戲世界對路人角色太嚴厲.epub",
+            "novel_status": 768,
+            "init_date": 1558540800000,
+            "update_date": 1561651200000,
+            "update_count": 6
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -7659,16 +7681,16 @@
       },
       "乙女ゲー世界はモブに厳しい世界です": {
         "txt_basename": "乙女遊戲世界對路人角色太嚴厲.out.txt",
-        "epub_date": 1559690165050,
+        "epub_date": 1561678054265,
         "volume_old": 6,
         "chapter_old": 149,
         "volume": 6,
-        "chapter": 149,
+        "chapter": 150,
         "epub_basename": "乙女遊戲世界對路人角色太嚴厲.epub",
         "novel_status": 768,
         "init_date": 1558540800000,
-        "update_date": 1559664000000,
-        "update_count": 5
+        "update_date": 1561651200000,
+        "update_count": 6
       },
       "願わくばこの手に幸福を": {
         "txt_basename": "願わくばこの手に幸福を.out.txt",
