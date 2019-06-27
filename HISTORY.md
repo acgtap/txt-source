@@ -1,5 +1,14 @@
 # HISTORY
 
+## 2019-06-27
+
+### Epub
+
+- [異世界薬局](syosetu/%E7%95%B0%E4%B8%96%E7%95%8C%E8%96%AC%E5%B1%80) - syosetu
+  <br/>( v: 5 , c: 82, add: 0 )
+- [願わくばこの手に幸福を](syosetu_out/%E9%A1%98%E3%82%8F%E3%81%8F%E3%81%B0%E3%81%93%E3%81%AE%E6%89%8B%E3%81%AB%E5%B9%B8%E7%A6%8F%E3%82%92) - syosetu_out
+  <br/>( v: 5 , c: 48, add: 18 )
+
 ## 2019-06-26
 
 ### Epub
