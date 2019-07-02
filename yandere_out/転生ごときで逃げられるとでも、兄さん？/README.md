@@ -72,7 +72,8 @@
 - 你不认识我
 - 某路人
 - 黄昏广藿香
--
+- Hako <gitlab@chaoshakooshi>
+- 
 
 # options
 
@@ -98,5 +99,6 @@
 - [石墨整合](https://shimo.im/docs/ARkNdGT5kR00USzY)
 - [百石尤莉叶](https://pan.baidu.com/s/1rH5E_HUXw6KzyqWZHoUVCg) - z9sa
 - https://masiro.moe/forum.php?mod=forumdisplay&fid=116
--
+- https://gitlab.com/novel-group/txt-source/merge_requests/4/diffs
+- 
 
