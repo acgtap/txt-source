@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1561651200000,
-    "timestamp": 1561678066512,
+    "todayTimestamp": 1562083200000,
+    "timestamp": 1562112215172,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -5276,6 +5276,164 @@
           }
         ]
       ]
+    },
+    "1562083200000": {
+      "segment_count": 4,
+      "segment": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1562112156338,
+            "segment_old": 4,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1562112196405,
+            "volume_old": 1,
+            "chapter_old": 145,
+            "volume": 1,
+            "chapter": 154,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1562083200000,
+            "update_count": 28,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "幻想怪獸",
+          {
+            "segment_date": 1562112162195,
+            "segment_old": 8,
+            "segment": 8,
+            "init_date": 1562083200000,
+            "txt_basename": "幻想怪獸.out.txt",
+            "epub_date": 1562112196918,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 8,
+            "epub_basename": "幻想怪獸.epub",
+            "update_date": 1562083200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "ts",
+          "葉隠桜は嘆かない",
+          {
+            "init_date": 1556812800000,
+            "txt_basename": "葉隱櫻不悲嘆.out.txt",
+            "epub_date": 1562112198020,
+            "volume_old": 1,
+            "chapter_old": 23,
+            "volume": 2,
+            "chapter": 33,
+            "epub_basename": "葉隱櫻不悲嘆.epub",
+            "update_date": 1562083200000,
+            "update_count": 3,
+            "segment_date": 1562112168305,
+            "segment_old": 8,
+            "segment": 7
+          }
+        ],
+        [
+          "yandere",
+          "転生ごときで逃げられるとでも、兄さん？",
+          {
+            "segment_date": 1562112173130,
+            "segment_old": 16,
+            "segment": 1,
+            "init_date": 1548604800000,
+            "epub_date": 1548977895318,
+            "volume_old": 5,
+            "chapter_old": 79,
+            "volume": 5,
+            "chapter": 79,
+            "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
+            "update_date": 1562083200000,
+            "update_count": 12
+          }
+        ]
+      ],
+      "epub_count": 4,
+      "epub": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1562112156338,
+            "segment_old": 4,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1562112196405,
+            "volume_old": 1,
+            "chapter_old": 145,
+            "volume": 1,
+            "chapter": 154,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1562083200000,
+            "update_count": 28,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "girl",
+          "幻想怪獸",
+          {
+            "segment_date": 1562112162195,
+            "segment_old": 8,
+            "segment": 8,
+            "init_date": 1562083200000,
+            "txt_basename": "幻想怪獸.out.txt",
+            "epub_date": 1562112196918,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 1,
+            "chapter": 8,
+            "epub_basename": "幻想怪獸.epub",
+            "update_date": 1562083200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "ts",
+          "葉隠桜は嘆かない",
+          {
+            "init_date": 1556812800000,
+            "txt_basename": "葉隱櫻不悲嘆.out.txt",
+            "epub_date": 1562112198020,
+            "volume_old": 1,
+            "chapter_old": 23,
+            "volume": 2,
+            "chapter": 33,
+            "epub_basename": "葉隱櫻不悲嘆.epub",
+            "update_date": 1562083200000,
+            "update_count": 3,
+            "segment_date": 1562112168305,
+            "segment_old": 8,
+            "segment": 7
+          }
+        ],
+        [
+          "yandere_out",
+          "転生ごときで逃げられるとでも、兄さん？",
+          {
+            "txt_basename": "以為轉個生就能逃掉嗎，哥哥？.out.txt",
+            "epub_date": 1562112203122,
+            "volume_old": 5,
+            "chapter_old": 121,
+            "volume": 5,
+            "chapter": 121,
+            "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
+            "init_date": 1549036800000,
+            "update_date": 1562083200000,
+            "update_count": 13
+          }
+        ]
+      ]
     }
   },
   "novels": {
@@ -8736,9 +8894,9 @@
     },
     "yandere": {
       "転生ごときで逃げられるとでも、兄さん？": {
-        "segment_date": 1560358197718,
-        "segment_old": 1,
-        "segment": 3,
+        "segment_date": 1562112173130,
+        "segment_old": 16,
+        "segment": 1,
         "init_date": 1548604800000,
         "epub_date": 1548977895318,
         "volume_old": 5,
@@ -8746,8 +8904,8 @@
         "volume": 5,
         "chapter": 79,
         "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
-        "update_date": 1560355200000,
-        "update_count": 11
+        "update_date": 1562083200000,
+        "update_count": 12
       }
     },
     "mirronight_out": {
@@ -8767,32 +8925,32 @@
     "yandere_out": {
       "転生ごときで逃げられるとでも、兄さん？": {
         "txt_basename": "以為轉個生就能逃掉嗎，哥哥？.out.txt",
-        "epub_date": 1560860007321,
+        "epub_date": 1562112203122,
         "volume_old": 5,
-        "chapter_old": 117,
+        "chapter_old": 121,
         "volume": 5,
         "chapter": 121,
         "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
         "init_date": 1549036800000,
-        "update_date": 1560787200000,
-        "update_count": 12
+        "update_date": 1562083200000,
+        "update_count": 13
       }
     },
     "girl": {
       "Genocide Online ～極惡千金的玩遊戲日記～": {
-        "segment_date": 1560986537551,
-        "segment_old": 3,
+        "segment_date": 1562112156338,
+        "segment_old": 4,
         "segment": 1,
         "init_date": 1549641600000,
-        "epub_date": 1560986753185,
+        "epub_date": 1562112196405,
         "volume_old": 1,
-        "chapter_old": 141,
+        "chapter_old": 145,
         "volume": 1,
-        "chapter": 145,
+        "chapter": 154,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1560960000000,
-        "update_count": 27,
+        "update_date": 1562083200000,
+        "update_count": 28,
         "txt_basename": "Genocide Online ～極惡千.out.txt"
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
@@ -9140,6 +9298,21 @@
         "epub_basename": "笑到聖誕夜的會是誰.epub",
         "update_date": 1561478400000,
         "update_count": 1
+      },
+      "幻想怪獸": {
+        "segment_date": 1562112162195,
+        "segment_old": 8,
+        "segment": 8,
+        "init_date": 1562083200000,
+        "txt_basename": "幻想怪獸.out.txt",
+        "epub_date": 1562112196918,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 1,
+        "chapter": 8,
+        "epub_basename": "幻想怪獸.epub",
+        "update_date": 1562083200000,
+        "update_count": 1
       }
     },
     "modern": {
@@ -9286,17 +9459,17 @@
       "葉隠桜は嘆かない": {
         "init_date": 1556812800000,
         "txt_basename": "葉隱櫻不悲嘆.out.txt",
-        "epub_date": 1561159548462,
+        "epub_date": 1562112198020,
         "volume_old": 1,
-        "chapter_old": 1,
-        "volume": 1,
-        "chapter": 23,
+        "chapter_old": 23,
+        "volume": 2,
+        "chapter": 33,
         "epub_basename": "葉隱櫻不悲嘆.epub",
-        "update_date": 1561132800000,
-        "update_count": 2,
-        "segment_date": 1561159517007,
-        "segment_old": 0,
-        "segment": 19
+        "update_date": 1562083200000,
+        "update_count": 3,
+        "segment_date": 1562112168305,
+        "segment_old": 8,
+        "segment": 7
       },
       "ゲームキャラで異世界転生して、大草原ではじめるスローライフ": {
         "init_date": 1556899200000,
@@ -11011,7 +11184,8 @@
         },
         "contribute": [
           "6667787#6757",
-          "Genora"
+          "Genora",
+          "sixpoi"
         ],
         "options": {
           "downloadOptions": {
@@ -11773,6 +11947,67 @@
           "[ざまぁシリーズ](http://ncode.syosetu.com/s8227d/)",
           "[masiro.moe](https://masiro.moe/forum.php?mod=forumdisplay&fid=130&page=1)",
           "https://www.novelupdates.com/series/even-though-im-a-former-noble-and-a-single-mother-my-daughters-are-too-cute-and-working-as-an-adventurer-isnt-too-much-of-a-hassle/"
+        ]
+      },
+      "幻想怪獸": {
+        "novel": {
+          "title": "ふぁんもん",
+          "title_zh": "幻想怪獸",
+          "author": "馬場翁",
+          "illust": "",
+          "source": "http://ncode.syosetu.com/n8864fc/",
+          "cover": "",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2019-06-25T17:21:00+08:00",
+          "status": "連載",
+          "novel_status": 0,
+          "series": {
+            "name": "ふぁんもん"
+          },
+          "preface": "往年的名作系列，幻想怪獸，簡稱幻獸，終於作為完全潛行型VRMMO游戲（虛擬現實大型多人在線游戲）歸來！\n\n使役怪獸來冒險吧！\n\n少女為了與可愛的怪獸接觸而開始了在幻獸中的冒險！\n這是幻獸中，以後（意外的早）會被稱為不死族馴獸師的少女的故事。……好可愛？\n\n　往年の名作シリーズ、ファンタジーモンスター、略してファンモンがついにフルダイブＶＲＭＭＯになって帰ってきた！　モンスターを使役して冒険に出よう！　かわいいモンスターとの触れ合いを求めてファンモンをプレイし始めた少女の冒険が今始まる！　これはファンモンにおいて、後に（割と早い段階で）アンデットマスターと呼ばれるようになる少女の物語。……かわいい？",
+          "tags": [
+            "SF",
+            "VRMMO",
+            "VRゲーム[SF]",
+            "VRゲーム〔SF〕",
+            "node-novel",
+            "syosetu",
+            "かわいい",
+            "ほのぼの",
+            "アンデット",
+            "ギャグ",
+            "コメディ",
+            "ビターン",
+            "女主人公"
+          ]
+        },
+        "contribute": [
+          "6567",
+          "贺神镜"
+        ],
+        "options": {
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n8864fc"
+          },
+          "textlayout": {
+            "allow_lf2": true
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n8864fc&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n8864fc/)",
+          "[masiro.moe 幻想怪兽](https://masiro.moe/forum.php?mod=forumdisplay&fid=58&page=1)",
+          "[幻想怪兽吧](https://tieba.baidu.com/f?kw=%E5%B9%BB%E6%83%B3%E6%80%AA%E5%85%BD&ie=utf-8 \"\")"
         ]
       },
       "幼馴染二人から告白され困惑するも勢いで３Ｐに持ちこもうとする女の子の話": {
@@ -22287,6 +22522,7 @@
         },
         "contribute": [
           "BOSSJK录",
+          "Hako <gitlab@chaoshakooshi>",
           "LSJ综合症",
           "你不认识我",
           "倾听の翅膀",
@@ -22320,7 +22556,8 @@
           "[被病娇妹妹爱的死去活来](https://tieba.baidu.com/f?kw=%E8%A2%AB%E7%97%85%E5%A8%87%E5%A6%B9%E5%A6%B9%E7%88%B1%E7%9A%84%E6%AD%BB%E5%8E%BB%E6%B4%BB%E6%9D%A5&ie=utf-8 \"被病娇妹妹爱的死去活来\")",
           "[石墨整合](https://shimo.im/docs/ARkNdGT5kR00USzY)",
           "[百石尤莉叶](https://pan.baidu.com/s/1rH5E_HUXw6KzyqWZHoUVCg) - z9sa",
-          "https://masiro.moe/forum.php?mod=forumdisplay&fid=116"
+          "https://masiro.moe/forum.php?mod=forumdisplay&fid=116",
+          "https://gitlab.com/novel-group/txt-source/merge_requests/4/diffs"
         ]
       }
     },
