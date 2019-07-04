@@ -72,7 +72,7 @@
 - 你不认识我
 - 某路人
 - 黄昏广藿香
-- Hako <gitlab@chaoshakooshi>
+- Hako gitlab@chaoshakooshi
 - 
 
 # options
