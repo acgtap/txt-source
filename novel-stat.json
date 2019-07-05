@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1562169600000,
-    "timestamp": 1562196566178,
+    "todayTimestamp": 1562256000000,
+    "timestamp": 1562285223689,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -758,6 +758,146 @@
             "segment_date": 1562196528240,
             "segment_old": 7,
             "segment": 5
+          }
+        ]
+      ]
+    },
+    "1562256000000": {
+      "segment_count": 3,
+      "segment": [
+        [
+          "dmzj",
+          "神殺しの英雄と七つの誓約",
+          {
+            "segment_date": 1562285089500,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1562256000000,
+            "txt_basename": "神殺しの英雄と七つの誓約.out.txt",
+            "epub_date": 1562285201156,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 9,
+            "chapter": 71,
+            "epub_basename": "神殺しの英雄と七つの誓約.epub",
+            "novel_status": 257,
+            "update_date": 1562256000000,
+            "update_count": 1
+          }
+        ],
+        [
+          "ts",
+          "葉隠桜は嘆かない",
+          {
+            "init_date": 1556812800000,
+            "txt_basename": "葉隱櫻不悲嘆.out.txt",
+            "epub_date": 1562285206278,
+            "volume_old": 2,
+            "chapter_old": 35,
+            "volume": 2,
+            "chapter": 38,
+            "epub_basename": "葉隱櫻不悲嘆.epub",
+            "update_date": 1562256000000,
+            "update_count": 5,
+            "segment_date": 1562285147035,
+            "segment_old": 5,
+            "segment": 7
+          }
+        ],
+        [
+          "yandere",
+          "転生ごときで逃げられるとでも、兄さん？",
+          {
+            "segment_date": 1562285174689,
+            "segment_old": 18,
+            "segment": 18,
+            "init_date": 1548604800000,
+            "epub_date": 1548977895318,
+            "volume_old": 5,
+            "chapter_old": 79,
+            "volume": 5,
+            "chapter": 79,
+            "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
+            "update_date": 1562256000000,
+            "update_count": 13
+          }
+        ]
+      ],
+      "epub_count": 4,
+      "epub": [
+        [
+          "dmzj",
+          "神殺しの英雄と七つの誓約",
+          {
+            "segment_date": 1562285089500,
+            "segment_old": 1,
+            "segment": 1,
+            "init_date": 1562256000000,
+            "txt_basename": "神殺しの英雄と七つの誓約.out.txt",
+            "epub_date": 1562285201156,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 9,
+            "chapter": 71,
+            "epub_basename": "神殺しの英雄と七つの誓約.epub",
+            "novel_status": 257,
+            "update_date": 1562256000000,
+            "update_count": 1
+          }
+        ],
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1562196515714,
+            "segment_old": 1,
+            "segment": 4,
+            "init_date": 1549641600000,
+            "epub_date": 1562285205229,
+            "volume_old": 1,
+            "chapter_old": 155,
+            "volume": 1,
+            "chapter": 156,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1562256000000,
+            "update_count": 30,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "ts",
+          "葉隠桜は嘆かない",
+          {
+            "init_date": 1556812800000,
+            "txt_basename": "葉隱櫻不悲嘆.out.txt",
+            "epub_date": 1562285206278,
+            "volume_old": 2,
+            "chapter_old": 35,
+            "volume": 2,
+            "chapter": 38,
+            "epub_basename": "葉隱櫻不悲嘆.epub",
+            "update_date": 1562256000000,
+            "update_count": 5,
+            "segment_date": 1562285147035,
+            "segment_old": 5,
+            "segment": 7
+          }
+        ],
+        [
+          "yandere_out",
+          "転生ごときで逃げられるとでも、兄さん？",
+          {
+            "txt_basename": "以為轉個生就能逃掉嗎，哥哥？.out.txt",
+            "epub_date": 1562285211302,
+            "volume_old": 5,
+            "chapter_old": 121,
+            "volume": 5,
+            "chapter": 121,
+            "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
+            "init_date": 1549036800000,
+            "update_date": 1562256000000,
+            "update_count": 14
           }
         ]
       ]
@@ -4057,6 +4197,22 @@
         "init_date": 1560268800000,
         "update_date": 1560787200000,
         "update_count": 2
+      },
+      "神殺しの英雄と七つの誓約": {
+        "segment_date": 1562285089500,
+        "segment_old": 1,
+        "segment": 1,
+        "init_date": 1562256000000,
+        "txt_basename": "神殺しの英雄と七つの誓約.out.txt",
+        "epub_date": 1562285201156,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 9,
+        "chapter": 71,
+        "epub_basename": "神殺しの英雄と七つの誓約.epub",
+        "novel_status": 257,
+        "update_date": 1562256000000,
+        "update_count": 1
       }
     },
     "zh": {
@@ -4221,9 +4377,9 @@
     },
     "yandere": {
       "転生ごときで逃げられるとでも、兄さん？": {
-        "segment_date": 1562112173130,
-        "segment_old": 16,
-        "segment": 1,
+        "segment_date": 1562285174689,
+        "segment_old": 18,
+        "segment": 18,
         "init_date": 1548604800000,
         "epub_date": 1548977895318,
         "volume_old": 5,
@@ -4231,8 +4387,8 @@
         "volume": 5,
         "chapter": 79,
         "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
-        "update_date": 1562083200000,
-        "update_count": 12
+        "update_date": 1562256000000,
+        "update_count": 13
       }
     },
     "mirronight_out": {
@@ -4252,15 +4408,15 @@
     "yandere_out": {
       "転生ごときで逃げられるとでも、兄さん？": {
         "txt_basename": "以為轉個生就能逃掉嗎，哥哥？.out.txt",
-        "epub_date": 1562112203122,
+        "epub_date": 1562285211302,
         "volume_old": 5,
         "chapter_old": 121,
         "volume": 5,
         "chapter": 121,
         "epub_basename": "以為轉個生就能逃掉嗎，哥哥？.epub",
         "init_date": 1549036800000,
-        "update_date": 1562083200000,
-        "update_count": 13
+        "update_date": 1562256000000,
+        "update_count": 14
       }
     },
     "girl": {
@@ -4269,15 +4425,15 @@
         "segment_old": 1,
         "segment": 4,
         "init_date": 1549641600000,
-        "epub_date": 1562196553623,
+        "epub_date": 1562285205229,
         "volume_old": 1,
-        "chapter_old": 154,
+        "chapter_old": 155,
         "volume": 1,
-        "chapter": 155,
+        "chapter": 156,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1562169600000,
-        "update_count": 29,
+        "update_date": 1562256000000,
+        "update_count": 30,
         "txt_basename": "Genocide Online ～極惡千.out.txt"
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
@@ -4786,17 +4942,17 @@
       "葉隠桜は嘆かない": {
         "init_date": 1556812800000,
         "txt_basename": "葉隱櫻不悲嘆.out.txt",
-        "epub_date": 1562196555101,
+        "epub_date": 1562285206278,
         "volume_old": 2,
-        "chapter_old": 33,
+        "chapter_old": 35,
         "volume": 2,
-        "chapter": 35,
+        "chapter": 38,
         "epub_basename": "葉隱櫻不悲嘆.epub",
-        "update_date": 1562169600000,
-        "update_count": 4,
-        "segment_date": 1562196528240,
-        "segment_old": 7,
-        "segment": 5
+        "update_date": 1562256000000,
+        "update_count": 5,
+        "segment_date": 1562285147035,
+        "segment_old": 5,
+        "segment": 7
       },
       "ゲームキャラで異世界転生して、大草原ではじめるスローライフ": {
         "init_date": 1556899200000,
@@ -6044,6 +6200,95 @@
       }
     },
     "dmzj": {
+      "神殺しの英雄と七つの誓約": {
+        "novel": {
+          "title": "神殺しの英雄と七つの誓約（旧題：彼は英雄ではないと言い張るようです）",
+          "title_zh1": "弒神的英雄與七個誓約",
+          "title_jp": "神殺しの英雄と七つの誓約",
+          "author": "ウメ種",
+          "illust": "柴乃櫂人",
+          "source": "http://ncode.syosetu.com/n2027ci/",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/81hPNGrQBKL.jpg",
+          "publisher": "syosetu",
+          "publishers": [
+            "syosetu"
+          ],
+          "date": "2017-04-25T00:35:00+08:00",
+          "status": "完結済",
+          "novel_status": 257,
+          "series": {
+            "name": "神殺しの英雄と七つの誓約（旧題：彼は英雄ではないと言い張るようです）"
+          },
+          "preface": "「——大家都誤會我了。」\n\n山田蓮司是從異世界被召喚來的十三位救世主之一。他和另外十二個人同心協力成功討伐『魔神』，事後卻捨棄一切榮譽，與夥伴分道揚鑣，從此不知去向——\n\n時光流逝，隱瞞身分的蓮司與夥伴·『會說話的勛章』艾路曼希爾德一起四處漂泊旅行。雖然過著居無定所的生活，卻也平靜安穏。但是在遇到魔術學院的學生·芙蘭榭絲卡之後，蓮司的平穩生活就此宣告終結。在身負討伐半獸人任務的蓮司等人面前，出現過去理應遭到殲滅的『魔神』眷屬——？\n\n當『七個制約』(艾路曼希爾德)獲得解放之時，最強英雄將再度現身！！\n雖然得到『弒神英雄』的稱號，卻堅稱自己「不是英雄」，這個男子所創下的英雄傳奇，就此揭開序幕。\n\n※タイトルを変更しました。内容に変更はありません。\n※この度、拙作が書籍化される事となりました。\n　偏に、この作品を読んでくださる皆様の御蔭でございます。\n　これからも拙作をよろしくお願いいたします\n\n――みんな、俺の事を誤解してるんだ。\n\n三年前、世界を壊そうとする魔神を討伐させるために、異世界から十三人の英雄が召喚された。\n年齢も性別も様々な十三人。\n与えられたのは異世界の住人にはないチートスキル。\nある者は最高の魔力を、ある者は人外の膂力を、ある者は―――。\nそして、その十三人は魔神を見事討伐し、世界の英雄となりました。\nこの世界で生きていく事を決めた十三人。\nその英雄の中で、魔神討伐後行方を眩ませた男が一人。\n誰もが言う。\n彼こそが英雄の中心なのだと。\n彼こそが魔神を討った最強なのだと。\n彼こそが女神の寵愛を受ける唯一人なのだと。\n\n※今作品の通貨設定は銀貨＞金貨＞銅貨となっております",
+          "tags": [
+            "R15",
+            "dmzj",
+            "node-novel",
+            "syosetu",
+            "しゃべる武器",
+            "チート",
+            "ハイファンタジー",
+            "ハイファンタジー〔ファンタジー〕",
+            "ファンタジー",
+            "冒险",
+            "冒険",
+            "剣と魔法",
+            "勇者",
+            "勘違い",
+            "完結済",
+            "异界",
+            "日本",
+            "残酷な描写あり",
+            "異世界召喚",
+            "異世界転移",
+            "穿越",
+            "英雄",
+            "通貨設定",
+            "魔法"
+          ],
+          "title_jp_old": "彼は英雄ではないと言い張るようです"
+        },
+        "contribute": [
+          "lori",
+          "tim6511",
+          "tyes6417",
+          "yao07181010",
+          "不息不止",
+          "友永ジュン",
+          "名纸owo",
+          "小聪来也",
+          "布丁狂巫妖",
+          "放浪的神殺",
+          "澪の妖妖梦",
+          "砂～我爱罗",
+          "紫浪来袭",
+          "阿鲁法",
+          "雪花录入组"
+        ],
+        "options": {
+          "dmzj": {
+            "novel_id": "2051"
+          },
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 1,
+            "startIndex": 1
+          },
+          "syosetu": {
+            "txtdownload_id": "",
+            "series_id": "",
+            "novel_id": "n2027ci"
+          },
+          "textlayout": {
+            "allow_lf2": false
+          }
+        },
+        "link": [
+          "[narou.nar.jp](https://narou.nar.jp/search.php?text=n2027ci&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
+          "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n2027ci/)",
+          "[弑神的英雄与七个誓约吧](https://tieba.baidu.com/f?kw=%E5%BC%91%E7%A5%9E%E7%9A%84%E8%8B%B1%E9%9B%84%E4%B8%8E%E4%B8%83%E4%B8%AA%E8%AA%93%E7%BA%A6&ie=utf-8&tp=0 \"弑神的英雄与七个誓约\")"
+        ]
+      },
       "食銹末世錄": {
         "novel": {
           "title": "錆喰いビスコ",
@@ -14244,6 +14489,7 @@
         },
         "contribute": [
           "6757",
+          "Sixpoi",
           "虚雪之葎"
         ],
         "options": {
@@ -17849,7 +18095,7 @@
         },
         "contribute": [
           "BOSSJK录",
-          "Hako <gitlab@chaoshakooshi>",
+          "Hako gitlab@chaoshakooshi",
           "LSJ综合症",
           "你不认识我",
           "倾听の翅膀",
