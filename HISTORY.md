@@ -1,5 +1,21 @@
 # HISTORY
 
+## 2019-07-06
+
+### Epub
+
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( v: 1 , c: 157, add: 1 )
+- [葉隠桜は嘆かない](ts/%E8%91%89%E9%9A%A0%E6%A1%9C%E3%81%AF%E5%98%86%E3%81%8B%E3%81%AA%E3%81%84) - ts
+  <br/>( v: 2 , c: 38, add: 0 )
+
+### Segment
+
+- [Genocide Online ～極惡千金的玩遊戲日記～](girl/Genocide%20Online%20%EF%BD%9E%E6%A5%B5%E6%83%A1%E5%8D%83%E9%87%91%E7%9A%84%E7%8E%A9%E9%81%8A%E6%88%B2%E6%97%A5%E8%A8%98%EF%BD%9E) - girl
+  <br/>( s: 1 )
+- [葉隠桜は嘆かない](ts/%E8%91%89%E9%9A%A0%E6%A1%9C%E3%81%AF%E5%98%86%E3%81%8B%E3%81%AA%E3%81%84) - ts
+  <br/>( s: 2 )
+
 ## 2019-07-05
 
 ### Epub

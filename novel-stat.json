@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1562256000000,
-    "timestamp": 1562285223689,
+    "todayTimestamp": 1562342400000,
+    "timestamp": 1562369455333,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -898,6 +898,92 @@
             "init_date": 1549036800000,
             "update_date": 1562256000000,
             "update_count": 14
+          }
+        ]
+      ]
+    },
+    "1562342400000": {
+      "segment_count": 2,
+      "segment": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1562369402303,
+            "segment_old": 4,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1562369442902,
+            "volume_old": 1,
+            "chapter_old": 156,
+            "volume": 1,
+            "chapter": 157,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1562342400000,
+            "update_count": 31,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "ts",
+          "葉隠桜は嘆かない",
+          {
+            "init_date": 1556812800000,
+            "txt_basename": "葉隱櫻不悲嘆.out.txt",
+            "epub_date": 1562369444270,
+            "volume_old": 2,
+            "chapter_old": 38,
+            "volume": 2,
+            "chapter": 38,
+            "epub_basename": "葉隱櫻不悲嘆.epub",
+            "update_date": 1562342400000,
+            "update_count": 6,
+            "segment_date": 1562369417748,
+            "segment_old": 7,
+            "segment": 2
+          }
+        ]
+      ],
+      "epub_count": 2,
+      "epub": [
+        [
+          "girl",
+          "Genocide Online ～極惡千金的玩遊戲日記～",
+          {
+            "segment_date": 1562369402303,
+            "segment_old": 4,
+            "segment": 1,
+            "init_date": 1549641600000,
+            "epub_date": 1562369442902,
+            "volume_old": 1,
+            "chapter_old": 156,
+            "volume": 1,
+            "chapter": 157,
+            "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
+            "novel_status": 256,
+            "update_date": 1562342400000,
+            "update_count": 31,
+            "txt_basename": "Genocide Online ～極惡千.out.txt"
+          }
+        ],
+        [
+          "ts",
+          "葉隠桜は嘆かない",
+          {
+            "init_date": 1556812800000,
+            "txt_basename": "葉隱櫻不悲嘆.out.txt",
+            "epub_date": 1562369444270,
+            "volume_old": 2,
+            "chapter_old": 38,
+            "volume": 2,
+            "chapter": 38,
+            "epub_basename": "葉隱櫻不悲嘆.epub",
+            "update_date": 1562342400000,
+            "update_count": 6,
+            "segment_date": 1562369417748,
+            "segment_old": 7,
+            "segment": 2
           }
         ]
       ]
@@ -4421,19 +4507,19 @@
     },
     "girl": {
       "Genocide Online ～極惡千金的玩遊戲日記～": {
-        "segment_date": 1562196515714,
-        "segment_old": 1,
-        "segment": 4,
+        "segment_date": 1562369402303,
+        "segment_old": 4,
+        "segment": 1,
         "init_date": 1549641600000,
-        "epub_date": 1562285205229,
+        "epub_date": 1562369442902,
         "volume_old": 1,
-        "chapter_old": 155,
+        "chapter_old": 156,
         "volume": 1,
-        "chapter": 156,
+        "chapter": 157,
         "epub_basename": "Genocide Online ～極惡千金的玩遊戲日記～.epub",
         "novel_status": 256,
-        "update_date": 1562256000000,
-        "update_count": 30,
+        "update_date": 1562342400000,
+        "update_count": 31,
         "txt_basename": "Genocide Online ～極惡千.out.txt"
       },
       "「「神と呼ばれ、魔王と呼ばれても」」": {
@@ -4942,17 +5028,17 @@
       "葉隠桜は嘆かない": {
         "init_date": 1556812800000,
         "txt_basename": "葉隱櫻不悲嘆.out.txt",
-        "epub_date": 1562285206278,
+        "epub_date": 1562369444270,
         "volume_old": 2,
-        "chapter_old": 35,
+        "chapter_old": 38,
         "volume": 2,
         "chapter": 38,
         "epub_basename": "葉隱櫻不悲嘆.epub",
-        "update_date": 1562256000000,
-        "update_count": 5,
-        "segment_date": 1562285147035,
-        "segment_old": 5,
-        "segment": 7
+        "update_date": 1562342400000,
+        "update_count": 6,
+        "segment_date": 1562369417748,
+        "segment_old": 7,
+        "segment": 2
       },
       "ゲームキャラで異世界転生して、大草原ではじめるスローライフ": {
         "init_date": 1556899200000,
