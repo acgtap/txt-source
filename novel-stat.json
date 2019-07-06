@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1562342400000,
-    "timestamp": 1562369455333,
+    "todayTimestamp": 1562428800000,
+    "timestamp": 1562455810121,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -983,6 +983,52 @@
             "update_count": 6,
             "segment_date": 1562369417748,
             "segment_old": 7,
+            "segment": 2
+          }
+        ]
+      ]
+    },
+    "1562428800000": {
+      "segment_count": 1,
+      "segment": [
+        [
+          "ts",
+          "葉隠桜は嘆かない",
+          {
+            "init_date": 1556812800000,
+            "txt_basename": "葉隱櫻不悲嘆.out.txt",
+            "epub_date": 1562455799436,
+            "volume_old": 2,
+            "chapter_old": 38,
+            "volume": 2,
+            "chapter": 40,
+            "epub_basename": "葉隱櫻不悲嘆.epub",
+            "update_date": 1562428800000,
+            "update_count": 7,
+            "segment_date": 1562455779731,
+            "segment_old": 2,
+            "segment": 2
+          }
+        ]
+      ],
+      "epub_count": 1,
+      "epub": [
+        [
+          "ts",
+          "葉隠桜は嘆かない",
+          {
+            "init_date": 1556812800000,
+            "txt_basename": "葉隱櫻不悲嘆.out.txt",
+            "epub_date": 1562455799436,
+            "volume_old": 2,
+            "chapter_old": 38,
+            "volume": 2,
+            "chapter": 40,
+            "epub_basename": "葉隱櫻不悲嘆.epub",
+            "update_date": 1562428800000,
+            "update_count": 7,
+            "segment_date": 1562455779731,
+            "segment_old": 2,
             "segment": 2
           }
         ]
@@ -5028,16 +5074,16 @@
       "葉隠桜は嘆かない": {
         "init_date": 1556812800000,
         "txt_basename": "葉隱櫻不悲嘆.out.txt",
-        "epub_date": 1562369444270,
+        "epub_date": 1562455799436,
         "volume_old": 2,
         "chapter_old": 38,
         "volume": 2,
-        "chapter": 38,
+        "chapter": 40,
         "epub_basename": "葉隱櫻不悲嘆.epub",
-        "update_date": 1562342400000,
-        "update_count": 6,
-        "segment_date": 1562369417748,
-        "segment_old": 7,
+        "update_date": 1562428800000,
+        "update_count": 7,
+        "segment_date": 1562455779731,
+        "segment_old": 2,
         "segment": 2
       },
       "ゲームキャラで異世界転生して、大草原ではじめるスローライフ": {
