@@ -1,7 +1,7 @@
 {
   "meta": {
-    "todayTimestamp": 1562428800000,
-    "timestamp": 1562455810121,
+    "todayTimestamp": 1562515200000,
+    "timestamp": 1562542285015,
     "sourceUrl": "https://gitlab.com/novel-group/txt-source/blob/master",
     "outputUrl": "https://gitlab.com/demonovel/epub-txt/blob/master"
   },
@@ -1030,6 +1030,92 @@
             "segment_date": 1562455779731,
             "segment_old": 2,
             "segment": 2
+          }
+        ]
+      ]
+    },
+    "1562515200000": {
+      "segment_count": 2,
+      "segment": [
+        [
+          "girl",
+          "裏世界郊游",
+          {
+            "segment_date": 1562542234266,
+            "segment_old": 0,
+            "segment": 8,
+            "init_date": 1562542234266,
+            "txt_basename": "裏世界郊游.out.txt",
+            "epub_date": 1562542272426,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 2,
+            "chapter": 9,
+            "epub_basename": "裏世界郊游.epub",
+            "novel_status": 768,
+            "update_date": 1562515200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "ts",
+          "葉隠桜は嘆かない",
+          {
+            "init_date": 1556812800000,
+            "txt_basename": "葉隱櫻不悲嘆.out.txt",
+            "epub_date": 1562542274489,
+            "volume_old": 2,
+            "chapter_old": 40,
+            "volume": 2,
+            "chapter": 44,
+            "epub_basename": "葉隱櫻不悲嘆.epub",
+            "update_date": 1562515200000,
+            "update_count": 8,
+            "segment_date": 1562542251188,
+            "segment_old": 2,
+            "segment": 4
+          }
+        ]
+      ],
+      "epub_count": 2,
+      "epub": [
+        [
+          "girl",
+          "裏世界郊游",
+          {
+            "segment_date": 1562542234266,
+            "segment_old": 0,
+            "segment": 8,
+            "init_date": 1562542234266,
+            "txt_basename": "裏世界郊游.out.txt",
+            "epub_date": 1562542272426,
+            "volume_old": 0,
+            "chapter_old": 0,
+            "volume": 2,
+            "chapter": 9,
+            "epub_basename": "裏世界郊游.epub",
+            "novel_status": 768,
+            "update_date": 1562515200000,
+            "update_count": 1
+          }
+        ],
+        [
+          "ts",
+          "葉隠桜は嘆かない",
+          {
+            "init_date": 1556812800000,
+            "txt_basename": "葉隱櫻不悲嘆.out.txt",
+            "epub_date": 1562542274489,
+            "volume_old": 2,
+            "chapter_old": 40,
+            "volume": 2,
+            "chapter": 44,
+            "epub_basename": "葉隱櫻不悲嘆.epub",
+            "update_date": 1562515200000,
+            "update_count": 8,
+            "segment_date": 1562542251188,
+            "segment_old": 2,
+            "segment": 4
           }
         ]
       ]
@@ -4928,6 +5014,22 @@
         "epub_basename": "幻想怪獸.epub",
         "update_date": 1562083200000,
         "update_count": 1
+      },
+      "裏世界郊游": {
+        "segment_date": 1562542234266,
+        "segment_old": 0,
+        "segment": 8,
+        "init_date": 1562542234266,
+        "txt_basename": "裏世界郊游.out.txt",
+        "epub_date": 1562542272426,
+        "volume_old": 0,
+        "chapter_old": 0,
+        "volume": 2,
+        "chapter": 9,
+        "epub_basename": "裏世界郊游.epub",
+        "novel_status": 768,
+        "update_date": 1562515200000,
+        "update_count": 1
       }
     },
     "modern": {
@@ -5074,17 +5176,17 @@
       "葉隠桜は嘆かない": {
         "init_date": 1556812800000,
         "txt_basename": "葉隱櫻不悲嘆.out.txt",
-        "epub_date": 1562455799436,
+        "epub_date": 1562542274489,
         "volume_old": 2,
-        "chapter_old": 38,
+        "chapter_old": 40,
         "volume": 2,
-        "chapter": 40,
+        "chapter": 44,
         "epub_basename": "葉隱櫻不悲嘆.epub",
-        "update_date": 1562428800000,
-        "update_count": 7,
-        "segment_date": 1562455779731,
+        "update_date": 1562515200000,
+        "update_count": 8,
+        "segment_date": 1562542251188,
         "segment_old": 2,
-        "segment": 2
+        "segment": 4
       },
       "ゲームキャラで異世界転生して、大草原ではじめるスローライフ": {
         "init_date": 1556899200000,
@@ -7986,6 +8088,58 @@
           "[narou.nar.jp](https://narou.nar.jp/search.php?text=n5694fk&novel=all&genre=all&new_genre=all&length=0&down=0&up=100) - 小説家になろう　更新情報検索",
           "[小説情報](https://ncode.syosetu.com/novelview/infotop/ncode/n5694fk/)",
           "https://www.lightnovel.us/thread-974848-1-1.html"
+        ]
+      },
+      "裏世界郊游": {
+        "novel": {
+          "title": "裏世界ピクニック",
+          "title_zh": "裏世界郊游",
+          "title_jp": "裏世界ピクニック──ふたりの怪異探検ファイル",
+          "author": "宮澤 伊織",
+          "illust": "shirakaba",
+          "source": "http://q.dmzj.com/2568/index.shtml",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/81Kh6bEs7ML.jpg",
+          "publisher": "",
+          "publishers": [
+            "dmzj"
+          ],
+          "date": "2019-07-05T19:48:40+08:00",
+          "status": "连载中",
+          "novel_status": 768,
+          "series": {
+            "name": "裏世界ピクニック"
+          },
+          "preface": "與仁科鳥子（にしな とりこ）的邂逅是在“里側”看到了“那個東西”、命懸一線的時候——從這一天開始，跨過了境界的女大學生紙越空魚（かみこし そらを）的人生整個改變了。里世界是與我們的現實相鄰，傳聞中真實存在的怪談“彎彎曲曲”、“八尺大人”之類的的危險存在也會在當中出沒的滿是謎團的世界。為了研究和賺錢，以及為了搜索重要的人，鳥子和空魚抬腳踏進了非日常的世界——這就是新銳娛樂科幻作家給你們帶來的，兩個女孩子的怪異探險生存劇！",
+          "tags": [
+            "dmzj",
+            "node-novel",
+            "冒险",
+            "日本",
+            "科幻",
+            "轻之国度"
+          ]
+        },
+        "contribute": [
+          "甚至可能是真的人",
+          "艾思哲",
+          "高等黑暗"
+        ],
+        "options": {
+          "dmzj": {
+            "novel_id": "2568"
+          },
+          "downloadOptions": {
+            "noFilePadend": true,
+            "filePrefixMode": 4,
+            "startIndex": 1
+          },
+          "textlayout": {
+            "allow_lf2": false
+          }
+        },
+        "link": [
+          "[里世界郊游吧](https://tieba.baidu.com/f?kw=%E9%87%8C%E4%B8%96%E7%95%8C%E9%83%8A%E6%B8%B8&ie=utf-8)",
+          "https://www.dm5.com/manhua-lishijiejiaoyou/"
         ]
       },
       "魔王の娘の百合戦記": {
